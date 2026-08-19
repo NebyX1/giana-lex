@@ -1,0 +1,25 @@
+Giana Lex - Backend
+
+Desde la raiz del proyecto, abre PowerShell y ejecuta:
+
+    cd backend
+    py -3.11 -m venv .venv
+    .\.venv\Scripts\Activate.ps1
+    python -m pip install --upgrade pip
+    python -m pip install -r requirements.txt
+    python app.py
+
+El backend quedara disponible en:
+    http://127.0.0.1:5000
+
+Comprobacion de salud:
+    http://127.0.0.1:5000/api/health
+
+Configuracion del agente:
+El backend carga automaticamente backend/.env. Para usar el agente configurado,
+asegura que existan OLLAMA_BASE_URL y OLLAMA_MODEL, o sus equivalentes
+LLM_BASE_URL, LLM_API_KEY y LLM_MODEL.
+
+Si PowerShell bloquea la activacion del entorno virtual, ejecuta una vez:
+
+    Set-ExecutionPolicy -Scope CurrentUser RemoteSigned

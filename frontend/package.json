@@ -1,0 +1,19 @@
+{
+  "name": "giana-lex-mvp",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@fluentui/react-components": "9.70.0",
+    "@fluentui/react-icons": "2.0.311",
+    "@vitejs/plugin-react": "5.0.2",
+    "vite": "7.3.6",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {}
+}
