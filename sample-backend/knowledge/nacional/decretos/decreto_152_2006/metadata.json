@@ -1,0 +1,23 @@
+{
+  "id": "decreto:152:2006",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "152",
+  "anio": "2006",
+  "title": "REGLAMENTACION A LA LEY CONTRA EL RACISMO LA XENOFOBIA Y TODA OTRA FORMA DE DISCRIMINACION",
+  "nombre": "REGLAMENTACION A LA LEY CONTRA EL RACISMO LA XENOFOBIA Y TODA OTRA FORMA DE DISCRIMINACION",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/152-2006",
+  "json_url": "https://www.impo.com.uy/bases/decretos/152-2006?json=true",
+  "local_source_path": "decretos/decreto_152_2006/source.impo.json",
+  "local_normalized_path": "decretos/decreto_152_2006/normalized.json",
+  "local_text_path": "decretos/decreto_152_2006/normalized.txt",
+  "active": true,
+  "checksum": "960b64784354ebc838e1f8edab16b729b51a94fae62133ed07f6cf514ba93992",
+  "downloaded_at": "2026-08-14T13:39:24.333161+00:00",
+  "last_synced_at": "2026-08-14T13:39:24.333190+00:00",
+  "index_status": "downloaded",
+  "article_count": 8,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

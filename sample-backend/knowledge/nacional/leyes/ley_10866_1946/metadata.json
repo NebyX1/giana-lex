@@ -1,0 +1,23 @@
+{
+  "id": "ley:10866:1946",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "10866",
+  "anio": "1946",
+  "title": "LEY DE CENTROS POBLADOS. MODIFICACION",
+  "nombre": "LEY DE CENTROS POBLADOS. MODIFICACION",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/10866-1946",
+  "json_url": "https://www.impo.com.uy/bases/leyes/10866-1946?json=true",
+  "local_source_path": "leyes/ley_10866_1946/source.impo.json",
+  "local_normalized_path": "leyes/ley_10866_1946/normalized.json",
+  "local_text_path": "leyes/ley_10866_1946/normalized.txt",
+  "active": true,
+  "checksum": "5e47055795d0622227e8111f027007bd7faefae62f67412ca1dccd97b3557804",
+  "downloaded_at": "2026-08-14T13:40:49.436949+00:00",
+  "last_synced_at": "2026-08-14T13:40:49.436972+00:00",
+  "index_status": "downloaded",
+  "article_count": 3,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ley:18860:2011",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "18860",
+  "anio": "2011",
+  "title": "CREACION DEL SISTEMA UNICO DE COBRO DE INGRESOS VEHICULARES (SUCIVE) Y ESTABLECENSE SUBSIDIOS PARA LA EXTENSION Y FOMENTO DE LA EFICIENCIA ENERGETICA DE LOS SISTEMAS DE ALUMBRADO PUBLICO DEPARTAMENTALES",
+  "nombre": "CREACION DEL SISTEMA UNICO DE COBRO DE INGRESOS VEHICULARES (SUCIVE) Y ESTABLECENSE SUBSIDIOS PARA LA EXTENSION Y FOMENTO DE LA EFICIENCIA ENERGETICA DE LOS SISTEMAS DE ALUMBRADO PUBLICO DEPARTAMENTALES",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/18860-2011",
+  "json_url": "https://www.impo.com.uy/bases/leyes/18860-2011?json=true",
+  "local_source_path": "leyes/ley_18860_2011/source.impo.json",
+  "local_normalized_path": "leyes/ley_18860_2011/normalized.json",
+  "local_text_path": "leyes/ley_18860_2011/normalized.txt",
+  "active": true,
+  "checksum": "ce45e2482f75173f400a9510d159a152155d59d013547fa36d5d20fa4b040cce",
+  "downloaded_at": "2026-08-14T13:43:10.465070+00:00",
+  "last_synced_at": "2026-08-14T13:43:10.465091+00:00",
+  "index_status": "downloaded",
+  "article_count": 16,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

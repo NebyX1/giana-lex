@@ -1,0 +1,23 @@
+{
+  "id": "decreto:256:2017",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "256",
+  "anio": "2017",
+  "title": "REGLAMENTACION DE LA LEY 18.561. LEY DE ACOSO SEXUAL. PREVENCION Y SANCION EN EL AMBITO LABORAL Y EN LAS RELACIONES DOCENTE ALUMNO",
+  "nombre": "REGLAMENTACION DE LA LEY 18.561. LEY DE ACOSO SEXUAL. PREVENCION Y SANCION EN EL AMBITO LABORAL Y EN LAS RELACIONES DOCENTE ALUMNO",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/256-2017",
+  "json_url": "https://www.impo.com.uy/bases/decretos/256-2017?json=true",
+  "local_source_path": "decretos/decreto_256_2017/source.impo.json",
+  "local_normalized_path": "decretos/decreto_256_2017/normalized.json",
+  "local_text_path": "decretos/decreto_256_2017/normalized.txt",
+  "active": true,
+  "checksum": "2ed1feb6604db0334de969c2a7e4633b2b6da11acaf249cf43b725d37d8d45ea",
+  "downloaded_at": "2026-08-14T13:39:42.471375+00:00",
+  "last_synced_at": "2026-08-14T13:39:42.471402+00:00",
+  "index_status": "downloaded",
+  "article_count": 28,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

@@ -7,13 +7,17 @@ export default function DraftPanel({ draft, approved, onRevise, onApprove, busy 
   const [instructions, setInstructions] = useState('')
 
   const submitRevision = async () => {
-    await onRevise(instructions)
-    setInstructions('')
-    setEditing(false)
+    try {
+      await onRevise(instructions)
+      setInstructions('')
+      setEditing(false)
+    } catch {
+      // The parent keeps the global error visible and the instructions intact.
+    }
   }
 
   return (
-    <aside className="draft-panel">
+    <div className="draft-panel">
       <div className="draft-heading">
         <span className="eyebrow">BORRADOR</span>
         <span className={`status ${approved ? 'approved' : ''}`}>{approved ? 'APROBADO' : 'EN REVISION'}</span>
@@ -44,6 +48,6 @@ export default function DraftPanel({ draft, approved, onRevise, onApprove, busy 
           )}
         </div>
       )}
-    </aside>
+    </div>
   )
 }

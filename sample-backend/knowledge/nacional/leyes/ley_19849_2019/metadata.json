@@ -1,0 +1,23 @@
+{
+  "id": "ley:19849:2019",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "19849",
+  "anio": "2019",
+  "title": "APROBACION DEL CONVENIO INTERNACIONAL DEL TRABAJO Nº 190, SOBRE LA VIOLENCIA Y EL ACOSO EN EL MUNDO DEL TRABAJO",
+  "nombre": "APROBACION DEL CONVENIO INTERNACIONAL DEL TRABAJO Nº 190, SOBRE LA VIOLENCIA Y EL ACOSO EN EL MUNDO DEL TRABAJO",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/19849-2019",
+  "json_url": "https://www.impo.com.uy/bases/leyes/19849-2019?json=true",
+  "local_source_path": "leyes/ley_19849_2019/source.impo.json",
+  "local_normalized_path": "leyes/ley_19849_2019/normalized.json",
+  "local_text_path": "leyes/ley_19849_2019/normalized.txt",
+  "active": true,
+  "checksum": "b41603b5b8f718cb3713687da5a7ea450894e29bccec50628ad0b8cafcd2a5e0",
+  "downloaded_at": "2026-08-14T13:40:09.161318+00:00",
+  "last_synced_at": "2026-08-14T13:40:09.161341+00:00",
+  "index_status": "downloaded",
+  "article_count": 1,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

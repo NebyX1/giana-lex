@@ -1,0 +1,27 @@
+{
+  "norm_id": "decreto:3647:2020",
+  "norm_type": "decreto",
+  "number": "3647",
+  "year": "2020",
+  "title": "decreto 3647",
+  "directory": "decretos",
+  "family": "general",
+  "article_count": 2,
+  "articles": [
+    {
+      "number": "1",
+      "bis": "",
+      "title": "",
+      "text": "2019, referido a Directrices Departamentales de Ordenamiento Territorial y Desarrollo Sostenible\nDepartamento de Lavalleja.",
+      "label": "Artículo 1"
+    },
+    {
+      "number": "2",
+      "bis": "",
+      "title": "",
+      "text": "",
+      "label": "Artículo 2"
+    }
+  ],
+  "relations": []
+}

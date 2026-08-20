@@ -1,0 +1,23 @@
+{
+  "id": "ley:18099:2007",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "18099",
+  "anio": "2007",
+  "title": "ACTIVIDAD PRIVADA. SEGURIDAD SOCIAL. SEGUROS POR ACCIDENTES DE TRABAJO Y RESPONSABILIDAD SOLIDARIA.",
+  "nombre": "ACTIVIDAD PRIVADA. SEGURIDAD SOCIAL. SEGUROS POR ACCIDENTES DE TRABAJO Y RESPONSABILIDAD SOLIDARIA.",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/18099-2007",
+  "json_url": "https://www.impo.com.uy/bases/leyes/18099-2007?json=true",
+  "local_source_path": "leyes/ley_18099_2007/source.impo.json",
+  "local_normalized_path": "leyes/ley_18099_2007/normalized.json",
+  "local_text_path": "leyes/ley_18099_2007/normalized.txt",
+  "active": true,
+  "checksum": "dcd1a9746786c6e70dd8584341f2fa283cac0278508ac29c99659425eae068d7",
+  "downloaded_at": "2026-08-14T13:37:04.347639+00:00",
+  "last_synced_at": "2026-08-14T13:37:04.347686+00:00",
+  "index_status": "downloaded",
+  "article_count": 7,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

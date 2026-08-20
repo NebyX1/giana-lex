@@ -1,0 +1,23 @@
+{
+  "id": "ley:11925:1953",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "11925",
+  "anio": "1953",
+  "title": "CONTADURIA GENERAL DE LA NACION. NORMAS DE ORDENAMIENTO FINANCIERO. AMPLIACION",
+  "nombre": "CONTADURIA GENERAL DE LA NACION. NORMAS DE ORDENAMIENTO FINANCIERO. AMPLIACION",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/11925-1953",
+  "json_url": "https://www.impo.com.uy/bases/leyes/11925-1953?json=true",
+  "local_source_path": "leyes/ley_11925_1953/source.impo.json",
+  "local_normalized_path": "leyes/ley_11925_1953/normalized.json",
+  "local_text_path": "leyes/ley_11925_1953/normalized.txt",
+  "active": true,
+  "checksum": "e6b4fb8b8a2d6baaa402882ace6a7714676732b908ec12ed3c7953918f9d0c51",
+  "downloaded_at": "2026-08-14T13:37:29.479990+00:00",
+  "last_synced_at": "2026-08-14T13:37:29.480015+00:00",
+  "index_status": "downloaded",
+  "article_count": 82,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

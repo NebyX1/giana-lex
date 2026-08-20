@@ -1,0 +1,23 @@
+{
+  "id": "decreto:150:2012",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "150",
+  "anio": "2012",
+  "title": "APROBACION DEL TEXTO ORDENADO DE LA CONTABILIDAD Y ADMINISTRACION \r\nFINANCIERA DEL ESTADO (TOCAF). SUSTITUCION DEL TEXTO ORDENADO DE CONTABILIDAD Y ADMINISTRACION FINANCIERA Y NORMAS CONCORDANTES Y COMPLEMENTARIAS (TOCAF 1996).",
+  "nombre": "APROBACION DEL TEXTO ORDENADO DE LA CONTABILIDAD Y ADMINISTRACION \r\nFINANCIERA DEL ESTADO (TOCAF). SUSTITUCION DEL TEXTO ORDENADO DE CONTABILIDAD Y ADMINISTRACION FINANCIERA Y NORMAS CONCORDANTES Y COMPLEMENTARIAS (TOCAF 1996).",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/150-2012",
+  "json_url": "https://www.impo.com.uy/bases/decretos/150-2012?json=true",
+  "local_source_path": "decretos/decreto_150_2012/source.impo.json",
+  "local_normalized_path": "decretos/decreto_150_2012/normalized.json",
+  "local_text_path": "decretos/decreto_150_2012/normalized.txt",
+  "active": true,
+  "checksum": "d8ea725bd2b59048d6cd38a868fa4f8b36aeb44f8102882e2fa8dab4f0e939c1",
+  "downloaded_at": "2026-08-14T13:29:13.789744+00:00",
+  "last_synced_at": "2026-08-14T13:29:13.789766+00:00",
+  "index_status": "downloaded",
+  "article_count": 5,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

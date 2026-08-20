@@ -1,0 +1,23 @@
+{
+  "id": "ley:19996:2021",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "19996",
+  "anio": "2021",
+  "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2020",
+  "nombre": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2020",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/19996-2021",
+  "json_url": "https://www.impo.com.uy/bases/leyes/19996-2021?json=true",
+  "local_source_path": "leyes/ley_19996_2021/source.impo.json",
+  "local_normalized_path": "leyes/ley_19996_2021/normalized.json",
+  "local_text_path": "leyes/ley_19996_2021/normalized.txt",
+  "active": true,
+  "checksum": "0a9ee362f7631713f277546a28e3aa91180fcdecc73930e2d32e588c81e1b4bd",
+  "downloaded_at": "2026-08-14T13:36:28.928134+00:00",
+  "last_synced_at": "2026-08-14T13:36:28.928153+00:00",
+  "index_status": "downloaded",
+  "article_count": 365,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

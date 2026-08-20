@@ -1,0 +1,23 @@
+{
+  "id": "decreto:291:2007",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "291",
+  "anio": "2007",
+  "title": "REGLAMENTACION DEL CONVENIO INTERNACIONAL DEL TRABAJO N° 155 SOBRE PREVENCION Y PROTECCION CONTRA RIESGOS DERIVADOS DE CUALQUIER ACTIVIDAD",
+  "nombre": "REGLAMENTACION DEL CONVENIO INTERNACIONAL DEL TRABAJO N° 155 SOBRE PREVENCION Y PROTECCION CONTRA RIESGOS DERIVADOS DE CUALQUIER ACTIVIDAD",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/291-2007",
+  "json_url": "https://www.impo.com.uy/bases/decretos/291-2007?json=true",
+  "local_source_path": "decretos/decreto_291_2007/source.impo.json",
+  "local_normalized_path": "decretos/decreto_291_2007/normalized.json",
+  "local_text_path": "decretos/decreto_291_2007/normalized.txt",
+  "active": true,
+  "checksum": "52b240f95397b3fc2f173c0dc72ec5d1a2a5a6fcab03f9af31b0ae10539e2142",
+  "downloaded_at": "2026-08-14T13:39:12.772952+00:00",
+  "last_synced_at": "2026-08-14T13:39:12.772975+00:00",
+  "index_status": "downloaded",
+  "article_count": 1,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

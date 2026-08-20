@@ -1,0 +1,23 @@
+{
+  "id": "ley:13493:1966",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "13493",
+  "anio": "1966",
+  "title": "PLAN DE VIVIENDAS. URBANIZACION Y SANEAMIENTO",
+  "nombre": "PLAN DE VIVIENDAS. URBANIZACION Y SANEAMIENTO",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/13493-1966",
+  "json_url": "https://www.impo.com.uy/bases/leyes/13493-1966?json=true",
+  "local_source_path": "leyes/ley_13493_1966/source.impo.json",
+  "local_normalized_path": "leyes/ley_13493_1966/normalized.json",
+  "local_text_path": "leyes/ley_13493_1966/normalized.txt",
+  "active": true,
+  "checksum": "f0f2f7f12cee810c2ee9f05a1dea8975c9fedbac084c656d6116e5b6a31debdd",
+  "downloaded_at": "2026-08-14T13:40:51.483936+00:00",
+  "last_synced_at": "2026-08-14T13:40:51.483958+00:00",
+  "index_status": "downloaded",
+  "article_count": 12,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

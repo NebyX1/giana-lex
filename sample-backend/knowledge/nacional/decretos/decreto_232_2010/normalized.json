@@ -1,0 +1,641 @@
+{
+  "tipo": "Decreto",
+  "numero": "232",
+  "anio": "2010",
+  "nombre": "REGLAMENTACION DE LA LEY SOBRE EL DERECHO DE ACCESO A LA INFORMACION PUBLICA",
+  "leyenda": "Documento Actualizado",
+  "fechaPromulgacion": "02/08/2010",
+  "fechaPublicacion": "10/08/2010",
+  "vistos": "VISTO: Que con fecha 17 de octubre de 2008, se promulgó la Ley N° 18.381\nde Derecho de Acceso a la Información Pública, en concordancia con el\nartículo 72 de la Constitución de la República, en tanto el acceso a la\ninformación pública, hace a la construcción de la forma republicana de\ngobierno.\n\nRESULTANDO: Que en la norma citada a través de los artículos 19 y\nsiguientes, se creó un Organo de Control - Unidad de Acceso a la\nInformación Pública -, encargado fundamentalmente de promover el ejercicio\ndel derecho de acceso a la información y coordinar la implementación de\npolíticas en la materia.\n\nCONSIDERANDO: I) Que razones de legalidad y conveniencia imponen estatuir\naquellos aspectos fundamentales de la reglamentación que organicen y\nfavorezcan su efectiva puesta en práctica;\n\nII) Que a los efectos de armonizar el derecho de las personas a acceder a\nla información que se encuentra en poder del Estado, se hace necesario\nemitir un marco jurídico regulatorio que garantice el ejercicio de esos\nderechos y establezca en forma clara las excepciones - información\nreservada, confidencial y secreta -;\n\nIII) que el derecho de acceso a la información pública es una de las\nfuentes de desarrollo y fortalecimiento de la democracia en tanto permite\na los ciudadanos una evaluación y juzgamiento completos de los actos de\nsus representantes así como un estímulo a la transparencia de los actos\ndel gobierno;\n\nIV) que es necesario hacer efectivo el principio de publicidad de los\nactos, contratos y gestiones de las instituciones del Estado, y aquéllas\nfinanciadas con recursos públicos o que por su naturaleza sean de interés\npúblico, garantizando a su vez la posibilidad de las personas de acceder a\nesta información;\n\nV) que el artículo 35 de la citada Ley establece un plazo de ciento veinte\ndías para que el Poder Ejecutivo dicte su reglamentación.\n\nATENTO: a lo precedentemente expuesto,\n\nEL PRESIDENTE DE LA REPUBLICA\nACTUANDO EN CONSEJO DE MINISTROS\n\nDECRETA:",
+  "referenciasNorma": "Reglamentario/a de: Ley Nº 18.381 de 17/10/2008.",
+  "indexacionNorma": "",
+  "articulos": [
+    {
+      "nroArticulo": "1",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 1",
+      "textoArticulo": "Objeto.- El presente Decreto regula la aplicación de las normas y la\nejecución de los procedimientos establecidos por la Ley N° 18.381, de 17\nde octubre de 2008, de Derecho de Acceso a la Información Pública.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/1"
+    },
+    {
+      "nroArticulo": "2",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 2",
+      "textoArticulo": "Ambito de aplicación.- El presente Decreto será de aplicación a todos los\norganismos públicos, sean o no estatales.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/2"
+    },
+    {
+      "nroArticulo": "3",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 3",
+      "textoArticulo": "Ambito subjetivo.- El acceso a la información pública es un derecho de\ntodas las personas físicas o jurídicas conforme a las normas\nconstitucionales y legales vigentes, el que se regirá por los principios\nconsagrados en el Capítulo II.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/3"
+    },
+    {
+      "nroArticulo": "4",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 4",
+      "textoArticulo": "Principio de libertad de información.- Toda persona tiene derecho de\nacceder a la información que obre en posesión de los sujetos obligados con\nla única excepción de aquella clasificada como información reservada,\nconfidencial y secreta de acuerdo a lo establecido en las leyes especiales\na tales efectos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/4"
+    },
+    {
+      "nroArticulo": "5",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 5",
+      "textoArticulo": "Principio de transparencia.- Toda la información en poder de los sujetos\nobligados se entiende pública siempre que no esté sujeta a las excepciones\nestablecidas en los artículos 8°, 9° y 10 de la Ley que se reglamenta.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/5"
+    },
+    {
+      "nroArticulo": "6",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 6",
+      "textoArticulo": "Principio de máxima publicidad.- Los sujetos obligados deben proporcionar\nla información de la forma más amplia posible estando excluida sólo\naquella sujeta a las excepciones señaladas en los artículos 8°, 9° y 10 de\nla Ley que se reglamenta.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/6"
+    },
+    {
+      "nroArticulo": "7",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 7",
+      "textoArticulo": "Principio de divisibilidad.- Si un documento contiene información que\npueda ser conocida e información que debe denegarse en virtud de causa\nlegal, se dará acceso a la primera y no a la segunda.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/7"
+    },
+    {
+      "nroArticulo": "8",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 8",
+      "textoArticulo": "Principio de ausencia de ritualismos.- En los procedimientos establecidos\npara el acceso a la información pública se eliminarán las exigencias y\nritualismos que pudieren ser un impedimento para el ejercicio del derecho\nconsagrado por la Ley que se reglamenta.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/8"
+    },
+    {
+      "nroArticulo": "9",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 9",
+      "textoArticulo": "Principio de no discriminación.- Los sujetos obligados deberán entregar\nla información a quien lo solicite, sin discriminación de tipo alguno sea\nen razón del carácter o nacionalidad del solicitante.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/9"
+    },
+    {
+      "nroArticulo": "10",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 10",
+      "textoArticulo": "Principio de oportunidad.- Los sujetos obligados deberán entregar la\nrespuesta acorde a la solicitud que se hubiera efectuado en tiempo y\nforma, dando cumplimiento a los plazos establecidos en la Ley y en el\npresente reglamento.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/10"
+    },
+    {
+      "nroArticulo": "11",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 11",
+      "textoArticulo": "Principio de responsabilidad.- Los sujetos obligados serán pasibles de\nresponsabilidad y de las sanciones que pudieren corresponder en caso de no\ncumplir las obligaciones establecidas por la Ley N° 18.381, de 17 de\noctubre de 2008.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/11"
+    },
+    {
+      "nroArticulo": "12",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 12",
+      "textoArticulo": "Principio de gratuidad.- El acceso a la información pública es gratuito,\nsin perjuicio de lo establecido por el artículo 17 inc. 2° de la Ley que\nse reglamenta.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/12"
+    },
+    {
+      "nroArticulo": "13",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 13",
+      "textoArticulo": "Principio de disponibilidad.- La información que se encuentre en los\narchivos de los sujetos obligados deberá ser entregada siempre a quien lo\nsolicite, excepto aquella definida legalmente como secreta, o clasificada\ncon carácter de reservada o confidencial.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/13"
+    },
+    {
+      "nroArticulo": "14",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 14",
+      "textoArticulo": "Principio de eficiencia.- La utilización de los recursos asignados para\nla gestión de los expedientes deberá efectuarse de forma que garantice los\nobjetivos fijados para el archivo, con el máximo rendimiento económico.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/14"
+    },
+    {
+      "nroArticulo": "15",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 15",
+      "textoArticulo": "Principio de integridad.- Cada sujeto obligado debe mantener los\ndocumentos de forma tal que se facilite su localización, consulta y\nreproducción, a través de la utilización de métodos y técnicas que\npermitan la sistematización de la información y la utilización de nuevas\ntecnologías en la administración documentaria.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/15"
+    },
+    {
+      "nroArticulo": "16",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 16",
+      "textoArticulo": "Principio de conservación.- Implica la responsabilidad de cada sujeto\nobligado de mantener el estado de conservación de los documentos que\nmaneje, debiendo evitar su destrucción, deterioro o alteración.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/16"
+    },
+    {
+      "nroArticulo": "17",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 17",
+      "textoArticulo": "Definiciones.- A los efectos de la Ley N° 18.381, de 17 de octubre de\n2008, y del presente Decreto, se entenderá por:\na. Archivos: conjunto orgánico de documentos reunidos por personas\nfísicas o jurídicas, públicas o privadas, en el ejercicio de sus\nfunciones.\nb. Clasificación: procedimiento por el cual se determina que la\ninformación de un sujeto obligado es información confidencial o\nreservada.\nc. Documentos: expedientes, reportes, estudios, actas, resoluciones,\noficios, correspondencia, acuerdos, directivas, circulares,\ncontratos, convenios, instructivos, notas, memorandos, estadísticas\no bien, cualquier otro registro que documente el ejercicio de las\nfacultades o la actividad de los sujetos obligados y sus\nfuncionarios, sin importar su fuente o fecha de elaboración.\nEstos podrán estar en cualquier medio, sea escrito, impreso, sonoro,\nvisual, electrónico, informático u holográfico.\nd. Expediente: conjunto de documentos que tratan de un mismo asunto y\nque se forma siguiendo el ordenamiento regular de los documentos que\nlo integran, en forma sucesiva y por orden de fechas.\ne. Información: todo archivo, registro o dato contenido en cualquier\nmedio, documento o registro impreso, óptico, electrónico, magnético,\nquímico, físico, o biológico que se encuentre en poder de los\nsujetos obligados.\nf. Informe anual: reporte de actividades cuantitativo y cualitativo\nque los sujetos obligados deben presentar anualmente en relación con\nel estado de cumplimiento del derecho de acceso a la información\npública.\ng. Informe semestral: reporte de información que los sujetos obligados\ndeben remitir semestralmente sobre la información que ha sido\nclasificada como reservada con indicación de fecha y resolución que\nasí lo ha determinado.\nh. Publicación: reproducción en medios electrónicos o impresos de\ninformación contenida en documentos para su conocimiento público.\ni. Sujeto obligado: todos los organismos públicos sean de carácter\nestatal o no estatal.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/17"
+    },
+    {
+      "nroArticulo": "18",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 18",
+      "textoArticulo": "Disponibilidad de la información pública.- La información pública deberá\nestar disponible en forma actualizada sin previa solicitud. Aquella\ninformación determinada por el artículo 5° de la Ley que se reglamenta,\ndeberá estar disponible en el sitio web del sujeto obligado así como en\nformato físico en forma actualizada.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/18"
+    },
+    {
+      "nroArticulo": "19",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 19",
+      "textoArticulo": "Categorización.- La información podrá reservarse temporalmente del\nconocimiento público, de acuerdo con lo establecido por el artículo 11 de\nla Ley N° 18.381, de 17 de octubre de 2008.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/19"
+    },
+    {
+      "nroArticulo": "20",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 20",
+      "textoArticulo": "Documentación reservada.- La documentación clasificada como información\nreservada, de acuerdo con lo establecido en el artículo 9° de la Ley que\nse reglamenta, deberá tener incluida una leyenda indicativa de su carácter\nreservado, la fecha de su clasificación, su fundamento legal, el período\nde reserva y la firma de la autoridad correspondiente.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/20"
+    },
+    {
+      "nroArticulo": "21",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 21",
+      "textoArticulo": "Procedimiento de clasificación.- La información deberá ser clasificada\npor la autoridad administrativa competente por resolución fundada. Se\nentiende por autoridad administrativa competente el jerarca máximo de cada\norganismo obligado o quien ejerza facultades delegadas.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/21"
+    },
+    {
+      "nroArticulo": "22",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 22",
+      "textoArticulo": "Nómina de asuntos reservados.- Los sujetos obligados elaborarán un\nlistado de los documentos y expedientes clasificados como reservados, el\nque deberá ser enviado a la Unidad de Acceso a la Información Pública\n(UAIP) de acuerdo con lo establecido en el artículo 7° inc. 2° de la Ley\nque se reglamenta.\nCada organismo enviará en la primera quincena de los meses de febrero y\nagosto una actualización de la información señalada en el inciso anterior.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/22"
+    },
+    {
+      "nroArticulo": "23",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 23",
+      "textoArticulo": "Contenido de la nómina de asuntos reservados.- La nómina de los\ndocumentos y expedientes deberá contener:\na. Contenido temático.\nb. Oficina administrativa que lo generó.\nc. Fecha de clasificación.\nd. Fundamento legal de la clasificación.\ne. Plazo de la reserva.\nf. Indicación de los expedientes o documentos que se reservan en caso\nde que la información reservada sea parcial.\ng. Para el caso en que se prorrogue el período de reserva, fecha y\nresolución que así lo disponga.\nh. Fecha y resolución de desclasificación de la información de\ncarácter reservado, en caso de corresponder.\ni. Firma del titular del sujeto obligado.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/23"
+    },
+    {
+      "nroArticulo": "24",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 24",
+      "textoArticulo": "Acceso a la información reservada.- Los titulares de los sujetos\nobligados deberán adoptar todas las medidas necesarias tendientes a\notorgar seguridad a la restricción de acceso de los documentos o\nexpedientes clasificados como reservados.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/24"
+    },
+    {
+      "nroArticulo": "25",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 25",
+      "textoArticulo": "Prueba de daño.- La información podrá clasificarse como reservada,\nsiempre que en la resolución de la autoridad responsable, debidamente\nfundada y motivada, se demuestre la existencia de elementos objetivos que\npermitan determinar la expectativa razonable de un daño al interés público\nprotegido, de acuerdo con lo establecido en el artículo 9° de la Ley que\nse reglamenta.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/25"
+    },
+    {
+      "nroArticulo": "26",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 26",
+      "textoArticulo": "Desclasificación de la información reservada.- La información clasificada\ncomo reservada será desclasificada en los siguientes casos:\na. A partir del vencimiento del período de reserva.\nb. A partir de la extinción de los motivos que dieron origen a su\nclasificación.\nc. Cuando la UAIP así lo determine, por considerar inadecuada tal\nclasificación.\nd. Cuando una resolución judicial así lo determine.\nLa información clasificada como reservada debe desclasificarse a través de\nun acto administrativo fundado del sujeto obligado de acuerdo con los\nsupuestos señalados en los literales a y b del inciso anterior.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/26"
+    },
+    {
+      "nroArticulo": "27",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 27",
+      "textoArticulo": "Extensión del período de reserva.- Cuando un sujeto obligado entienda\nnecesario ampliar el plazo de reserva de un expediente o documento, deberá\ncomunicarlo a la UAIP en el informe referido en el artículo 7° inc. 2° de\nla Ley que se reglamenta.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/27"
+    },
+    {
+      "nroArticulo": "28",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 28",
+      "textoArticulo": "Información confidencial.- Se considera información confidencial:\nI) Aquella entregada en tal carácter a los sujetos obligados, siempre\nque:\nA) Refiera al patrimonio de una persona física o jurídica.\nB) Comprenda hechos o actos de carácter económico, contable, jurídico\no administrativo, relativos a una persona física o jurídica, que\npudiera ser útil para un competidor.\nC) Esté amparada por una cláusula contractual de confidencialidad.\nII) Los datos personales que requieran previo consentimiento\ninformado.\nTendrán el mismo carácter los documentos o secciones de documentos que\ncontengan estos datos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/28"
+    },
+    {
+      "nroArticulo": "29",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 29",
+      "textoArticulo": "Información no confidencial.- No será considerada información\nconfidencial:\na. La que por disposiciones legales se encuentre en registros\npúblicos.\nb. La que se encuentre en fuentes de acceso público. En este caso, se\ndará a conocer a quien la solicita: fuente, lugar y forma de\nacceder a la información que se pretende.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/29"
+    },
+    {
+      "nroArticulo": "30",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 30",
+      "textoArticulo": "Información confidencial entregada por particulares.- Cuando los\nparticulares entreguen a los sujetos obligados información confidencial,\ndeberán señalar los documentos o secciones en los que se contenga tal\ninformación. También deberán presentar un \"resumen no confidencial\" breve\ny conciso. En caso que, la naturaleza de la información impida elaborarlo,\nse explicitará tal imposibilidad ante la autoridad competente.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/30"
+    },
+    {
+      "nroArticulo": "31",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 31",
+      "textoArticulo": "Acceso a la información confidencial.-\nI. Los titulares de los sujetos obligados deberán adoptar las medidas\nnecesarias tendientes a otorgar seguridad en el acceso a los documentos o\nexpedientes clasificados como confidenciales.\nII. Para que la información pueda ser clasificada como confidencial, se\nrequerirá resolución fundada de la autoridad administrativa competente,\ntanto en el momento en que se genera el documento o expediente como en el\nmomento en que se recibe la solicitud de acceso a la información, en el\ncaso que no se hubiera clasificado previamente.\nIII. La documentación clasificada como información confidencial deberá\ntener incorporada una leyenda indicativa de su carácter confidencial, la\nfecha de su clasificación, su fundamento legal y la firma de la autoridad\ncorrespondiente.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/31"
+    },
+    {
+      "nroArticulo": "32",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 32",
+      "textoArticulo": "Período de la clasificación.- La información confidencial no está sujeta\na plazos de vencimiento y tendrá ese carácter en forma indefinida.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/32"
+    },
+    {
+      "nroArticulo": "33",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 33",
+      "textoArticulo": "Preservación de los documentos.- Los sujetos obligados deberán preservar\nlos documentos en archivos administrativos organizados y actualizados.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/33"
+    },
+    {
+      "nroArticulo": "34",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 34",
+      "textoArticulo": "Acceso a la información clasificada.- La información clasificada será\naccesible para los miembros de la Unidad de Acceso a la Información\nPública por lo que los titulares de los sujetos obligados adoptarán las\nmedidas que sean necesarias para asegurar el acceso a documentos y\nexpedientes clasificados, de acuerdo con lo establecido por el artículo 21\nde la Ley que se reglamenta.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/34"
+    },
+    {
+      "nroArticulo": "35",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 35",
+      "textoArticulo": "Tipos de informes.- Los sujetos obligados deberán presentar los\nsiguientes informes:\na. Informe anual sobre cumplimiento del derecho de acceso a la\ninformación pública.\nb. Informe semestral conteniendo el listado actualizado de la\ninformación clasificada como reservada.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/35"
+    },
+    {
+      "nroArticulo": "36",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 36",
+      "textoArticulo": "Contenido del Informe sobre estado de cumplimiento de las obligaciones\nestablecidas en la Ley.- El informe sobre el estado de cumplimiento de las\nobligaciones señaladas en el art. 7° inciso 1° de la Ley que se\nreglamenta, a ser presentado por los sujetos obligados deberá contener:\na. Identificación del sujeto obligado.\nb. Identificación de quienes ejercen la representación de los sujetos\nobligados al momento de la presentación del informe.\nc. Indicación del período que comprende el informe que se presenta.\nd. Información sobre el período comprendido entre el último informe y\nel que se presenta con especificación de:\ni. Solicitudes de acceso a la información, con indicación temática.\nii. Trámite seguido por las solicitudes.\niii. Conclusiones de las solicitudes.\niv. En caso de solicitudes con resultado de denegatoria de acceso,\ndeterminación de los motivos por los que se adoptó tal resolución.\nv. Resumen cuantitativo de resultados de las solicitudes.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/36"
+    },
+    {
+      "nroArticulo": "37",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 37",
+      "textoArticulo": "Contenido del informe sobre información clasificada como reservada.- El\ninforme sobre la información clasificada como reservada de acuerdo con lo\nestablecido en el artículo 7° inciso 2° de la Ley que se reglamenta,\ndeberá contener:\na. Identificación del sujeto obligado.\nb. Identificación del jerarca del sujeto obligado al momento de la\npresentación del informe.\nc. Indicación del período que comprende el informe que se presenta.\nd. Listado de la información que hubiere sido clasificada como\nreservada con indicación de fecha y número de la resolución que le\nestableció tal carácter.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/37"
+    },
+    {
+      "nroArticulo": "38",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 38",
+      "textoArticulo": "Información que debe ser difundida por todos los sujetos obligados.- Los\nsujetos obligados deberán difundir en sus sitios web la siguiente\ninformación, que deberá ser actualizada mensualmente:\n1. Creación y evolución histórica del sujeto obligado conjuntamente\ncon sus cometidos.\n2. Estructura orgánica en un formato que habilite la vinculación de\ncada oficina con ésta, las facultades y responsabilidades que le\ncorresponden de conformidad con la normativa vigente.\n3. El marco jurídico aplicable a cada organismo.\n4. Programas operativos de largo y corto plazo y mecanismos que\npermitan visualizar metas y cumplimiento de éstas.\n5. El Diario de Sesiones.\n6. Los anteproyectos y proyectos de ley que se presenten, así como\ncualquier otro tipo de comunicación legislativa, la indicación del\ntrámite de que ha sido objeto y las resoluciones que sobre éstos\nrecaigan.\n7. Listado con los servicios que ofrece y los programas que administra\nincluyendo los trámites para acceder a ellos y la población objetivo\na que están dirigidos.\n8. El listado de los funcionarios, a partir del jefe de departamento,\ngerente, director o equivalente hasta el jerarca máximo, incluyendo:\nnombre, domicilio postal, electrónico y números telefónicos\noficiales.\n9. En caso de tratarse de órganos legislativos, las comisiones que se\nintegren, estableciendo el número de convocatorias, presencias y\nausencias en los diferentes órganos, inclusive de los suplentes\nproclamados por la Corte Electoral. (*)\n10. Nómina de los funcionarios que no perteneciendo al organismo\ncumplen funciones en el mismo, sea por ser contratados, sea por estar\nen comisión provenientes de otro organismo, con indicación de\ncompensaciones recibidas con cargo a las partidas asignadas al\nfuncionamiento de los organismos correspondientes.\n11. Perfil de los diferentes puestos de trabajo y currículum\nactualizado de quienes ocupan aquéllos a partir del jefe de\ndepartamento, gerente, director o equivalente hasta el jerarca\nmáximo.\n12. Convocatorias a concursos de ingreso para ocupar cargos y\nresultados de los mismos.\n13. Remuneración mensual nominal de todos los funcionarios incluyendo\ntodas las prestaciones en razón de los diferentes sistemas de\ncompensación que se aplicaren.\n14. Indicación de los viáticos recibidos y la determinación de su\nutilización.\n15. Listado de comisiones de servicio en el exterior de los\nfuncionarios, viáticos percibidos, razón del viaje y resultados del\nmismo, incluyendo a todas las personas que integren la delegación sin\nexcepción alguna.\n16. Presupuesto y ejecución del mismo:\na. Ingresos recibidos por cualquier concepto, con indicación del\nresponsable en la recepción, administración y ejecución.\nb. Ingresos asignados por el presupuesto nacional.\nc. Estados financieros y balances generales de gastos.\nd. Auditorías.\ni. Número y tipo de auditorías.\nii. Número de observaciones realizadas por rubro de auditoría sujeto a\nrevisión.\niii. Total de aclaraciones efectuadas por el sujeto obligado.\n17. En caso de los pliegos de bases y condiciones particulares de los\nprocedimientos licitatorios que representen gastos de funcionamiento\no de inversión y las resoluciones que dispongan la adjudicación en\ndichos procedimientos, las que declaren desiertas o dispongan el\nrechazo de todas las ofertas presentadas, deberá establecerse un\nvínculo electrónico con el sitio www.comprasestatales.gub.uy, en\ncumplimiento de los requerimientos establecidos por las Leyes Nos.\n16.736, de 5 de enero de 1996, art. 694, 17.060, de 23 de diciembre\nde 1998, art. 5 y 17.556, de 18 de setiembre de 2002, art. 163 y los\nDecretos Nos. 66/002, de 26 de febrero de 2002, 232/003, de 9 de\njunio de 2003, 393/004 de 3 de noviembre de 2004 y 191/007, de 28 de\nmayo de 2007.\n18. Las partidas presupuestales provenientes de convenios con\norganismos internacionales o que se gestionen a través de éstos,\ndeberán incluirse en la web del sujeto obligado.\n19. Montos otorgados en carácter de financiamiento a los diferentes\nPartidos Políticos por parte del Estado.\n20. Calendario de reuniones, citaciones de comisión, de directorios,\nde plenarios, de asambleas, que sean convocadas, así como presencias\ny ausencias de los convocados, minuta de comunicación indicativa del\norden del día de la convocatoria y resoluciones y resultados de las\nmismas.\n21. Concesiones, licencias, permisos y autorizaciones debiendo\npublicarse el objeto, nombre o razón social del titular, así como si\nel contrato involucra el aprovechamiento de bienes, servicios o\nrecursos públicos.\n22. Programas educativos que se encuentran vigentes y correlaciones de\nadecuación en relación con los últimos dos planes de estudios\ninmediatos anteriores.\n23. Listado de programas de capacitación, número de funcionarios\ncapacitados así como sus evaluaciones.\n24. Indicadores de gestión de evaluaciones al desempeño académico y/o\nadministrativo.\n25. Listados de partidos y agrupaciones políticas que se encuentran\nregistrados.\n26. Resultados totales de las elecciones y las discriminaciones que se\nconsideren útiles para la ciudadanía.\n27. La fecha de la última actualización.\n28. Mapa del sitio.\n29. Domicilio postal y electrónico y números telefónicos oficiales del\nsujeto obligado.\n30. Información sobre la política de seguridad y protección de datos.\n31. Cualquier otra información que pudiere ser de utilidad o relevante\npara el conocimiento y evaluación de las funciones y políticas\npúblicas que son responsabilidad del sujeto obligado.",
+      "notasArticulo": "Fe de erratas publicada/s: 07/04/2022.\nVer en esta norma, artículo: 40.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/38"
+    },
+    {
+      "nroArticulo": "39",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 39",
+      "textoArticulo": "Excepción.- Los sujetos obligados deberán determinar en su sitio web los\nrubros señalados en el artículo anterior que no les son aplicables.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/39"
+    },
+    {
+      "nroArticulo": "40",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 40",
+      "textoArticulo": "Información adicional a ser presentada por el Poder Ejecutivo.- Sin\nperjuicio de la información requerida de acuerdo a lo dispuesto en el\nartículo 38, el Poder Ejecutivo deberá hacer pública en su sitio web la\nsiguiente información:\n1. El listado de expropiaciones que por razones de utilidad pública se\ncumplan.\n2. La coordinación de proyectos con las Intendencias Municipales,\nEntes Autónomos y Servicios Descentralizados, Personas Jurídicas de\nDerecho Público no Estatal así como aquéllos con los sectores\nempresariales y sociales.\n3. El presupuesto que haya sido aprobado por el Parlamento y las\nadecuaciones presupuestales que se sucedan en las diferentes\nrendiciones de cuentas.\n4. Toda aquella información que se considere de utilidad o sea\nimportante para el conocimiento y evaluación de las funciones y\npolíticas públicas bajo responsabilidad de cada dependencia y\nentidad.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/40"
+    },
+    {
+      "nroArticulo": "41",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 41",
+      "textoArticulo": "Responsable de la información.- Deberá establecerse en cada sujeto\nobligado, quién es la persona responsable de la información que se publica\nen su sitio web.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/41"
+    },
+    {
+      "nroArticulo": "42",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 42",
+      "textoArticulo": "Presidencia de la Unidad de Acceso a la Información Pública.- La\ndirección técnica y administrativa de la Unidad de Acceso a la Información\nPública será ejercida por un Consejo Ejecutivo integrado por tres\nmiembros, de acuerdo con lo preceptuado por el articulo 19 de la Ley que\nse reglamenta.\nLa Presidencia del Consejo Ejecutivo será ejercida en forma anual y\nrotativa entre sus miembros, con excepción del Director Ejecutivo de\nAGESIC. Ante la ausencia temporal del Presidente, la Presidencia será\nejercida interinamente por el otro miembro designado por el Poder\nEjecutivo.\nLa representación de la Unidad de Acceso a la Información Pública\ncorresponderá a quien ejerza la presidencia del Consejo Ejecutivo.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/42"
+    },
+    {
+      "nroArticulo": "43",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 43",
+      "textoArticulo": "Funciones del Presidente.- Al Presidente del Consejo Ejecutivo o a quien\nlo sustituya corresponde:\na. La representación de la UAIP en sus relaciones externas por sí o por\nmedio de apoderado en forma.\nb. Cumplir y hacer cumplir las normas constitucionales, legales y\nreglamentarias y ejecutar y hacer ejecutar las decisiones del Consejo\nEjecutivo.\nc. Presidir las sesiones del Consejo Ejecutivo y dirigir sus\ndeliberaciones.\nd. Adoptar las medidas que creyere conveniente en caso de urgencia, dando\ncuenta en la primera sesión del Consejo Ejecutivo y estando a lo que se\nresuelva.\ne. Estructurar el orden del día.\nf. Convocar las sesiones ordinarias y extraordinarias.\ng. Someter a la aprobación del Consejo Ejecutivo la planificación de la\nUnidad y el proyecto de memoria anual.\nh. Firmar las actas, las resoluciones del Consejo Ejecutivo y la\ncorrespondencia oficial.\ni. Firmar los contratos y documentos de cualquier naturaleza, debidamente\nautorizados por el Consejo Ejecutivo.\nj. Fiscalizar la administración ejecutiva y el desempeño de los\nfuncionarios y demás personas que presenten servicios en la UAIP, dando\ncuenta al Consejo Ejecutivo.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/43"
+    },
+    {
+      "nroArticulo": "44",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 44",
+      "textoArticulo": "Competencia.- El Consejo Ejecutivo tendrá las siguientes funciones y\natribuciones:\na. Asesorar a los organismos públicos en los temas que éstos soliciten\nvinculados con el cumplimiento de la Ley que se reglamenta.\nb. Asegurar la regularidad y eficiencia de las actividades propias de\nla Unidad, ejerciendo todas las potestades jerárquicas.\nc. Planificar y coordinar con diferentes organismos públicos o\nprivados, campañas de sensibilización y socialización de la\ntemática vinculada al acceso a la información pública, la\ntransparencia gubernamental, la rendición de cuentas y la\nparticipación ciudadana.\nd. Desarrollar coordinadamente con los organismos públicos, programas\nde capacitación de funcionarios en relación con el cumplimiento de\nla Ley que se reglamenta.\ne. Designar a los funcionarios que ejercerán la representación de la\nUnidad siempre que ello fuere necesario.\nf. Dictar recomendaciones que deberían observarse en el\ndesenvolvimiento, de las actividades comprendidas por la Ley que se\nreglamenta, fundamentalmente en lo que refiere a la implementación\nde los sitios web de los organismos públicos, la clasificación de\nla información y la presentación de los informes vinculados a la\nsituación de cumplimiento del derecho de acceso a la información\npública.\ng. Desarrollar actividades de investigación a los efectos de conocer\nposibles violaciones a los preceptos establecidos en la Ley que se\nreglamenta.\nh. Resolver dentro de sus competencias, todos los asuntos que le sean\npresentados.\ni. En general, desarrollar todas las actividades necesarias para el\ncumplimiento de sus cometidos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/44"
+    },
+    {
+      "nroArticulo": "45",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 45",
+      "textoArticulo": "Funcionamiento del Consejo Ejecutivo.- El Consejo Ejecutivo fijará día y\nhora de las sesiones ordinarias, pudiendo reunirse extraordinariamente\ncuando lo disponga el Presidente o a solicitud de dos de sus miembros.\nEste podrá sesionar con dos de ellos.\nHabiendo quórum para sesionar, el Presidente declarará abierta la sesión,\ndisponiendo leer el acta o actas anteriores correlativas si las hubiera.\nAprobada, en su caso dicha acta o actas se dará cuenta de los asuntos\nentrados.\nActo continuo los miembros podrán hacer las solicitudes, reclamos o\nindicaciones que estimen convenientes, los que podrán ser considerados de\ninmediato, pasados a una Comisión o remitidos a informes de la repartición\ncorrespondiente, según resuelva el Consejo Ejecutivo.\nSeguidamente se pasará a considerar el orden del día.\nFinalizada la consideración del orden del día se levantará la sesión,\npudiendo continuarse cuando el Consejo dispusiese ocuparse de algún otro\nasunto.\nDe todo lo actuado por el Consejo se dejará constancia en acta, que, una\nvez aprobada, será firmada por el Presidente.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/45"
+    },
+    {
+      "nroArticulo": "46",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 46",
+      "textoArticulo": "De las diferentes mociones.- En el curso de la discusión podrán hacerse\nmociones o indicaciones con el carácter de cuestión de orden o previa, las\nque serán inmediatamente resueltas, suspendiéndose entretanto la discusión\ndel asunto que esté a consideración del Consejo Ejecutivo.\nLas mociones para cerrar la discusión, declararla libre o pedir que los\nasuntos pasen a Comisión se votarán sin discusión.\nCuestiones de orden: son las que se refieren al orden del día, observancia\ndel presente Decreto, suspensión o aplazamiento de la discusión,\nconsideración de un asunto, reconsideración de un proyecto antes de su\nsanción definitiva y declaración de urgencia.\nCuestiones previas: son las consultas al Consejo Ejecutivo sobre el\ncontenido o el espíritu de una disposición legal o reglamentaria que tenga\nrelación con el asunto que se discuta.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/46"
+    },
+    {
+      "nroArticulo": "47",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 47",
+      "textoArticulo": "De la Comisión General.- El Consejo Ejecutivo podrá constituirse en\nComisión General para conferenciar sobre algún asunto que exija\nexplicaciones preliminares. La Comisión General no adoptará decisión\nalguna.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/47"
+    },
+    {
+      "nroArticulo": "48",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 48",
+      "textoArticulo": "De las votaciones.- Para toda votación es necesaria la asistencia de los\nmiembros. Las resoluciones se tomarán por mayoría de sus miembros. Si se\nprodujera empate el asunto será tratado en la próxima sesión y si éste\nsubsistiera, el voto del Presidente se computará doble.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/48"
+    },
+    {
+      "nroArticulo": "49",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 49",
+      "textoArticulo": "Comisiones Especiales.- Cuando el Consejo Ejecutivo lo resuelva podrá\nformar Comisiones Especiales, ya sea con carácter permanente o\nextraordinario, con el objetivo de asesorar o realizar trabajos, estudios\no investigaciones que se dispongan.\nLas Comisiones podrán examinar los antecedentes que requiera el estudio de\nlos asuntos y recabar directamente los informes que necesitaren.\nLas Comisiones deberán expedirse dentro del término que les señale el\nConsejo Ejecutivo, debiendo rendirle informe escrito, salvo que se acepte\nen forma verbal. El Presidente por si o por acuerdo del Consejo Ejecutivo\nhará los requerimientos que estime convenientes a las Comisiones que se\nencuentren atrasadas en el trámite de sus asuntos.\nLos dictámenes de las Comisiones no obligan al Consejo Ejecutivo.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/49"
+    },
+    {
+      "nroArticulo": "50",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 50",
+      "textoArticulo": "Atribuciones de los miembros.- Las atribuciones que por este reglamento\nse confieren especialmente al Presidente no impiden a los demás miembros\nvigilar e informar sobre el funcionamiento de los servicios, debiendo\nponer en conocimiento del Consejo Ejecutivo las irregularidades y\ndeficiencias que hubieran comprobado.\nLos miembros tendrán derecho de iniciativa en todos los asuntos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/50"
+    },
+    {
+      "nroArticulo": "51",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 51",
+      "textoArticulo": "Publicidad.- La UAIP hará públicas las resoluciones que adopte\nincluyéndolas en su sitio web, en forma posterior a la notificación. La\npublicación se realizará aplicando los criterios de disociación de los\ndatos de carácter personal que a tal efecto se establezcan.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/51"
+    },
+    {
+      "nroArticulo": "52",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 52",
+      "textoArticulo": "Funcionamiento del Consejo Consultivo.- El Consejo Consultivo será\nconvocado por el Consejo Ejecutivo o la mayoría de sus miembros, con una\nantelación mínima de cinco días y sesionará con mayoría simple de sus\nintegrantes.\nHabiendo quórum para sesionar, el Presidente declarará abierta la sesión,\ndisponiendo leer el acta o actas anteriores correlativas si las hubiera.\nDe todo lo actuado por el Consejo Consultivo se dejará constancia en acta,\nla cual una vez aprobada será firmada por todos los asistentes.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/52"
+    },
+    {
+      "nroArticulo": "53",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 53",
+      "textoArticulo": "Votación.- Para toda votación es necesaria la asistencia de los\nintegrantes. Las decisiones se tomarán por mayoría de sus miembros.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/53"
+    },
+    {
+      "nroArticulo": "54",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 54",
+      "textoArticulo": "Elección de representantes del Consejo Consultivo.- El representante del\nárea académica será designado por acuerdo entre las Facultades de Derecho\nde las Universidades reconocidas existentes en el país.\nEl representante del sector privado será designado por el Centro de\nArchivos y Acceso a la Información Pública (CAInfo), persona jurídica sin\nfines de lucro.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/54"
+    },
+    {
+      "nroArticulo": "55",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 55",
+      "textoArticulo": "Obligaciones del jerarca de los sujetos obligados.- Los jerarcas de los sujetos obligados tendrán las siguientes obligaciones:\na. Designar al o a los funcionarios responsables de la recepción de\nsolicitudes y entrega de la información requerida.\nb. Adoptar las medidas tendientes a garantizar el ejercicio del\nderecho de acceso a la información pública dentro de su competencia\nfuncional e institucional.\nc. Disponer los mecanismos de creación y mantenimiento de los\nregistros continentes de la información que se maneja.\nd. Clasificar la información de carácter reservado y confidencial.\ne. Elevar a la Unidad de Acceso a la Información Pública el informe\nanual sobre el estado de cumplimiento del derecho de acceso a la\ninformación pública previsto por el artículo 7° de la Ley que se\nreglamenta.\nf. Disponer las medidas de seguridad que permitan la adecuada\nutilización y contralor de la información que se encuentra en sus\narchivos.\ng. Disponer los recursos financieros necesarios para la capacitación\nde los funcionarios y las adecuaciones que debieren efectuarse para\nfacilitar el acceso a la información por parte de los ciudadanos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/55"
+    },
+    {
+      "nroArticulo": "56",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 56",
+      "textoArticulo": "Designación de funcionarios responsables para recepción de solicitudes y\nentrega de información.- La designación de los funcionarios responsables\nse hará por resolución del jerarca y deberá publicarse en el sitio web del\nsujeto obligado y en un lugar visible de sus oficinas administrativas.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/56"
+    },
+    {
+      "nroArticulo": "57",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 57",
+      "textoArticulo": "Obligaciones del funcionario responsable de entregar la información.- El\nfuncionario responsable de entregar la información tendrá las siguientes\nobligaciones:\na. Atender y responder a las solicitudes de acceso a la información\ndentro de los plazos que establece la Ley que se reglamenta.\nb. Solicitar la información al área correspondiente.\nc. Entregar la información al solicitante. En caso que hubiere elegido\nalgún soporte particular para obtener la misma, se deberá controlar\nel correspondiente pago previo a la entrega.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/57"
+    },
+    {
+      "nroArticulo": "58",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 58",
+      "textoArticulo": "Responsabilidades por incumplimiento.- Los funcionarios podrán incurrir\nen falta grave cuando de modo arbitrario obstruyan el acceso a la\ninformación de parte del solicitante en los casos previstos en el artículo\n31 de la Ley que se reglamenta.\nLa responsabilidad será determinada de acuerdo con los procedimientos\nadministrativos correspondientes.\nLos sujetos obligados serán responsables de acuerdo a lo dispuesto en los\nartículos 24 y 25 de la Constitución dela República.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/58"
+    },
+    {
+      "nroArticulo": "59",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 59",
+      "textoArticulo": "Todos los sujetos obligados implementarán, de acuerdo con sus\ncompetencias y posibilidades presupuestarias, programas de difusión y\ncapacitación destinados a sus funcionarios con la finalidad de garantizar\nmayores posibilidades de participación ciudadana y calidad en la respuesta\na la ciudadanía.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/59"
+    },
+    {
+      "nroArticulo": "60",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 60",
+      "textoArticulo": "Hasta tanto no se publique el Decreto reglamentario de la Ley N° 18.220\nde 20 de diciembre de 2007, el archivo de la documentación deberá\nelaborarse de acuerdo con las normas archivísticas internacionalmente\nreconocidas, debiendo contener por lo menos los niveles de fondo, sección\ny serie documental, sin perjuicio de que pudieren existir otros niveles\nintermedios según éstos lo requieran.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/60"
+    },
+    {
+      "nroArticulo": "61",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 61",
+      "textoArticulo": "Los sujetos obligados deberán presentar los informes previstos en el art.\n7° de la Ley que se reglamenta en los formularios proporcionados por la\nUAIP.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/61"
+    },
+    {
+      "nroArticulo": "62",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 62",
+      "textoArticulo": "Comuníquese, publíquese, etc.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/232-2010/62"
+    }
+  ],
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/232-2010",
+  "json_url": "https://www.impo.com.uy/bases/decretos/232-2010?json=true",
+  "norma_id": "decreto:232:2010",
+  "category": "decretos",
+  "directory": "decretos",
+  "title": "REGLAMENTACION DE LA LEY SOBRE EL DERECHO DE ACCESO A LA INFORMACION PUBLICA",
+  "article_count": 62
+}

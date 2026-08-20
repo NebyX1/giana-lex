@@ -1,0 +1,23 @@
+{
+  "id": "ley:17849:2004",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "17849",
+  "anio": "2004",
+  "title": "LEY DE RECICLAJE DE ENVASES",
+  "nombre": "LEY DE RECICLAJE DE ENVASES",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/17849-2004",
+  "json_url": "https://www.impo.com.uy/bases/leyes/17849-2004?json=true",
+  "local_source_path": "leyes/ley_17849_2004/source.impo.json",
+  "local_normalized_path": "leyes/ley_17849_2004/normalized.json",
+  "local_text_path": "leyes/ley_17849_2004/normalized.txt",
+  "active": true,
+  "checksum": "f84b1a4ad2b6068e80b486e1d9e6f08a16a66ff324e3a124f6306344c50ef34f",
+  "downloaded_at": "2026-08-14T13:40:14.450823+00:00",
+  "last_synced_at": "2026-08-14T13:40:14.450867+00:00",
+  "index_status": "downloaded",
+  "article_count": 12,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

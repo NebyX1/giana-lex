@@ -1,0 +1,23 @@
+{
+  "id": "ley:17283:2000",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "17283",
+  "anio": "2000",
+  "title": "LEY DE PROTECCION DEL MEDIO AMBIENTE",
+  "nombre": "LEY DE PROTECCION DEL MEDIO AMBIENTE",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/17283-2000",
+  "json_url": "https://www.impo.com.uy/bases/leyes/17283-2000?json=true",
+  "local_source_path": "leyes/ley_17283_2000/source.impo.json",
+  "local_normalized_path": "leyes/ley_17283_2000/normalized.json",
+  "local_text_path": "leyes/ley_17283_2000/normalized.txt",
+  "active": true,
+  "checksum": "8fedb84d414bc38539da0be6afdd76aa1e789d0477cd96607e2cfe6660235aba",
+  "downloaded_at": "2026-08-14T13:40:12.252992+00:00",
+  "last_synced_at": "2026-08-14T13:40:12.253016+00:00",
+  "index_status": "downloaded",
+  "article_count": 29,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

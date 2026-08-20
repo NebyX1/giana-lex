@@ -1,0 +1,23 @@
+{
+  "id": "ley:19823:2019",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "19823",
+  "anio": "2019",
+  "title": "DECLARACION DE INTERES GENERAL DEL CODIGO DE ETICA EN LA FUNCION PUBLICA",
+  "nombre": "DECLARACION DE INTERES GENERAL DEL CODIGO DE ETICA EN LA FUNCION PUBLICA",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/19823-2019",
+  "json_url": "https://www.impo.com.uy/bases/leyes/19823-2019?json=true",
+  "local_source_path": "leyes/ley_19823_2019/source.impo.json",
+  "local_normalized_path": "leyes/ley_19823_2019/normalized.json",
+  "local_text_path": "leyes/ley_19823_2019/normalized.txt",
+  "active": true,
+  "checksum": "8561bef3bff53ee0ec8a68f0c8306e9c4a7dac2f03146ba1cf3289e021ea3ba2",
+  "downloaded_at": "2026-08-14T13:34:59.461417+00:00",
+  "last_synced_at": "2026-08-14T13:34:59.461439+00:00",
+  "index_status": "downloaded",
+  "article_count": 46,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

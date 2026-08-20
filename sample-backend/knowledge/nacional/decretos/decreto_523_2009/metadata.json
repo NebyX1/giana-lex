@@ -1,0 +1,23 @@
+{
+  "id": "decreto:523:2009",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "523",
+  "anio": "2009",
+  "title": "REGLAMENTACION DE LA LEY 18.308 SOBRE INSTRUMENTOS Y PROCEDIMIENTOS DE ORDENAMIENTO TERRITORIAL Y DESARROLLO SOSTENIBLE. URBANIZACION",
+  "nombre": "REGLAMENTACION DE LA LEY 18.308 SOBRE INSTRUMENTOS Y PROCEDIMIENTOS DE ORDENAMIENTO TERRITORIAL Y DESARROLLO SOSTENIBLE. URBANIZACION",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/523-2009",
+  "json_url": "https://www.impo.com.uy/bases/decretos/523-2009?json=true",
+  "local_source_path": "decretos/decreto_523_2009/source.impo.json",
+  "local_normalized_path": "decretos/decreto_523_2009/normalized.json",
+  "local_text_path": "decretos/decreto_523_2009/normalized.txt",
+  "active": true,
+  "checksum": "1a1372d1906f5edfffbf6b588b10c0696b98629b869a68b36792a9419052abc2",
+  "downloaded_at": "2026-08-14T13:34:14.355126+00:00",
+  "last_synced_at": "2026-08-14T13:34:14.355146+00:00",
+  "index_status": "downloaded",
+  "article_count": 13,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

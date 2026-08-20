@@ -1,0 +1,23 @@
+{
+  "id": "ley:17555:2002",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "17555",
+  "anio": "2002",
+  "title": "APROBACION DE LA LEY DE REACTIVACION ECONOMICA. INDUSTRIA DE LA CONSTRUCCION",
+  "nombre": "APROBACION DE LA LEY DE REACTIVACION ECONOMICA. INDUSTRIA DE LA CONSTRUCCION",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/17555-2002",
+  "json_url": "https://www.impo.com.uy/bases/leyes/17555-2002?json=true",
+  "local_source_path": "leyes/ley_17555_2002/source.impo.json",
+  "local_normalized_path": "leyes/ley_17555_2002/normalized.json",
+  "local_text_path": "leyes/ley_17555_2002/normalized.txt",
+  "active": true,
+  "checksum": "45148ce47af878cda8fd7bd9943041e9b09087b62f559e2d0cfc01291d40d93e",
+  "downloaded_at": "2026-08-14T13:36:36.378508+00:00",
+  "last_synced_at": "2026-08-14T13:36:36.378532+00:00",
+  "index_status": "downloaded",
+  "article_count": 83,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

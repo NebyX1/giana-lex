@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "collection": "idl_resolution_examples",
+  "purpose": "Ejemplos de estructura y redaccion de resoluciones administrativas",
+  "authority_policy": {
+    "all_documents_are_examples": true,
+    "may_be_used_as_legal_authority": false,
+    "must_verify_current_law": true,
+    "must_not_invent_missing_facts_or_norms": true
+  },
+  "documents": [
+    {
+      "file": "01_reintegro_gastos.md",
+      "document_id": "EX-RES-REINTEGRO-GASTOS",
+      "typology": "reintegro_gastos",
+      "title": "Reintegro de gastos",
+      "tags": ["hacienda", "contaduria", "reintegro", "gastos", "funcionario"]
+    },
+    {
+      "file": "02_horas_extraordinarias.md",
+      "document_id": "EX-RES-HORAS-EXTRA",
+      "typology": "autorizacion_horas_extraordinarias",
+      "title": "Autorizacion de horas extraordinarias",
+      "tags": ["recursos_humanos", "horas_extra", "municipio", "personal"]
+    },
+    {
+      "file": "03_compensacion_funcionario.md",
+      "document_id": "EX-RES-COMPENSACION",
+      "typology": "compensacion_funcionario",
+      "title": "Compensacion a funcionario/a",
+      "tags": ["recursos_humanos", "compensacion", "funcionario", "remuneracion"]
+    },
+    {
+      "file": "04_exoneracion_patente.md",
+      "document_id": "EX-RES-EXONERACION-PATENTE",
+      "typology": "exoneracion_tributaria_patente",
+      "title": "Exoneracion de patente de rodados",
+      "tags": ["tributos", "patente", "exoneracion", "transito"]
+    },
+    {
+      "file": "05_adjudicacion_licitacion.md",
+      "document_id": "EX-RES-ADJUDICACION-LICITACION",
+      "typology": "adjudicacion_licitacion",
+      "title": "Adjudicacion de licitacion",
+      "tags": ["compras", "licitacion", "adjudicacion", "tocaf", "tribunal_de_cuentas"]
+    },
+    {
+      "file": "06_aprobacion_convenio.md",
+      "document_id": "EX-RES-CONVENIO",
+      "typology": "aprobacion_convenio",
+      "title": "Aprobacion de convenio",
+      "tags": ["convenio", "juridico_notarial", "cooperacion", "secretaria"]
+    },
+    {
+      "file": "07_designacion_funcion.md",
+      "document_id": "EX-RES-DESIGNACION",
+      "typology": "designacion_funcion_referente",
+      "title": "Designacion para cometido especifico",
+      "tags": ["designacion", "funcionario", "referente", "cometido", "notificacion"]
+    },
+    {
+      "file": "08_modificacion_resolucion.md",
+      "document_id": "EX-RES-MODIFICACION",
+      "typology": "modificacion_resolucion_anterior",
+      "title": "Modificacion de resolucion anterior",
+      "tags": ["modificacion", "acto_administrativo", "correccion", "antecedente"]
+    },
+    {
+      "file": "09_reiteracion_gasto_observado.md",
+      "document_id": "EX-RES-REITERACION-GASTO",
+      "typology": "reiteracion_gasto_observado",
+      "title": "Reiteracion de gasto observado",
+      "tags": ["hacienda", "tribunal_de_cuentas", "gasto_observado", "tocaf", "reiteracion"]
+    },
+    {
+      "file": "10_trasposicion_rubros.md",
+      "document_id": "EX-RES-TRASPOSICION-RUBROS",
+      "typology": "trasposicion_rubros",
+      "title": "Trasposicion de rubros presupuestales",
+      "tags": ["presupuesto", "hacienda", "trasposicion", "rubros", "tribunal_de_cuentas"]
+    },
+    {
+      "file": "11_subrogacion_funcionario.md",
+      "document_id": "EX-RES-SUBROGACION",
+      "typology": "designacion_subrogante",
+      "title": "Designacion de subrogante",
+      "tags": ["recursos_humanos", "subrogacion", "licencia", "diferencia_salarial"]
+    },
+    {
+      "file": "12_resolucion_2629_026.md",
+      "document_id": "IDL-RES-2629-026",
+      "typology": "fund_transposition",
+      "title": "Resolución N° 2.629/026",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2629026",
+      "validation_status": "institutionally_validated",
+      "tags": ["presupuesto", "hacienda", "contaduria", "trasposicion", "rubros", "validacion", "tribunal_de_cuentas"]
+    }
+  ]
+}

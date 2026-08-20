@@ -1,0 +1,23 @@
+{
+  "id": "ley:15750:1985",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "15750",
+  "anio": "1985",
+  "title": "LEY ORGANICA DE LA JUDICATURA Y DE ORGANIZACION DE LOS TRIBUNALES (LOT)",
+  "nombre": "LEY ORGANICA DE LA JUDICATURA Y DE ORGANIZACION DE LOS TRIBUNALES (LOT)",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/15750-1985",
+  "json_url": "https://www.impo.com.uy/bases/leyes/15750-1985?json=true",
+  "local_source_path": "leyes/ley_15750_1985/source.impo.json",
+  "local_normalized_path": "leyes/ley_15750_1985/normalized.json",
+  "local_text_path": "leyes/ley_15750_1985/normalized.txt",
+  "active": true,
+  "checksum": "d4efa56d635a53cfaae56efe61eaf1ee9172311c667d5083b81cf80c625f2d6c",
+  "downloaded_at": "2026-08-14T13:41:05.712654+00:00",
+  "last_synced_at": "2026-08-14T13:41:05.712675+00:00",
+  "index_status": "downloaded",
+  "article_count": 173,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

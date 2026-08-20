@@ -1,0 +1,23 @@
+{
+  "id": "ley:16074:1989",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "16074",
+  "anio": "1989",
+  "title": "REGULACION DE LOS SEGUROS SOBRE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES",
+  "nombre": "REGULACION DE LOS SEGUROS SOBRE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/16074-1989",
+  "json_url": "https://www.impo.com.uy/bases/leyes/16074-1989?json=true",
+  "local_source_path": "leyes/ley_16074_1989/source.impo.json",
+  "local_normalized_path": "leyes/ley_16074_1989/normalized.json",
+  "local_text_path": "leyes/ley_16074_1989/normalized.txt",
+  "active": true,
+  "checksum": "722bcffa86e865b1e128d6b8b85e8460d7f1ea103189578e83a050d09a36c14e",
+  "downloaded_at": "2026-08-14T13:39:10.551081+00:00",
+  "last_synced_at": "2026-08-14T13:39:10.551106+00:00",
+  "index_status": "downloaded",
+  "article_count": 74,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ley:14040:1971",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "14040",
+  "anio": "1971",
+  "title": "CREACION DE LA COMISION DEL PATRIMONIO HISTORICO, ARTISTICO Y CULTURAL DE LA NACION",
+  "nombre": "CREACION DE LA COMISION DEL PATRIMONIO HISTORICO, ARTISTICO Y CULTURAL DE LA NACION",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/14040-1971",
+  "json_url": "https://www.impo.com.uy/bases/leyes/14040-1971?json=true",
+  "local_source_path": "leyes/ley_14040_1971/source.impo.json",
+  "local_normalized_path": "leyes/ley_14040_1971/normalized.json",
+  "local_text_path": "leyes/ley_14040_1971/normalized.txt",
+  "active": true,
+  "checksum": "42c053d2bb776a22eda2433408833e1f501fa6a8b7637e57bcf07104e7e0a162",
+  "downloaded_at": "2026-08-14T13:40:34.300684+00:00",
+  "last_synced_at": "2026-08-14T13:40:34.300706+00:00",
+  "index_status": "downloaded",
+  "article_count": 26,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

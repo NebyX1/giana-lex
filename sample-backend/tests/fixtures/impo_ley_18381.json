@@ -1,0 +1,49 @@
+{
+  "tipoNorma": "Ley",
+  "nroNorma": "18381",
+  "anioNorma": 2008,
+  "nombreNorma": "LEY DE ACCESO A LA INFORMACION PUBLICA",
+  "leyenda": "Documento Actualizado",
+  "urlVerImagen": "/diariooficial/2008/09/23/1",
+  "fechaPromulgacion": "10/09/2008",
+  "fechaPublicacion": "23/09/2008",
+  "RNLD": { "tomo": 1, "semestre": 0, "anio": 2008, "pagina": 100 },
+  "referenciasNorma": " <b>Atención consultar:</b> <a class=\"linkFicha\" href=\"/bases/constitucion/1967-1967\" >Constitución</a>",
+  "urlReferenciasTodaLaNorma": "/bases/leyes/18381-2008/referencias",
+  "vistos": " <b>VISTO:</b> La necesidad de garantizar el acceso a la información.",
+  "articulos": [
+    {
+      "nroArticulo": 1,
+      "secArticulo": "",
+      "titulosArticulo": "",
+      "tituloArticulo": "Ambito de aplicación",
+      "urlArticulo": "/bases/leyes/18381-2008/1",
+      "textoArticulo": " <p>Toda persona tiene derecho a solicitar y recibir información de cualquier órgano del Estado.</p>",
+      "notasArticulo": " <b>Notas:</b> Redacción dada por Ley 19.020.",
+      "indexacionArticulo": ""
+    },
+    {
+      "nroArticulo": 2,
+      "secArticulo": "",
+      "titulosArticulo": "",
+      "tituloArticulo": "Principio general",
+      "urlArticulo": "/bases/leyes/18381-2008/2",
+      "textoArticulo": " <p>El acceso a la información es gratuito. Los órganos receptores deberán proveer la información solicitada en un plazo no mayor a veinte días hábiles.</p>",
+      "notasArticulo": "",
+      "indexacionArticulo": ""
+    },
+    {
+      "nroArticulo": 3,
+      "secArticulo": "",
+      "titulosArticulo": "",
+      "tituloArticulo": "Excepciones",
+      "urlArticulo": "/bases/leyes/18381-2008/3",
+      "textoArticulo": " <p>Solo podrá exceptuarse el acceso cuando la información sea clasificada como confidencial o secreta conforme a ley.</p>",
+      "notasArticulo": "",
+      "indexacionArticulo": ""
+    }
+  ],
+  "firmantes": [
+    { "nombre": "Tabare Vazquez", "cargo": "Presidente" }
+  ]
+}

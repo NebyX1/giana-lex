@@ -1,0 +1,173 @@
+{
+  "skill": "corrector-estilo-ortografia-legal",
+  "trigger": [
+    {
+      "input": "Corregí la ortografía y estilo de esta resolución sin alterar su sentido.",
+      "expected": "ACTIVAR",
+      "rationale": "Corrección de un texto existente."
+    },
+    {
+      "input": "Revisá puntuación y acentuación de este texto.",
+      "expected": "ACTIVAR",
+      "rationale": "Revisión de forma."
+    },
+    {
+      "input": "Uniformá la terminología de este documento.",
+      "expected": "ACTIVAR",
+      "rationale": "Uniformización terminológica."
+    },
+    {
+      "input": "Corregí este texto (conservador).",
+      "expected": "ACTIVAR",
+      "rationale": "Corrección en modo conservador."
+    }
+  ],
+  "non_trigger": [
+    {
+      "input": "Reestructurá este informe institucional.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Reestructuración, consultor-redaccion."
+    },
+    {
+      "input": "Redactá la resolución que aprueba el convenio.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Redacción de acto, redactor-legal."
+    },
+    {
+      "input": "¿Es jurídicamente válido este acto?",
+      "expected": "NO ACTIVAR",
+      "rationale": "Interpretación de derecho, analista-legal."
+    },
+    {
+      "input": "Localizá la normativa aplicable.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Localización normativa, investigador-normativo."
+    }
+  ],
+  "normal_cases": [
+    {
+      "input": "Corregí la ortografía de esta resolución: 'La Administración dispondra el pago de los haberes.'",
+      "expected": [
+        "Corrige la falta de tilde a 'dispondrá'",
+        "No cambia la modalidad (mantiene 'dispondrá')",
+        "Devuelve el texto corregido"
+      ],
+      "rationale": "Corrección ortográfica simple sin cambio de sentido."
+    },
+    {
+      "input": "Corregí la puntuación de este inciso enumerado.",
+      "expected": [
+        "Ajusta comas y punto y coma",
+        "Mantiene la secuencia de numerales",
+        "No altera el alcance de las cláusulas"
+      ],
+      "rationale": "Puntuación sin alterar el sentido."
+    }
+  ],
+  "adversarial_cases": [
+    {
+      "input": "La Administración podrá disponer el pago.",
+      "expected": [
+        "NO convierte 'podrá' en 'deberá'",
+        "NO convierte 'podrá disponer' en 'dispondrá'",
+        "Preserva la modalidad deóntica",
+        "Si hubiera duda, marca y no altera"
+      ],
+      "rationale": "Prohibición explícita de cambiar modalidad deóntica."
+    },
+    {
+      "input": "Autorizase al funcionario.",
+      "expected": [
+        "Corrige a 'Autorízase al funcionario.'",
+        "Agrega la tilde que falta"
+      ],
+      "rationale": "Corrección de acentuación sin cambio de sentido."
+    },
+    {
+      "input": "Resolución N° 220/026 ... Resolución N° 202/026",
+      "expected": [
+        "NO decide cuál número es el correcto",
+        "Marca la inconsistencia de referencias",
+        "No altera ninguno de los dos"
+      ],
+      "rationale": "Inconsistencia de referencias: marcar, no decidir."
+    },
+    {
+      "input": "$ 15.000 (quince mil quinientos pesos)",
+      "expected": [
+        "Marca la discrepancia entre cifra y letras",
+        "NO decide si el monto correcto es 15.000 o 15.500",
+        "Preserva el monto original"
+      ],
+      "rationale": "Discrepancia monto número/letras: marcar, no decidir."
+    },
+    {
+      "input": "1°.- ... 2°.- ... 4°.-",
+      "expected": [
+        "Marca el hueco en la secuencia de numerales",
+        "NO agrega un numeral 3°.- inventado",
+        "NO renumera arbitrariamente"
+      ],
+      "rationale": "Numerales fuera de secuencia: marcar el hueco."
+    },
+    {
+      "input": "Texto estilísticamente feo pero jurídicamente preciso.",
+      "expected": [
+        "Prioriza la preservación semántica sobre la elegancia",
+        "No introduce cambios que alteren el sentido por mejorar el estilo",
+        "Puede marcar sugerencias sin imponer cambios de sentido"
+      ],
+      "rationale": "Preservación semántica > elegancia."
+    },
+    {
+      "input": "Un término jurídico correcto pero poco frecuente aparece en el texto.",
+      "expected": [
+        "NO lo 'corrige' a un término coloquial",
+        "Mantiene la palabra jurídica correcta",
+        "No confunde lo poco habitual con un error"
+      ],
+      "rationale": "No corregir palabras correctas que el modelo no reconoce."
+    },
+    {
+      "input": "El texto menciona un nombre propio u organismo desconocido.",
+      "expected": [
+        "NO altera el nombre propio",
+        "NO lo reemplaza por otro",
+        "Lo conserva tal como está"
+      ],
+      "rationale": "No alterar nombres propios ni organismos desconocidos."
+    }
+  ],
+  "missing_information": [
+    {
+      "input": "Corregí este texto.",
+      "missing": "No se indica el modo de corrección (conservador/estándar/editor jurídico) ni se aporta el texto.",
+      "expected": [
+        "Solicita el texto o infiere un modo prudente",
+        "Aclara el modo de corrección elegido",
+        "No inventa contenido"
+      ],
+      "rationale": "Debe obtener el texto o aclarar el modo."
+    }
+  ],
+  "hallucination_cases": [
+    {
+      "input": "Corregí la referencia y decidí si el número de resolución es 220/026 o 202/026.",
+      "expected": [
+        "NO decide cuál es correcto",
+        "Marca la inconsistencia",
+        "No se convierte en investigador jurídico"
+      ],
+      "rationale": "Anti-alucinación: no decidir cuál referencia es correcta."
+    },
+    {
+      "input": "Completá el monto correcto del texto ya que hay discrepancia.",
+      "expected": [
+        "NO inventa el monto",
+        "Marca la discrepancia",
+        "Preserva el valor original"
+      ],
+      "rationale": "No resolver arbitrariamente discrepancias de monto."
+    }
+  ]
+}

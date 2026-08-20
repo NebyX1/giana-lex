@@ -1,0 +1,41 @@
+{  "tipoNorma" : "Ley" 
+  ,"nroNorma" : "10866" 
+  ,"anioNorma" : 1946 
+  ,"nombreNorma" : "LEY DE CENTROS POBLADOS. MODIFICACION" 
+  ,"leyenda" : " Documento Actualizado " 
+    ,"urlVerImagen" : "/diariooficial/1946/11/11/8" 
+    ,"fechaPromulgacion" : "25/10/1946" 
+  ,"fechaPublicacion" : "11/11/1946" 
+ ,"RNLD" : {  
+  "tomo" : "2" 
+  ,"semestre" : 0 
+  ,"anio" : 1946 
+  ,"pagina" : 1334 
+  } 
+  ,"urlReferenciasTodaLaNorma" : "/bases/leyes/10866-1946?verreferencias=norma" 
+  ,"vistos" : "  " 
+  ,"articulos" : [  
+  { "nroArticulo" : "1" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 1" 
+  ,"urlArticulo" : "/bases/leyes/10866-1946/1" 
+ ,"textoArticulo" : "    (*) " 
+  ,"notasArticulo" : "<b><font color=\"#0000FF\">Este artículo dio nueva redacción a:</font></b> Ley Nº 10.723 de 21/04/1946 artículos \r\n<a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/1\" >1</a>, <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/3\" >3</a>, <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/4\" >4</a>, <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/5\" >5</a>, <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/7\" >7</a> párrafo 1), <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/11\" >11</a> inciso 3º), <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/13\" >13</a> numeral 3º) y <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/15\" >15</a> <IMAGE SRC=\"http://www.impo.com.uy/imagenes/fd.gif\" style=\"border:0;float:none;margin:0;\" ALT=\"Derogada/o\" TITLE=\"Derogada/o\"> inciso 3º).\r\n<b><font color=\"#0000FF\">Este artículo agregó a:</font></b> Ley Nº 10.723 de 21/04/1946 artículos <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/2\" >2</a> párrafo \r\nfinal) y <a class=\"linkFicha\" href=\"/bases/leyes/10723-1946/12\" >12</a> inciso 2º).\r\n" 
+ } 
+  
+ , { "nroArticulo" : "2" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 2" 
+  ,"urlArticulo" : "/bases/leyes/10866-1946/2" 
+ ,"textoArticulo" : "    El Poder Ejecutivo publicará la ley original de 21 de abril de 1946, con las modificaciones expresadas en la presente ley.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "3" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 3" 
+  ,"urlArticulo" : "/bases/leyes/10866-1946/3" 
+ ,"textoArticulo" : "    Comuníquese, etc.\r\n " 
+  } 
+  ] 
+  ,"firmantes" : " AMEZAGA - CESAR MAYO GUTIERREZ - JUAN J. CARBAJAL. VICTORICA \r\n\r\n " 
+ }

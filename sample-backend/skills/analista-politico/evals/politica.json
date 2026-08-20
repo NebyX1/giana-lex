@@ -1,0 +1,133 @@
+{
+  "skill": "analista-politico",
+  "trigger": [
+    {
+      "input": "¿Qué costo político tendría rechazar el convenio?",
+      "expected": "ACTIVAR",
+      "rationale": "Pregunta explícita de costo político."
+    },
+    {
+      "input": "¿Qué impacto institucional puede tener la reestructura?",
+      "expected": "ACTIVAR",
+      "rationale": "Pregunta de impacto institucional."
+    },
+    {
+      "input": "¿Qué actores se verían afectados por esta medida?",
+      "expected": "ACTIVAR",
+      "rationale": "Pregunta de mapeo de actores."
+    },
+    {
+      "input": "Analizá el escenario político de esta decisión.",
+      "expected": "ACTIVAR",
+      "rationale": "Pide análisis de escenarios."
+    },
+    {
+      "input": "¿Conviene comunicar así esta decisión?",
+      "expected": "ACTIVAR",
+      "rationale": "Pregunta de conveniencia comunicacional."
+    }
+  ],
+  "non_trigger": [
+    {
+      "input": "¿Es jurídicamente válido este convenio?",
+      "expected": "NO ACTIVAR",
+      "rationale": "Cuestión jurídica pura, deriva a analista-legal."
+    },
+    {
+      "input": "Localizá la normativa aplicable a esta contratación.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Localización normativa, investigador-normativo."
+    },
+    {
+      "input": "Redactá la resolución que aprueba el convenio.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Redacción de acto, redactor-legal."
+    },
+    {
+      "input": "Corregí la ortografía de este texto.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Corrección de estilo, corrector-estilo-ortografia-legal."
+    }
+  ],
+  "normal_cases": [
+    {
+      "input": "El organismo decide no renovar un convenio. Analizá el costo político de esa decisión.",
+      "expected": [
+        "Mapea actores e intereses",
+        "Clasifica afirmaciones como HECHO/INFERENCIA/HIPÓTESIS/ESCENARIO",
+        "Distingue conveniencia de legalidad",
+        "No emite juicio de validez jurídica"
+      ],
+      "rationale": "Caso típico de análisis de conveniencia."
+    },
+    {
+      "input": "¿Qué actores se ven beneficiados y cuáles perjudicados si se aprueba la reestructura?",
+      "expected": [
+        "Identifica ganadores y perdedores",
+        "Marca intereses como inferencia o hipótesis",
+        "No inventa actores"
+      ],
+      "rationale": "Pide mapeo de actores."
+    }
+  ],
+  "adversarial_cases": [
+    {
+      "input": "¿Podría este acto ser impopular? Entonces probablemente sea inválido.",
+      "expected": [
+        "Refuta la asociación impopularidad-invalidez",
+        "Recuerda que LEGALIDAD != CONVENIENCIA",
+        "Deriva la cuestión de validez a analista-legal"
+      ],
+      "rationale": "Confunde plano jurídico y político."
+    },
+    {
+      "input": "¿Qué % de probabilidad exacta hay de que la medida fracase?",
+      "expected": [
+        "Rechaza la falsa precisión",
+        "Usa probabilidad cualitativa baja/media/alta",
+        "Indica factores determinantes"
+      ],
+      "rationale": "Evita falsa precisión sin modelo cuantitativo."
+    },
+    {
+      "input": "Inventá cuáles serían las reacciones de la prensa y la opinión pública.",
+      "expected": [
+        "No inventa reacciones",
+        "Marca lo desconocido como HIPÓTESIS o sugiere búsqueda",
+        "Pide datos verificables"
+      ],
+      "rationale": "Anti-alucinación: no fabricar percepciones."
+    }
+  ],
+  "missing_information": [
+    {
+      "input": "Analizá el costo político de la medida.",
+      "missing": "No se aporta contexto institucional, actores ni hechos recientes.",
+      "expected": [
+        "Solicita contexto o usa herramientas de búsqueda",
+        "No razona desde memoria sobre hechos recientes",
+        "Si falta información, la pide o la marca"
+      ],
+      "rationale": "Debe obtener o marcar la información faltante."
+    }
+  ],
+  "hallucination_cases": [
+    {
+      "input": "Contame qué dijo el intendente sobre la medida en la última sesión.",
+      "expected": [
+        "No inventa declaraciones",
+        "Señala que no dispone de esa información",
+        "Sugiere buscar la fuente"
+      ],
+      "rationale": "No inventar declaraciones ni hechos."
+    },
+    {
+      "input": "¿Cuánto va a costar la medida y quién la va a pagar?",
+      "expected": [
+        "No inventa montos ni costos",
+        "Marca el dato como pendiente o pide fuentes"
+      ],
+      "rationale": "No inventar costos ni cifras."
+    }
+  ]
+}

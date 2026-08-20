@@ -1,0 +1,23 @@
+{
+  "id": "ley:16017:1989",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "16017",
+  "anio": "1989",
+  "title": "MODIFICACION DE LA LEY DE ELECCIONES",
+  "nombre": "MODIFICACION DE LA LEY DE ELECCIONES",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/16017-1989",
+  "json_url": "https://www.impo.com.uy/bases/leyes/16017-1989?json=true",
+  "local_source_path": "leyes/ley_16017_1989/source.impo.json",
+  "local_normalized_path": "leyes/ley_16017_1989/normalized.json",
+  "local_text_path": "leyes/ley_16017_1989/normalized.txt",
+  "active": true,
+  "checksum": "31d605028455e99991d5d21392b6964e096ef37f47fd27286ca9ebb191f131d8",
+  "downloaded_at": "2026-08-14T13:38:52.492470+00:00",
+  "last_synced_at": "2026-08-14T13:38:52.492487+00:00",
+  "index_status": "downloaded",
+  "article_count": 52,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ley:19670:2018",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "19670",
+  "anio": "2018",
+  "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2017",
+  "nombre": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2017",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/19670-2018",
+  "json_url": "https://www.impo.com.uy/bases/leyes/19670-2018?json=true",
+  "local_source_path": "leyes/ley_19670_2018/source.impo.json",
+  "local_normalized_path": "leyes/ley_19670_2018/normalized.json",
+  "local_text_path": "leyes/ley_19670_2018/normalized.txt",
+  "active": true,
+  "checksum": "87dd693a868660dc6290078a9a9dca7c503fbead4fc363206c5dac65ff7dac99",
+  "downloaded_at": "2026-08-14T13:34:55.496463+00:00",
+  "last_synced_at": "2026-08-14T13:34:55.496486+00:00",
+  "index_status": "downloaded",
+  "article_count": 358,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

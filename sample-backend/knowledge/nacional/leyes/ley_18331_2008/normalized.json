@@ -1,0 +1,531 @@
+{
+  "tipo": "Ley",
+  "numero": "18331",
+  "anio": "2008",
+  "nombre": "LEY DE PROTECCION DE DATOS PERSONALES",
+  "leyenda": "Documento Actualizado",
+  "fechaPromulgacion": "11/08/2008",
+  "fechaPublicacion": "18/08/2008",
+  "vistos": "",
+  "referenciasNorma": "Reglamentada por: Decreto Nº 414/009 de 31/08/2009.\nVer: Ley Nº 19.438 de 14/10/2016 artículo 189 (declara que se exceptua a\nUTE, ANTEL y OSE, de las limitaciones para brindar información a los\nGobiernos Departamentales).",
+  "indexacionNorma": "",
+  "articulos": [
+    {
+      "nroArticulo": "1",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 1",
+      "textoArticulo": "Derecho Humano.- El derecho a la protección de datos personales es\ninherente a la persona humana, por lo que está comprendido en el artículo\n72 de la Constitución de la República.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/1"
+    },
+    {
+      "nroArticulo": "2",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 2",
+      "textoArticulo": "Ambito subjetivo.- El derecho a la protección de los datos personales se\naplicará por extensión a las personas jurídicas, en cuanto corresponda.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/2"
+    },
+    {
+      "nroArticulo": "3",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 3",
+      "textoArticulo": "Ambito objetivo.- El régimen de la presente ley será de aplicación a los\ndatos personales registrados en cualquier soporte que los haga\nsusceptibles de tratamiento, y a toda modalidad de uso posterior de estos\ndatos por los ámbitos público o privado.\nNo será de aplicación a las siguientes bases de datos:\nA) A las mantenidas por personas físicas en el ejercicio de\nactividades exclusivamente personales o domésticas.\nB) Las que tengan por objeto la seguridad pública, la defensa, la\nseguridad del Estado y sus actividades en materia penal, investigación\ny represión del delito.\nC) A las bases de datos creadas y reguladas por leyes especiales.",
+      "notasArticulo": "Literal C) reglamentado por: Decreto Nº 437/009 de 28/09/2009.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/3"
+    },
+    {
+      "nroArticulo": "4",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 4",
+      "textoArticulo": "Definiciones.- A los efectos de la presente ley se entiende por:\nA) Base de datos: indistintamente, designan al conjunto organizado de\ndatos personales que sean objeto de tratamiento o procesamiento,\nelectrónico o no, cualquiera que fuere la modalidad de su formación,\nalmacenamiento, organización o acceso.\nB) Comunicación de datos: toda revelación de datos realizada a una\npersona distinta del titular de los datos.\nC) Consentimiento del titular: toda manifestación de voluntad, libre,\ninequívoca, específica e informada, mediante la cual el titular\nconsienta el tratamiento de datos personales que le concierne.\nD) Dato personal: información de cualquier tipo referida a personas\nfísicas o jurídicas determinadas o determinables.\nE) Dato sensible: datos personales que revelen origen racial y étnico,\npreferencias políticas, convicciones religiosas o morales, afiliación\nsindical e informaciones referentes a la salud o a la vida sexual.\nF) Destinatario: persona física o jurídica, pública o privada, que\nrecibiere comunicación de datos, se trate o no de un tercero.\nG) Disociación de datos: todo tratamiento de datos personales de\nmanera que la información obtenida no pueda vincularse a persona\ndeterminada o determinable.\nH) Encargado del tratamiento: persona física o jurídica, pública o\nprivada, que sola o en conjunto con otros trate datos personales por\ncuenta del responsable de la base de datos o del tratamiento.\nI) Fuentes accesibles al público: aquellas bases de datos cuya\nconsulta puede ser realizada por cualquier persona, no impedida por una\nnorma limitativa o sin más exigencia que, en su caso, el abono de una\ncontraprestación.\nJ) Tercero: la persona física o jurídica, pública o privada, distinta\ndel titular del dato, del responsable de la base de datos o\ntratamiento, del encargado y de las personas autorizadas para tratar\nlos datos bajo la autoridad directa del responsable o del encargado del\ntratamiento.\nK) Responsable de la base de datos o del tratamiento: persona física o\njurídica, pública o privada, propietaria de la base de datos o que\ndecida sobre la finalidad, contenido y uso del tratamiento.\nL) Titular de los datos: persona cuyos datos sean objeto de un\ntratamiento incluido dentro del ámbito de acción de la presente ley.\nM) Tratamiento de datos: operaciones y procedimientos sistemáticos, de\ncarácter automatizado o no, que permitan el procesamiento de datos\npersonales, así como también su cesión a terceros a través de\ncomunicaciones, consultas, interconexiones o transferencias.\nN) Usuario de datos: toda persona, pública o privada, que realice a su\narbitrio el tratamiento de datos, ya sea en una base de datos propia o\na través de conexión con los mismos.\nÑ) Datos biométricos: datos personales obtenidos a partir de un\ntratamiento técnico específico, relativos a las características\nfísicas, fisiológicas o conductuales de una persona física que\npermitan o confirmen la identificación única de dicha persona tales\ncomo datos dactiloscópicos, reconocimiento de imagen o voz. (*)",
+      "notasArticulo": "Literal Ñ) ver vigencia: Ley Nº 19.924 de 18/12/2020 artículo 3.\nLiteral Ñ) agregado/s por: Ley Nº 19.924 de 18/12/2020 artículo 86.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/4"
+    },
+    {
+      "nroArticulo": "5",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 5",
+      "textoArticulo": "Valor y fuerza.- La actuación de los responsables de las bases de datos,\ntanto públicos como privados, y, en general, de todos quienes actúen en\nrelación a datos personales de terceros, deberá ajustarse a los siguientes\nprincipios generales:\nA) Legalidad.\nB) Veracidad.\nC) Finalidad.\nD) Previo consentimiento informado.\nE) Seguridad de los datos.\nF) Reserva.\nG) Responsabilidad.\nDichos principios generales servirán también de criterio interpretativo\npara resolver las cuestiones que puedan suscitarse en la aplicación de las\ndisposiciones pertinentes.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/5"
+    },
+    {
+      "nroArticulo": "6",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 6",
+      "textoArticulo": "Principio de legalidad.- La formación de bases de datos será lícita\ncuando se encuentren debidamente inscriptas, observando en su operación\nlos principios que establecen la presente ley y las reglamentaciones que\nse dicten en consecuencia.\nLas bases de datos no pueden tener finalidades violatorias de derechos\nhumanos o contrarias a las leyes o a la moral pública.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/6"
+    },
+    {
+      "nroArticulo": "7",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 7",
+      "textoArticulo": "Principio de veracidad.- Los datos personales que se recogieren a los\nefectos de su tratamiento deberán ser veraces, adecuados, ecuánimes y no\nexcesivos en relación con la finalidad para la cual se hubieren obtenido.\nLa recolección de datos no podrá hacerse por medios desleales,\nfraudulentos, abusivos, extorsivos o en forma contraria a las\ndisposiciones a la presente ley.\nLos datos deberán ser exactos y actualizarse en el caso en que ello fuere\nnecesario.\nCuando se constate la inexactitud o falsedad de los datos, el responsable\ndel tratamiento, en cuanto tenga conocimiento de dichas circunstancias,\ndeberá suprimirlos, sustituirlos o completarlos por datos exactos, veraces\ny actualizados. Asimismo, deberán ser eliminados aquellos datos que hayan\ncaducado de acuerdo a lo previsto en la presente ley.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/7"
+    },
+    {
+      "nroArticulo": "8",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 8",
+      "textoArticulo": "Principio de finalidad.- Los datos objeto de tratamiento no podrán ser\nutilizados para finalidades distintas o incompatibles con aquellas que\nmotivaron su obtención.\nLos datos deberán ser eliminados cuando hayan dejado de ser necesarios o\npertinentes a los fines para los cuales hubieren sido recolectados.\nLa reglamentación determinará los casos y procedimientos en los que, por\nexcepción, y atendidos los valores históricos, estadísticos o científicos,\ny de acuerdo con la legislación específica, se conserven datos personales\naún cuando haya perimido tal necesidad o pertinencia.\nTampoco podrán comunicarse datos entre bases de datos, sin que medie ley o\nprevio consentimiento informado del titular.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/8"
+    },
+    {
+      "nroArticulo": "9",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 9",
+      "textoArticulo": "Principio del previo consentimiento informado.- El tratamiento de datos\npersonales es lícito cuando el titular hubiere prestado su consentimiento\nlibre, previo, expreso e informado, el que deberá documentarse.\nEl referido consentimiento prestado con otras declaraciones, deberá figurar en forma expresa y destacada, previa notificación al requerido de datos, de la información descrita en el artículo 13 de la presente\nley. (*)\nNo será necesario el previo consentimiento cuando:\nA) Los datos provengan de fuentes públicas de información, tales como\nregistros o publicaciones en medios masivos de comunicación.\nB) Se recaben para el ejercicio de funciones propias de los poderes\ndel Estado o en virtud de una obligación legal.\nC) Se trate de listados cuyos datos se limiten en el caso de personas\nfísicas a nombres y apellidos, documento de identidad, nacionalidad,\ndomicilio y fecha de nacimiento. En el caso de personas jurídicas,\nrazón social, nombre de fantasía, registro único de contribuyentes,\ndomicilio, teléfono e identidad de las personas a cargo de la misma.\nD) Deriven de una relación contractual, científica o profesional del\ntitular de los datos, y sean necesarios para su desarrollo o\ncumplimiento.\nE) Se realice por personas físicas para su uso exclusivo personal,\nindividual o doméstico. (*)",
+      "notasArticulo": "Inciso 2º) redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152.\nInciso 3º) literal E) redacción dada por: Ley Nº 18.719 de 27/12/2010\nartículo 156.\nVer en esta norma, artículos: 17 y 18 - BIS.\nVer: Ley Nº 19.355 de 19/12/2015 artículo 84 (interpretativo).\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 9.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/9"
+    },
+    {
+      "nroArticulo": "9",
+      "secArticulo": "BIS",
+      "tituloArticulo": "Artículo 9-BIS",
+      "textoArticulo": "A los efectos de lo dispuesto por el literal I) del artículo 4°, por\nel literal A) del inciso tercero del artículo 9° y por los artículos 11,\n21 y 22 de la presente ley, se consideran como públicas o accesibles al\npúblico, las siguientes fuentes o documentos:\nA) El Diario Oficial y las publicaciones oficiales, cualquiera sea su\nsoporte de registro o canal de comunicación.\nB) Las publicaciones en medios masivos de comunicación, entendiendo\npor tales los provenientes de la prensa, cualquiera sea el soporte\nen el que figuren o el canal a través del cual se practique la\ncomunicación.\nC) Las guías, anuarios, directorios y similares en los que figuren\nnombres y domicilios, u otros datos personales que hayan sido\nincluidos con el consentimiento del titular.\nD) Todo otro registro o publicación en el que prevalezca el interés\ngeneral en cuanto a que los datos personales en ellos contenidos\npuedan ser consultados, difundidos o utilizados por parte de\nterceros. En caso contrario, se podrá hacer uso del registro o\npublicación mediante técnicas de disociación u ocultamiento de los\ndatos personales.\nLa Unidad Reguladora de Control de Datos Personales, de oficio o a\nsolicitud de cualquier interesado, se expedirá sobre el derecho a la protección de datos personales, en situaciones relacionadas con los apartados precedentes literales A) y B) del inciso primero del artículo 34 de la presente ley. (*)",
+      "notasArticulo": "Ver vigencia: Ley Nº 18.996 de 07/11/2012 artículo 2.\nAgregado/s por: Ley Nº 18.996 de 07/11/2012 artículo 43.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/9_BIS"
+    },
+    {
+      "nroArticulo": "10",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 10",
+      "textoArticulo": "Principio de seguridad de los datos.- El responsable o usuario de la base\nde datos debe adoptar las medidas que resultaren necesarias para\ngarantizar la seguridad y confidencialidad de los datos personales. Dichas\nmedidas tendrán por objeto evitar su adulteración, pérdida, consulta o\ntratamiento no autorizado, así como detectar desviaciones de información,\nintencionales o no, ya sea que los riesgos provengan de la acción humana o\ndel medio técnico utilizado.\nLos datos deberán ser almacenados de modo que permitan el ejercicio del\nderecho de acceso de su titular.\nQueda prohibido registrar datos personales en bases de datos que no reúnan\ncondiciones técnicas de integridad y seguridad.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/10"
+    },
+    {
+      "nroArticulo": "11",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 11",
+      "textoArticulo": "Principio de reserva.- Aquellas personas físicas o jurídicas que\nobtuvieren legítimamente información proveniente de una base de datos que\nles brinde tratamiento, están obligadas a utilizarla en forma reservada y\nexclusivamente para las operaciones habituales de su giro o actividad,\nestando prohibida toda difusión de la misma a terceros.\nLas personas que, por su situación laboral u otra forma de relación con el\nresponsable de una base de datos, tuvieren acceso o intervengan en\ncualquier fase del tratamiento de datos personales, están obligadas a\nguardar estricto secreto profesional sobre los mismos (artículo 302 del\nCódigo Penal), cuando hayan sido recogidos de fuentes no accesibles al\npúblico. Lo previsto no será de aplicación en los casos de orden de la\nJusticia competente, de acuerdo con las normas vigentes en esta materia o\nsi mediare consentimiento del titular.\nEsta obligación subsistirá aún después de finalizada la relación con el\nresponsable de la base de datos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/11"
+    },
+    {
+      "nroArticulo": "12",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 12",
+      "textoArticulo": "(Principio de responsabilidad).- El responsable de la base de datos o tratamiento y el encargado, en su caso, serán responsables de la violación\nde las disposiciones de la presente ley.\n\nEn ejercicio de una responsabilidad proactiva, deberán adoptar las\nmedidas técnicas y organizativas apropiadas: privacidad desde el diseño,\nprivacidad por defecto, evaluación de impacto a la protección de datos,\nentre otras, a fin de garantizar un tratamiento adecuado de los datos\npersonales y demostrar su efectiva implementación.\n\nLa reglamentación determinará las medidas que correspondan según los\ntipos de datos, tratamientos y responsables, así como la oportunidad para\nsu revisión y actualización. (*)",
+      "notasArticulo": "Redacción dada por: Ley Nº 19.670 de 15/10/2018 artículo 39.\nVer vigencia: Ley Nº 19.670 de 15/10/2018 artículo 2.\nReglamentado por: Decreto Nº 64/020 de 17/02/2020.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 12.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/12"
+    },
+    {
+      "nroArticulo": "13",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 13",
+      "textoArticulo": "Derecho de información frente al tratamiento y recolección de datos. Cuando se recaben datos personales se deberá informar previamente a sus titulares en forma expresa, precisa e inequívoca:\n\nA) La finalidad para la que serán tratados y quiénes pueden ser sus\ndestinatarios o clase de destinatarios.\n\nB) La existencia de la base de datos, electrónico o de cualquier otro\ntipo, de que se trate, la identidad y domicilio de su responsable.\n\nC) El carácter obligatorio o facultativo de las respuestas al\ncuestionario que se le proponga, en especial en cuanto a los datos\nsensibles.\n\nD) Las consecuencias de proporcionar los datos y de la negativa a\nhacerlo o su inexactitud.\n\nE) La posibilidad del titular de ejercer los derechos previstos en\nlos artículos 14 a 16 de la presente ley.\n\nF) La existencia o no de transferencias internacionales de datos.\n\nG) En el caso de tratamientos automatizados de datos regulados por el\nartículo 16 de la presente ley, los criterios de valoración, los\nprocesos aplicados y la solución tecnológica o el programa\nutilizado.\n\nCuando los datos personales no sean recolectados directamente de sus\ntitulares, la información referida en el presente artículo les deberá\nser proporcionada a estos en un plazo de cinco días hábiles de\nrecibida la solicitud por parte de los responsables. El incumplimiento\nhabilitará al titular a realizar las acciones que correspondan.\n\nEl órgano de control podrá establecer condiciones específicas para la\npublicidad permanente de la información indicada en el presente\nartículo, cuando las condiciones técnicas y el tipo de tratamiento\nrealizado así lo permitan. (*)",
+      "notasArticulo": "Redacción dada por: Ley Nº 20.075 de 20/10/2022 artículo 62.\nVer vigencia: Ley Nº 20.075 de 20/10/2022 artículo 5.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 13.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/13"
+    },
+    {
+      "nroArticulo": "14",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 14",
+      "textoArticulo": "Derecho de acceso.- Todo titular de datos personales que previamente\nacredite su identificación con el documento de identidad o poder\nrespectivo, tendrá derecho a obtener toda la información que sobre sí\nmismo se halle en bases de datos públicas o privadas. Este derecho de\nacceso sólo podrá ser ejercido en forma gratuita a intervalos de seis\nmeses, salvo que se hubiere suscitado nuevamente un interés legítimo de\nacuerdo con el ordenamiento jurídico.\nCuando se trate de datos de personas fallecidas, el ejercicio del derecho al cual refiere este artículo, corresponderá a cualesquiera de sus sucesores universales, cuyo carácter se acreditará debidamente. (*)\nLa información debe ser proporcionada dentro de los cinco días hábiles de\nhaber sido solicitada. Vencido el plazo sin que el pedido sea satisfecho o\nsi fuera denegado por razones no justificadas de acuerdo con esta ley,\nquedará habilitada la acción de habeas data.\nLa información debe ser suministrada en forma clara, exenta de\ncodificaciones y en su caso acompañada de una explicación, en lenguaje\naccesible al conocimiento medio de la población, de los términos que se\nutilicen.\nLa información debe ser amplia y versar sobre la totalidad del registro\nperteneciente al titular, aún cuando el requerimiento sólo comprenda un\naspecto de los datos personales. En ningún caso el informe podrá revelar\ndatos pertenecientes a terceros, aún cuando se vinculen con el interesado.\nLa información, a opción del titular, podrá suministrarse por escrito, por medios electrónicos, telefónicos, de imagen, u otro idóneo a tal fin.",
+      "notasArticulo": "Inciso 2º) redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 14.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/14"
+    },
+    {
+      "nroArticulo": "15",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 15",
+      "textoArticulo": "Derecho de rectificación, actualización, inclusión o supresión.- Toda\npersona física o jurídica tendrá derecho a solicitar la rectificación,\nactualización, inclusión o supresión de los datos personales que le\ncorresponda incluidos en una base de datos, al constatarse error o\nfalsedad o exclusión en la información de la que es titular.\nEl responsable de la base de datos o del tratamiento deberá proceder a\nrealizar la rectificación, actualización, inclusión o supresión, mediante\nlas operaciones necesarias a tal fin en un plazo máximo de cinco días\nhábiles de recibida la solicitud por el titular del dato o, en su caso,\ninformar de las razones por las que estime no corresponde.\nEl incumplimiento de esta obligación por parte del responsable de la base\nde datos o del tratamiento o el vencimiento del plazo, habilitará al\ntitular del dato a promover la acción de habeas data prevista en esta ley.\nProcede la eliminación o supresión de datos personales en los siguientes casos:\n\nA) Perjuicios a los derechos e intereses legítimos de terceros.\nB) Notorio error.\nC) Contravención a lo establecido por una obligación legal. (*)\n\nDurante el proceso de verificación, rectificación o inclusión de datos\npersonales, el responsable de la base de datos o tratamiento, ante el\nrequerimiento de terceros por acceder a informes sobre los mismos, deberá\ndejar constancia que dicha información se encuentra sometida a revisión.\nEn el supuesto de comunicación o transferencia de datos, el responsable de la base de datos o del tratamiento debe notificar la rectificación,\ninclusión o supresión al destinatario dentro del quinto día hábil de\nefectuado el tratamiento del dato.\nLa rectificación, actualización, inclusión, eliminación o supresión de\ndatos personales cuando corresponda, se efectuará sin cargo alguno para el\ntitular.",
+      "notasArticulo": "Inciso 4º) redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 15.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/15"
+    },
+    {
+      "nroArticulo": "16",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 16",
+      "textoArticulo": "(Derecho a la impugnación de valoraciones personales).- Las personas tienen derecho a no verse sometidas a una decisión con efectos jurídicos que les afecte de manera significativa, que se base en un tratamiento automatizado de datos destinado a evaluar determinados aspectos de su personalidad, como su rendimiento laboral, crédito, fiabilidad, conducta, entre otros.\n\nEl afectado podrá impugnar los actos administrativos o decisiones\nprivadas que impliquen una valoración de su comportamiento, cuyo único\nfundamento sea un tratamiento de datos personales que ofrezca una\ndefinición de sus características o personalidad.\n\nEn este caso, el afectado tendrá derecho a obtener información del\nresponsable de la base de datos tanto sobre los criterios de valoración\ncomo sobre el programa utilizado en el tratamiento que sirvió para adoptar\nla decisión manifestada en el acto. (*)",
+      "notasArticulo": "Redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152.\nVer en esta norma, artículo: 34.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 16.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/16"
+    },
+    {
+      "nroArticulo": "17",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 17",
+      "textoArticulo": "Derechos referentes a la comunicación de datos.- Los datos personales\nobjeto de tratamiento sólo podrán ser comunicados para el cumplimiento de\nlos fines directamente relacionados con el interés legítimo del emisor y\ndel destinatario y con el previo consentimiento del titular de los datos,\nal que se le debe informar sobre la finalidad de la comunicación e\nidentificar al destinatario o los elementos que permitan hacerlo.\nEl previo consentimiento para la comunicación es revocable.\nEl previo consentimiento no será necesario cuando:\nA) así lo disponga una ley de interés general.\nB) en los supuestos del artículo 9° de la presente ley.\nC) se trate de datos personales relativos a la salud y sea necesaria\nsu comunicación por razones sanitarias, de emergencia o para la realización de estudios epidemiológicos, preservando la identidad de los\ntitulares de los datos mediante mecanismos de disociación adecuados cuando\nello sea pertinente. (*)\nD) se hubiera aplicado un procedimiento de disociación de la\ninformación, de modo que los titulares de los datos no sean\nidentificables.\n\nEl destinatario quedará sujeto a las mismas obligaciones legales y\nreglamentarias del emisor y éste responderá solidaria y conjuntamente por\nla observancia de las mismas ante el organismo de control y el titular de\nlos datos de que se trate.",
+      "notasArticulo": "Literal C) del inciso 3º) redacción dada por: Ley Nº 18.719 de 27/12/2010\nartículo 153.\nVer: Ley Nº 19.355 de 19/12/2015 artículo 84 (interpretativo).\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 17.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/17"
+    },
+    {
+      "nroArticulo": "18",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 18",
+      "textoArticulo": "Datos sensibles.- Ninguna persona puede ser obligada a proporcionar datos\nsensibles. Estos sólo podrán ser objeto de tratamiento con el\nconsentimiento expreso y escrito del titular.\nLos datos sensibles sólo pueden ser recolectados y objeto de tratamiento\ncuando medien razones de interés general autorizadas por ley, o cuando el\norganismo solicitante tenga mandato legal para hacerlo. También podrán ser\ntratados con finalidades estadísticas o científicas cuando se disocien de\nsus titulares.\nQueda prohibida la formación de bases de datos que almacenen información\nque directa o indirectamente revele datos sensibles. Se exceptúan aquellos\nque posean los partidos políticos, sindicatos, iglesias, confesiones\nreligiosas, asociaciones, fundaciones y otras entidades sin fines de\nlucro, cuya finalidad sea política, religiosa, filosófica, sindical, que\nhagan referencia al origen racial o étnico, a la salud y a la vida sexual,\nen cuanto a los datos relativos a sus asociados o miembros, sin perjuicio\nque la comunicación de dichos datos precisará siempre el previo\nconsentimiento del titular del dato.\nLos datos personales relativos a la comisión de infracciones penales,\nciviles o administrativas sólo pueden ser objeto de tratamiento por parte\nde las autoridades públicas competentes, en el marco de las leyes y\nreglamentaciones respectivas, sin perjuicio de las autorizaciones que la\nley otorga u otorgare. Nada de lo establecido en esta ley impedirá a las\nautoridades públicas comunicar o hacer pública la identidad de las\npersonas físicas o jurídicas que estén siendo investigadas por, o hayan\ncometido, infracciones a la normativa vigente, en los casos en que otras\nnormas lo impongan o en los que lo consideren conveniente.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/18"
+    },
+    {
+      "nroArticulo": "18",
+      "secArticulo": "BIS",
+      "tituloArticulo": "Artículo 18-BIS",
+      "textoArticulo": "(Datos biométricos).- Los datos biométricos regulados en la presente ley podrán ser objeto de tratamiento en el marco de lo dispuesto en el artículo 9° de la presente ley, previa realización de una evaluación de impacto en la protección de datos personales. (*)",
+      "notasArticulo": "Ver vigencia: Ley Nº 19.924 de 18/12/2020 artículo 3.\nAgregado/s por: Ley Nº 19.924 de 18/12/2020 artículo 87.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/18_BIS"
+    },
+    {
+      "nroArticulo": "19",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 19",
+      "textoArticulo": "Datos relativos a la salud.- Los establecimientos sanitarios públicos o\nprivados y los profesionales vinculados a las ciencias de la salud pueden\nrecolectar y tratar los datos personales relativos a la salud física o\nmental de los pacientes que acudan a los mismos o que estén o hubieren\nestado bajo tratamiento de aquéllos, respetando los principios del secreto\nprofesional, la normativa específica y lo establecido en la presente ley.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/19"
+    },
+    {
+      "nroArticulo": "20",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 20",
+      "textoArticulo": "Datos relativos a las telecomunicaciones.- Los operadores que exploten\nredes públicas o que presten servicios de comunicaciones electrónicas\ndisponibles al público deberán garantizar, en el ejercicio de su\nactividad, la protección de los datos personales conforme a la presente\nley.\nAsimismo, deberán adoptar las medidas técnicas y de gestiones adecuadas\npara preservar la seguridad en la explotación de su red o en la prestación\nde sus servicios, con el fin de garantizar sus niveles de protección de\nlos datos personales que sean exigidos por la normativa de desarrollo de\nesta ley en esta materia. En caso de que exista un riesgo particular de\nviolación de la seguridad de la red pública de comunicaciones\nelectrónicas, el operador que explote dicha red o preste el servicio de\ncomunicaciones electrónicas informará a los abonados sobre dicho riesgo y\nsobre las medidas a adoptar.\nLa regulación contenida en esta ley se entiende sin perjuicio de lo\nprevisto en la normativa específica sobre telecomunicaciones relacionadas\ncon la seguridad pública y la defensa nacional.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/20"
+    },
+    {
+      "nroArticulo": "21",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 21",
+      "textoArticulo": "(Datos relativos a bases de datos con fines de publicidad).- En la recopilación de domicilios, reparto de documentos, publicidad, prospección comercial, venta u otras actividades análogas, se podrán tratar datos que sean aptos para establecer perfiles determinados con fines promocionales, comerciales o publicitarios; o permitan establecer hábitos de consumo, cuando éstos figuren en documentos accesibles al público o hayan sido facilitados por los propios titulares u obtenidos con su consentimiento. (*)\nEn los supuestos contemplados en el presente artículo, el titular de los\ndatos podrá ejercer el derecho de acceso sin cargo alguno.\nEl titular podrá en cualquier momento solicitar el retiro o bloqueo de sus datos de los bancos de datos a los que se refiere el presente artículo.",
+      "notasArticulo": "Inciso 1º) redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 21.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/21"
+    },
+    {
+      "nroArticulo": "22",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 22",
+      "textoArticulo": "(Datos relativos a la actividad comercial o crediticia).- Queda expresamente autorizado el tratamiento de datos destinado a informar sobre la solvencia patrimonial o crediticia, incluyendo aquellos relativos al cumplimiento o incumplimiento de obligaciones de carácter comercial o crediticia que permitan evaluar la concertación de negocios en general, la conducta comercial o la capacidad de pago del titular de los datos, en aquellos casos en que los mismos sean obtenidos de fuentes de acceso público o procedentes de informaciones facilitadas por el acreedor o en las circunstancias previstas en la presente ley. Para el caso de las personas jurídicas, además de las circunstancias previstas en la presente ley, se permite el tratamiento de toda información autorizada por la normativa vigente. (*)\nLos datos personales relativos a obligaciones de carácter comercial de\npersonas físicas sólo podrán estar registrados por un plazo de cinco años\ncontados desde su incorporación. En caso que al vencimiento de dicho plazo\nla obligación permanezca incumplida, el acreedor podrá solicitar al\nresponsable de la base de datos, por única vez, su nuevo registro por\notros cinco años. Este nuevo registro deberá ser solicitado en el plazo de\ntreinta días anteriores al vencimiento original. Las obligaciones\ncanceladas o extinguidas por cualquier medio, permanecerán registradas,\ncon expresa mención de este hecho, por un plazo máximo de cinco años, no\nrenovable, a contar de la fecha de la cancelación o extinción.\nLos responsables de las bases de datos se limitarán a realizar el\ntratamiento objetivo de la información registrada tal cual ésta le fuera\nsuministrada, debiendo abstenerse de efectuar valoraciones subjetivas\nsobre la misma.\nCuando se haga efectiva la cancelación de cualquier obligación incumplida\nregistrada en una base de datos, el acreedor deberá en un plazo máximo de\ncinco días hábiles de acontecido el hecho, comunicarlo al responsable de\nla base de datos o tratamiento correspondiente. Una vez recibida la\ncomunicación por el responsable de la base de datos o tratamiento, éste\ndispondrá de un plazo máximo de tres días hábiles para proceder a la\nactualización del dato, asentando su nueva situación.",
+      "notasArticulo": "Inciso 1º) redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152.\nVer en esta norma, artículo: 29.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 22.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/22"
+    },
+    {
+      "nroArticulo": "23",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 23",
+      "textoArticulo": "Datos transferidos internacionalmente.- Se prohíbe la transferencia de\ndatos personales de cualquier tipo con países u organismos internacionales\nque no proporcionen niveles de protección adecuados de acuerdo a los\nestándares del Derecho Internacional o Regional en la materia.\nLa prohibición no regirá cuando se trate de:\n1) Cooperación judicial internacional, de acuerdo al respectivo\ninstrumento internacional, ya sea Tratado o Convención, atendidas las\ncircunstancias del caso.\n2) Intercambio de datos de carácter médico, cuando así lo exija el\ntratamiento del afectado por razones de salud o higiene públicas.\n3) Transferencias bancarias o bursátiles, en lo relativo a las\ntransacciones respectivas y conforme la legislación que les resulte\naplicable.\n4) Acuerdos en el marco de tratados internacionales en los cuales la\nRepública Oriental del Uruguay sea parte.\n5) Cooperación internacional entre organismos de inteligencia para la\nlucha contra el crimen organizado, el terrorismo y el narcotráfico.\n\nTambién será posible realizar la transferencia internacional de datos en\nlos siguientes supuestos:\nA) Que el interesado haya dado su consentimiento inequívocamente a la\ntransferencia prevista.\nB) Que la transferencia sea necesaria para la ejecución de un contrato\nentre el interesado y el responsable del tratamiento o para la\nejecución de medidas precontractuales tomadas a petición del\ninteresado.\nC) Que la transferencia sea necesaria para la celebración o ejecución\nde un contrato celebrado o por celebrar en interés del interesado,\nentre el responsable del tratamiento y un tercero.\nD) Que la transferencia sea necesaria o legalmente exigida para la\nsalvaguardia de un interés público importante, o para el\nreconocimiento, ejercicio o defensa de un derecho en un procedimiento\njudicial.\nE) Que la transferencia sea necesaria para la salvaguardia del interés\nvital del interesado.\nF) Que la transferencia tenga lugar desde un registro que, en virtud\nde disposiciones legales o reglamentarias, esté concebido para\nfacilitar información al público y esté abierto a la consulta por el\npúblico en general o por cualquier persona que pueda demostrar un\ninterés legítimo, siempre que se cumplan, en cada caso particular, las\ncondiciones que establece la ley para su consulta.\nSin perjuicio de lo dispuesto en el primer inciso de este artículo, la\nUnidad Reguladora y de Control de Protección de Datos Personales podrá\nautorizar una transferencia o una serie de transferencias de datos\npersonales a un tercer país que no garantice un nivel adecuado de\nprotección, cuando el responsable del tratamiento ofrezca garantías\nsuficientes respecto a la protección de la vida privada, de los derechos y\nlibertades fundamentales de las personas, así como respecto al ejercicio\nde los respectivos derechos.\nDichas garantías podrán derivarse de cláusulas contractuales apropiadas.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/23"
+    },
+    {
+      "nroArticulo": "24",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 24",
+      "textoArticulo": "Creación, modificación o supresión.- La creación, modificación o\nsupresión de bases de datos pertenecientes a organismos públicos deberán\nregistrarse conforme lo previsto en el capítulo siguiente.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/24"
+    },
+    {
+      "nroArticulo": "25",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 25",
+      "textoArticulo": "Base de datos correspondientes a las Fuerzas Armadas, Organismos\nPoliciales o de Inteligencia.- Quedarán sujetos al régimen de la presente\nley, los datos personales que por haberse almacenado para fines\nadministrativos, deban ser objeto de registro permanente en las bases de\ndatos de las fuerzas armadas, organismos policiales o de inteligencia; y\naquellos sobre antecedentes personales que proporcionen dichas bases de\ndatos a las autoridades administrativas o judiciales que los requieran en\nvirtud de disposiciones legales.\nEl tratamiento de datos personales con fines de defensa nacional o\nseguridad pública por parte de las fuerzas armadas, organismos policiales\no inteligencia, sin previo consentimiento de los titulares, queda limitado\na aquellos supuestos y categoría de datos que resulten necesarios para el\nestricto cumplimiento de las misiones legalmente asignadas a aquéllos para\nla defensa nacional, la seguridad pública o para la represión de los\ndelitos. Las bases de datos, en tales casos, deberán ser específicas y\nestablecidas al efecto, debiendo clasificarse por categorías, en función\nde su grado de fiabilidad.\nLos datos personales registrados con fines policiales se cancelarán cuando\nno sean necesarios para las averiguaciones que motivaron su\nalmacenamiento.",
+      "notasArticulo": "Ver en esta norma, artículo: 26.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/25"
+    },
+    {
+      "nroArticulo": "26",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 26",
+      "textoArticulo": "Excepciones a los derechos de acceso, rectificación y cancelación.- Los\nresponsables de las bases de datos que contengan los datos a que se\nrefieren los incisos segundo y tercero del artículo anterior podrán\ndenegar el acceso, la rectificación o cancelación en función de los\npeligros que pudieran derivarse para la defensa del Estado o la seguridad\npública, la protección de los derechos y libertades de terceros o las\nnecesidades de las investigaciones que se estén realizando.\nLos responsables de las bases de datos de la Hacienda Pública podrán,\nigualmente, denegar el ejercicio de los derechos a que se refiere el\ninciso anterior cuando el mismo obstaculice las actuaciones\nadministrativas tendientes a asegurar el cumplimiento de las obligaciones\ntributarias y, en todo caso, cuando el titular del dato esté siendo objeto\nde actuaciones inspectivas.\nEl titular del dato al que se deniegue total o parcialmente el ejercicio\nde los derechos mencionados en los incisos anteriores podrá ponerlo en\nconocimiento del Organo de Control, quien deberá asegurarse de la\nprocedencia o improcedencia de la denegación.",
+      "notasArticulo": "Reglamentado por: Decreto Nº 664/008 de 22/12/2008.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/26"
+    },
+    {
+      "nroArticulo": "27",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 27",
+      "textoArticulo": "Excepciones al derecho a la información.- Lo dispuesto en la presente ley\nno será aplicable a la recolección de datos, cuando la información del\ntitular afecte a la defensa nacional, a la seguridad pública o a la\npersecución de infracciones penales.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/27"
+    },
+    {
+      "nroArticulo": "28",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 28",
+      "textoArticulo": "(Creación, modificación o supresión).- Las personas físicas o jurídicas privadas que creen, modifiquen o supriman bases de datos de carácter personal, deberán registrarse conforme lo previsto en el artículo siguiente. (*)",
+      "notasArticulo": "Redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 28.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/28"
+    },
+    {
+      "nroArticulo": "29",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 29",
+      "textoArticulo": "Inscripción registral.- Toda base de datos pública o privada debe\ninscribirse en el Registro que al efecto habilite el Organo de Control, de\nacuerdo a los criterios reglamentarios que se establezcan.\nPor vía reglamentaria se procederá a la regulación detallada de los\ndistintos extremos que deberá contener la inscripción, entre los cuales\nfigurarán necesariamente los siguientes:\nA) Identificación de la base de datos y el responsable de la misma.\nB) Naturaleza de los datos personales que contiene.\nC) Procedimientos de obtención y tratamiento de los datos.\nD) Medidas de seguridad y descripción técnica de la base de datos.\nE) Protección de datos personales y ejercicio de derechos.\nF) Destino de los datos y personas físicas o jurídicas a las que\npueden ser transmitidos.\nG) Tiempo de conservación de los datos.\nH) Forma y condiciones en que las personas pueden acceder a los datos\nreferidos a ellas y los procedimientos a realizar para la rectificación\no actualización de los datos.\nI) Cantidad de acreedores personas físicas que hayan cumplido los 5\naños previstos en el artículo 22 de la presente ley.\nJ) Cantidad de cancelaciones por cumplimiento de la obligación de\npago si correspondiera, de acuerdo con lo previsto en el artículo 22 de\nla presente ley. (*)\nNingún usuario de datos podrán poseer datos personales de naturaleza\ndistinta a los declarados en el registro.\nEl incumplimiento de estos requisitos dará lugar a las sanciones\nadministrativas previstas en la presente ley.\nRespecto a las bases de datos de carácter comercial ya inscriptos en el\nOrgano Regulador, se estará a lo previsto en la presente ley respecto del\nplazo de adecuación.",
+      "notasArticulo": "Literal J) redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 154.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 29.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/29"
+    },
+    {
+      "nroArticulo": "30",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 30",
+      "textoArticulo": "Prestación de servicios informatizados de datos personales.- Cuando por\ncuenta de terceros se presten servicios de tratamiento de datos\npersonales, éstos no podrán aplicarse o utilizarse con un fin distinto al\nque figure en el contrato de servicios, ni cederlos a otras personas, ni\naún para su conservación.\nUna vez cumplida la prestación contractual los datos personales tratados\ndeberán ser destruidos, salvo que medie autorización expresa de aquél por\ncuenta de quien se prestan tales servicios cuando razonablemente se\npresuma la posibilidad de ulteriores encargos, en cuyo caso se podrá\nalmacenar con las debidas condiciones de seguridad por un período de hasta\ndos años.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/30"
+    },
+    {
+      "nroArticulo": "31",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 31",
+      "textoArticulo": "Organo de Control.- Créase como órgano desconcentrado de la Agencia para\nel Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la\nInformación y del Conocimiento (AGESIC), dotado de la más amplia autonomía\ntécnica, la Unidad Reguladora y de Control de Datos Personales. Estará\ndirigida por un Consejo integrado por tres miembros: el Director Ejecutivo\nde AGESIC y dos miembros designados por el Poder Ejecutivo entre personas\nque por sus antecedentes personales, profesionales y de conocimiento en la\nmateria aseguren independencia de criterio, eficiencia, objetividad e\nimparcialidad en el desempeño de sus cargos.\nA excepción del Director Ejecutivo de la AGESIC, los miembros durarán\ncuatro años en sus cargos, pudiendo ser designados nuevamente. Sólo\ncesarán por la expiración de su mandato y designación de sus sucesores, o\npor su remoción dispuesta por el Poder Ejecutivo en los casos de\nineptitud, omisión o delito, conforme a las garantías del debido proceso.\nDurante su mandato no recibirán órdenes ni instrucciones en el plano\ntécnico.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/31"
+    },
+    {
+      "nroArticulo": "32",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 32",
+      "textoArticulo": "Consejo Consultivo.- El Consejo Ejecutivo de la Unidad Reguladora y de\nControl de Datos Personales funcionará asistido por un Consejo Consultivo,\nque estará integrado por 5 miembros:\n* Una persona con reconocida trayectoria en la promoción y defensa de\nlos derechos humanos, designado por el Poder Legislativo, el que no\npodrá ser un Legislador en actividad.\n* Un representante del Poder Judicial.\n* Un representante del Ministerio Público.\n* Un representante del área académica.\n* Un representante del sector privado, que se elegirá en la forma\nestablecida reglamentariamente.\nSesionará presidido por el Presidente de la Unidad Reguladora y de Control\nde protección de Datos Personales.\nSus integrantes durarán 4 años en sus cargos y sesionarán a convocatoria\ndel Presidente de la Unidad Reguladora y de Control de Datos Personales o\nde la mayoría de sus miembros.\nPodrá ser consultado por el Consejo Ejecutivo sobre cualquier aspecto de\nsu competencia y deberá ser consultado por éste cuando ejerza potestades\nde reglamentación.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/32"
+    },
+    {
+      "nroArticulo": "33",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 33",
+      "textoArticulo": "Recursos.- La Unidad Reguladora y de Control de Datos Personales\nformulará su propuesta de presupuesto de acuerdo a lo previsto en el\nartículo 214 de la Constitución de la República.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/33"
+    },
+    {
+      "nroArticulo": "34",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 34",
+      "textoArticulo": "Cometidos.- El órgano de control deberá realizar todas las acciones\nnecesarias para el cumplimiento de los objetivos y demás disposiciones de\nla presente ley. A tales efectos tendrá las siguientes funciones y\natribuciones:\nA) Asistir y asesorar a las personas que lo requieran acerca de los\nalcances de la presente ley y de los medios legales de que disponen\npara la defensa de los derechos que ésta garantiza.\n\nB) Dictar las normas y reglamentaciones que se deben observar en el\ndesarrollo de las actividades comprendidas por esta ley.\n\nC) Realizar un censo de las bases de datos alcanzados por la ley y\nmantener el registro permanente de los mismos.\n\nD) Controlar la observancia del régimen legal, en particular las normas\nsobre legalidad, integridad, veracidad, proporcionalidad y seguridad de\ndatos, por parte de los sujetos alcanzados, pudiendo a tales efectos\nrealizar las actuaciones de fiscalización e inspección pertinentes.\n\nA tales efectos la Unidad Reguladora y de Control de Datos Personales\ntendrá las siguientes potestades:\n\n1) Exigir a los responsables y encargados de tratamientos la\nexhibición de los libros, documentos y archivos, informáticos o\nconvencionales, propios y ajenos, y requerir su comparecencia ante\nla Unidad para proporcionar informaciones.\n\n2) Intervenir los documentos y archivos inspeccionados, así como tomar\nmedidas de seguridad para su conservación, pudiendo copiarlos.\n\n3) Incautarse de dichos elementos cuando la gravedad del caso lo\nrequiera hasta por un lapso de seis días hábiles; la medida será\ndebidamente documentada y sólo podrá prorrogarse por los órganos\njurisdiccionales competentes, cuando sea imprescindible.\n\n4) Practicar inspecciones en bienes muebles o inmuebles ocupados a\ncualquier título por los responsables, encargados de tratamiento y\ndemás sujetos alcanzados por el régimen legal. Sólo podrán\ninspeccionarse domicilios particulares con previa orden judicial de\nallanamiento.\n\n5) Requerir informaciones a terceros, pudiendo intimarles su\ncomparecencia ante la autoridad administrativa cuando ésta lo\nconsidere conveniente o cuando aquéllas no sean presentadas en\ntiempo y forma.\n\nLa Unidad Reguladora y de Control de Datos Personales podrá\nsolicitar el auxilio de la fuerza pública para el desarrollo de sus\ncometidos.\n\nCuando sea necesario para el debido cumplimiento de las diligencias\nprecedentes, requerirá orden judicial de allanamiento. (*)\n\nE) Solicitar información a las entidades públicas y privadas, las que\ndeberán proporcionar los antecedentes, documentos, programas u otros\nelementos relativos al tratamiento de los datos personales que se le\nrequieran. En estos casos, la autoridad deberá garantizar la seguridad\ny confidencialidad de la información y elementos suministrados.\nF) Emitir opinión toda vez que le sea requerida por las autoridades\ncompetentes, incluyendo solicitudes relacionadas con el dictado de\nsanciones administrativas que correspondan por la violación a las\ndisposiciones de esta ley, de los reglamentos o de las resoluciones que\nregulan el tratamiento de datos personales comprendidos en ésta.\nG) Asesorar en forma necesaria al Poder Ejecutivo en la consideración\nde los proyectos de ley que refieran total o parcialmente a protección\nde datos personales.\nH) Informar a cualquier persona sobre la existencia de bases de datos\npersonales, sus finalidades y la identidad de sus responsables, en\nforma gratuita.\nI) Establecer los criterios y procedimientos que deban observar los\nresponsables y encargados, en el tratamiento automatizado de datos\npersonales indicados en el artículo 16 de la presente ley. (*)",
+      "notasArticulo": "Literal D) redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 155.\nLiteral I) ver vigencia: Ley Nº 20.075 de 20/10/2022 artículo 5.\nLiteral I) agregado/s por: Ley Nº 20.075 de 20/10/2022 artículo 63.\nTEXTO ORIGINAL: Ley Nº 18.331 de 11/08/2008 artículo 34.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/34"
+    },
+    {
+      "nroArticulo": "35",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 35",
+      "textoArticulo": "(Potestades sancionatorias).- El órgano de control podrá aplicar las siguientes sanciones a los responsables de las bases de datos, encargados de tratamiento de datos personales y demás sujetos alcanzados por el régimen legal, en caso que se violen las normas de la presente ley, las que se graduarán en atención a la gravedad, reiteración o reincidencia de la infracción cometida:\n\n1) Observación.\n\n2) Apercibimiento.\n\n3) Multa de hasta 500.000 UI (quinientas mil unidades indexadas).\n\n4) Suspensión de la base de datos respectiva por el plazo de cinco\ndías.\n\n5) Clausura de la base de datos respectiva. A tal efecto se podrá\npromover ante los órganos jurisdiccionales competentes la clausura\nde las bases de datos que se comprobare infringieren o\ntransgredieren la presente ley.(*)\n\nLos hechos constitutivos de la infracción serán documentados de\nacuerdo a las formalidades legales. La clausura deberá decretarse dentro\nde los tres días siguientes a aquél en que la hubiere solicitado la Unidad\nReguladora y Control de Datos Personales, la cual quedará habilitada a\ndisponerla por sí en caso que el Juez no se pronunciare dentro de dicho\ntérmino.\n\nEn este último caso, si el Juez denegare posteriormente la clausura,\nésta deberá levantarse de inmediato por la Unidad Reguladora y Control de\nDatos Personales.\n\nLos recursos que se interpongan contra la resolución judicial que\nhiciere lugar a la clausura, no tendrán efecto suspensivo.\n\nPara hacer cumplir dicha resolución, la Unidad Reguladora y Control\nde Datos Personales podrá requerir el auxilio de la fuerza pública.\n\nLa competencia de los Tribunales actuantes se determinará por las\nnormas de la Ley Orgánica de la Judicatura N° 15.750, de 24 de junio de\n1985, sus modificativas y concordantes.\n\nLas resoluciones firmes de la Unidad Reguladora y Control de Datos\nPersonales que impongan sanciones pecuniarias, constituyen título\nejecutivo a sus efectos. (*)",
+      "notasArticulo": "Redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152.\nNumeral 5) redacción dada por: Ley Nº 19.355 de 19/12/2015 artículo 83.\nNumeral 5) ver vigencia: Ley Nº 19.355 de 19/12/2015 artículo 3.\nTEXTO ORIGINAL:\nLey Nº 18.719 de 27/12/2010 artículo 152,\nLey Nº 18.331 de 11/08/2008 artículo 35.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/35"
+    },
+    {
+      "nroArticulo": "36",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 36",
+      "textoArticulo": "Códigos de conducta.- Las asociaciones o entidades representativas de\nresponsables o usuarios de bancos de datos de titularidad privada podrán\nelaborar códigos de conducta de práctica profesional, que establezcan\nnormas para el tratamiento de datos personales que tiendan a asegurar y\nmejorar las condiciones de operación de los sistemas de información en\nfunción de los principios establecidos en la presente ley.\nDichos códigos deberán ser inscriptos en el registro que al efecto lleve\nel organismo de control, quien podrá denegar la inscripción cuando\nconsidere que no se ajustan a las disposiciones legales y reglamentarias\nsobre la materia.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/36"
+    },
+    {
+      "nroArticulo": "37",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 37",
+      "textoArticulo": "Habeas Data.- Toda persona tendrá derecho a entablar una acción judicial\nefectiva para tomar conocimiento de los datos referidos a su persona y de\nsu finalidad y uso, que consten en bases de datos públicos o privados; y\n-en caso de error, falsedad, prohibición de tratamiento, discriminación o\ndesactualización- a exigir su rectificación, inclusión, supresión o lo que\nentienda corresponder.\nCuando se trate de datos personales cuyo registro esté amparado por una\nnorma legal que consagre el secreto a su respecto, el Juez apreciará el\nlevantamiento del mismo en atención a las circunstancias del caso.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/37"
+    },
+    {
+      "nroArticulo": "38",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 38",
+      "textoArticulo": "Procedencia y competencia.- El titular de datos personales podrá entablar\nla acción de protección de datos personales o habeas data, contra todo\nresponsable de una base de datos pública o privada, en los siguientes\nsupuestos:\nA) Cuando quiera conocer sus datos personales que se encuentran\nregistrados en una base de datos o similar y dicha información le haya\nsido denegada, o no le hubiese sido proporcionada por el responsable de\nla base de datos, en las oportunidades y plazos previstos por la ley.\nB) Cuando haya solicitado al responsable de la base de datos o\ntratamiento su rectificación, actualización, eliminación, inclusión o\nsupresión y éste no hubiese procedido a ello o dado razones suficientes\npor las que no corresponde lo solicitado, en el plazo previsto al\nefecto en la ley.\nSerán competentes para conocer en las acciones de protección de datos\npersonales o habeas data:\n1) En la Capital, los Juzgados Letrados de Primera Instancia en lo\nContencioso Administrativo, cuando la acción se dirija contra una\npersona pública estatal, y los Juzgados Letrados de Primera Instancia\nen lo Civil en los restantes casos.\n2) Los Juzgados Letrados de Primera Instancia del Interior a quienes\nse haya asignado competencia en dichas materias.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/38"
+    },
+    {
+      "nroArticulo": "39",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 39",
+      "textoArticulo": "Legitimación.- La acción de habeas data podrá ser ejercida por el propio\nafectado titular de los datos o sus representantes, ya sean tutores o\ncuradores y, en caso de personas fallecidas, por sus sucesores\nuniversales, en línea directa o colateral hasta el segundo grado, por sí o\npor medio de apoderado.\nEn el caso de personas jurídicas, la acción deberá ser interpuesta por sus\nrepresentantes legales o los apoderados designados a tales efectos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/39"
+    },
+    {
+      "nroArticulo": "40",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 40",
+      "textoArticulo": "Procedimiento.- Las acciones que se promuevan por violación a los\nderechos contemplados en la presente ley se regirán por las normas\ncontenidas en los artículos que siguen al presente. Serán aplicables en lo\npertinente los artículos 14 y 15 del Código General del Proceso.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/40"
+    },
+    {
+      "nroArticulo": "41",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 41",
+      "textoArticulo": "Trámite de primera instancia.- Salvo que la acción fuera manifiestamente\nimprocedente, en cuyo caso el tribunal la rechazará sin sustanciarla y\ndispondrá el archivo de las actuaciones, se convocará a las partes a una\naudiencia pública dentro del plazo de tres días de la fecha de la\npresentación de la demanda.\nEn dicha audiencia se oirán las explicaciones del demandado, se recibirán\nlas pruebas y se producirán los alegatos. El tribunal, que podrá rechazar\nlas pruebas manifiestamente impertinentes o innecesarias, presidirá la\naudiencia so pena de nulidad, e interrogará a los testigos y a las partes,\nsin perjuicio de que aquéllos sean, a su vez, repreguntados por los\nabogados. Gozará de los más amplios poderes de policía y de dirección de\nla audiencia.\nEn cualquier momento podrá ordenar diligencias para mejor proveer.\nLa sentencia se dictará en la audiencia o a más tardar, dentro de las\nveinticuatro horas de su celebración. Sólo en casos excepcionales podrá\nprorrogarse la audiencia por hasta tres días.\nLas notificaciones podrán realizarse por intermedio de la autoridad\npolicial. A los efectos del cómputo de los plazos de cumplimiento de lo\nordenado por la sentencia, se dejará constancia de la hora en que se\nefectuó la notificación.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/41"
+    },
+    {
+      "nroArticulo": "42",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 42",
+      "textoArticulo": "Medidas provisionales.- Si de la demanda o en cualquier otro momento del\nproceso resultare, a juicio del tribunal, la necesidad de su inmediata\nactuación, éste dispondrá, con carácter provisional, las medidas que\ncorrespondieren en amparo del derecho o libertad presuntamente violados.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/42"
+    },
+    {
+      "nroArticulo": "43",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 43",
+      "textoArticulo": "Contenido de la sentencia.- La sentencia que haga lugar al habeas data\ndeberá contener:\nA) La identificación concreta de la autoridad o el particular a quien\nse dirija y contra cuya acción, hecho u omisión se conceda el habeas\ndata.\nB) La determinación precisa de lo que deba o no deba hacerse y el\nplazo por el cual dicha resolución regirá, si es que corresponde\nfijarlo.\nC) El plazo para el cumplimiento de lo dispuesto, que será fijado por\nel tribunal conforme las circunstancias de cada caso, y no será mayor\nde quince días corridos e ininterrumpidos, computados a partir de la\nnotificación.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/43"
+    },
+    {
+      "nroArticulo": "44",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 44",
+      "textoArticulo": "Recurso de apelación y segunda instancia.- En el proceso de habeas data\nsólo serán apelables la sentencia definitiva y la que rechaza la acción\npor ser manifiestamente improcedente.\nEl recurso de apelación deberá interponerse en escrito fundado, dentro del\nplazo perentorio de tres días. El tribunal elevará sin más trámite los\nautos al superior cuando hubiere desestimado la acción por improcedencia\nmanifiesta, y lo sustanciará con un traslado a la contraparte, por tres\ndías perentorios, cuando la sentencia apelada fuese la definitiva.\nEl tribunal de alzada resolverá en acuerdo, dentro de los cuatro días\nsiguientes a la recepción de los autos. La interposición del recurso no\nsuspenderá las medidas de amparo decretadas, las cuales serán cumplidas\ninmediatamente después de notificada la sentencia, sin necesidad de tener\nque esperar el transcurso del plazo para su impugnación.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/44"
+    },
+    {
+      "nroArticulo": "45",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 45",
+      "textoArticulo": "Sumariedad. Otros aspectos.-\nEn los procesos de habeas data no podrán deducirse cuestiones previas,\nreconvenciones ni incidentes. El tribunal, a petición de parte o de\noficio, subsanará los vicios de procedimiento, asegurando, dentro de la\nnaturaleza sumaria del proceso, la vigencia del principio de\ncontradictorio.\nCuando se planteare la inconstitucionalidad por vía de excepción o de\noficio (artículos 509 numeral 2 y 510 numeral 2 del Código General del\nProceso) se procederá a la suspensión del procedimiento sólo después que\nel Magistrado actuante haya dispuesto la adopción de las medidas\nprovisorias referidas en la presente ley o, en su caso, dejando constancia\ncircunstanciada de las razones de considerarlas innecesarias.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/45"
+    },
+    {
+      "nroArticulo": "46",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 46",
+      "textoArticulo": "Adecuación de las bases de datos.- Las bases de datos deberán adecuarse a\nla presente ley dentro del plazo de un año de su entrada en vigor.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/46"
+    },
+    {
+      "nroArticulo": "47",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 47",
+      "textoArticulo": "Traslado del órgano de control referente a datos comerciales.- Se\nestablece el plazo de ciento veinte días corridos para que el actual\nórgano de control en materia de protección de datos comerciales, a cargo\ndel Ministerio de Economía y Finanzas, realice el traslado de la\ninformación y documentación a la AGESIC.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/47"
+    },
+    {
+      "nroArticulo": "48",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 48",
+      "textoArticulo": "Derogación.- Se deroga la Ley Nº 17.838, de 24 de setiembre de 2004.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/48"
+    },
+    {
+      "nroArticulo": "49",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 49",
+      "textoArticulo": "Reglamentación.- El Poder Ejecutivo deberá reglamentar la presente ley\ndentro de los ciento ochenta días de su promulgación.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/18331-2008/49"
+    }
+  ],
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+  "json_url": "https://www.impo.com.uy/bases/leyes/18331-2008?json=true",
+  "norma_id": "ley:18331:2008",
+  "category": "leyes",
+  "directory": "leyes",
+  "title": "LEY DE PROTECCION DE DATOS PERSONALES",
+  "article_count": 51
+}

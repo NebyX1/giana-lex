@@ -1,0 +1,23 @@
+{
+  "id": "ley:18251:2008",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "18251",
+  "anio": "2008",
+  "title": "TERCERIZACIONES LABORALES. RESPONSABILIDAD SOLIDARIA",
+  "nombre": "TERCERIZACIONES LABORALES. RESPONSABILIDAD SOLIDARIA",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/18251-2008",
+  "json_url": "https://www.impo.com.uy/bases/leyes/18251-2008?json=true",
+  "local_source_path": "leyes/ley_18251_2008/source.impo.json",
+  "local_normalized_path": "leyes/ley_18251_2008/normalized.json",
+  "local_text_path": "leyes/ley_18251_2008/normalized.txt",
+  "active": true,
+  "checksum": "20295ed02b4d32fdf19f3a0ca717ec476080f9ee19c8e5ef5492c512e668e31f",
+  "downloaded_at": "2026-08-14T13:37:18.891364+00:00",
+  "last_synced_at": "2026-08-14T13:37:18.891390+00:00",
+  "index_status": "downloaded",
+  "article_count": 10,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

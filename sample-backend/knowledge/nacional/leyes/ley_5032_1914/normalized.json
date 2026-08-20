@@ -1,0 +1,41 @@
+{
+  "tipo": "Ley",
+  "numero": "5032",
+  "anio": "1914",
+  "nombre": "ACCIDENTES DE TRABAJO. MEDIDAS DE PREVENCION",
+  "leyenda": "Documento Actualizado",
+  "fechaPromulgacion": "21/07/1914",
+  "fechaPublicacion": "25/07/1914",
+  "vistos": "Establécese para los patronos, directores de construcciones, de\nestablecimientos industriales o cualquier otro trabajo en donde exista\npeligro para los operarios, la obligación de tomar las medidas de\nseguridad para el personal, a fin de evitar accidentes del trabajo;\ncométese al Poder Ejecutivo a reglamentar dichas medidas para cada\nindustria o grupo de industrias análogas; prohíbese el empleo de mujeres\ny niños para la limpieza o reparación de máquinas en marcha; se dispone\nla vigencia de esta ley a partir de los seis meses de su promulgación.",
+  "referenciasNorma": "Reglamentada por:\nDecreto Nº 246/024 de 09/09/2024,\nDecreto Nº 394/018 de 26/11/2018,\nDecreto Nº 307/009 de 03/07/2009,\nDecreto Nº 406/988 de 03/06/1988.",
+  "indexacionNorma": "",
+  "articulos": [
+    {
+      "nroArticulo": "7",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 7",
+      "textoArticulo": "",
+      "notasArticulo": "Modificado y/o Anotado (referencias acotadas): Ley Nº 9.499 de 21/08/1935\nartículo 1.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": ""
+    },
+    {
+      "nroArticulo": "9",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 9",
+      "textoArticulo": "",
+      "notasArticulo": "Modificado y/o Anotado (referencias acotadas): Ley Nº 5.427 de 29/05/1916\nartículo 1.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": ""
+    }
+  ],
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/5032-1914",
+  "json_url": "https://www.impo.com.uy/bases/leyes/5032-1914?json=true",
+  "norma_id": "ley:5032:1914",
+  "category": "leyes",
+  "directory": "leyes",
+  "title": "ACCIDENTES DE TRABAJO. MEDIDAS DE PREVENCION",
+  "article_count": 2
+}

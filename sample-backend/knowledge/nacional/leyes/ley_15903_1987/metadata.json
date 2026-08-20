@@ -1,0 +1,23 @@
+{
+  "id": "ley:15903:1987",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "15903",
+  "anio": "1987",
+  "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1986",
+  "nombre": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1986",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/15903-1987",
+  "json_url": "https://www.impo.com.uy/bases/leyes/15903-1987?json=true",
+  "local_source_path": "leyes/ley_15903_1987/source.impo.json",
+  "local_normalized_path": "leyes/ley_15903_1987/normalized.json",
+  "local_text_path": "leyes/ley_15903_1987/normalized.txt",
+  "active": true,
+  "checksum": "dfdf8eab2463ea1b319c95fcf6d7d4dd6f0ee469f9486c11233171743b1e193f",
+  "downloaded_at": "2026-08-14T13:29:51.144501+00:00",
+  "last_synced_at": "2026-08-14T13:29:51.144523+00:00",
+  "index_status": "downloaded",
+  "article_count": 638,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

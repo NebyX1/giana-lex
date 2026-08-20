@@ -7,7 +7,7 @@ Desde la raiz del proyecto, abre PowerShell y ejecuta:
     .\.venv\Scripts\Activate.ps1
     python -m pip install --upgrade pip
     python -m pip install -r requirements.txt
-    python app.py
+    python wsgi.py
 
 El backend quedara disponible en:
     http://127.0.0.1:5000

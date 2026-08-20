@@ -1,0 +1,22 @@
+{
+  "id": "codigo-penal:9155:1933",
+  "source": "IMPO",
+  "tipo": "Código Penal",
+  "numero": "9155",
+  "anio": "1933",
+  "title": "APROBADO POR LEY N° 9.155",
+  "nombre": "APROBADO POR LEY N° 9.155",
+  "canonical_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+  "json_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933?json=true",
+  "local_source_path": "leyes/codigo-penal_9155_1933/source.impo.json",
+  "local_normalized_path": "leyes/codigo-penal_9155_1933/normalized.json",
+  "local_text_path": "leyes/codigo-penal_9155_1933/normalized.txt",
+  "active": true,
+  "checksum": "6706b02e0735703b17d103de1c0d162a076e7ae00e0f7e1111decbc77cdb0520",
+  "downloaded_at": "2026-08-14T13:34:02.385698+00:00",
+  "last_synced_at": "2026-08-14T13:34:02.385718+00:00",
+  "index_status": "downloaded",
+  "article_count": 423,
+  "chunk_count": 0,
+  "last_error": null
+}

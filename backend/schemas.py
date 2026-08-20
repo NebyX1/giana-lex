@@ -105,3 +105,16 @@ class LLMRun(BaseModel):
     output: Any
     usage: dict[str, int]
     duration_ms: int
+
+
+class ClassificationAlternative(BaseModel):
+    taxonomy_node_id: str
+    score: float = Field(ge=0, le=1)
+
+
+class ResolutionClassification(BaseModel):
+    taxonomy_node_id: str | None = None
+    confidence: float = Field(ge=0, le=1)
+    alternatives: list[ClassificationAlternative] = Field(default_factory=list)
+    rationale: str
+    needs_clarification: bool = False

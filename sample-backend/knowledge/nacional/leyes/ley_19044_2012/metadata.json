@@ -1,0 +1,23 @@
+{
+  "id": "ley:19044:2012",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "19044",
+  "anio": "2012",
+  "title": "MODIFICACION Y REGULACION RELATIVAS A DISPOSICIONES SOBRE CENTROS POBLADOS",
+  "nombre": "MODIFICACION Y REGULACION RELATIVAS A DISPOSICIONES SOBRE CENTROS POBLADOS",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/19044-2012",
+  "json_url": "https://www.impo.com.uy/bases/leyes/19044-2012?json=true",
+  "local_source_path": "leyes/ley_19044_2012/source.impo.json",
+  "local_normalized_path": "leyes/ley_19044_2012/normalized.json",
+  "local_text_path": "leyes/ley_19044_2012/normalized.txt",
+  "active": true,
+  "checksum": "6903b6827d63d503f3d2a775abebf51e3a6d71b81aa541d90d45f7dc492d998e",
+  "downloaded_at": "2026-08-14T13:40:53.117298+00:00",
+  "last_synced_at": "2026-08-14T13:40:53.117320+00:00",
+  "index_status": "downloaded",
+  "article_count": 2,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

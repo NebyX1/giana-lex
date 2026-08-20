@@ -1,0 +1,826 @@
+{
+  "norm_id": "decreto:4076:2026",
+  "norm_type": "decreto",
+  "number": "4076",
+  "year": "2026",
+  "title": "DocumentosNº 31.960 - julio 21 de 2026DiarioOficial |",
+  "directory": "decretos",
+  "family": "presupuestos_departamentales",
+  "article_count": 114,
+  "articles": [
+    {
+      "number": "1",
+      "bis": "",
+      "title": "",
+      "text": "de Clasificador Programático, Planillado de Ingresos y Egresos\n-Funcionamiento, Inversiones y Retribuciones Personales-, Metas y\nObjetivos por Programa constituyen el presupuesto quinquenal para\nel período de gobierno 2026-2030.",
+      "label": "Artículo 1"
+    },
+    {
+      "number": "2",
+      "bis": "",
+      "title": "",
+      "text": "enero de 2026, a excepción de aquellas disposiciones normativas que\ndispongan una entrada en vigencia diferente.",
+      "label": "Artículo 2"
+    },
+    {
+      "number": "3",
+      "bis": "",
+      "title": "",
+      "text": "excepción de los escalafones P y Q, así como la actividad zafral, se\npresentan en el planillado adjunto estimados al 1º de enero de 2026\nconforme a lo establecido en el convenio celebrado entre la Intendencia\nDepartamental y los funcionarios municipales al amparo de la Ley Nº\n18.508 de 26 de junio de 2009.\n84\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nEn el caso de los cargos de Capataz General E04, Capataz I E05,\nCapataz II E06, Capataz General E17, Capataz I E18, se presentan\nincluyendo, además, la adecuación salarial prevista.",
+      "label": "Artículo 3"
+    },
+    {
+      "number": "4",
+      "bis": "",
+      "title": "",
+      "text": "Dirección General de Hacienda, las correcciones de las omisiones\no errores numéricos o formales que se comprueben en el presente\ndecreto, dando cuenta a la Junta Departamental y al Tribunal de\nCuentas.\nEn caso de comprobarse diferencias entre las partidas establecidas\nen las planillas y las establecidas en el articulado del presente decreto,\nse aplicarán estas últimas.\nCAPÍTULO II - DISPOSICIONES TÉCNICO CONTABLES.",
+      "label": "Artículo 4"
+    },
+    {
+      "number": "5",
+      "bis": "",
+      "title": "",
+      "text": "transposiciones de rubros dentro y entre programas.\nLos objetos del gasto correspondientes al Grupo 0 - Retribuciones\nde servicios personales no se podrán reforzar ni servir de reforzantes,\nadmitiéndose únicamente las transposiciones dentro de dicho grupo.\nEl Objeto de Gasto 5 Transferencias no podrá servir como\nreforzante.\nLas transposiciones de rubros se autorizarán por resolución\nfundada del Intendente Departamental, previo informe de la Dirección\nGeneral de Hacienda en cuanto a la disponibilidad del crédito\npresupuestal suficiente, debiendo ser comunicadas al Tribunal de\nCuentas y a la Junta Departamental de Lavalleja.",
+      "label": "Artículo 5"
+    },
+    {
+      "number": "6",
+      "bis": "",
+      "title": "",
+      "text": "insuficientes para financiar los gastos previstos, se abatirán\nproporcionalmente estos últimos a los efectos de mantener el equilibrio\npresupuestal.",
+      "label": "Artículo 6"
+    },
+    {
+      "number": "7",
+      "bis": "",
+      "title": "",
+      "text": "contra la Intendencia Departamental de Lavalleja se atenderán\ncon cargo al Objeto del gasto 711 - Sentencias judiciales, el que se\npresupuesta dentro del Programa 102 Oficinas Centrales.",
+      "label": "Artículo 7"
+    },
+    {
+      "number": "8",
+      "bis": "",
+      "title": "",
+      "text": "decreto están expresados en pesos uruguayos, a valores constantes\ndel 1º de enero de 2026, y se ajustarán el 1º de enero de cada año\nsubsiguiente, de acuerdo con la variación del Índice de Precios al\nConsumo (IPC) de los doce meses inmediatos anteriores.",
+      "label": "Artículo 8"
+    },
+    {
+      "number": "9",
+      "bis": "",
+      "title": "",
+      "text": "para el período 2026-2030 expresado en pesos uruguayos a valores\nconstantes del 1º de enero de 2026, y se ajustarán el 1º de enero de cada\naño subsiguiente, de acuerdo al Índice de Precios al Consumo (IPC)\ncorrespondiente a los doce meses inmediatos anteriores.",
+      "label": "Artículo 9"
+    },
+    {
+      "number": "10",
+      "bis": "",
+      "title": "",
+      "text": "siguientes corresponden a la proyección realizada para el período\n2026-2030 expresado en pesos uruguayos a valores constantes del 1º de\nenero de 2026, y se ajustarán el 1º de enero de cada año subsiguiente,\nde acuerdo al Índice de Precios al Consumo (IPC) correspondiente a\nlos doce meses inmediatos anteriores.",
+      "label": "Artículo 10"
+    },
+    {
+      "number": "11",
+      "bis": "",
+      "title": "",
+      "text": "con entidades públicas y privadas para el período 2026-2030 se\nejecutarán en la medida que se reciban los recursos específicos.",
+      "label": "Artículo 11"
+    },
+    {
+      "number": "12",
+      "bis": "",
+      "title": "",
+      "text": "anteriores, solo operará si los recursos cubren el total de los egresos\najustados. En caso contrario, el ajuste solo operará hasta el monto que\ncubran dichos recursos.\nTÍTULO II - ORGANIZACIÓN ADMINISTRATIVA DE LA\nINTENDENCIA DEPARTAMENTAL.\nCAPÍTULO I - FUNCIONARIOS.",
+      "label": "Artículo 12"
+    },
+    {
+      "number": "13",
+      "bis": "",
+      "title": "",
+      "text": "función de analizar el organigrama vigente y la estructura de cargos y\nfunciones de la Intendencia y proponer al Intendente Departamental\nlas modificaciones que entienda necesarias para el mejor desempeño\ninstitucional y cumplimiento de los cometidos de la Intendencia\nDepartamental.\nLa Comisión se integrará por nueve miembros; seis que serán\ndesignados por el Intendente Departamental, contará además con tres\nrepresentantes de ADEOM-Lavalleja, que tendrán voz y voto.\nPara la conformación de dicha Comisión, el Intendente\nDepartamental podrá convocar a representantes de la Oficina Nacional\ndel Servicio Civil y la Universidad de la República.",
+      "label": "Artículo 13"
+    },
+    {
+      "number": "14",
+      "bis": "",
+      "title": "",
+      "text": "al Intendente Departamental propuestas de modificación o ajustes\ntotales o parciales a la estructura organizacional de la Intendencia y\nanalizar aquellas que se eleven por parte de las unidades organizativas\nexistentes.\nLas propuestas a estudio, podrán incluir la creación, supresión\no transformación de cargos presupuestales y funciones contratadas\npermanentes, o el cambio en sus denominaciones o distribución\nhoraria aplicables a uno o varios programas presupuestales y serán\nacompañadas con una estimación del costo presupuestal que pudieren\ninsumir.",
+      "label": "Artículo 14"
+    },
+    {
+      "number": "15",
+      "bis": "",
+      "title": "",
+      "text": "y de puestos de trabajo propuestas por la Comisión Especial de\nReestructuras, previo informe de las Direcciones Generales de Jurídica,\nHacienda y Gestión Humana en el ámbito de sus competencias, serán\naprobados por el Intendente y remitidas a la Junta Departamental\npara su aprobación.\nEn ningún caso las reestructuras de puestos de trabajo, así como la\ntransformación, supresión, fusión o creación de dependencias, podrán\nlesionar los derechos de los funcionarios o su carrera administrativa.",
+      "label": "Artículo 15"
+    },
+    {
+      "number": "16",
+      "bis": "",
+      "title": "",
+      "text": "utilizar los créditos de los cargos vacantes que se generen, para la\nfinanciación de funciones contratadas que se consideren necesarios\npara su funcionamiento, previo informe de las Direcciones Generales\nde Gestión Humana y Hacienda en el ámbito de sus competencias,\ndentro de los cargos vigentes en el cuadro escalafonario.",
+      "label": "Artículo 16"
+    },
+    {
+      "number": "17",
+      "bis": "",
+      "title": "",
+      "text": "para tareas permanentes se realizará únicamente previo llamado a\nconcurso interno, en el que podrán participar todos los funcionarios\nque cuenten con una antigüedad mayor a 3 (tres) años.\nLa presupuestación para los cargos vacantes se realizará en el\núltimo nivel de la carrera funcional del Escalafón correspondiente\npara el cual se hubiere contratado al funcionario.",
+      "label": "Artículo 17"
+    },
+    {
+      "number": "18",
+      "bis": "",
+      "title": "",
+      "text": "convocará a concurso público y abierto, que ingresará con contrato\nen la función pública.",
+      "label": "Artículo 18"
+    },
+    {
+      "number": "19",
+      "bis": "",
+      "title": "",
+      "text": "la contratación en funciones de carácter permanente previstas en las\nestructuras de cargos y funciones a funcionarios zafrales que cumplan\ncon los requisitos de antigüedad, asistencia, idoneidad y méritos que\nestablezca la reglamentación, debiéndose disponer, en su caso, la\nrealización de concursos internos.",
+      "label": "Artículo 19"
+    },
+    {
+      "number": "20",
+      "bis": "",
+      "title": "",
+      "text": "se realizará mediante concursos públicos y abiertos, conforme a los\nprincipios de publicidad, transparencia, igualdad de oportunidades,\nrealizándose una justa ponderación entre la capacidad técnica, los\nméritos y antecedentes de cada persona, sin perjuicio de las cuotas\nque las leyes de discriminación positiva, establecen actualmente o\nestablecieren en el futuro para promover la igualdad de oportunidades.\nEn los casos en que los requisitos necesarios para los cargos\no funciones lo ameriten y por razón fundada, la designación de\nfuncionarios deberá realizarse a través de sorteos públicos ante\nescribano público que serán convocados de acuerdo con los principios\nde publicidad, transparencia e igualdad de oportunidades.\nEstarán exceptuados de los mecanismos de ingreso previstos en\nlos incisos precedentes, los cargos de carácter político o de particular\nconfianza, establecidos por la Constitución de la República, o calificados\ncomo tales en las leyes, estatutos o decretos departamentales, así como\naquellas formas de ingreso a la función pública que fueren establecidas\nen leyes especiales.",
+      "label": "Artículo 20"
+    },
+    {
+      "number": "21",
+      "bis": "",
+      "title": "",
+      "text": "180 (ciento ochenta) días posteriores a la vigencia de la presente norma\nun grupo de trabajo técnico para que asesore en cuestiones referentes a\nla organización del trabajo, incluyendo las condiciones de trabajo, salud\ne higiene laboral, diseño y planificación de la capacitación y formación\nprofesional, reforma de la gestión, instalación de criterios de eficiencia,\neficacia, calidad, productividad y profesionalización, así como ajustes\nen la distribución de la jornada laboral y asignación de horas extras.\nEste grupo de trabajo deberá integrarse con un representante de la\nAsociación de Empleados y Obreros Municipales de Lavalleja.",
+      "label": "Artículo 21"
+    },
+    {
+      "number": "22",
+      "bis": "",
+      "title": "",
+      "text": "conforme al planillado adjunto que forma parte del presente Decreto,\nestableciéndose los cargos, grados y retribuciones estimadas al 1º de\nenero de 2026 correspondientes a la respectiva carga horaria.\n85\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nCAPÍTULO II - CREACIÓN Y MODIFICACIÓN DE\nDEPENDENCIAS DE LA INTENDENCIA DEPARTAMENTAL.",
+      "label": "Artículo 22"
+    },
+    {
+      "number": "23",
+      "bis": "",
+      "title": "",
+      "text": "rango de Dirección General, la que tendrá a su cargo la planificación,\nejecución y evaluación de la política de modernización administrativa,\ninnovación pública, cooperación nacional e internacional de la\nIntendencia Departamental.\nDicha Dirección, asistirá a la Secretaría General en el objetivo\nde promover y garantizar la coordinación administrativa entre la\nDirecciones Generales y demás dependencias de la Intendencia\nDepartamental para el ejercicio de sus cometidos.",
+      "label": "Artículo 23"
+    },
+    {
+      "number": "24",
+      "bis": "",
+      "title": "",
+      "text": "Recursos Materiales que tendrá a su cargo la política y gestión de los\nrecursos humanos de la Intendencia Departamental y sus Municipios,\ncon foco en su profesionalización, modernización, salud y seguridad\nocupacional.\nDicha Dirección, abordará el seguimiento de la trayectoria y carrera\nfuncional, el desarrollo organizacional, la gestión administrativa de los\nrecursos humanos, y se abocará al diseño y ejecución de los concursos\ny sorteos públicos para los ingresos y ascensos a la Administración\nDepartamental.\nAsimismo, tendrá el cometido de planificar, ejecutar y evaluar\nla política de compras públicas departamentales en el objetivo de\naumentar la eficiencia en las contrataciones administrativas y compras\npúblicas que ejecuta la Intendencia Departamental.",
+      "label": "Artículo 24"
+    },
+    {
+      "number": "25",
+      "bis": "",
+      "title": "",
+      "text": "dependiente de la Prosecretaría General que tendrá por cometido\nplanificar, ejecutar y evaluar las políticas de innovación, desarrollo\ny conocimiento como insumo para la gestión administrativa de la\nIntendencia Departamental, así como para la ejecución de políticas\ndepartamentales.\nEl Departamento de Innovación Pública, formulará, ejecutará y\nevaluará planes y políticas en coordinación con entidades académicas\npúblicas o privadas, nacionales o extranjeras para la investigación,\ninnovación y desarrollo de soluciones técnicas y científicas que sirvan\nde insumo para las políticas departamentales. Asimismo, diseñará\nel plan anual de formación y capacitación de los funcionarios de\nla Intendencia Departamental, el que ejecutará en conjunto con la\nDirección de Gestión Humana y Recursos Materiales.",
+      "label": "Artículo 25"
+    },
+    {
+      "number": "26",
+      "bis": "",
+      "title": "",
+      "text": "Internacional dependiente de la Prosecretaría General que tendrá por\ncometido planificar, ejecutar y evaluar la política de cooperación de\nla Intendencia Departamental, para lo cual coordinará los programas\ny objetivos de la Intendencia con entidades, fondos, proyectos y\nprogramas del nivel regional, nacional, internacional y multilateral.",
+      "label": "Artículo 26"
+    },
+    {
+      "number": "27",
+      "bis": "",
+      "title": "",
+      "text": "dependiente de la Dirección General de Gestión Humana y Recursos\nMateriales.",
+      "label": "Artículo 27"
+    },
+    {
+      "number": "28",
+      "bis": "",
+      "title": "",
+      "text": "Ocupacional dependiente de la Dirección General de Gestión Humana\ny Recursos Materiales.",
+      "label": "Artículo 28"
+    },
+    {
+      "number": "29",
+      "bis": "",
+      "title": "",
+      "text": "Departamentales dependiente de la Dirección General de Gestión\nHumana y Recursos Materiales.",
+      "label": "Artículo 29"
+    },
+    {
+      "number": "30",
+      "bis": "",
+      "title": "",
+      "text": "Departamental dependiente de Dirección General de Tránsito,\nSeguridad y Convivencia Departamental que tendrá por cometido\nla coordinación interinstitucional entre las entidades nacionales y\ndependencias departamentales en el objetivo de velar por el derecho a\nla seguridad pública de los habitantes del departamento y la protección\nde los bienes departamentales.",
+      "label": "Artículo 30"
+    },
+    {
+      "number": "31",
+      "bis": "",
+      "title": "",
+      "text": "de Tránsito que pasará a denominarse Dirección General de Tránsito,\nSeguridad y Convivencia Departamental.",
+      "label": "Artículo 31"
+    },
+    {
+      "number": "32",
+      "bis": "",
+      "title": "",
+      "text": "Agropecuario que pasará a denominarse Área de Desarrollo\nEconómico, Productivo y Agropecuario.",
+      "label": "Artículo 32"
+    },
+    {
+      "number": "33",
+      "bis": "",
+      "title": "",
+      "text": "Descentralización que pasará a denominarse Área de Descentralización\ny Coordinación.",
+      "label": "Artículo 33"
+    },
+    {
+      "number": "34",
+      "bis": "",
+      "title": "",
+      "text": "de Higiene que pasará a denominarse Dirección General de Salud y\nBromatología.",
+      "label": "Artículo 34"
+    },
+    {
+      "number": "35",
+      "bis": "",
+      "title": "",
+      "text": "Públicas dependiente del Intendente Departamental que pasará a\ndenominarse Eventos Departamentales.",
+      "label": "Artículo 35"
+    },
+    {
+      "number": "36",
+      "bis": "",
+      "title": "",
+      "text": "Género que pasará a denominarse Área de Familia, Cuidados, Género\ny Generaciones.",
+      "label": "Artículo 36"
+    },
+    {
+      "number": "37",
+      "bis": "",
+      "title": "",
+      "text": "CAPÍTULO III - MODIFICACIÓN DE LA ESTRUCTURA\nESCALAFONARIA.",
+      "label": "Artículo 37"
+    },
+    {
+      "number": "38",
+      "bis": "",
+      "title": "",
+      "text": "Promoción y Desarrollo” en “Prosecretario General” con rango de\nDirección General.",
+      "label": "Artículo 38"
+    },
+    {
+      "number": "39",
+      "bis": "",
+      "title": "",
+      "text": "Juntas Locales” en “Director General de Gestión Humana y Recursos\nMateriales” con rango de Dirección General.",
+      "label": "Artículo 39"
+    },
+    {
+      "number": "40",
+      "bis": "",
+      "title": "",
+      "text": "Desarrollo Agropecuario” en “Director de Desarrollo Económico,\nProductivo y Agropecuario”.",
+      "label": "Artículo 40"
+    },
+    {
+      "number": "41",
+      "bis": "",
+      "title": "",
+      "text": "Tránsito” en “Director General de Tránsito, Seguridad y Convivencia\nDepartamental”.",
+      "label": "Artículo 41"
+    },
+    {
+      "number": "42",
+      "bis": "",
+      "title": "",
+      "text": "Edificios Comunales” en “Encargado de Convivencia Departamental”.",
+      "label": "Artículo 42"
+    },
+    {
+      "number": "43",
+      "bis": "",
+      "title": "",
+      "text": "de Descentralización” en “Encargado de Descentralización y\nCoordinación”.",
+      "label": "Artículo 43"
+    },
+    {
+      "number": "44",
+      "bis": "",
+      "title": "",
+      "text": "Prevención y Seguridad” en “Encargado de Salud y Seguridad\nOcupacional”.",
+      "label": "Artículo 44"
+    },
+    {
+      "number": "45",
+      "bis": "",
+      "title": "",
+      "text": "Higiene” en “Director General de Salud y Bromatología”.",
+      "label": "Artículo 45"
+    },
+    {
+      "number": "46",
+      "bis": "",
+      "title": "",
+      "text": "Familia y Mujer” en “Director de Área de Familia, Cuidados, Género\ny Generaciones”.",
+      "label": "Artículo 46"
+    },
+    {
+      "number": "47",
+      "bis": "",
+      "title": "",
+      "text": "Departamento de “Compras Públicas Departamentales” dependiente\nde la Dirección General de Gestión Humana y Recursos Materiales.",
+      "label": "Artículo 47"
+    },
+    {
+      "number": "48",
+      "bis": "",
+      "title": "",
+      "text": "“Recursos Humanos” pertenecientes a la Dirección de Hacienda bajo la\ndenominación “Recursos Humanos” y trasládese a la Dirección General\nde Gestión Humana y Recursos Materiales con rango de Departamento.",
+      "label": "Artículo 48"
+    },
+    {
+      "number": "49",
+      "bis": "",
+      "title": "",
+      "text": "y “Cooperación Nacional e Internacional” dependientes de la\nProsecretaría General.",
+      "label": "Artículo 49"
+    },
+    {
+      "number": "50",
+      "bis": "",
+      "title": "",
+      "text": "cargo de Contador Asesor Grado II A14 Contratado.",
+      "label": "Artículo 50"
+    },
+    {
+      "number": "51",
+      "bis": "",
+      "title": "",
+      "text": "cargo de Escribano Grado II A16 Contratado.",
+      "label": "Artículo 51"
+    },
+    {
+      "number": "52",
+      "bis": "",
+      "title": "",
+      "text": "cargo de Abogado Asesor A12 Contratado.",
+      "label": "Artículo 52"
+    },
+    {
+      "number": "53",
+      "bis": "",
+      "title": "",
+      "text": "cargo de Ingeniero Agrónomo A07 Contratado.",
+      "label": "Artículo 53"
+    },
+    {
+      "number": "54",
+      "bis": "",
+      "title": "",
+      "text": "(6) cargos de Jefe de Municipio o Departamento C03 Presupuestado.",
+      "label": "Artículo 54"
+    },
+    {
+      "number": "55",
+      "bis": "",
+      "title": "",
+      "text": "nueve (9) cargos de Administrativo IV C11 Contratado.",
+      "label": "Artículo 55"
+    },
+    {
+      "number": "56",
+      "bis": "",
+      "title": "",
+      "text": "(5) cargos de Especialista IV D04 Contratado.",
+      "label": "Artículo 56"
+    },
+    {
+      "number": "57",
+      "bis": "",
+      "title": "",
+      "text": "veinte (20) cargos de Peón Grado II E12 Contratado.",
+      "label": "Artículo 57"
+    },
+    {
+      "number": "58",
+      "bis": "",
+      "title": "",
+      "text": "cargo de Chofer 2da. E16 30 horas, Contratado.",
+      "label": "Artículo 58"
+    },
+    {
+      "number": "59",
+      "bis": "",
+      "title": "",
+      "text": "veintidós (22) cargos de Auxiliar IV F05 Contratado.",
+      "label": "Artículo 59"
+    },
+    {
+      "number": "60",
+      "bis": "",
+      "title": "",
+      "text": "(6) cargos de Profesor de Educación Física Encargado J01 Contratado.",
+      "label": "Artículo 60"
+    },
+    {
+      "number": "61",
+      "bis": "",
+      "title": "",
+      "text": "(20) cargos de Profesor de Educación Física Grado I J02 Contratado.",
+      "label": "Artículo 61"
+    },
+    {
+      "number": "62",
+      "bis": "",
+      "title": "",
+      "text": "(6) cargos de Profesor de Educación Física Grado II J102 Contratado.",
+      "label": "Artículo 62"
+    },
+    {
+      "number": "63",
+      "bis": "",
+      "title": "",
+      "text": "siguientes cargos:\n86\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nEn el escalafón Profesional: un (1) cargo A03 Odontólogo, un (1)\ncargo A04 Químico y un (1) cargo A13 Escribano, presupuestados.\nEn el escalafón Administrativo: veinticinco (25) cargos C10\nAdministrativo III, presupuestados. Veinte (20) cargos C10\nAdministrativo III, contratados.\nEn el escalafón Especializado: un (1) cargo Especialista II D02,\npresupuestado. Dos (2) cargos Especialista III D03, contratado. Un\n(1) cargo de Especialista en Gestión Ambiental D04 Especialista en\nGestión Ambiental, contratado.\nEn el escalafón de Obreros y Oficios: cuatro (4) cargos E11 Peón,\npresupuestado. Dos (2) cargos E26 Chofer 2da. 40 hs., presupuestado.\nCuatro (4) cargos E02 Maquinista II, contratados. Siete (7) cargos\nE11 Peón, contratado. Un (1) cargo E14 Chofer Especializado 30 hs.,\ncontratado. Un (1) cargo E26 Chofer 2da. 40 hs., contratado. Un (1)\ncargo E20 Electricista de segunda, contratado.\nEn el escalafón de Servicios Auxiliares: Quince (15) cargos\nF03 Auxiliar III, presupuestado. Ocho (8) cargos F03 Auxiliar III,\ncontratados.\nEn el escalafón Docente: 1080 horas J8 Profesor de Educación Física\npor hora, contratado. Diecisiete (17) cargos J4 Profesor de Piscina,\ncontratado. Un (1) cargo J7 Educador Preescolar, contratado.\nEn el escalafón de personal no incluido en otros: Un (1) cargo\nR2 Programador, contratado. Un (1) cargo R9 Inspector II 6 horas,\ncontratado. Diez (10) cargos R20 Becas, contratado. Siete (7) cargos\nR21 Trabajo Joven, contratado.\nEn el escalafón artístico: Un (1) cargo H1 Músicos, presupuestado.\nUn (1) cargo H2 Director de Banda, presupuestado. Un cargo (1) H1\nMúsicos, contratados.\nTÍTULO III - DISPOSICIONES ESPECIALES.\nCAPÍTULO I - DISPOSICIONES TRIBUTARIAS.\nSECCIÓN I - CONTRIBUCIÓN INMOBILIARIA URBANA Y\nSUBURBANA.",
+      "label": "Artículo 63"
+    },
+    {
+      "number": "64",
+      "bis": "",
+      "title": "",
+      "text": "un régimen de regularización de adeudos de acuerdo a las condiciones\nestablecidas en el presente decreto.\nLos contribuyentes que adeuden obligaciones tributarias por\nconcepto de impuesto a la contribución urbana y suburbana, y demás\ntributos que se cobran conjuntamente con éstos, y cuyos ejercicios se\nencuentren vencidos, podrán regularizar sus adeudos de acuerdo a\nlas condiciones establecidas en el presente decreto.\nEn caso de que el Ministerio de Economía y Finanzas concediese\nla autorización prevista por el artículo 775 de la Ley Nº 18.719 de\n27 de diciembre de 2010, podrá aplicarse respecto a la contribución\ninmobiliaria rural, idéntico plan de regularización de adeudos a los que\nse establecen para la contribución inmobiliaria urbana y suburbana.",
+      "label": "Artículo 64"
+    },
+    {
+      "number": "65",
+      "bis": "",
+      "title": "",
+      "text": "disposiciones del presente decreto serán pasibles de una bonificación\nde hasta un 80% (ochenta por ciento) por concepto de multas y recargos\ndevengados hasta el momento de la suscripción del convenio de\npago, acorde a las modalidades de pago del tributo detalladas en el\npresente decreto.",
+      "label": "Artículo 65"
+    },
+    {
+      "number": "66",
+      "bis": "",
+      "title": "",
+      "text": "modalidades que se detallan a continuación:\na) Pago al contado. El pago al contado de la obligación tributaria\nadeudada, dará lugar a una bonificación del 70% (setenta por ciento)\nde las multas y los recargos que se hubieren devengado hasta ese\nmomento.\nb) Pago parcial y saldo hasta en 2 (dos) pagos. El pago parcial,\nque no podrá ser inferior al 30% (treinta por ciento) de la obligación\ntributaria adeudada, cuando el saldo se financie hasta en 2 (dos) cuotas\nmensuales, iguales y consecutivas, dará lugar a una bonificación del\n60% (sesenta por ciento) de las multas y los recargos que se hubieren\ndevengado hasta ese momento. El convenio de facilidades por el saldo,\ndeberá suscribirse el mismo día en que se efectúa el pago parcial.\nEl saldo a financiar hasta en 2 (dos) cuotas será convertido a\nUnidades Indexadas al momento de la suscripción del convenio,\nvenciendo la primera cuota a los 30 (treinta) días de su suscripción.\nEl incumplimiento de un pago del convenio de facilidades, dará\nlugar a su cese de pleno derecho, sin perjuicio de las restantes medidas\nde recupero que podrá adoptar la Administración al amparo de las\ndisposiciones del presente decreto.\nc) Pago parcial y saldo hasta en 36 (treinta y seis) pagos. El pago\nparcial, que no podrá ser inferior al 30% (treinta por ciento) de la\nobligación tributaria adeudada, cuando el saldo se financie hasta en 36\n(treinta y seis) pagos mensuales, o 12 (doce) pagos trimestrales, iguales\ny consecutivos, dará lugar a una bonificación del 50% (cincuenta\npor ciento) de las multas y los recargos que se hubieren devengado\nhasta ese momento. El convenio de facilidades por el saldo, deberá\nsuscribirse el mismo día en que se efectúa el pago. El saldo a financiar\nhasta en 36 (treinta y seis) pagos o 12 (doce) pagos trimestrales será\nconvertido a Unidades Indexadas al momento de la suscripción del\nconvenio, venciendo la primera cuota a los 30 (treinta) días de su\nsuscripción.\nEl incumplimiento de 4 (cuatro) cuotas mensuales consecutivas o en\nsu defecto de 2 (dos) cuotas trimestrales consecutivas del convenio de\nfacilidades dará lugar a su cese de pleno derecho, sin perjuicio de las\nrestantes medidas de recupero que podrá adoptar la Administración\nal amparo de las disposiciones del presente decreto.\nd) Régimen de facilidades hasta en 36 (treinta y seis) pagos, o 12\n(doce) pagos trimestrales, iguales y consecutivos. Los contribuyentes\nque suscriban un régimen de facilidades por hasta 36 (treinta y seis)\npagos, o 12 (doce) pagos trimestrales, iguales y consecutivos dentro\ndel plazo previsto en el presente decreto recibirán una bonificación del\n40% (cuarenta por ciento) de las multas y los recargos que se hubieren\ndevengado hasta ese momento.\nEl monto a financiar será convertido a Unidades Indexadas,\nvenciendo la primera cuota a los 30 (treinta) días de suscrito el convenio\nde pagos.\nEl incumplimiento de 4 (cuatro) cuotas mensuales consecutivas o en\nsu defecto de 2 (dos) cuotas trimestrales consecutivas del convenio de\nfacilidades dará lugar a su cese de pleno derecho, sin perjuicio de las\nrestantes medidas de recupero que podrá adoptar la Administración\nal amparo de las disposiciones del presente decreto.",
+      "label": "Artículo 66"
+    },
+    {
+      "number": "67",
+      "bis": "",
+      "title": "",
+      "text": "de contribución inmobiliaria urbana y suburbana que acrediten\nfehacientemente que dicho inmueble tiene como destino su\npropia vivienda, podrán cancelar dicho impuesto, optando por las\nmodalidades expresadas en el artículo precedente accediendo a\nuna quita del 80% (ochenta por ciento) de las multas y los recargos\ndevengados por el impuesto.\nLa acreditación de la condición antes prevista, se realizará con la\npresentación de una declaración jurada que deberá ser firmada por el\ncontribuyente, la que se acompañará con documentos públicos que\nacrediten su vivienda.\nDicha documentación, se elevará al Tribunal de Quitas y Esperas\ndispuesto en el presente Decreto, el que se expedirá sobre la solicitud en\nun plazo máximo de 60 (sesenta) días a contar desde su presentación.",
+      "label": "Artículo 67"
+    },
+    {
+      "number": "68",
+      "bis": "",
+      "title": "",
+      "text": "a la contribución inmobiliaria urbana y suburbana suscriptos en el\ncorrer del año 2025 que se encuentren vigentes y al día al momento\nde la entrada en vigencia del presente decreto, podrán reliquidarse\nconforme a sus disposiciones.\nPara dicha reliquidación, se considerará el monto total del convenio\nvigente al que se deducirán los pagos realizados por el contribuyente.\nEl monto resultante, podrá cancelarse acorde a las modalidades de\npago previstas en el presente decreto.",
+      "label": "Artículo 68"
+    },
+    {
+      "number": "69",
+      "bis": "",
+      "title": "",
+      "text": "suscriptos al amparo del presente decreto, conforme a lo dispuesto\nen los artículos precedentes, dará lugar al cese de pleno derecho del\nrégimen de facilidades, sin perjuicio de la comunicación de dicho\nincumplimiento a las bases de datos de información crediticia a las\nque se encuentre afiliada la Intendencia Departamental y al inicio de\nlas acciones judiciales correspondientes.",
+      "label": "Artículo 69"
+    },
+    {
+      "number": "70",
+      "bis": "",
+      "title": "",
+      "text": "por 3 (tres) miembros, los que serán designados por el Intendente\nDepartamental conjuntamente con sus suplentes respectivos, el que\ndeberá incorporar la perspectiva económica, jurídica y social.",
+      "label": "Artículo 70"
+    },
+    {
+      "number": "71",
+      "bis": "",
+      "title": "",
+      "text": "Departamental respecto a la concesión de quitas, esperas y fórmulas\nde pago que no se encuentren previstas en el presente Decreto, cuando\nexistan circunstancias excepcionales que justifiquen el tratamiento\ndiferenciado de algún grupo de contribuyentes.\nA estos efectos, el Tribunal considerará previamente a dictaminar,\nla capacidad contributiva de los contribuyentes, el destino de la\nvivienda, sus condiciones edilicias y de habitabilidad, sus integrantes,\nasí como los buenos antecedentes de los contribuyentes.\n87\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nTambién será competencia del Tribunal analizar y expedirse\nrespecto de las solicitudes realizadas por los contribuyentes que\npretendan acreditar que su inmueble tiene como destino su propia\nvivienda acorde a lo preceptuado en el presente decreto.",
+      "label": "Artículo 71"
+    },
+    {
+      "number": "72",
+      "bis": "",
+      "title": "",
+      "text": "los contribuyentes, a efectos de requerir ampliación de los datos o\ninformaciones proporcionados, así como efectuar inspecciones oculares\ncomo diligencia para mejor proveer.\nSe considerará que los contribuyentes desisten de su solicitud\ncuando:\na) sean citados hasta por segunda vez y no se presentaran en la\nfecha fijada por el Tribunal.\nb) la Administración solicite la presentación de determinada\ndocumentación sin que se hubiere presentado en plazo.\nc) se impida por cualquier medio realizar la inspección ocular\nfijada por el Tribunal.",
+      "label": "Artículo 72"
+    },
+    {
+      "number": "73",
+      "bis": "",
+      "title": "",
+      "text": "de Quitas y Esperas utilizará la infraestructura técnica y humana de\nla Dirección General Jurídico Notarial, sin perjuicio de recurrir a otras\nmodalidades de atención a los contribuyentes si fuere necesario.",
+      "label": "Artículo 73"
+    },
+    {
+      "number": "74",
+      "bis": "",
+      "title": "",
+      "text": "facilidades que se establecen en el presente Decreto será de 180\n(ciento ochenta) días corridos a contar a partir del día siguiente a su\npromulgación.\nSin perjuicio de ello, se faculta a la Intendencia Departamental\nde Lavalleja a extender el plazo, por única vez, por hasta 180 (ciento\nochenta) días corridos, por razones fundadas, lo cual deberá comunicar\na la Junta Departamental.\nSECCIÓN II - ORDENAMIENTO URBANO Y TERRITORIAL",
+      "label": "Artículo 74"
+    },
+    {
+      "number": "75",
+      "bis": "",
+      "title": "",
+      "text": "a implementar un régimen especial de amnistía, para la regularización\nde construcciones existentes, pudiendo disponer la remisión de multas\ny recargos por concepto de infracciones producto de construcciones\nque hubieren sido realizadas en forma previa a la obtención del\npermiso de construcción correspondiente.\nDichos regímenes especiales, serán de aplicación en todo el\nterritorio departamental, sin perjuicio de que la Administración, en\nejercicio del rol de policía territorial conferido por la Ley Nº 18.308 de\n18 de junio de 2008, priorice las intervenciones en aquellas áreas en\nlas que se identifiquen mayor cantidad de edificaciones irregulares.\nSECCIÓN III - OTRAS DISPOSICIONES.",
+      "label": "Artículo 75"
+    },
+    {
+      "number": "76",
+      "bis": "",
+      "title": "",
+      "text": "de la Junta Departamental de Lavalleja el que quedará redactado\nde la siguiente forma: “El incentivo por asiduidad o presentismo\nque perciben los funcionarios de la Intendencia Departamental de\nLavalleja se regulará por las siguientes normas. Fíjase un incentivo\nde pago mensual por asiduidad o presentismo equivalente al 6% del\nsueldo nominal que perciba el funcionario al mes anterior al de la\nfecha de pago”.",
+      "label": "Artículo 76"
+    },
+    {
+      "number": "77",
+      "bis": "",
+      "title": "",
+      "text": "la Junta Departamental de Lavalleja el que quedará redactado de la\nsiguiente forma: “No se computarán como inasistencia a efectos del\npago de este incentivo las producidas por las siguientes causas:\na) viaje en misión oficial,\nb) licencia gremial,\nc) licencia por maternidad de acuerdo a lo previsto en el Capítulo\nIII Artículo 66 a 70 del Estatuto del Funcionario,\nd) licencia anual reglamentaria,\ne) licencia por duelo,\nf) licencia por matrimonio,\ng) licencia por nacimiento,\nh) licencia por cumpleaños,\ni) licencia por donación de sangre,\nj) las inasistencias amparadas por el Artículo 33 del Decreto Nº\n3842/2023 de la Junta Departamental de Lavalleja, no excediendo de\nuna al mes,\nk) los días generados por trabajo en elecciones o plebiscitos,\nl) licencia por estudio,\nm) licencia por enfermedad.\nAsí como las licencias previstas en los artículos 43,50,51,\n52,54,55,57,58,59,60,63,64 y 65 del Decreto Nº 3842/2023 de la Junta\nDepartamental de Lavalleja.",
+      "label": "Artículo 77"
+    },
+    {
+      "number": "78",
+      "bis": "",
+      "title": "",
+      "text": "la Junta Departamental de Lavalleja el que quedará redactado de la\nsiguiente forma: “Las inasistencias autorizadas, las inasistencias con\naviso, las inasistencias sin aviso, implicarán la pérdida del beneficio”.",
+      "label": "Artículo 78"
+    },
+    {
+      "number": "79",
+      "bis": "",
+      "title": "",
+      "text": "de la Junta Departamental de Lavalleja, el que quedará redactado\nde la siguiente forma: “Todos los funcionarios de la Intendencia\nDepartamental de Lavalleja tendrán derecho en casos de enfermedad,\na licencia médica con goce de sueldo.\nEl plazo máximo de duración de esta licencia con goce de sueldo\nserá de 300 días corridos, la que podrá ser prorrogada por otros\n300 días corridos percibiendo el 50% del salario, a excepción de los\npacientes oncológicos y aquellos que justifiquen la existencia de\npatologías severas, crónica discapacitantes, a juicio del profesional\nde la salud tratante con ratificación de la Dirección General de Salud\ny Bromatología, que deberá expedir un informe firmado por dos\nprofesionales médicos y un psicólogo de la Intendencia Departamental.\nEn todos los casos y cualquiera sea el plazo de la licencia solicitada,\nlos 3 primeros días de licencia médica certificada, serán sin goce de\nsueldo, excepto los casos de internaciones médicas, intervenciones\nquirúrgicas u odontológicas debidamente documentadas.\nAl funcionario que en un período de 12 meses, incurra en más de\n45 inasistencias o en un lapso de 3 años en más de 120 justificadas o\nno, se le conformará una Junta Médica.\nA los efectos del cómputo de los plazos expresados, no se tendrán\nen cuenta todas las licencias previstas en el artículo 60 de este Estatuto,\nsalvo las licencias por enfermedad.\nCuando parte o la totalidad de dichas inasistencias se deban a las\nlicencias médicas, el funcionario deberá ser examinado por una Junta\nMédica, compuesta por tres profesionales de la salud, uno de los cuales\ndeberá ser Médico de la Intendencia Departamental.\nSi del dictamen de la Junta Médica surge que el funcionario padece\nineptitud física o mental permanente, se le notificará de los pasos a\nseguir para iniciar los trámites jubilatorios”.",
+      "label": "Artículo 79"
+    },
+    {
+      "number": "80",
+      "bis": "",
+      "title": "",
+      "text": "de la Junta Departamental de Lavalleja el que quedará redactado de la\nsiguiente forma: “k) a concurrir puntualmente al ejercicio de sus tareas.\nConstituye una falta susceptible de sanción, la ausencia del funcionario\nen días de servicio sin estar debidamente autorizado por su superior\nmás próximo o hallarse amparado por justa causa.\nLa reiteración de una falta por el término de 20 (veinte) días como\nmínimo, y en forma alternada, en un período de 12 (doce) meses, podrá\nconstituir falta administrativa pasible de destitución. La Dirección\nGeneral de Gestión Humana dará cuenta al Intendente Departamental,\ncada vez que el funcionario compute el referido número de faltas\ninjustificadas en el período señalado.\nEl jerarca comunal dará intervención a un equipo multidisciplinario\nconformado por el Director General de Gestión Humana, un psicólogo,\nun médico y un abogado, a efectos de que dictamine respecto de la\nsituación del funcionario ausente pudiendo sugerir su acompañamiento\ny evaluación o la instrucción del procedimiento disciplinario.\nLos funcionarios que falten a sus tareas durante 15 (quince)\ndías continuos sin causa justificada “serán” considerados como\nrenunciantes, previo dictamen del equipo multidisciplinario y garantías\ndel procedimiento administrativo, para verificar la autenticidad del\nabandono del cargo.\nEl superior de la oficina a que pertenezca el ausente, dará\ncuenta al Intendente Departamental toda vez que un funcionario\nde su dependencia, compute el referido número de inasistencias\ninjustificadas. El jerarca comunal pondrá en marcha el procedimiento\ndisciplinario correspondiente, remitiendo el expediente a la Dirección\nJurídica, la que emplazará al funcionario con arreglo a las disposiciones\nvigentes, a comparecer dentro del tercer día a reanudar el trabajo, o\nexpresar los motivos fundados para no hacerlo, bajo apercibimiento\nde tenérsele por renunciante.\nSi el funcionario no comparece dentro del término del\nemplazamiento, se configura la renuncia tácita al cargo, debiendo\nprocederse a su destitución sin más trámite. En caso de que el\nfuncionario comparezca al ser emplazado, se admitirá su reintegro al\ncargo, previo dictamen favorable del equipo multidisciplinario, hasta\ntanto la autoridad municipal se expida sobre si se ha configurado o\nno, falta administrativa pasible de sanción”.\n88\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial",
+      "label": "Artículo 80"
+    },
+    {
+      "number": "81",
+      "bis": "",
+      "title": "",
+      "text": "la Junta Departamental de Lavalleja que quedará redactado de la\nsiguiente forma: “ Aquellos funcionarios que cumplan los requisitos\nestablecidos en el artículo anterior, y renuncien a sus cargos dentro de\nlos 60 (sesenta) días siguientes a la promulgación del presente Decreto,\npercibirán los siguientes beneficios:\na) Un pago mensual equivalente al treinta por ciento (30%) del\nsalario base declarado en la historia laboral, del mes anterior al retiro\ncon exclusión de las partidas extraordinarias, hasta que cumpla los\nsetenta (70) años de edad.\nb) Un pago mensual equivalente al veinticinco por ciento (25%) del\nsalario base, entendiéndose por tal, el salario utilizado para el cálculo\ndel treinta por ciento (30%) correspondiente al mes inmediato anterior\na aquel en que el beneficiario cumpla setenta (70) años de edad.\nDicho pago se devengará a partir del momento en que el\nbeneficiario cumpla setenta (70) años y hasta que cumpla setenta y\ncinco (75) años de edad.\nc) Un pago mensual equivalente al veinte por ciento (20%) del\nsalario base, entendiéndose por tal el salario utilizado para el cálculo del\nveinticinco por ciento (25%) correspondiente al mes inmediato anterior\na aquel en que el beneficiario cumpla setenta y cinco (75) años de edad.\nEste pago se devengará desde el momento en que el beneficiario\ncumpla setenta y cinco (75) años y hasta que cumpla ochenta (80)\naños de edad.\nA partir de dicha edad tendrá carácter vitalicio, con un tope máximo\nequivalente a cuatro (4) Bases de Prestaciones y Contribuciones (BPC).\nEste artículo entrará en vigencia a partir de la fecha de sanción del\npresente Decreto”.",
+      "label": "Artículo 81"
+    },
+    {
+      "number": "82",
+      "bis": "",
+      "title": "",
+      "text": "original del Decreto Nº 2327/2003 de la Junta Departamental de\nLavalleja, hubieren dejado de percibir el incentivo, y que a la fecha de\nentrada en vigencia del artículo precedente, no registren fallecimiento,\nrestablecerán el derecho a su percepción a partir de la fecha de sanción\ndel presente Decreto. Dicho inventivo, se abonará por el mismo\nimporte que hubieren venido percibiendo, actualizado conforme a la\nvariación del Índice de Precios al Consumo (IPC), con un tope máximo\nequivalente a cuatro (cuatro) Bases de Prestaciones y Contribuciones\n(BPC).",
+      "label": "Artículo 82"
+    },
+    {
+      "number": "83",
+      "bis": "",
+      "title": "",
+      "text": "Sala de Sesiones, a veinticinco de marzo del año dos mil veintiséis.\nMauro Álvarez, Presidente; Andrea Cóccaro, Secretaria Interina.\nDIRECCIÓN DE TRÁNSITO\n21\nNotificación 31/026\nNotifícase a los propietarios de los vehículos cuyas matrículas se determinan, que se constató la contravención a las normas vigentes de tránsito, por lo\nque correspondería la aplicación de una multa.\n(2.954)\nDirección de Tránsito de la Intendencia de Lavalleja ha dispuesto notificar a los propietarios de los vehículos cuya matrícula se detalla en\nplanilla adjunta, que la Intendencia de Lavalleja, constató la contravención que allí se señala, por lo que correspondería aplicar una multa. Se\ndispone la presente notificación confiriendo vista de estas actuaciones a los titulares de los vehículos relacionados, conforme lo establece el Digesto\nDepartamental. A partir de la publicación cuenta con un plazo de 10 días hábiles a efectos de realizar los descargos que entienda corresponde.\nMatricula Fecha Interseccion Localidad Serie-Boleta Articulo Moneda\nValor\nTotal\nAAP4150 11/7/2026 22:06 TREINTA Y TRES Y\nITUZAINGO\nMINAS FM18 303 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nB143508 14/7/2026 8:00 CNEL.BRIGIDO SILVEIRA Y\n25 DE MAYO\nMINAS FM18 312 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nB207099 10/7/2026 12:48 JUAN ANTONIO LAVALLEJA\nY DOMINGO PEREZ\nMINAS FM18 297 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nB803907 6/7/2026 21:23 25 DE MAYO MINAS FM18 301 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nB803907 6/7/2026 12:00 25 DE MAYO MINAS FM18 302 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nB803907 6/7/2026 12:00 25 DE MAYO MINAS FM18 304 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nCBB4229 9/7/2026 12:19 F. D. ROOSEVELT Y\nCLAUDIO WILLIMAN\nMINAS FM18 281 15.2 - No respetar preferencia de la\nderecha\nUNIDAD REAJUSTA 4\nDAA8990 10/7/2026 10:08 18 DE JULIO Y DOMINGO\nPEREZ\nMINAS FM18 293 18.2.1 - Estacionar en doble fila UNIDAD REAJUSTA 1,5\nERB 1523 10/7/2026 10:32 25 DE MAYO Y TREINTA Y\nTRES\nMINAS FM18 294 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nPAB5824 24/6/2026 11:37 JOSE PEDRO VARELA Y DR.\nJULIO CASAS ARAUJO\nMINAS FM18 299 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nPAB7498 13/7/2026 9:42 DOMINGO PEREZ Y\nWASHINGTON BELTRAN\nMINAS FM18 311 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nPAC 5225 12/7/2026 9:47 TREINTA Y TRES Y CLAUDIO\nWILLIMAN\nMINAS FM18 307 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nPAC 7721 13/7/2026 18:58 FLORENCIO SANCHEZ Y\nWASHINGTON BELTRAN\nMINAS FM18 308 4.4.2 - Conducir manipulando teléfono\ncelular- decreto 81/014\nUNIDAD REAJUSTA 3\npac2195 9/7/2026 14:00 JOSE PEDRO VARELA\nY INT. JUAN ANTONIO\nMALDONADO\nMINAS FM18 284 4.4.2 - Conducir manipulando teléfono\ncelular- decreto 81/014\nUNIDAD REAJUSTA 3\npac3770 15/7/2026 22:51 25 DE MAYO Y 18 DE JULIO MINAS FM18 319 4.8 - Conductor o pasajeros no usan\ncinturón de seguridad\nUNIDAD REAJUSTA 2\n89\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nPAC4364 14/7/2026 12:42 CNEL.BRIGIDO SILVEIRA Y\nDR. ANIBAL DEL CAMPO\nMINAS FM18 313 4.4.2 - Conducir manipulando teléfono\ncelular- decreto 81/014\nUNIDAD REAJUSTA 3\nPAC6340 10/7/2026 12:48 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 296 4.4.2 - Conducir manipulando teléfono\ncelular- decreto 81/014\nUNIDAD REAJUSTA 3\nPAC7262 7/7/2026 10:17 TREINTA Y TRES Y CLAUDIO\nWILLIMAN\nMINAS FM18 306 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nPAC8725 6/7/2026 12:17 WASHINGTON BELTRAN Y\n25 DE MAYO\nMINAS FM18 305 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nPAC8898 10/7/2026 9:55 TREINTA Y TRES Y\nFLORENCIO SANCHEZ\nMINAS FM18 292 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\npad0613 13/7/2026 11:05 DR. BALTASAR BRUM Y\nJUAN R. VOLANTE\nMINAS FM18 309 4.4.2 - Conducir manipulando teléfono\ncelular- decreto 81/014\nUNIDAD REAJUSTA 3\nPaj114 9/7/2026 22:26 18 DE JULIO Y FLORENCIO\nSANCHEZ\nMINAS FM18 289 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 0,5\nPAK 685 9/7/2026 12:50 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 282 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 1\nPAK 685 9/7/2026 12:50 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 282 21.3.1 - Conductor o acompañante sin\ncasco-\nUNIDAD REAJUSTA 2\nPAK616 15/7/2026 12:08 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 315 4.3.1 - No respetar señalamiento UNIDAD REAJUSTA 1,5\nPAK616 15/7/2026 12:08 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 315 4.3.2 - No respetar indicaciones del\npersonal inspectivo\nUNIDAD REAJUSTA 3\nPAK616 15/7/2026 12:08 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 315 4.4.1 - Conducir con imprudencia UNIDAD REAJUSTA 2\nPAK616 15/7/2026 12:08 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 315 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 0,5\nPAK616 15/7/2026 12:08 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 315 4.7 - Conducir sin cuidado o atención a\nlos peatones\nUNIDAD REAJUSTA 2\nPAK616 15/7/2026 12:08 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 315 10.68.9 Birrodado no cuenta con espejo,\nsistema lumínico (faro de luz blanca o\nreflectante blanco delantero, faro de luz\nroja y reflectante trasero, dispositivos,\nretro reflectantes en ruedas, bandas\nen pedales, etc.) condiciones\nantirreglamentarias. Por vehículo en\ncondiciones no reglamentarias\nUNIDAD REAJUSTA 0,5\nPAU704 9/7/2026 15:00 TREINTA Y TRES Y JOSE E.\nRODO\nMINAS FM18 287 12.6 Circular a contramano UNIDAD REAJUSTA 4\nPAU704 9/7/2026 15:00 TREINTA Y TRES Y JOSE E.\nRODO\nMINAS FM18 287 4.3.2 - No respetar indicaciones del\npersonal inspectivo\nUNIDAD REAJUSTA 3\nPAV 3707 15/7/2026 23:04 25 DE MAYO Y TREINTA Y\nTRES\nMINAS FM18 321 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 0,5\nPAV 4807 15/7/2026 22:54 25 DE MAYO Y TREINTA Y\nTRES\nMINAS FM18 320 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 0,5\nPAV3160 11/7/2026 13:22 18 DE JULIO Y FLORENCIO\nSANCHEZ\nMINAS FM18 298 21.3.1 - Conductor o acompañante sin\ncasco-\nUNIDAD REAJUSTA 1\npav3221 9/7/2026 22:32 18 DE JULIO Y FLORENCIO\nSANCHEZ\nMINAS FM18 290 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 0,5\nPAV4540 15/7/2026 12:10 JOSE BATLLE Y ORDOÃ?EZ Y\n25 DE MAYO\nMINAS FM18 316 4.3.1 - No respetar señalamiento UNIDAD REAJUSTA 1,5\nPAV4540 15/7/2026 12:10 JOSE BATLLE Y ORDOÃ?EZ Y\n25 DE MAYO\nMINAS FM18 316 4.3.2 - No respetar indicaciones del\npersonal inspectivo\nUNIDAD REAJUSTA 3\nPAV4540 15/7/2026 12:10 JOSE BATLLE Y ORDOÃ?EZ Y\n25 DE MAYO\nMINAS FM18 316 10.68.9 Birrodado no cuenta con espejo,\nsistema lumínico (faro de luz blanca o\nreflectante blanco delantero, faro de luz\nroja y reflectante trasero, dispositivos,\nretro reflectantes en ruedas, bandas\nen pedales, etc.) condiciones\nantirreglamentarias. Por vehículo en\ncondiciones no reglamentarias\nUNIDAD REAJUSTA 0,5\nPAV4540 15/7/2026 12:10 JOSE BATLLE Y ORDOÃ?EZ Y\n25 DE MAYO\nMINAS FM18 316 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 1\nPAV4540 15/7/2026 12:10 JOSE BATLLE Y ORDOÃ?EZ Y\n25 DE MAYO\nMINAS FM18 316 21.3.1 - Conductor o acompañante sin\ncasco-\nUNIDAD REAJUSTA 1\nPAV4540 15/7/2026 12:20 DOMINGO PEREZ Y\nWASHINGTON BELTRAN\nMINAS FM18 317 4.3.1 - No respetar señalamiento UNIDAD REAJUSTA 1,5\nPAV4540 15/7/2026 12:20 DOMINGO PEREZ Y\nWASHINGTON BELTRAN\nMINAS FM18 317 4.3.2 - No respetar indicaciones del\npersonal inspectivo\nUNIDAD REAJUSTA 3\nPAV4540 15/7/2026 12:20 DOMINGO PEREZ Y\nWASHINGTON BELTRAN\nMINAS FM18 317 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 1\nPAV4540 15/7/2026 12:20 DOMINGO PEREZ Y\nWASHINGTON BELTRAN\nMINAS FM18 317 21.3.1 - Conductor o acompañante sin\ncasco-\nUNIDAD REAJUSTA 1\nPAV4857 13/7/2026 22:05 TREINTA Y TRES Y\nCALLLEJON PBRO. J. DE\nLUCA\nMINAS FM18 310 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 0,5\n90\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nPAV4857 13/7/2026 22:05 TREINTA Y TRES Y\nCALLLEJON PBRO. J. DE\nLUCA\nMINAS FM18 310 10.68.9 Birrodado no cuenta con espejo,\nsistema lumínico (faro de luz blanca o\nreflectante blanco delantero, faro de luz\nroja y reflectante trasero, dispositivos,\nretro reflectantes en ruedas, bandas\nen pedales, etc.) condiciones\nantirreglamentarias. Por vehículo en\ncondiciones no reglamentarias\nUNIDAD REAJUSTA 1\nPAV5117 9/7/2026 18:54 F. D. ROOSEVELT Y 25 DE\nMAYO\nMINAS FM18 286 4.3.2 - No respetar indicaciones del\npersonal inspectivo\nUNIDAD REAJUSTA 3\nPAV5117 9/7/2026 18:54 F. D. ROOSEVELT Y 25 DE\nMAYO\nMINAS FM18 286 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 0,5\nPAV5117 9/7/2026 18:54 F. D. ROOSEVELT Y 25 DE\nMAYO\nMINAS FM18 286 4.4.1 - Conducir con imprudencia UNIDAD REAJUSTA 2\nPAV5117 9/7/2026 18:54 F. D. ROOSEVELT Y 25 DE\nMAYO\nMINAS FM18 286 10.68.9 Birrodado no cuenta con espejo,\nsistema lumínico (faro de luz blanca o\nreflectante blanco delantero, faro de luz\nroja y reflectante trasero, dispositivos,\nretro reflectantes en ruedas, bandas\nen pedales, etc.) condiciones\nantirreglamentarias. Por vehículo en\ncondiciones no reglamentarias\nUNIDAD REAJUSTA 0,5\npav5185 9/7/2026 22:18 18 DE JULIO Y FLORENCIO\nSANCHEZ\nMINAS FM18 288 4.3.2 - No respetar indicaciones del\npersonal inspectivo\nUNIDAD REAJUSTA 3\npav5185 9/7/2026 22:18 18 DE JULIO Y FLORENCIO\nSANCHEZ\nMINAS FM18 288 21.8 - No usar chaleco, campera o\nbandas retroreflectivas reglamentaria\nUNIDAD REAJUSTA 0,5\nPAV5312 9/7/2026 13:08 W. FERREIRA ALDUNATE Y\nGUERNICA\nMINAS FM18 283 21.3.1 - Conductor o acompañante sin\ncasco-\nUNIDAD REAJUSTA 1\nPAV5529 15/7/2026 12:29 DR. LUIS A. DE HERRERA Y\nCNEL. M. CARABAJAL\nMINAS FM18 314 13.1 - Conducir a velocidad o forma\nimprudente o desatenta\nUNIDAD REAJUSTA 4\nPTX0020 10/7/2026 12:49 25 DE MAYO Y CNEL.\nBRIGIDO SILVEIRA\nMINAS FM18 295 15.9.1 - No dar preferencia a peatón en\ncruce señalizado\nUNIDAD REAJUSTA 6\nSFI1264 10/7/2026 9:37 JOSE BATLLE Y ORDOÃ?EZ Y\nJOSE E. RODO\nMINAS FM18 291 18.9.1 - Estacionar en lugar prohibido o\nregulado\nUNIDAD REAJUSTA 1\nINTENDENCIA DE MALDONADO\nDEPARTAMENTO DE MOVILIDAD\n22\nNotificación 128/026\nNotifícase a los propietarios de los vehículos cuyas matrículas se determinan, que se constató la contravención a las normas vigentes de tránsito, por lo\nque correspondería la aplicación de una multa.\n(2.961)\nNotificación SFVM 128/2026\nEl Departamento de Movilidad de la Intendencia Departamental de Maldonado ha dispuesto notificar a los propietarios de los vehículos\ncuya matrícula se detalla en la planilla adjunta, que se ha constatado la contravención del artículo que allí se señala, por lo que se aplica una\nmulta en consecuencia. Se dispone la presente notificación confiriendo vista de las actuaciones de acuerdo a lo establecido en el artículo 76 del\nReglamento General de Actuación Administrativa (Resolución del Intendente N.º 0908/1992). La presentación de descargos se debe realizar\npor escrito dentro de los diez (10) días hábiles siguientes a la notificación, accediendo a la dirección https://www.gub.uy/tramites/revision-\nmulta-transito-maldonado y completando los datos allí solicitados.\nMatricula Fecha-Hora Interseccion Localidad Serie-Boleta Articulo Valor\nUR\nBFQ1640 2026-07-16 00:29 BATLLE Y ORDOÑEZ JOSE AVDA. Y\nAGUILAR FRANCISCO\nMALDONADO FM14 28248 12.6 Circular a contramano 4\nBFQ1640 2026-07-16 00:29 BATLLE Y ORDOÑEZ JOSE AVDA. Y\nAGUILAR FRANCISCO\nMALDONADO FM14 28248 4.3.2 No respetar indicaciones del personal\ninspectivo\n6\nBFQ1640 2026-07-16 00:29 BATLLE Y ORDOÑEZ JOSE AVDA. Y\nAGUILAR FRANCISCO\nMALDONADO FM14 28248 10.16.2 Carecer de ambos espejos\nreglamentarios\n6\nB575047 2026-07-15 07:56 DE VIANA JOSE JOAQUIN AVDA. Y\nVARELA JOSE PEDRO\nMALDONADO FM14 28204 4.4.2 Conducir manipulando teléfono celular-\ndecreto 81/014\n3\nBFP5914 2026-07-15 09:25 SARANDI Y FLORIDA MALDONADO FM14 28205 12.6 Circular a contramano 4\nBFP5914 2026-07-15 09:25 SARANDI Y FLORIDA MALDONADO FM14 28205 3.1.1 No poseer licencia de conducir o tenerla\nsuspendida\n15\nBFO4626 2026-07-15 09:56 BATALLA DEL CERRITO Y FRAGOSO\nDE RIVERA BERNARDINA\nMALDONADO FM14 28206 3.1.1 No poseer licencia de conducir o tenerla\nsuspendida\n15\nBFO4626 2026-07-15 09:56 BATALLA DEL CERRITO Y FRAGOSO\nDE RIVERA BERNARDINA\nMALDONADO FM14 28206 10.16.2 Carecer de ambos espejos\nreglamentarios\n6\nBFO4626 2026-07-15 09:56 BATALLA DEL CERRITO Y FRAGOSO\nDE RIVERA BERNARDINA\nMALDONADO FM14 28206 21.3.1 Conductor o acompañante sin casco-\nBicicleta 1 UR - decreto 81/014\n1\n91\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nPublicaciones\nJurídicas\nBFO4626 2026-07-15 09:56 BATALLA DEL CERRITO Y FRAGOSO\nDE RIVERA BERNARDINA\nMALDONADO FM14 28206 4.1.2 No portar documentación del vehículo\no el conductor\n6\nBAB2958 2026-07-15 10:53 SUECIA Y NORUEGA MALDONADO FM14 28208 18.1.1 Estacionar en sentido contrario al de\ncirculación\n3\nSBG5697 2026-07-15 10:55 SUECIA Y NORUEGA MALDONADO FM14 28209 18.1.1 Estacionar en sentido contrario al de\ncirculación\n3\nCBD4701 2026-07-15 12:29 ACAPULCO Y VIÑA DEL MAR PUNTA DEL\nESTE\nFM14 28211 12.6 Circular a contramano 4\nBEB6629 2026-07-15 12:52 DIECIOCHO (18) DE JULIO Y\nVEINTICINCO (25) DE MAYO\nMALDONADO FM14 28213 18.9.1 Estacionar en Iugar prohibido o\nregulado\n2\nBEB9019 2026-07-15 13:00 DE VIANA JOSE JOAQUIN AVDA. Y\nEDYE DR. JUAN T.\nMALDONADO FM14 28214 4.4.2 Conducir manipulando teléfono celular-\ndecreto 81/014\n3\nBEB9019 2026-07-15 13:00 DE VIANA JOSE JOAQUIN AVDA. Y\nEDYE DR. JUAN T.\nMALDONADO FM14 28214 4.8 Conductor o pasajeros no usan cinturón\nde seguridad\n2\nB208310 2026-07-15 16:22 LUSSICH ANTONIO AVDA. Y\nLAVALLEJA GRAL. JUAN A. AVDA.\nMALDONADO FM14 28219 4.1.2 No portar documentación del vehículo\no el conductor\n6\nB208310 2026-07-15 16:22 LUSSICH ANTONIO AVDA. Y\nLAVALLEJA GRAL. JUAN A. AVDA.\nMALDONADO FM14 28219 4.4.2 Conducir manipulando teléfono celular-\ndecreto 81/014\n3\nBGA0813 2026-07-15 18:21 FLORIDA Y SARANDI MALDONADO FM14 28232 18.2.3 Estacionar en cruce peatonal 3\nBFP6203 2026-07-15 18:36 VEINTICINCO (25) DE MAYO Y\nRINCON\nMALDONADO FM14 28235 15.3.1 No respetar cartel de Pare 6\nBFO9493 2026-07-15 18:56 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28236 10.16.2 Carecer de ambos espejos\nreglamentarios\n6\nBFO9493 2026-07-15 18:56 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28236 3.1.1 No poseer licencia de conducir o tenerla\nsuspendida\n15\nB587211 2026-07-15 18:55 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28237 4.8 Conductor o pasajeros no usan cinturón\nde seguridad\n2\nB587211 2026-07-15 18:55 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28237 7.1 Carecer de faros delanteros\nreglamentarios\n4\nBFM6129 2026-07-15 19:00 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28238 7.30 No usar luces cortas (o DRL) encendidos\nen forma permanente.\n1\nBFM5973 2026-07-15 19:07 SARANDI Y FLORIDA MALDONADO FM14 28239 12.6 Circular a contramano 4\nBFM2107 2026-07-15 19:05 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28240 3.1.1 No poseer licencia de conducir o tenerla\nsuspendida\n15\nBFM2107 2026-07-15 19:05 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28240 21.8 No usar chaleco,campera o bandas\nretroreflectivas reglamentaria\n0,5\nBFM2107 2026-07-15 19:05 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28240 4.1.2 No portar documentación del vehículo\no el conductor\n6\nBFM2107 2026-07-15 19:05 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28240 10.13.1 Falta placa matricula o ilegible 4\nBFA1353 2026-07-15 19:11 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28241 14.6 Adelantamiento no pemitido en vías de\n2 sentidos\n4\nBFM5363 2026-07-15 19:20 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28243 3.1.1 No poseer licencia de conducir o tenerla\nsuspendida\n15\nBFM5363 2026-07-15 19:20 SARAVIA GRAL. APARICIO AVDA.\nY PEDRAGOSA SIERRA ORLANDO\nAVDA.\nPUNTA DEL\nESTE\nFM14 28243 4.1.2 No portar documentación del vehículo\no el conductor\n6\nBFM276 2026-07-15 19:57 AIGUA AVDA. Y DE HERRERA DR.\nLUIS ALBERTO AV\nMALDONADO FM14 28244 3.1.1 No poseer licencia de conducir o tenerla\nsuspendida\n15\nBFM276 2026-07-15 19:57 AIGUA AVDA. Y DE HERRERA DR.\nLUIS ALBERTO AV\nMALDONADO FM14 28244 21.8 No usar chaleco,campera o bandas\nretroreflectivas reglamentaria\n0,5\nJuan Pígola, Director General del Departamento de Movilidad Intendencia de Maldonado.\n92\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\n23\nNotificación 129/026\nNotifícase a los propietarios de los vehículos cuyas matrículas se determinan, que se constató la contravención a las normas vigentes de tránsito, por lo\nque correspondería la aplicación de una multa.\n(2.966)\nNotificación SFVM 129/2026\nEl Departamento de Movilidad de la Intendencia Departamental de Maldonado ha dispuesto notificar a los propietarios de los vehículos\ncuya matrícula se detalla en la planilla adjunta, que se ha constatado la contravención del artículo que allí se señala, por lo que se aplica una\nmulta en consecuencia. Se dispone la presente notificación confiriendo vista de las actuaciones de acuerdo a lo establecido en el artículo 76 del\nReglamento General de Actuación Administrativa (Resolución del Intendente N.º 0908/1992). La presentación de descargos se debe realizar\npor escrito dentro de los diez (10) días hábiles siguientes a la notificación, accediendo a la dirección https://www.gub.uy/tramites/revision-\nmulta-transito-maldonado y completando los datos allí solicitados.\nMatricula Fecha-Hora Interseccion Localidad Serie-Boleta Articulo\nValor\nUR\nSBE3565 2026-07-15 21:05 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28245 7,30 No usar luces cortas (o DRL) encendidos\nen forma permanente,\n1\nSBE3565 2026-07-15 21:05 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28245 4,3,2 No respetar indicaciones del personal\ninspectivo\n6\nBTX1577 2026-07-15 20:48 WILLIMAN DR, CLAUDIO RBLA, Y\nPEDRAGOSA SIERRA ORLANDO AVDA,\nPUNTA DEL ESTE FM14 28246 15,4 No respetar señales luminosas 6\nB705357 2026-07-15 23:18 AVENIDA ARTIGAS PIRIAPOLIS FM14 28247 4,2,1 Conducir bajo efectos de alcohol o\nrehusarse al examen (artículo 46 de la ley\n18,191)\n15\nB705357 2026-07-15 23:18 AVENIDA ARTIGAS PIRIAPOLIS FM14 28247 4,1,2 No portar documentación del vehículo\no el conductor\n6\nBEA3019 2026-07-16 07:57 AVENIDA ARTIGAS PIRIAPOLIS FM14 28249 15,3,1 No respetar cartel de Pare 6\nBEA3019 2026-07-16 07:57 AVENIDA ARTIGAS PIRIAPOLIS FM14 28249 4,3,2 No respetar indicaciones del personal\ninspectivo\n6\nBFP1664 2026-07-16 09:38 ACUÑA DE FIGUEROA FCO, AVDA, Y\nBURNETT ENRIQUE\nMALDONADO FM14 28250 18,9,1 Estacionar en lugar prohibido o\nregulado\n2\nBDA0432 2026-07-16 10:04 FLORIDA Y SARANDI MALDONADO FM14 28251 18,9,1 Estacionar en lugar prohibido o\nregulado\n2\nB714385 2026-07-16 11:12 DIECIOCHO (18) DE JULIO Y\nVEINTICINCO (25) DE MAYO\nMALDONADO FM14 28253 18,9,1 Estacionar en lugar prohibido o\nregulado\n2\nBEC8413 2026-07-16 12:22 VARELA JOSE PEDRO Y GUERRA\nROMAN\nMALDONADO FM14 28254 4,3,2 No respetar indicaciones del personal\ninspectivo\n6\nBEC8413 2026-07-16 12:22 VARELA JOSE PEDRO Y GUERRA\nROMAN\nMALDONADO FM14 28254 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nSDD5903 2026-07-16 12:45 AVENIDA ARTIGAS PIRIAPOLIS FM14 28255 18,9,1 Estacionar en lugar prohibido o\nregulado\n2\nSDD5903 2026-07-16 12:45 AVENIDA ARTIGAS PIRIAPOLIS FM14 28255 4,1,2 No portar documentación del vehículo\no el conductor\n12\nBED3439 2026-07-16 12:00 MISIONES PIRIAPOLIS FM14 28256 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nOAC2615 2026-07-16 13:26 ACUÑA DE FIGUEROA FCO, AVDA, Y\nBURNETT ENRIQUE\nMALDONADO FM14 28257 10,17 Letreros/adhesivos perjudican la\nvisión\n2\nOAC2615 2026-07-16 13:26 ACUÑA DE FIGUEROA FCO, AVDA, Y\nBURNETT ENRIQUE\nMALDONADO FM14 28257 16,5 No respetar giros o inversiones\ncircunstanciales\n4\nBAB6541 2026-07-16 13:39 DE VIANA JOSE JOAQUIN AVDA, Y\nLUSSICH ANTONIO AVDA,\nMALDONADO FM14 28258 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nBAB6541 2026-07-16 13:39 DE VIANA JOSE JOAQUIN AVDA, Y\nLUSSICH ANTONIO AVDA,\nMALDONADO FM14 28258 4,1,2 No portar documentación del vehículo\no el conductor\n6\nBEC5008 2026-07-16 13:54 BATLLE Y ORDOÑEZ JOSE AVDA, Y\nBERGALLI DR, ROMAN\nMALDONADO FM14 28259 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nBED2290 2026-07-16 14:47 ITUZAINGO Y SARANDI MALDONADO FM14 28260 18,2,8 Estacionar en entrada a inmueble 2\nABF9720 2026-07-16 15:52 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28261 10,13,1 Falta placa matricula o ilegible 4\nABF9720 2026-07-16 15:52 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28261 4,1,2 No portar documentación del vehículo\no el conductor\n6\nB584078 2026-07-16 16:33 CALLE 31 (INZAURRAGA FCO, EMILIO)\nY GORLERO JUAN AVDA,\nPUNTA DEL ESTE FM14 28262 18,9,1 Estacionar en lugar prohibido o\nregulado\n2\nSDH1436 2026-07-16 17:23 MISIONES PIRIAPOLIS FM14 28263 4,3,2 No respetar indicaciones del personal\ninspectivo\n6\nSDH1436 2026-07-16 17:23 MISIONES PIRIAPOLIS FM14 28263 12,6 Circular a contramano 4\nFRF7999 2026-07-16 17:26 DIECIOCHO (18) DE JULIO Y FLORIDA MALDONADO FM14 28264 18,9,1 Estacionar en lugar prohibido o\nregulado\n2\nBFA1402 2026-07-16 17:25 GUERRA ROMAN Y VEINTICINCO (25)\nDE MAYO\nMALDONADO FM14 28266 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\n93\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nBFA1402 2026-07-16 17:25 GUERRA ROMAN Y VEINTICINCO (25)\nDE MAYO\nMALDONADO FM14 28266 4,3,2 No respetar indicaciones del personal\ninspectivo\n6\nQBJ8225 2026-07-16 18:33 FLORIDA Y GUERRA ROMAN MALDONADO FM14 28267 21,3,1 Conductor o acompañante sin casco-\nBicicleta 1 UR - decreto 81/014\n1\nQBJ8225 2026-07-16 18:33 FLORIDA Y GUERRA ROMAN MALDONADO FM14 28267 21,8 No usar chaleco,campera o bandas\nretroreflectivas reglamentaria\n0,5\nBEC7293 2026-07-16 18:43 CALLE 31 (INZAURRAGA FCO, EMILIO)\nY GORLERO JUAN AVDA,\nPUNTA DEL ESTE FM14 28268 18,9,1 Estacionar en lugar prohibido o\nregulado\n2\nBED5381 2026-07-16 19:59 SALT LAKE Y ROOSEVELT FRANKLIN\nD, AVDA,\nPUNTA DEL ESTE FM14 28269 18,2,8 Estacionar en entrada a inmueble 2\nBEE0996 2026-07-16 20:02 SALT LAKE Y ROOSEVELT FRANKLIN\nD, AVDA,\nPUNTA DEL ESTE FM14 28270 18,2,8 Estacionar en entrada a inmueble 2\nEMC8475 2026-07-16 20:44 PEDRAGOSA SIERRA ORLANDO AVDA,\nY ARTIGAS GRAL, JOSE G, (BULEVAR\nPUNTA DEL ESTE FM14 28271 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nFNQ185 2026-07-16 20:45 MISIONES PIRIAPOLIS FM14 28272 12,6 Circular a contramano 4\nBEY449 2026-07-16 20:44 BVAR ARTIGAS PIRIAPOLIS FM14 28273 21,3,1 Conductor o acompañante sin casco-\nBicicleta 1 UR - decreto 81/014\n1\nBEY449 2026-07-16 20:44 BVAR ARTIGAS PIRIAPOLIS FM14 28273 4,3,2 No respetar indicaciones del personal\ninspectivo\n6\nBFQ3487 2026-07-16 22:55 AVENIDA ARTIGAS PIRIAPOLIS FM14 28274 3,1,1 No poseer licencia de conducir o\ntenerla suspendida\n15\nOBQ4933 2026-07-16 23:13 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28275 3,1,1 No poseer licencia de conducir o\ntenerla suspendida\n15\nOBQ4933 2026-07-16 23:13 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28275 4,1,2 No portar documentación del vehículo\no el conductor\n6\nSCX1556 2026-07-16 23:16 AVENIDA ARTIGAS PIRIAPOLIS FM14 28276 4,1,2 No portar documentación del vehículo\no el conductor\n6\nBEE5640 2026-07-16 23:22 AVENIDA ARTIGAS PIRIAPOLIS FM14 28277 4,1,2 No portar documentación del vehículo\no el conductor\n6\nKDA2385 2026-07-16 00:05 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28278 3,1,1 No poseer licencia de conducir o\ntenerla suspendida\n15\nKDA2385 2026-07-16 00:05 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28278 4,2,1 Conducir bajo efectos de alcohol o\nrehusarse al examen (artículo 46 de la ley\n18,191)\n15\nKDA2385 2026-07-16 00:05 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28278 7,3,1 Carecer de luz posición delantera\ncarece o no funciona\n3\nIAD5938 2026-07-13 17:08 ACUÑADE FIGUEROA FCO, AVDA, Y\nBURNETT ENRIQUE\nMALDONADO FM14 28147 15,4 No respetar señales luminosas 6\nSDA4439 2026-07-13 17:17 WILLIMAN DR, CLAUDIO RBLA, Y\nBIARRITZ AVDA,\nPUNTA DEL ESTE FM14 28148 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nBAB4818 2026-07-15 10:36 HAEDO EDUARDO VICTOR AVDA, Y\nEL PEDREGAL\nLA BARRA FM14 28207 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nBFO5827 2026-07-15 11:21 MISIONES PIRIAPOLIS FM14 28210 2,2 Uso indebido de aceras por vehículos 3\nBFO5827 2026-07-15 11:21 MISIONES PIRIAPOLIS FM14 28210 3,1,1 No poseer licencia de conducir o\ntenerla suspendida\n15\nMAN7775 2026-07-15 12:37 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28212 18,1,1 Estacionar en sentido contrario al de\ncirculación\n3\nB557400 2026-07-15 13:19 BERGALLI DR, ROMAN Y MICHELINI\nZELMAR\nMALDONADO FM14 28215 10,13,1 Falta placa matricula o ilegible 4\nBBA4708 2026-07-15 14:05 CALIFORNIA Y YOLO/A PUNTA DEL ESTE FM14 28216 18,2,8 Estacionar en entrada a inmueble 2\nSCN6266 2026-07-15 14:05 AV FRANKLIN ROOSEVELT Y ACUÑADE\nFIGUEROA FCO, AVDA,\nMALDONADO FM14 28217 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nABL9300 2026-07-15 15:23 RAMBLA DE LOS ARGENTINOS PIRIAPOLIS FM14 28218 18,9,1 Estacionar en lugar prohibido o\nregulado\n2\nEMC3416 2026-07-15 16:44 AVENIDA COSTANERA LA CAPUERA FM14 28220 4,1,2 No portar documentación del vehículo\no el conductor\n6\nBTC1009 2026-07-15 16:59 DOS (2) DE FEBRERO Y MIRANDA CAP,\nDE NAVIO FRANCISC\nPUNTA DEL ESTE FM14 28222 4,4,2 Conducir manipulando teléfono\ncelular- decreto 81/014\n3\nBTC1054 2026-07-15 17:03 DOS (2) DE FEBRERO Y MIRANDA CAP,\nDE NAVIO FRANCISC\nPUNTA DEL ESTE FM14 28223 24 C Exceso en tiempo de estacionamiento\nde los vehiculos en lugares de destino y en\ncapacidad autorizada de los mismos\n10\nBTC1042 2026-07-15 16:55 MIRANDA CAP, DE NAVIO FRANCISC\nY VIRAZON\nPUNTA DEL ESTE FM14 28224 24 C - Exceso en tiempo de estacionamiento\nde los vehiculos en lugares de destino y en\ncapacidad autorizada de los mismos\n10\nBFP2232 2026-07-15 17:07 RAMBLA COSTANERA PIRIAPOLIS FM14 28225 3,1,1 No poseer licencia de conducir o\ntenerla suspendida\n15\nBFP2232 2026-07-15 17:07 RAMBLA COSTANERA PIRIAPOLIS FM14 28225 4,1,2 No portar documentación del vehículo\no el conductor\n6\nBFP2232 2026-07-15 17:07 RAMBLA COSTANERA PIRIAPOLIS FM14 28225 21,3,1 Conductor o acompañante sin casco-\nBicicleta 1 UR - decreto 81/014\n1\nB205048 2026-07-15 17:30 RAMBLA COSTANERA PIRIAPOLIS FM14 28226 3,1,2 Conducir con licencia fuera de\ncategoría vencida\n6\nB205048 2026-07-15 17:30 RAMBLA COSTANERA PIRIAPOLIS FM14 28226 4,1,2 No portar documentación del vehículo\no el conductor\n6\nSFX544 2026-07-15 17:57 AVENIDA COSTANERA LA CAPUERA FM14 28228 10,13,2 Placa matricula deteriorada 2\n94\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nBFM2602 2026-07-15 18:11 RAMBLA COSTANERA PIRIAPOLIS FM14 28229 10,16,1 Falta espejo retrovisor plano 2\nERB5175 2026-07-15 18:10 AVENIDA COSTANERA LA CAPUERA FM14 28230 3,1,2 Conducir con licencia fuera de\ncategoría vencida\n6\nBCA2230 2026-07-15 18:15 AVENIDA COSTANERA LA CAPUERA FM14 28231 3,1,1 No poseer licencia de conducir o\ntenerla suspendida\n15\nBFM386 2026-07-15 18:23 AVENIDA COSTANERA LA CAPUERA FM14 28233 10,13,1 Falta placa matricula o ilegible 4\nBFM386 2026-07-15 18:23 AVENIDA COSTANERA LA CAPUERA FM14 28233 10,16,2 Carecer de ambos espejos\nreglamentarios\n6\nSBG4266 2026-07-15 18:30 AVENIDA COSTANERA LA CAPUERA FM14 28234 10,13,1 Falta placa matricula o ilegible 4\nSBM9434 2026-07-15 19:16 MISIONES PIRIAPOLIS FM14 28242 4,3,2 No respetar indicaciones del personal\ninspectivo\n6\nSBM9434 2026-07-15 19:16 MISIONES PIRIAPOLIS FM14 28242 7,1a Carecer de luz baja o no funciona 3\nJuan Pígola, Director General del Departamento de Movilidad Intendencia de Maldonado.\n24\nNotificación 627/026\nNotifícase a los propietarios de los vehículos cuyas matrículas se determinan, que se constató la contravención a las normas vigentes de tránsito, por lo\nque correspondería la aplicación de una multa.\n(2.962)\nEl Departamento de Movilidad de la Intendencia Departamental de Maldonado ha dispuesto notificar a los propietarios de los vehículos\ncuya matrícula se detalla en planilla adjunta, que a través de la Unidad de Fiscalización se ha constatado la contravención del artículo que allí\nse señala, por lo que se aplica una multa en consecuencia. Se dispone la presente notificación confiriendo vista de las actuaciones de acuerdo a\nlo establecido en el artículo 76 del Reglamento General de Actuación Administrativa (Resolución del Intendente N.º 0908/1992). La presentación\nde descargos se debe realizar por escrito dentro de los diez (10) días hábiles siguientes a la notificación, accediendo a la dirección https://www.\ngub.uy/tramites/revision-multa-transito-maldonado y completando los datos allí solicitados.\nMatrícula Pais Fecha y Hora Intersección Intervenido Artículo\nValor\nen UR\nA192UJF ARGENTINA 12/07/2026 14:19 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257317 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAAB1698 URUGUAY 13/07/2026 21:03 Ruta Interbalnearia y Rosa de los Vientos IDM 0002258774 Exceso de velocidad hasta 20 km/h 5\nAAB1698 URUGUAY 13/07/2026 21:16 Bvar. Artigas y Arturo Santana IDM 0002258790 Exceso de velocidad hasta 20 km/h 5\nAAK1255 URUGUAY 13/07/2026 14:37 Av. Roosevelt y Londres IDM 0002258359 No respetar señales luminosas 6\nAAK2392 URUGUAY 12/07/2026 12:18 Bvar. Artigas y Lourdes IDM 0002257218 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAAK6233 URUGUAY 13/07/2026 11:11 Ruta Interbalnearia y Milton Lussich IDM 0002258130 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAAK7397 URUGUAY 12/07/2026 08:53 Puente Leonel Viera y Eduardo Victor\nHaedo\nIDM 0002257078 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAAO1695 URUGUAY 13/07/2026 11:19 Av. Roosevelt y Av. Los Alpes IDM 0002258143 No respetar señales luminosas 6\nAAQ9725 URUGUAY 13/07/2026 07:52 Av. Jose Batlle Y Ordoñez y Aguilar\nFrancisco\nIDM 0002258019 No respetar señales luminosas 6\nAAU4537 URUGUAY 13/07/2026 09:26 Rambla Claudio Williman y Av. España IDM 0002258069 No respetar señales luminosas 6\nAAU6122 URUGUAY 12/07/2026 19:18 Bvar. Artigas y Lourdes IDM 0002257599 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAAV3145 URUGUAY 12/07/2026 11:36 Ruta 39 y Km 15 IDM 0002257186 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nAAV4908 URUGUAY 13/07/2026 20:27 Rambla Claudio Williman y Av. España IDM 0002258746 No respetar señales luminosas 6\nAAZ2548 URUGUAY 12/07/2026 16:15 Ruta Interbalnearia y Milton Lussich IDM 0002257442 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAAZ8372 URUGUAY 13/07/2026 06:33 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257951 Exceso de velocidad hasta 20 km/h 5\nABB3345 URUGUAY 12/07/2026 16:49 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002257463 Exceso de velocidad hasta 20 km/h 5\nABB3429 URUGUAY 12/07/2026 09:57 Av. Enrique Tarigo y Francisco Aime IDM 0002257108 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nABC2630 URUGUAY 12/07/2026 00:32 Ruta 39 y Marelli IDM 0002256790 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nABC2630 URUGUAY 12/07/2026 02:55 Aparicio Saravia y Av San Pablo IDM 0002256930 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nABG8482 URUGUAY 13/07/2026 15:39 Eduardo Victor Haedo y Francis IDM 0002258420 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nABK5288 URUGUAY 14/07/2026 13:03 Ruta 10 y Av. Hector Soria IDM 0002259507 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAC508JL ARGENTINA 13/07/2026 05:29 Rambla Claudio Williman y del Faro IDM 0002257928 Exceso de velocidad hasta 20 km/h 5\nAE507VB ARGENTINA 12/07/2026 21:22 Rambla Claudio Williman y del Faro IDM 0002257681 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAE824WH ARGENTINA 12/07/2026 02:35 Aparicio Saravia y Av San Pablo IDM 0002256900 Exceso de velocidad doble o más 15\nAE915DO ARGENTINA 12/07/2026 16:02 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257425 Exceso de velocidad hasta 20 km/h 5\nAF683DK ARGENTINA 13/07/2026 08:33 Ruta Interbalnearia y Milton Lussich IDM 0002258034 Exceso de velocidad hasta 20 km/h 5\n95\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nAG470IK ARGENTINA 12/07/2026 18:20 Eduardo Victor Haedo y Francis IDM 0002257552 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAG471UU ARGENTINA 13/07/2026 07:44 Ruta Interbalnearia y Milton Lussich IDM 0002258014 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAG508JL ARGENTINA 13/07/2026 05:27 Rambla Claudio Williman y Cartagena IDM 0002257927 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAG786EG ARGENTINA 12/07/2026 17:01 Rambla Claudio Williman y Av. España IDM 0002257480 Exceso de velocidad hasta 20 km/h 5\nAH365LP ARGENTINA 12/07/2026 21:47 Rambla Claudio Williman y del Faro IDM 0002257720 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nAH402TJ ARGENTINA 12/07/2026 14:26 Eduardo Victor Haedo y Francis IDM 0002257323 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAI006KQ ARGENTINA 12/07/2026 16:49 Av. Enrique Tarigo y Francisco Aime IDM 0002257468 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAI021AL ARGENTINA 13/07/2026 20:16 Av. Enrique Tarigo y Francisco Aime IDM 0002258734 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nAI151JQ ARGENTINA 13/07/2026 17:51 Ruta Interbalnearia y Milton Lussich IDM 0002258596 Exceso de velocidad hasta 20 km/h 5\nAPL328 URUGUAY 13/07/2026 15:18 Antonio Lussich y Messina IDM 0002258410 No respetar señales luminosas 6\nAPL328 URUGUAY 13/07/2026 15:18 Antonio Lussich y Messina IDM 0002258410 Placa matricula deteriorada 2\nARL328 URUGUAY 12/07/2026 02:21 Aparicio Saravia y Av San Pablo IDM 0002256888 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nARL328 URUGUAY 12/07/2026 02:21 Aparicio Saravia y Av San Pablo IDM 0002256888 Placa matricula deteriorada 2\nAVL5972 URUGUAY 13/07/2026 21:06 Bvar. Artigas y Av. Córdoba IDM 0002258784 Exceso de velocidad hasta 20 km/h 5\nB114205 URUGUAY 13/07/2026 17:13 Ruta 9 y Gaviotas IDM 0002258536 Exceso de velocidad hasta 20 km/h 5\nB129459 URUGUAY 13/07/2026 03:58 Av Alvariza y Av. Pte. Tomas Berreta IDM 0002257922 No respetar señales luminosas 6\nB141740 URUGUAY 13/07/2026 16:37 Antonio Lussich y Messina IDM 0002258485 Exceso de velocidad hasta 20 km/h 5\nB142030 URUGUAY 12/07/2026 00:18 Antonio Lussich y Messina IDM 0002256777 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nB144690 URUGUAY 13/07/2026 12:05 Bvar. Artigas S y Frente a Municipio IDM 0002258190 Exceso de velocidad hasta 20 km/h 5\nB147279 URUGUAY 13/07/2026 19:04 Av. Artigas y Gral. Alvear IDM 0002258673 Exceso de velocidad hasta 20 km/h 5\nB147311 URUGUAY 12/07/2026 17:44 Av. Roosevelt y Av. M. Litman IDM 0002257525 Exceso de velocidad hasta 20 km/h 5\nB536094 URUGUAY 12/07/2026 00:00 Ruta 39 y Mapuches IDM 0002256745 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nB557294 URUGUAY 13/07/2026 13:00 Rambla Claudio Williman y Av. España IDM 0002258250 No respetar señales luminosas 6\nB558647 URUGUAY 13/07/2026 17:39 Bvar. Artigas N y Frente a Municipio IDM 0002258572 No respetar señales luminosas 6\nB581086 URUGUAY 12/07/2026 04:28 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002256991 Exceso de velocidad doble o más 15\nB586787 URUGUAY 13/07/2026 23:44 Aparicio Saravia y Av San Pablo IDM 0002258906 Exceso de velocidad hasta 20 km/h 5\nB587645 URUGUAY 12/07/2026 11:33 Rambla Claudio Williman y Cartagena IDM 0002257176 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nB590811 URUGUAY 13/07/2026 11:59 Ruta 39 y Incas N IDM 0002258192 Exceso de velocidad hasta 20 km/h 5\nB590811 URUGUAY 13/07/2026 13:34 Ruta 39 y Mapuches IDM 0002258279 Exceso de velocidad hasta 20 km/h 5\nB592628 URUGUAY 13/07/2026 11:38 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002258172 No respetar señales luminosas 6\nB710902 URUGUAY 12/07/2026 15:56 Av. Dr Jose A. Frade y Camino del Cerro\nEguizquiza\nIDM 0002257414 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nB713906 URUGUAY 13/07/2026 10:18 Ruta 10 y Calle 5 IDM 0002258097 Exceso de velocidad hasta 20 km/h 5\nB9168 URUGUAY 14/07/2026 13:41 Calle 20 (El Remanso) y Calle 29 IDM 0002259568 No respetar señales luminosas 6\nBAA2819 URUGUAY 13/07/2026 16:24 Ruta Interbalnearia y Rosa de los Vientos IDM 0002258476 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBAA4753 URUGUAY 12/07/2026 22:46 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257779 Exceso de velocidad hasta 20 km/h 5\nBAA6419 URUGUAY 12/07/2026 10:21 Av. Roosevelt y Av. Los Alpes IDM 0002257126 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBAA6779 URUGUAY 12/07/2026 03:12 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002256943 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBAA6779 URUGUAY 12/07/2026 03:05 Ruta Interbalnearia y Rosa de los Vientos IDM 0002256927 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBAA8176 URUGUAY 12/07/2026 23:38 Av. Francia y Maipo IDM 0002257836 Exceso de velocidad hasta 20 km/h 5\nBAA8201 URUGUAY 12/07/2026 16:11 Eduardo Victor Haedo y Francis IDM 0002257429 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBAA8871 URUGUAY 12/07/2026 17:12 Ruta Interbalnearia y Milton Lussich IDM 0002257487 Exceso de velocidad hasta 20 km/h 5\nBAA9445 URUGUAY 13/07/2026 19:37 Bvar. Artigas S y Frente a Municipio IDM 0002258708 No respetar señales luminosas 6\nBAB2722 URUGUAY 13/07/2026 12:22 Av Alvariza y 18 de Julio IDM 0002258212 No respetar señales luminosas 6\nBAB4093 URUGUAY 12/07/2026 15:30 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257391 Exceso de velocidad hasta 20 km/h 5\nBAB4273 URUGUAY 12/07/2026 14:02 Bvar. Artigas y Lourdes IDM 0002257300 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBAB5849 URUGUAY 13/07/2026 13:48 Antonio Lussich y Mar Azul IDM 0002258293 Exceso de velocidad hasta 20 km/h 5\nBAB6434 URUGUAY 12/07/2026 17:01 Ruta 39 y Km 15 IDM 0002257483 Exceso de velocidad hasta 20 km/h 5\nBAK848 URUGUAY 13/07/2026 13:03 Av. J. de Viana y Dr. R. Bergalli IDM 0002258248 No respetar señales luminosas 6\nBAT0261 URUGUAY 12/07/2026 21:13 Rambla Claudio Williman y del Faro IDM 0002257673 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBBM734 URUGUAY 13/07/2026 07:10 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257987 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBBM734 URUGUAY 13/07/2026 16:58 Ruta Interbalnearia y Milton Lussich IDM 0002258507 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBBN078 URUGUAY 13/07/2026 14:07 Bvar. Artigas y Canelones IDM 0002258319 Exceso de velocidad hasta 20 km/h 5\n96\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nBCA1474 URUGUAY 12/07/2026 19:57 Ruta 60 y Tala IDM 0002257627 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBCI769 URUGUAY 13/07/2026 22:53 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002258866 Exceso de velocidad hasta 20 km/h 5\nBCJ482 URUGUAY 13/07/2026 14:40 Antonio Lussich y Juan Etchuri IDM 0002258364 Exceso de velocidad hasta 20 km/h 5\nBCO428 URUGUAY 13/07/2026 14:49 Antonio Lussich y Juan Etchuri IDM 0002258375 Exceso de velocidad hasta 20 km/h 5\nBCO521 URUGUAY 13/07/2026 16:53 Luis Alberto de Herrera y Camino al\nPantanal\nIDM 0002258508 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBCO521 URUGUAY 13/07/2026 16:48 Ruta 39 y Marelli IDM 0002258495 Exceso de velocidad hasta 20 km/h 5\nBCO521 URUGUAY 12/07/2026 11:02 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257151 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBCQ281 URUGUAY 13/07/2026 14:20 Ruta 39 y Marelli IDM 0002258343 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBCT778 URUGUAY 13/07/2026 22:27 Bvar. Artigas y Lourdes IDM 0002258850 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBCT778 URUGUAY 13/07/2026 22:25 Bvar. Artigas y Arturo Santana IDM 0002258849 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBCT778 URUGUAY 13/07/2026 22:24 Bvar. Artigas S y Frente a Municipio IDM 0002258848 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBCY933 URUGUAY 12/07/2026 08:06 Bvar. Artigas y Canelones IDM 0002257059 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBDA0698 URUGUAY 12/07/2026 19:59 Av. J. de Viana y Av. España IDM 0002257621 Exceso de velocidad hasta 20 km/h 5\nBDA1272 URUGUAY 12/07/2026 16:59 Av. J. de Viana y Dr. R. Bergalli IDM 0002257469 Exceso de velocidad hasta 20 km/h 5\nBDC407 URUGUAY 13/07/2026 06:47 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257961 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBDC407 URUGUAY 13/07/2026 07:05 Aparicio Saravia y Av San Pablo IDM 0002257984 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBDE092 URUGUAY 13/07/2026 07:56 Puente Leonel Viera y Aparicio Saravia IDM 0002258021 Exceso de velocidad hasta 20 km/h 5\nBDE409 URUGUAY 12/07/2026 22:15 Antonio Lussich y Messina IDM 0002257743 Exceso de velocidad hasta 20 km/h 5\nBDK870 URUGUAY 13/07/2026 22:05 Antonio Lussich y Messina IDM 0002258825 Exceso de velocidad hasta 20 km/h 5\nBDL320 URUGUAY 13/07/2026 13:21 Av. Jose Batlle Y Ordoñez y Aguilar\nFrancisco\nIDM 0002258270 No respetar señales luminosas 6\nBDS447 URUGUAY 13/07/2026 16:17 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002258471 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBDS447 URUGUAY 13/07/2026 02:14 Av. J. de Viana y Av. España IDM 0002257904 No respetar señales luminosas 6\nBDS447 URUGUAY 13/07/2026 02:14 Av. J. de Viana y Av. España IDM 0002257904 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBDV464 URUGUAY 13/07/2026 07:46 Antonio Lussich y Mar Azul IDM 0002258011 Exceso de velocidad hasta 20 km/h 5\nBDX492 URUGUAY 13/07/2026 14:08 Ruta 39 y Incas N IDM 0002258327 Exceso de velocidad hasta 20 km/h 5\nBDX492 URUGUAY 12/07/2026 15:51 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257411 Exceso de velocidad hasta 20 km/h 5\nBDX492 URUGUAY 13/07/2026 23:49 Av. J. de Viana y Dr. R. Bergalli IDM 0002258907 Exceso de velocidad hasta 20 km/h 5\nBDY175 URUGUAY 13/07/2026 07:20 Av. Artigas y Gral. Alvear IDM 0002257996 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBDY813 URUGUAY 13/07/2026 22:41 Av. J. de Viana y Av. España IDM 0002258861 No respetar señales luminosas 6\nBDZ458 URUGUAY 13/07/2026 01:19 Calle 20 (El Remanso) y Calle 29 IDM 0002257893 Exceso de velocidad hasta 20 km/h 5\nBEA3830 URUGUAY 13/07/2026 08:01 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002258026 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEA4259 URUGUAY 12/07/2026 17:44 Camino B. Nardone y Sierra de los\nCaracoles\nIDM 0002257522 Exceso de velocidad hasta 20 km/h 5\nBEB1464 URUGUAY 13/07/2026 21:04 Rambla Claudio Williman y Av. España IDM 0002258780 No respetar señales luminosas 6\nBEB1900 URUGUAY 13/07/2026 14:28 Rambla Claudio Williman y Cartagena IDM 0002258346 Exceso de velocidad hasta 20 km/h 5\nBEB2871 URUGUAY 13/07/2026 00:08 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002257851 No respetar señales luminosas 6\nBEB2978 URUGUAY 12/07/2026 15:16 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257376 Exceso de velocidad hasta 20 km/h 5\nBEB3265 URUGUAY 12/07/2026 23:24 Bvar. Artigas y Av. Córdoba IDM 0002257818 Exceso de velocidad hasta 20 km/h 5\nBEB3715 URUGUAY 13/07/2026 22:15 Av. Roosevelt y Av. Los Alpes IDM 0002258841 No respetar señales luminosas 6\nBEB4648 URUGUAY 12/07/2026 17:10 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257489 Exceso de velocidad hasta 20 km/h 5\nBEB6080 URUGUAY 13/07/2026 12:27 Calle 20 (El Remanso) y Calle 29 IDM 0002258220 No respetar señales luminosas 6\nBEB7304 URUGUAY 12/07/2026 17:42 Bvar. Artigas N y Frente a Municipio IDM 0002257520 Exceso de velocidad hasta 20 km/h 5\nBEB7450 URUGUAY 12/07/2026 09:36 Bvar. Artigas y Av. Córdoba IDM 0002257095 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEB7630 URUGUAY 15/07/2026 09:42 Bvar. Artigas y Lourdes IDM 0002260659 Exceso de velocidad hasta 20 km/h 5\nBEC1158 URUGUAY 12/07/2026 22:11 Luis Alberto de Herrera y Camino al\nPantanal\nIDM 0002257740 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEC1177 URUGUAY 13/07/2026 20:02 Rambla Claudio Williman y Av. España IDM 0002258726 Exceso de velocidad hasta 20 km/h 5\nBEC1410 URUGUAY 12/07/2026 08:14 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257063 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBEC2674 URUGUAY 13/07/2026 07:05 Antonio Lussich y Messina IDM 0002257983 Exceso de velocidad hasta 20 km/h 5\nBEC6072 URUGUAY 13/07/2026 20:33 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002258751 Exceso de velocidad hasta 20 km/h 5\nBEC7306 URUGUAY 13/07/2026 16:45 Rambla Claudio Williman y del Faro IDM 0002258493 Exceso de velocidad hasta 20 km/h 5\nBEC7306 URUGUAY 13/07/2026 16:19 Av. Enrique Tarigo y Francisco Aime IDM 0002258469 Exceso de velocidad hasta 20 km/h 5\nBEC7306 URUGUAY 13/07/2026 16:21 Ruta Interbalnearia y Milton Lussich IDM 0002258475 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEC9541 URUGUAY 12/07/2026 17:16 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257490 Exceso de velocidad hasta 20 km/h 5\nBED0854 URUGUAY 13/07/2026 14:47 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002258369 No respetar señales luminosas 6\n97\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nBED2950 URUGUAY 14/07/2026 15:23 Rambla Claudio Williman y del Faro IDM 0002259701 Exceso de velocidad hasta 20 km/h 5\nBED2950 URUGUAY 14/07/2026 12:28 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002259454 Exceso de velocidad hasta 20 km/h 5\nBED5817 URUGUAY 13/07/2026 14:08 Bvar. Artigas y Lourdes IDM 0002258324 Exceso de velocidad hasta 20 km/h 5\nBED5926 URUGUAY 13/07/2026 10:02 Bvar. Artigas y Av. Córdoba IDM 0002258087 Exceso de velocidad hasta 20 km/h 5\nBED6586 URUGUAY 12/07/2026 01:43 Aparicio Saravia y Av San Pablo IDM 0002256857 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBED7978 URUGUAY 12/07/2026 18:18 Eduardo Victor Haedo y Francis IDM 0002257548 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEE0580 URUGUAY 13/07/2026 09:22 Av. Enrique Tarigo y Francisco Aime IDM 0002258066 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEE0580 URUGUAY 13/07/2026 09:24 Ruta Interbalnearia y Milton Lussich IDM 0002258070 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEE0659 URUGUAY 12/07/2026 14:32 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257335 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEE0689 URUGUAY 13/07/2026 15:01 Bvar. Artigas y Lourdes IDM 0002258398 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBEE0971 URUGUAY 13/07/2026 14:43 Bvar. Artigas y Lourdes IDM 0002258362 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEE1047 URUGUAY 13/07/2026 15:22 Av. Francia y Maipo IDM 0002258412 Exceso de velocidad hasta 20 km/h 5\nBEE1853 URUGUAY 13/07/2026 16:55 Eduardo Victor Haedo y Francis IDM 0002258504 Exceso de velocidad hasta 20 km/h 5\nBEE3509 URUGUAY 13/07/2026 08:52 Bvar. Artigas y Canelones IDM 0002258048 Exceso de velocidad hasta 20 km/h 5\nBEE5000 URUGUAY 13/07/2026 11:38 Rambla Lorenzo Batlle O y Leyenda Patria IDM 0002258174 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEG172 URUGUAY 12/07/2026 22:26 Ruta 10 y Calle 5 IDM 0002257757 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEI735 URUGUAY 13/07/2026 21:01 Luis Alberto de Herrera y Camino al\nPantanal\nIDM 0002258777 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEJ205 URUGUAY 13/07/2026 00:35 Av Alvariza y 18 de Julio IDM 0002257867 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEL257 URUGUAY 13/07/2026 08:58 Bvar. Artigas y Arturo Santana IDM 0002258053 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEL534 URUGUAY 13/07/2026 07:16 Aparicio Saravia y Av San Pablo IDM 0002257991 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEO454 URUGUAY 12/07/2026 03:19 Av. Gral. Juan A. Lavalleja y Sarandi IDM 0002256949 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEQ091 URUGUAY 13/07/2026 17:20 Ruta Interbalnearia y Milton Lussich IDM 0002258552 Exceso de velocidad hasta 20 km/h 5\nBEQ399 URUGUAY 12/07/2026 17:26 Bvar. Artigas y Canelones IDM 0002257503 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEQ543 URUGUAY 13/07/2026 12:52 Bvar. Artigas N y Frente a Municipio IDM 0002258236 No respetar señales luminosas 6\nBES396 URUGUAY 13/07/2026 13:09 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002258254 Exceso de velocidad hasta 20 km/h 5\nBEV265 URUGUAY 13/07/2026 18:33 Antonio Lussich y Messina IDM 0002258648 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEW070 URUGUAY 12/07/2026 08:02 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257056 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEX535 URUGUAY 13/07/2026 01:07 Av. Roosevelt y Av. M. Litman IDM 0002257887 Exceso de velocidad hasta 20 km/h 5\nBEZ265 URUGUAY 13/07/2026 12:34 Ruta Interbalnearia y Milton Lussich IDM 0002258228 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBEZ265 URUGUAY 13/07/2026 12:34 Ruta Interbalnearia y Milton Lussich IDM 0002258228 Placa matricula deteriorada 2\nBEZ327 URUGUAY 12/07/2026 10:58 Rambla Claudio Williman y Av. España IDM 0002257144 No respetar señales luminosas 6\nBEZ523 URUGUAY 13/07/2026 05:20 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257926 Exceso de velocidad hasta 20 km/h 5\nBFA0405 URUGUAY 13/07/2026 09:32 Aparicio Saravia y Av San Pablo IDM 0002258072 Exceso de velocidad hasta 20 km/h 5\nBFA0879 URUGUAY 13/07/2026 00:27 Bvar. Artigas y Lourdes IDM 0002257863 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBFA1923 URUGUAY 12/07/2026 16:13 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002257438 Exceso de velocidad hasta 20 km/h 5\nBFB304 URUGUAY 13/07/2026 12:44 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002258235 Exceso de velocidad hasta 20 km/h 5\nBFD079 URUGUAY 13/07/2026 07:24 Av. Roosevelt y Av. Los Alpes IDM 0002257998 No respetar señales luminosas 6\nBFD890 URUGUAY 13/07/2026 22:54 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002258875 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFJ173 URUGUAY 13/07/2026 06:16 Aparicio Saravia y Av San Pablo IDM 0002257947 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFJ173 URUGUAY 13/07/2026 06:16 Aparicio Saravia y Av San Pablo IDM 0002257947 Placa matricula deteriorada 2\nBFJ393 URUGUAY 12/07/2026 01:17 Ruta 39 y Km 15 IDM 0002256822 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFK422 URUGUAY 13/07/2026 07:47 Bvar. Artigas y Vilardebo IDM 0002258015 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFK688 URUGUAY 13/07/2026 13:41 Av. Dr Jose A. Frade y Camino del Cerro\nEguizquiza\nIDM 0002258286 Exceso de velocidad hasta 20 km/h 5\nBFL817 URUGUAY 13/07/2026 19:52 Puente Leonel Viera y Aparicio Saravia IDM 0002258716 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFM3368 URUGUAY 12/07/2026 23:35 Antonio Lussich y Messina IDM 0002257837 Exceso de velocidad hasta 20 km/h 5\nBFM3489 URUGUAY 13/07/2026 19:45 Rambla Claudio Williman y Av. España IDM 0002258705 No respetar señales luminosas 6\nBFM4740 URUGUAY 12/07/2026 13:55 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257299 Exceso de velocidad de entre 21km/h y\n30km/h\n8\n98\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nBFM6245 URUGUAY 13/07/2026 20:36 Av. Jose Batlle Y Ordoñez y Aguilar\nFrancisco\nIDM 0002258756 No respetar señales luminosas 6\nBFM6390 URUGUAY 12/07/2026 05:39 Antonio Lussich y Messina IDM 0002257012 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFM6506 URUGUAY 12/07/2026 01:40 Rambla Claudio Williman y Cartagena IDM 0002256852 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFM6506 URUGUAY 12/07/2026 02:04 Rambla Claudio Williman y Cartagena IDM 0002256875 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBFM7326 URUGUAY 12/07/2026 16:04 Av. J. de Viana y Av. España IDM 0002257430 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFM7446 URUGUAY 13/07/2026 21:07 Luis Alberto de Herrera y Camino al\nPantanal\nIDM 0002258785 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBFM8138 URUGUAY 13/07/2026 18:31 Puente Leonel Viera y Eduardo Victor\nHaedo\nIDM 0002258653 Exceso de velocidad hasta 20 km/h 5\nBFM8983 URUGUAY 13/07/2026 16:08 Bvar. Artigas y Canelones IDM 0002258457 Exceso de velocidad hasta 20 km/h 5\nBFM8983 URUGUAY 13/07/2026 11:52 Bvar. Artigas y Arturo Santana IDM 0002258180 Exceso de velocidad hasta 20 km/h 5\nBFM9715 URUGUAY 13/07/2026 12:07 Av Franklin Roosevelt y Av. Fco. Acuña de\nFigueroa\nIDM 0002258200 No respetar señales luminosas 6\nBFM9799 URUGUAY 12/07/2026 04:09 Antonio Lussich y Messina IDM 0002256981 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBFO0223 URUGUAY 13/07/2026 22:04 Bvar. Artigas y Lourdes IDM 0002258824 Exceso de velocidad hasta 20 km/h 5\nBFO1142 URUGUAY 12/07/2026 08:39 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257070 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO1142 URUGUAY 12/07/2026 16:50 Bvar. Artigas y Canelones IDM 0002257473 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO1142 URUGUAY 13/07/2026 16:41 Bvar. Artigas y Canelones IDM 0002258491 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO1142 URUGUAY 13/07/2026 08:36 Bvar. Artigas y Arturo Santana IDM 0002258039 Exceso de velocidad hasta 20 km/h 5\nBFO1493 URUGUAY 13/07/2026 19:56 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002258719 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO2095 URUGUAY 13/07/2026 06:46 Camino B. Nardone y Sierra de los\nCaracoles\nIDM 0002257959 Exceso de velocidad hasta 20 km/h 5\nBFO2603 URUGUAY 12/07/2026 22:32 Antonio Lussich y Messina IDM 0002257758 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO2603 URUGUAY 12/07/2026 22:31 Av. J. de Viana y Av. España IDM 0002257760 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO2987 URUGUAY 13/07/2026 13:02 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002258255 Exceso de velocidad hasta 20 km/h 5\nBFO2990 URUGUAY 13/07/2026 07:07 Luis Alberto de Herrera y Camino al\nPantanal\nIDM 0002257988 Exceso de velocidad hasta 20 km/h 5\nBFO2990 URUGUAY 13/07/2026 07:04 Ruta 39 y Mapuches IDM 0002257981 Exceso de velocidad hasta 20 km/h 5\nBFO3501 URUGUAY 13/07/2026 01:27 Av. J. de Viana y Av. España IDM 0002257895 No respetar señales luminosas 6\nBFO3771 URUGUAY 13/07/2026 21:31 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002258796 No respetar señales luminosas 6\nBFO3842 URUGUAY 12/07/2026 19:27 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257604 Exceso de velocidad hasta 20 km/h 5\nBFO5361 URUGUAY 13/07/2026 07:01 Av. J. de Viana y Dr. R. Bergalli IDM 0002257976 No respetar señales luminosas 6\nBFO5548 URUGUAY 12/07/2026 14:49 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257349 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBFO6530 URUGUAY 12/07/2026 22:48 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257780 Exceso de velocidad hasta 20 km/h 5\nBFO7093 URUGUAY 13/07/2026 16:11 Av Franklin Roosevelt y Av. Fco. Acuña de\nFigueroa\nIDM 0002258462 No respetar señales luminosas 6\nBFO7421 URUGUAY 12/07/2026 13:55 Bvar. Artigas y Arturo Santana IDM 0002257295 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO8241 URUGUAY 12/07/2026 09:51 Av. J. de Viana y Dr. R. Bergalli IDM 0002257106 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO8430 URUGUAY 13/07/2026 15:01 Bvar. Artigas y Lourdes IDM 0002258397 Exceso de velocidad hasta 20 km/h 5\nBFO8678 URUGUAY 13/07/2026 14:19 Rambla Lorenzo Batlle E y Leyenda Patria IDM 0002258336 Exceso de velocidad hasta 20 km/h 5\nBFO9535 URUGUAY 12/07/2026 21:07 Av. Roosevelt y Av. M. Litman IDM 0002257672 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO9535 URUGUAY 12/07/2026 22:21 Bvar. Artigas N y Frente a Municipio IDM 0002257751 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO9535 URUGUAY 12/07/2026 22:20 Bvar. Artigas y Canelones IDM 0002257745 Exceso de velocidad doble o más 15\nBFO9782 URUGUAY 12/07/2026 00:16 Rambla Claudio Williman y del Faro IDM 0002256772 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFO9946 URUGUAY 12/07/2026 10:10 Juan Gorlero y Calle 31 IDM 0002257119 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFP0494 URUGUAY 13/07/2026 19:14 Bvar. Artigas N y Frente a Municipio IDM 0002258679 No respetar señales luminosas 6\nBFP1073 URUGUAY 12/07/2026 22:16 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257742 Exceso de velocidad hasta 20 km/h 5\nBFP1141 URUGUAY 13/07/2026 09:29 Ruta Interbalnearia y Milton Lussich IDM 0002258071 Exceso de velocidad hasta 20 km/h 5\nBFP1141 URUGUAY 12/07/2026 20:33 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257648 Exceso de velocidad hasta 20 km/h 5\nBFP1618 URUGUAY 12/07/2026 14:43 Puente Leonel Viera y Aparicio Saravia IDM 0002257344 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBFP3243 URUGUAY 13/07/2026 06:42 Puente Leonel Viera y Eduardo Victor\nHaedo\nIDM 0002257960 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFP3243 URUGUAY 13/07/2026 06:38 Aparicio Saravia y Av San Pablo IDM 0002257957 Exceso de velocidad hasta 20 km/h 5\n99\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nBFP3915 URUGUAY 12/07/2026 20:31 Av. Francia y Maipo IDM 0002257650 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFP4014 URUGUAY 13/07/2026 21:38 Antonio Lussich y Messina IDM 0002258807 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFP4296 URUGUAY 13/07/2026 16:12 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002258461 No respetar señales luminosas 6\nBFP4296 URUGUAY 12/07/2026 22:47 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257781 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFP5180 URUGUAY 13/07/2026 14:03 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002258317 No respetar señales luminosas 6\nBFP5292 URUGUAY 13/07/2026 08:22 Bvar. Artigas y Arturo Santana IDM 0002258032 Exceso de velocidad hasta 20 km/h 5\nBFP5525 URUGUAY 13/07/2026 20:12 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002258732 Exceso de velocidad hasta 20 km/h 5\nBFP6295 URUGUAY 13/07/2026 13:11 Calle 20 (El Remanso) y Calle 29 IDM 0002258259 No respetar señales luminosas 6\nBFP6336 URUGUAY 13/07/2026 17:31 Av. J. de Viana y Av. España IDM 0002258568 No respetar señales luminosas 6\nBFP6336 URUGUAY 13/07/2026 17:31 Av. J. de Viana y Av. España IDM 0002258568 Placa matricula deteriorada 2\nBFP6496 URUGUAY 13/07/2026 15:17 Ruta 39 y Mapuches IDM 0002258409 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBFP8874 URUGUAY 13/07/2026 23:52 Bvar. Artigas y Av. Córdoba IDM 0002258910 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFP9465 URUGUAY 13/07/2026 08:58 Rambla Claudio Williman y Av. España IDM 0002258049 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFP9665 URUGUAY 13/07/2026 06:37 Aparicio Saravia y Av San Pablo IDM 0002257954 Exceso de velocidad hasta 20 km/h 5\nBFQ0315 URUGUAY 13/07/2026 19:17 Rambla Lorenzo Batlle y Barranca abajo IDM 0002258691 Exceso de velocidad hasta 20 km/h 5\nBFQ0376 URUGUAY 13/07/2026 08:31 Av. J. de Viana y Av. España IDM 0002258037 No respetar señales luminosas 6\nBFQ0662 URUGUAY 12/07/2026 20:42 Rambla Claudio Williman y del Faro IDM 0002257659 Exceso de velocidad hasta 20 km/h 5\nBFQ1494 URUGUAY 12/07/2026 12:46 Calle 20 (El Remanso) y Calle 29 IDM 0002257235 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBFQ2223 URUGUAY 13/07/2026 20:01 Av. J. de Viana y Dr. R. Bergalli IDM 0002258724 Exceso de velocidad hasta 20 km/h 5\nBFQ2340 URUGUAY 13/07/2026 15:37 Av. Jose Batlle Y Ordoñez y Aguilar\nFrancisco\nIDM 0002258423 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nBFQ2890 URUGUAY 12/07/2026 20:15 Ruta Interbalnearia y Milton Lussich IDM 0002257637 Exceso de velocidad hasta 20 km/h 5\nBFQ2952 URUGUAY 13/07/2026 07:44 Av. Dr Jose A. Frade y Camino del Cerro\nEguizquiza\nIDM 0002258012 Exceso de velocidad hasta 20 km/h 5\nBFQ3083 URUGUAY 13/07/2026 18:47 Ruta Interbalnearia y Milton Lussich IDM 0002258663 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nBIM1619 URUGUAY 13/07/2026 14:41 Ruta Interbalnearia y Rosa de los Vientos IDM 0002258358 Exceso de velocidad hasta 20 km/h 5\nBTP1292 URUGUAY 13/07/2026 11:54 Rambla Claudio Williman y Av. España IDM 0002258181 No respetar señales luminosas 6\nCAA3116 URUGUAY 13/07/2026 14:27 Ruta 39 y Incas N IDM 0002258347 Exceso de velocidad hasta 20 km/h 5\nCAD109 URUGUAY 13/07/2026 10:27 Bvar. Artigas y Arturo Santana IDM 0002258102 Exceso de velocidad hasta 20 km/h 5\nCAH292 URUGUAY 13/07/2026 03:30 Bvar. Artigas N y Frente a Municipio IDM 0002257918 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nCAK2005 URUGUAY 13/07/2026 16:30 Camino B. Nardone y Sierra de los\nCaracoles\nIDM 0002258483 Exceso de velocidad hasta 20 km/h 5\nCBC6752 URUGUAY 13/07/2026 14:05 Rambla Lorenzo Batlle y Barranca abajo IDM 0002258313 Exceso de velocidad hasta 20 km/h 5\nCCA3763 URUGUAY 13/07/2026 17:30 Av Alvariza y Av. Pte. Tomas Berreta IDM 0002258567 No respetar señales luminosas 6\nCCB1687 URUGUAY 12/07/2026 22:56 Rambla Claudio Williman y Av. España IDM 0002257792 Exceso de velocidad hasta 20 km/h 5\nDAA6498 URUGUAY 13/07/2026 08:03 Ruta Interbalnearia y Rosa de los Vientos IDM 0002258028 Exceso de velocidad hasta 20 km/h 5\nDBE1213 URUGUAY 13/07/2026 14:54 Bvar. Artigas y Av. Córdoba IDM 0002258377 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nEAC732 URUGUAY 12/07/2026 23:41 Av. J. de Viana y Dr. R. Bergalli IDM 0002257838 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nEMC8970 URUGUAY 12/07/2026 03:09 Av. Roosevelt y Av. Los Alpes IDM 0002256940 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nFALB55 OTRO 13/07/2026 16:48 Ruta 10 y Calle 19 (El Apero) IDM 0002258496 Exceso de velocidad hasta 20 km/h 5\nFRF4933 URUGUAY 13/07/2026 17:35 Ruta 10 y Calle 19 (El Apero) IDM 0002258564 Exceso de velocidad hasta 20 km/h 5\nGHY158 ARGENTINA 13/07/2026 14:38 Ruta 10 y Calle 19 (El Apero) IDM 0002258354 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nIAG5049 URUGUAY 12/07/2026 02:51 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002256920 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nINV0154 BRASIL 13/07/2026 20:31 Ruta 39 y Km 15 IDM 0002258747 Exceso de velocidad hasta 20 km/h 5\nIQY3204 BRASIL 12/07/2026 16:21 Eduardo Victor Haedo y Francis IDM 0002257444 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nIVN1909 BRASIL 13/07/2026 10:38 Calle 20 (El Remanso) y Calle 29 IDM 0002258105 No respetar señales luminosas 6\nIWE1474 BRASIL 13/07/2026 17:57 Ruta Interbalnearia y Rosa de los Vientos IDM 0002258597 Exceso de velocidad hasta 20 km/h 5\nIYF0999 BRASIL 13/07/2026 08:42 Ruta 39 y Incas N IDM 0002258045 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nIYF0999 BRASIL 13/07/2026 08:34 Av. Pedragosa Sierra Orlando y Av. Del\nMar\nIDM 0002258041 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nIYN1909 BRASIL 13/07/2026 10:55 Ruta Interbalnearia y Milton Lussich IDM 0002258113 Exceso de velocidad hasta 20 km/h 5\nIZL1E14 BRASIL 12/07/2026 16:58 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002257475 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nJCJ9H14 BRASIL 13/07/2026 13:24 Av Alvariza y Av. Pte. Tomas Berreta IDM 0002258271 No respetar señales luminosas 6\nJSB0421 URUGUAY 13/07/2026 22:28 Bvar. Artigas y Lourdes IDM 0002258851 Exceso de velocidad de entre 21km/h y\n30km/h\n8\n100\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nKDA6269 URUGUAY 12/07/2026 19:18 Antonio Lussich y Mar Azul IDM 0002257594 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nLAA2072 URUGUAY 12/07/2026 22:52 Aparicio Saravia y Av San Pablo IDM 0002257787 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nLAA2072 URUGUAY 12/07/2026 22:52 Aparicio Saravia y Av San Pablo IDM 0002257787 Conducir manipulando teléfono celular 3\nLAA2463 URUGUAY 13/07/2026 14:53 Ruta Interbalnearia y Milton Lussich IDM 0002258373 Exceso de velocidad hasta 20 km/h 5\nLAC3133 URUGUAY 12/07/2026 13:53 Av. Roosevelt y Av. Los Alpes IDM 0002257292 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nLNL167 ARGENTINA 13/07/2026 20:22 Rambla Lorenzo Batlle y Barranca abajo IDM 0002258738 Exceso de velocidad hasta 20 km/h 5\nMAD9723 URUGUAY 12/07/2026 19:06 Aparicio Saravia y Av San Pablo IDM 0002257586 Exceso de velocidad hasta 20 km/h 5\nMAD9723 URUGUAY 13/07/2026 21:10 Av. a la Laguna y Centauro IDM 0002258786 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nMAD9723 URUGUAY 13/07/2026 08:36 Av. a la Laguna y Centauro IDM 0002258044 Exceso de velocidad hasta 20 km/h 5\nMAE1707 URUGUAY 13/07/2026 17:42 Bvar. Artigas y Lourdes IDM 0002258579 Exceso de velocidad hasta 20 km/h 5\nMAF2373 URUGUAY 13/07/2026 13:03 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002258246 Exceso de velocidad hasta 20 km/h 5\nMAH2914 URUGUAY 13/07/2026 10:14 Av Alvariza y Av. Pte. Tomas Berreta IDM 0002258096 No respetar señales luminosas 6\nMAL4094 URUGUAY 14/07/2026 12:41 Rambla Claudio Williman y Cartagena IDM 0002259474 Exceso de velocidad hasta 20 km/h 5\nMAL4094 URUGUAY 14/07/2026 12:43 Rambla Claudio Williman E y Copiapo IDM 0002259479 Exceso de velocidad hasta 20 km/h 5\nMLC145 ARGENTINA 12/07/2026 16:25 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257447 Exceso de velocidad hasta 20 km/h 5\nNAS1560 URUGUAY 13/07/2026 16:11 Eduardo Victor Haedo y Francis IDM 0002258455 Exceso de velocidad hasta 20 km/h 5\nNCA9872 URUGUAY 12/07/2026 07:59 Av. J. de Viana y Av. España IDM 0002257051 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nNCA9872 URUGUAY 12/07/2026 03:57 Rambla Claudio Williman y Cartagena IDM 0002256976 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nOAB3345 URUGUAY 12/07/2026 09:42 Av. Roosevelt y Av. M. Litman IDM 0002257101 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nOAB3345 URUGUAY 13/07/2026 17:18 Ruta 39 y Mapuches IDM 0002258538 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nOAB3345 URUGUAY 13/07/2026 17:17 Ruta 39 y Marelli IDM 0002258537 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nOAB3345 URUGUAY 12/07/2026 11:10 Ruta Interbalnearia y Milton Lussich IDM 0002257161 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nOAB4546 URUGUAY 13/07/2026 15:02 Av Franklin Roosevelt y Av. Fco. Acuña de\nFigueroa\nIDM 0002258388 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nOAB4546 URUGUAY 13/07/2026 15:04 Av. Roosevelt y Av. M. Litman IDM 0002258395 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nOAD7574 URUGUAY 13/07/2026 14:03 Rambla Claudio Williman y del Faro IDM 0002258314 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nOBQ6875 URUGUAY 12/07/2026 15:38 Antonio Lussich y Messina IDM 0002257404 Exceso de velocidad hasta 20 km/h 5\nOBQ7960 URUGUAY 13/07/2026 16:45 Puente Leonel Viera y Aparicio Saravia IDM 0002258501 Exceso de velocidad hasta 20 km/h 5\nPAA1181 URUGUAY 13/07/2026 02:16 Ruta 39 y Km 15 IDM 0002257905 Exceso de velocidad hasta 20 km/h 5\nPAB1229 URUGUAY 13/07/2026 13:17 Bvar. Artigas y Lourdes IDM 0002258265 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nPAC3431 URUGUAY 12/07/2026 04:24 Antonio Lussich y Messina IDM 0002256988 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nPAR145 URUGUAY 12/07/2026 02:32 Bvar. Artigas y Canelones IDM 0002256895 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nPAV1971 URUGUAY 12/07/2026 07:55 Av. Roosevelt y Av. Los Alpes IDM 0002257053 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nPAV4565 URUGUAY 12/07/2026 20:28 Puente Leonel Viera y Aparicio Saravia IDM 0002257651 Exceso de velocidad hasta 20 km/h 5\nPBP5B00 BRASIL 13/07/2026 09:07 Antonio Lussich y Messina IDM 0002258060 Exceso de velocidad hasta 20 km/h 5\nPGY500 ARGENTINA 12/07/2026 11:04 Luis Alberto de Herrera y Camino al\nPantanal\nIDM 0002257158 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nPMA1984 URUGUAY 13/07/2026 17:50 Av Alvariza y Av. Pte. Tomas Berreta IDM 0002258587 No respetar señales luminosas 6\nPVB427 URUGUAY 12/07/2026 13:01 Bvar. Artigas N y Frente a Municipio IDM 0002257251 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nQAA2770 URUGUAY 13/07/2026 13:24 Antonio Lussich y Messina IDM 0002258272 No respetar señales luminosas 6\nQAF1137 URUGUAY 13/07/2026 00:48 Ruta 10 y Calle 5 IDM 0002257872 Exceso de velocidad hasta 20 km/h 5\nRAA7G80 BRASIL 13/07/2026 14:53 Juan Gorlero y Calle 31 IDM 0002258379 No respetar señales luminosas 6\nSAB5804 URUGUAY 12/07/2026 19:21 Bvar. Artigas S y Frente a Municipio IDM 0002257600 Exceso de velocidad hasta 20 km/h 5\nSAC7588 URUGUAY 12/07/2026 00:19 Av. Dr Jose A. Frade y Camino del Cerro\nEguizquiza\nIDM 0002256771 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nSAC7588 URUGUAY 12/07/2026 04:30 Ruta 39 y Incas N IDM 0002256990 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nSAC7588 URUGUAY 12/07/2026 04:34 Ruta 39 y Km 15 IDM 0002256992 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSAK6993 URUGUAY 13/07/2026 10:22 Camino B. Nardone y Sierra de los\nCaracoles\nIDM 0002258098 Exceso de velocidad hasta 20 km/h 5\nSBA9766 URUGUAY 13/07/2026 21:36 Av. Ferreira Aldunate y Dr. José R. Cortez IDM 0002258805 Exceso de velocidad hasta 20 km/h 5\nSBC8441 URUGUAY 13/07/2026 13:14 Luis Alberto de Herrera y Camino al\nPantanal\nIDM 0002258261 Exceso de velocidad hasta 20 km/h 5\nSBC8441 URUGUAY 13/07/2026 20:44 Bvar. Artigas y Lourdes IDM 0002258759 Exceso de velocidad hasta 20 km/h 5\nSBD4258 URUGUAY 12/07/2026 13:57 Eduardo Victor Haedo y Francis IDM 0002257298 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSBE5102 URUGUAY 13/07/2026 17:45 Bvar. Artigas y Canelones IDM 0002258584 Exceso de velocidad hasta 20 km/h 5\n101\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nSBG5262 URUGUAY 13/07/2026 13:06 Puente Leonel Viera y Eduardo Victor\nHaedo\nIDM 0002258249 Exceso de velocidad hasta 20 km/h 5\nSBJ2986 URUGUAY 12/07/2026 22:39 Ruta 10 y Calle 5 IDM 0002257776 Exceso de velocidad hasta 20 km/h 5\nSBM2252 URUGUAY 13/07/2026 17:41 Ruta Interbalnearia y Milton Lussich IDM 0002258578 Exceso de velocidad hasta 20 km/h 5\nSBO7774 URUGUAY 12/07/2026 23:48 Antonio Lussich y Messina IDM 0002257841 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSBR9910 URUGUAY 12/07/2026 17:38 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257515 Exceso de velocidad hasta 20 km/h 5\nSBR9910 URUGUAY 12/07/2026 14:57 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257359 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSBS4489 URUGUAY 12/07/2026 19:40 Ruta Interbalnearia y Rosa de los Vientos IDM 0002257609 Exceso de velocidad hasta 20 km/h 5\nSBU3823 URUGUAY 12/07/2026 00:15 Av. Jose Batlle Y Ordoñez y Aguilar\nFrancisco\nIDM 0002256769 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSBV1712 URUGUAY 13/07/2026 15:01 Puente Leonel Viera y Eduardo Victor\nHaedo\nIDM 0002258390 Exceso de velocidad hasta 20 km/h 5\nSBV4476 URUGUAY 13/07/2026 09:51 Ruta Interbalnearia y Rosa de los Vientos IDM 0002258080 Exceso de velocidad hasta 20 km/h 5\nSBV4476 URUGUAY 13/07/2026 09:54 Av. Enrique Tarigo y Francisco Aime IDM 0002258083 Exceso de velocidad hasta 20 km/h 5\nSCB3589 URUGUAY 13/07/2026 22:54 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002258871 Exceso de velocidad hasta 20 km/h 5\nSCK9429 URUGUAY 12/07/2026 19:04 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257589 Exceso de velocidad hasta 20 km/h 5\nSCM7674 URUGUAY 13/07/2026 12:55 Eduardo Victor Haedo y Francis IDM 0002258241 Exceso de velocidad hasta 20 km/h 5\nSCN8934 URUGUAY 12/07/2026 04:51 Rambla Claudio Williman y Cartagena IDM 0002257001 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nSCN9980 URUGUAY 13/07/2026 07:03 Calle 20 (El Remanso) y Calle 29 IDM 0002257975 Exceso de velocidad hasta 20 km/h 5\nSCN9980 URUGUAY 13/07/2026 07:10 Bvar. Artigas y Canelones IDM 0002257989 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSCO7313 URUGUAY 12/07/2026 19:02 Ruta 10 y Calle 5 IDM 0002257583 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSCP5616 URUGUAY 13/07/2026 20:39 Av. Roosevelt y Av. M. Litman IDM 0002258757 Exceso de velocidad hasta 20 km/h 5\nSCS2086 URUGUAY 13/07/2026 23:05 Bvar. Artigas y Lourdes IDM 0002258882 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nSCS2086 URUGUAY 13/07/2026 21:50 Ruta Interbalnearia y Rosa de los Vientos IDM 0002258820 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nSCS2465 URUGUAY 13/07/2026 14:18 Rambla Claudio Williman y Av. España IDM 0002258338 No respetar señales luminosas 6\nSCT2484 URUGUAY 13/07/2026 14:20 Rambla Claudio Williman y del Faro IDM 0002258339 Exceso de velocidad hasta 20 km/h 5\nSCT6096 URUGUAY 13/07/2026 16:42 Av. a la Laguna y Centauro IDM 0002258492 Exceso de velocidad hasta 20 km/h 5\nSCV6891 URUGUAY 13/07/2026 13:59 Ruta 39 y Marelli IDM 0002258307 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nSCW7679 URUGUAY 13/07/2026 16:41 Av. Roosevelt y Londres IDM 0002258489 No respetar señales luminosas 6\nSCX5524 URUGUAY 13/07/2026 15:43 Rambla Lorenzo Batlle y Barranca abajo IDM 0002258428 Exceso de velocidad hasta 20 km/h 5\nSCX7520 URUGUAY 13/07/2026 19:51 Rambla Claudio Williman y del Faro IDM 0002258715 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSDD8690 URUGUAY 13/07/2026 07:30 Av. Roosevelt y Av. Los Alpes IDM 0002257999 No respetar señales luminosas 6\nSDF5964 URUGUAY 12/07/2026 18:20 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257551 Exceso de velocidad hasta 20 km/h 5\nSDH8205 URUGUAY 12/07/2026 16:29 Av. Enrique Tarigo y Francisco Aime IDM 0002257449 Exceso de velocidad hasta 20 km/h 5\nSDH8894 URUGUAY 13/07/2026 15:53 Bvar. Artigas y Lourdes IDM 0002258439 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSDJ5513 URUGUAY 13/07/2026 15:36 Rambla Claudio Williman y del Faro IDM 0002258426 Exceso de velocidad hasta 20 km/h 5\nSDK4150 URUGUAY 12/07/2026 11:41 Ruta Interbalnearia y Milton Lussich IDM 0002257185 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nSDK6108 URUGUAY 12/07/2026 07:22 Bvar. Artigas y Av. Córdoba IDM 0002257038 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSGT1E22 BRASIL 13/07/2026 14:37 Rambla Claudio Williman y del Faro IDM 0002258353 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSLR524 URUGUAY 13/07/2026 19:00 Bvar. Artigas N y Frente a Municipio IDM 0002258671 Exceso de velocidad hasta 20 km/h 5\nSLU363 URUGUAY 12/07/2026 14:03 Aparicio Saravia y Av San Pablo IDM 0002257303 Exceso de velocidad de entre 31km/h y el\ndoble - 1\n12\nSMN128 URUGUAY 12/07/2026 18:25 Bvar. Artigas y Arturo Santana IDM 0002257554 Exceso de velocidad hasta 20 km/h 5\nSMN128 URUGUAY 12/07/2026 18:14 Luis Alberto de Herrera y Camino al\nPantanal\nIDM 0002257550 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSMY521 URUGUAY 13/07/2026 23:49 Av. J. de Viana y Dr. R. Bergalli IDM 0002258905 Exceso de velocidad de entre 21km/h y\n30km/h\n8\nSTU1256 URUGUAY 14/07/2026 20:19 Rambla Claudio Williman y Av. España IDM 0002260129 No respetar señales luminosas 6\nTZN7I71 BRASIL 13/07/2026 01:40 Rambla Claudio Williman y Joaquin\nLenzina\nIDM 0002257898 No respetar señales luminosas 6\nTZN7I71 BRASIL 13/07/2026 22:59 Rambla Claudio Williman y Cartagena IDM 0002258874 Exceso de velocidad hasta 20 km/h 5\nTZN7I71 BRASIL 12/07/2026 21:45 Rambla Claudio Williman y del Faro IDM 0002257719 Exceso de velocidad hasta 20 km/h 5\nTZN7I71 BRASIL 13/07/2026 01:45 Rambla Claudio Williman y del Faro IDM 0002257896 Exceso de velocidad hasta 20 km/h 5\nJuan Pígola, Director General Departamento de Movilidad.\n16/07/2026\n102\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nINTENDENCIA DE MONTEVIDEO\n25\nResolución 2.694/026\nPromúlgase el Decreto Departamental 39.357, de fecha 18 de junio\nde 2026, por el que se establece un régimen para la protección de la\nactividad cultural desarrollada en los espacios culturales independientes,\nposibilitando su funcionamiento y desarrollo.\n(2.953*R)\nJUNTA DEPARTAMENTAL DE MONTEVIDEO\nExp. Nº 2024-98-02-002151\nDecreto - Nº 39357\nLA JUNTA DEPARTAMENTAL DE MONTEVIDEO\nDECRETA:\nFOMENTO Y RECONOCIMIENTO DE LOS ESPACIOS\nCULTURALES INDEPENDIENTES\nCapítulo I\nObjeto, denominación y definiciones.",
+      "label": "Artículo 83"
+    },
+    {
+      "number": "1",
+      "bis": "",
+      "title": "",
+      "text": "establecer un régimen para la protección de la actividad cultural\ndesarrollada en los espacios culturales independientes, posibilitando\nsu funcionamiento y desarrollo.",
+      "label": "Artículo 1"
+    },
+    {
+      "number": "2",
+      "bis": "",
+      "title": "",
+      "text": "Independiente (ECI) al establecimiento con una capacidad máxima\npara 300 (trescientos) asistentes y una superficie máxima de 500\n(quinientos) metros cuadrados de superficie cubierta, en el que se\npresentan o realizan manifestaciones culturales de cualquier disciplina\nen forma de exposiciones, ensayos o muestras de artes plásticas,\nespectáculos escénicos, proyecciones, conferencias, talleres o festivales\nmultidisciplinarios, en tanto sus titulares sean Organizaciones creadas\ncon una finalidad social, educativa o cultural y sin fines de lucro como\nser: asociaciones civiles, clubes sociales o deportivos, comisiones\nbarriales, sindicatos, organizaciones no gubernamentales, fundaciones\nu otras agrupaciones que acrediten debidamente dicha finalidad y\nse encuentren reconocidos ante el Departamento de Cultura de esta\nIntendencia. Dichos establecimientos quedan expresamente excluidos\nde la categorización establecida por el Decreto Nº 36.615 de 3 de abril\nde 2018.",
+      "label": "Artículo 2"
+    },
+    {
+      "number": "3",
+      "bis": "",
+      "title": "",
+      "text": "entiende por:\na. Área útil: Es el área destinada al uso principal descontando\nespacios destinados a pasillos, pasos, halls, área de servicios y libre\nde estructuras fijas o temporarias.\nb. Usos compatibles: Son usos admitidos que pueden funcionar en\nel establecimiento juntamente con un ECI y que cumplan funciones\nnecesarias para el desarrollo del uso principal, cuando este se encuentra\nabierto y con actividades, sin necesidad de habilitación específica y\nsiempre que no supere el 30% (treinta por ciento) de la superficie\ncubierta habilitada.\nc. Locales principales: Son aquellos en los que se desarrollan las\nactividades principales, tales como salón, salas de ensayo y espacio\nde representación.\nd. Locales secundarios: Son espacios tales como sanitarios, cocina,\ndepósitos, camarines, guardarropa, vestuarios y todo local afectado a\nactividades complementarias.",
+      "label": "Artículo 3"
+    },
+    {
+      "number": "4",
+      "bis": "",
+      "title": "",
+      "text": "a Espacio Cultural Independiente (ECI) pueden realizarse actividades\npara la formación en teatro, danza y canto, así como todas aquellas\ndisciplinas complementarias para la formación artística integral.\nCapítulo II\nCondiciones de habilitación.",
+      "label": "Artículo 4"
+    },
+    {
+      "number": "5",
+      "bis": "",
+      "title": "",
+      "text": "con destino total o parcial a Espacio Cultural Independiente (ECI),\ndeberán sujetarse a las disposiciones contenidas en la presente norma.\nFrente a lo no establecido expresamente rige lo dispuesto en los\nartículos D.3485 a D.3558 del Capítulo I “De los edificios destinados a\nespectáculos públicos”, Título IV “Normas para proyectos de edificios\ndestinados a espectáculos, culto y reunión”, Parte Legislativa, Libro\nXV “Planeamiento de la Edificación”, Volumen XV “Planeamiento de\nla Edificación”, del Digesto Departamental.",
+      "label": "Artículo 5"
+    },
+    {
+      "number": "6",
+      "bis": "",
+      "title": "",
+      "text": "Independiente (ECI) es compatible con los siguientes usos: café - bar,\nrestaurante, librería, disquería, galería de arte, salón de exposición,\nsala de ensayo, club de barrio y todo uso asimilable a manifestación\nde arte y/o cultura. Dichos usos pueden coexistir en un mismo\nedificio o padrón y estar comunicados, siempre que el reglamento de\ncopropiedad así lo permita.",
+      "label": "Artículo 6"
+    },
+    {
+      "number": "7",
+      "bis": "",
+      "title": "",
+      "text": "Cultural Independiente (ECI) se podrá autorizar, de forma excepcional,\nla realización de bailes en tanto no constituyan su actividad principal\ny con una frecuencia no mayor a 1 (una) vez cada 30 (treinta) días, no\npudiendo realizar más de 6 (seis) al año.",
+      "label": "Artículo 7"
+    },
+    {
+      "number": "8",
+      "bis": "",
+      "title": "",
+      "text": "determinará la máxima capacidad de asistentes que admita el\nestablecimiento destinado a Espacio Cultural Independiente (ECI),\nde conformidad a los parámetros establecidos en el coeficiente de\nocupación, medios de salida, circulaciones y cantidad de artefactos en\nservicios sanitarios requeridos, conforme lo establecido en el presente\nDecreto.\nI) Planta baja, primer piso o primer entrepiso: Se admite una\ncapacidad máxima de hasta 2 (dos) personas por metro cuadrado\ndebiendo respetarse la proporción de anchos de medios de salida\nexigida.\nII) Otros niveles superiores o inferiores: La capacidad en personas\nserá igual a los metros cuadrados de superficie destinada al público. El\nespacio que se utilizare para el baile se encontrará libre de mobiliario\nal momento de su uso, pudiéndose ubicar los muebles de manera\nperimetral, respetando los anchos de espacios de circulación y los\nmedios de evacuación.",
+      "label": "Artículo 8"
+    },
+    {
+      "number": "9",
+      "bis": "",
+      "title": "",
+      "text": "establecimientos destinados a Espacio Cultural Independiente (ECI) el\nancho de las puertas de salida, el de los pasajes generales, corredores,\nescaleras, etc., debe ser proporcional al número de los espectadores que\ndeban utilizarlo, y se establecerá a razón de 1 (un) metro por cada 100\n(cien) personas hasta las 300 (trescientas) personas o fracción. El ancho\nde los pasajes generales, corredores, escaleras y aberturas de salida\nno puede ser en ningún caso inferior a 1 (un) metro. Los medios de\ncirculación deben conducir directamente a la salida a través de la línea\nnatural de libre trayectoria que no debe estar interrumpida ni reducida\nen ningún punto. Cuando el piso bajo de la sala se encuentre a dos\nmetros por debajo o por encima del nivel de la acera, el ancho de los\npasajes y escaleras que la comuniquen con los vestíbulos y el exterior,\nse debe calcular aumentando en diez centímetros las bases establecidas\nen el presente artículo. Esas nuevas bases deben ser incrementadas con\n5 (cinco) centímetros por cada metro de diferencia de nivel, a partir\nde los 2 (dos) metros. Los aumentos anteriores podrán dejarse sin\nefecto siempre que el piso bajo de la sala tenga salida directa a otra\ncalle y esta salida no sea menor de un tercio que el correspondiente a\nsus salidas generales.",
+      "label": "Artículo 9"
+    },
+    {
+      "number": "10",
+      "bis": "",
+      "title": "",
+      "text": "a Espacio Cultural Independiente (ECI) deben poseer puertas que\nabran en sentido de salida, no pudiendo batir directamente sobre una\nescalera, rellano o tramo de escalera. Las hojas no deben abrir de modo\nque reduzcan el ancho de algún paso o salida exigida. Deben colocarse\ninscripciones bien visibles, con letras iluminadas con lámparas que\n103\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nformen parte de la iluminación de seguridad, indicando la dirección\ny sentido de las salidas hacia las escaleras y puertas. Queda prohibido\ncolocar espejos que puedan producir confusiones en la circulación.\nLas aberturas que no sean para el público se deben señalar con una\ninscripción y sus puertas se deben abrir hacia los sitios de circulación.\nEn los casos en que la puerta de salida se encuentre sobre la línea\nmunicipal o que el edificio en el que funciona dicho establecimiento\nposea un valor patrimonial que amerite una excepción, pueden\nautorizarse otros medios que aseguren una libre evacuación, en la\nmedida que la autoridad competente lo entienda compatible con la\nseguridad del público concurrente.",
+      "label": "Artículo 10"
+    },
+    {
+      "number": "11",
+      "bis": "",
+      "title": "",
+      "text": "en el artículo 2º del presente Decreto deben contar con servicios\nhigiénicos para asistentes equipados de la siguiente manera:\n1. Cuando posea una capacidad de hasta ciento 150 (cincuenta)\nasistentes:\nPara hombres: un lavabo e inodoro.\nPara mujeres: un lavabo e inodoro.\n1. Cuando posea una capacidad de hasta 250 (doscientos cincuenta)\nasistentes:\nPara hombres: un lavabo y dos inodoros.\nPara mujeres: un lavabo y dos inodoros.\n1. Cuando posea una capacidad de hasta 300 (trescientos) asistentes:\nPara hombres: dos lavabos y tres inodoros.\nPara mujeres: dos lavabos y tres inodoros.\n1. La diferenciación de locales independientes de servicios\nmínimos de salubridad, por género o sexo no será obligatoria,\nsino facultativa. Los mismos deben garantizar seguridad\ny privacidad de cada recinto, como así también respetar la\nmáxima cantidad de artefactos establecidos.\n2. Cuando se cuente con servicios higiénicos que puedan ser\nusados indistintamente por ambos sexos, al menos uno debe\najustarse a lo establecido en la Norma UNIT 200.\n3. Cuando su uso esté diferenciado por sexo, se puede optar por\nuno accesible para cada sexo, o por un único servicio higiénico\naccesible e independiente para ambos sexos.\n4. En todos los casos deben estar vinculados a un itinerario\naccesible.\n5.",
+      "label": "Artículo 11"
+    },
+    {
+      "number": "12",
+      "bis": "",
+      "title": "",
+      "text": "secundarios de los establecimientos destinados a Espacio Cultural\nIndependiente (ECI) deben cumplir con las condiciones de ventilación\nque establezca la normativa vigente.",
+      "label": "Artículo 12"
+    },
+    {
+      "number": "13",
+      "bis": "",
+      "title": "",
+      "text": "establecimientos definidos en el artículo 2º del presente Decreto están\nobligados a cumplir lo siguiente:\nII.a. Debe disponerse de un sistema de iluminación de emergencia\nsuficiente para iluminar medios de egreso, puertas, pasajes, servicios\nhigiénicos y salones de permanencia de público.\nII.b. Debe instalarse cartelería que indique el sentido de salidas y\napertura de puertas, la posición de los elementos de seguridad y los\nespacios vedados al acceso de público.\nCapítulo III\nCondiciones de funcionamiento.",
+      "label": "Artículo 13"
+    },
+    {
+      "number": "14",
+      "bis": "",
+      "title": "",
+      "text": "un establecimiento destinado a Espacio Cultural Independiente (ECI)\ndeberá iniciar el trámite de solicitud para el desarrollo de la actividad\nante el Servicio de Convivencia Departamental, el que recabará la\ninformación necesaria sobre el peticionante, la actividad proyectada y\ndeterminará, previa inspección, el aforo máximo permitido. Producida\nla información el Servicio de Convivencia Departamental remitirá\nel expediente a consideración del Departamento de Cultura, quien\nevaluará la solicitud de acuerdo a la información recibida y a las\ncondiciones establecidas en el presente Capítulo, pudiendo solicitar\ninformación complementaria a ese fin. Cumplidas las exigencias\nestablecidas en el inciso anterior el expediente se elevará a efecto\nde su resolución definitiva y se incorporará al Registro de Espacios\nCulturales Independientes (ECI) que debe llevar a esos fines el\nDepartamento de Cultura, con comunicación a los Municipios y\nal Servicio de Convivencia Departamental. La autorización para el\nfuncionamiento será otorgada por la Intendencia de Montevideo en\nforma de permiso de carácter personal, intransferible y revocable\nen las condiciones establecidas por el artículo D.2773 del Capítulo I\n“Disposiciones Generales”, Titulo Único, Parte Legislativa, Volumen\nXIII “De los Espectáculos Públicos” del Digesto Departamental. A estos\nefectos se fija el monto del depósito de garantía a que hace referencia\nel artículo D.2774 del Volumen XIII “De los Espectáculos Públicos”\ndel Digesto Departamental, en un monto equivalente a la cantidad de\nUR 10 (unidades reajustables diez).",
+      "label": "Artículo 14"
+    },
+    {
+      "number": "15",
+      "bis": "",
+      "title": "",
+      "text": "definidos en el artículo 2º del presente Decreto de regla no serán\nconsiderados incluidos dentro de la categoría teatro a los efectos\nprevistos en el artículo D.223.362 del Volumen IV “Ordenamiento\nTerritorial, Desarrollo Sostenible y Urbanismo” del Digesto\nDepartamental. Sin perjuicio, en el caso de que al menos uno de los\ndestinos del establecimiento así lo requiriera, la Intendencia podrá\nexigir que se tramite previamente la viabilidad de usos de suelo en\ncumplimiento de las disposiciones contenidas en el Volumen IV\n“Ordenamiento Territorial, Desarrollo Sostenible y Urbanismo” del\nDigesto Departamental. Estos establecimientos quedan expresamente\nexcluidos de contar con espacios para estacionamiento vehicular.",
+      "label": "Artículo 15"
+    },
+    {
+      "number": "16",
+      "bis": "",
+      "title": "",
+      "text": "funcionamiento de los establecimientos definidos en el artículo 2º del\npresente Decreto comprenderá la jornada laboral diurna, no pudiendo\ndesarrollar actividades en el horario de 00:00 a 07:00, con excepción de\nlo estipulado en el artículo 7º del presente Decreto, para lo cual podrá\nextenderse el horario autorizado hasta la hora 06:00.",
+      "label": "Artículo 16"
+    },
+    {
+      "number": "17",
+      "bis": "",
+      "title": "",
+      "text": "requerida a la organización titular de un establecimiento destinado a\nEspacio Cultural Independiente (ECI), para obtener el correspondiente\npermiso, no teniendo carácter de taxativa, será la siguiente:\n- Certificado profesional en carácter de declaración jurada\nsuscrito por Profesional Arquitecto o Ingeniero civil que acredite\nel cumplimiento de las condiciones locativas y de seguridad con\nla vigencia y condiciones que establezca la autoridad competente.\nQuedan expresamente eximidos de tramitar habilitación comercial\ndepartamental.\n- Certificado notarial que acredite la forma organizativa y la\nnaturaleza de las actividades a desarrollarse.\n- Inscripción vigente ante el Departamento de Cultura.\n- Habilitación ante Dirección Nacional de Bomberos.- En caso de\nencontrarse en trámite ante la Dirección Nacional de Bomberos (DNB),\nse evaluará por parte del Servicio de Convivencia Departamental la\netapa de trámite, plazos y mínimos exigibles.\n- Declaración de Gestión de Residuos No Domiciliarios ante la\nDivisión Limpieza.\n- Inscripción ante DGI y BPS.\n- Planos.",
+      "label": "Artículo 17"
+    },
+    {
+      "number": "18",
+      "bis": "",
+      "title": "",
+      "text": "definidos en el artículo 2º del presente Decreto deben realizar tareas de\n104\nDocumentos Nº 31.960 - julio 21 de 2026 | DiarioOficial\nfumigación y de limpieza de tanque en el establecimiento, de acuerdo\na las condiciones establecidas en la normativa vigente.",
+      "label": "Artículo 18"
+    },
+    {
+      "number": "19",
+      "bis": "",
+      "title": "",
+      "text": "destinados a Espacio Cultural Independiente (ECI) deben contar con\nlas correspondientes medidas de seguridad aprobadas por la Dirección\nNacional de Bomberos.",
+      "label": "Artículo 19"
+    },
+    {
+      "number": "20",
+      "bis": "",
+      "title": "",
+      "text": "Montevideo en funciones de inspección, vigilancia y de contralor\ntécnico o administrativo en el local, tendrán libre acceso a todas las\ndependencias de los establecimientos destinados a Espacio Cultural\nIndependiente (ECI) definidos en el artículo 2º del presente decreto.",
+      "label": "Artículo 20"
+    },
+    {
+      "number": "21",
+      "bis": "",
+      "title": "",
+      "text": "En el caso que los organismos de fiscalización verifiquen la falta de\ndocumentación que deba ser exhibida en el establecimiento destinado\na Espacio Cultural Independiente (ECI), se deberá proceder a intimar\npreventivamente a su regularización en un plazo de 72 (setenta y\ndos) horas. Una vez cumplido dicho plazo, debe labrarse el acta de\nconstatación correspondiente.",
+      "label": "Artículo 21"
+    },
+    {
+      "number": "22",
+      "bis": "",
+      "title": "",
+      "text": "el reconocimiento como Espacio Cultural Independiente (ECI) estarán\nexonerados del pago de tasas y sellados que se pudieran requerir para\nrealizar el trámite de reconocimiento y exclusivamente para aquellos\ncargos que se originen en virtud del mencionado trámite.",
+      "label": "Artículo 22"
+    },
+    {
+      "number": "23",
+      "bis": "",
+      "title": "",
+      "text": "transgresiones y sin perjuicio de las intimaciones que en cada\ncaso deberán efectuar las oficinas técnicas correspondientes, la\norganización titular de un establecimiento destinado a Espacio Cultural\nIndependiente (ECI), será sancionada de la siguiente manera:\na. Multas:\n1. Falta de permiso: (art. 14 del presente Decreto) UR 10 (unidades\nreajustables diez) al máximo legal.\n2. Desacato y/o impedimento a la inspección: UR 35 (unidades\nreajustables treinta y cinco).\n3. Realización de actividades fuera del horario o de la frecuencia\nestablecida (art. 16 del presente Decreto): UR 35 (unidades reajustables\ntreinta y cinco).\n4. Incumplimiento de intimaciones que realice el Servicio de\nConvivencia Departamental: UR 5 (unidades reajustables cinco).\nb. En situaciones de reincidencias y los casos no contemplados por\nel presente artículo, rige lo establecido en el Decreto Nº 21.626, de 21\nde abril de 1984.",
+      "label": "Artículo 23"
+    },
+    {
+      "number": "24",
+      "bis": "",
+      "title": "",
+      "text": "por desacato o resistencia activa o pasiva a la inspección, la comisión\nde cualquier acto que tenga por objeto eludir o intentar eludir el\ncumplimiento de la normativa vigente, así como el impedir el acceso\nal establecimiento a los Inspectores o la imposibilidad de finalizar\nla inspección por cualquier causa imputable al responsable del\nestablecimiento.",
+      "label": "Artículo 24"
+    },
+    {
+      "number": "25",
+      "bis": "",
+      "title": "",
+      "text": "de las sanciones establecidas, se determinará además la clausura:\n1. Clausura preventiva: plazo 30 (treinta) días.\nViolación de clausura: UR 35 (unidades reajustables treinta y\ncinco) al máximo legal, sin perjuicio de las acciones judiciales que\ncorrespondan.\n2. Clausura definitiva: la clausura definitiva determina la pérdida\nde la calidad de Espacio Cultural Independiente (ECI), no pudiendo\nvolver a solicitar la misma por un período de 5 (cinco) años para el\nmismo establecimiento ni titular.",
+      "label": "Artículo 25"
+    },
+    {
+      "number": "26",
+      "bis": "",
+      "title": "",
+      "text": "un establecimiento destinado a Espacio Cultural Independiente\n(ECI) debe constituir domicilio electrónico ante la Intendencia de\nMontevideo como medio válido para recibir notificaciones. El citado\ncorreo electrónico deberá ser gestionado previamente a través de la\npágina web de la Agencia de Gobierno Electrónico y Sociedad de la\nInformación y del Conocimiento (AGESIC).\nCapítulo IV\nBeneficios Tributarios.",
+      "label": "Artículo 26"
+    },
+    {
+      "number": "27",
+      "bis": "",
+      "title": "",
+      "text": "de junio de 1970, modificativas y ampliatorias, el siguiente numeral:\n“13) Los desarrollados en Espacios Culturales Independientes\n(ECI) que se hallen registrados ante el Departamento de Cultura de\nla Intendencia.”\nCapítulo V\nReglamentación e inclusión en el Digesto Departamental.",
+      "label": "Artículo 27"
+    },
+    {
+      "number": "28",
+      "bis": "",
+      "title": "",
+      "text": "9º, 10º, 11º y 12º del presente Decreto en el Título IV “Normas para\nproyectos de edificios destinados a espectáculos, culto y reunión”,\nParte Legislativa, Libro XV “Planeamiento de la Edificación” del\nVolumen XV “Planeamiento de la Edificación”, en un nuevo Capítulo\na crear que se denominará “XI. Establecimientos destinados a Espacios\nCulturales Independientes”, el que quedará conformado con los\nartículos D.3667.14 a D.3667.21.",
+      "label": "Artículo 28"
+    },
+    {
+      "number": "29",
+      "bis": "",
+      "title": "",
+      "text": "13º, 14º, 15º, 16º, 17º, 18º, 19º, 20º, 21º, 23º, 24º, 25º y 26º del presente\nDecreto en el Título Único, Parte Legislativa, del Volumen XIII “De\nlos Espectáculos Públicos”, en un nuevo Capítulo a crear que se\ndenominará “XI. Espacios Culturales Independientes”, el que quedará\nconformado con los artículos D.3147 a D.3147.14.",
+      "label": "Artículo 29"
+    },
+    {
+      "number": "30",
+      "bis": "",
+      "title": "",
+      "text": "oportunamente se dicte debe establecer criterios que tengan en\nconsideración el carácter tuitivo brindado por este Decreto a la\nactividad cultural.",
+      "label": "Artículo 30"
+    },
+    {
+      "number": "31",
+      "bis": "",
+      "title": "",
+      "text": "SALA DE SESIONES DE LA JUNTA DEPARTAMENTAL DE\nMONTEVIDEO, A LOS DIECIOCHO DÎAS DEL MES DE JUNIO\nDEL AÑO DOS MIL VEINTISÉIS.\nFirmado electrónicamente por Fernando Pereira.\nFirmado electrónicamente por Gonzalo Sanchez.\nUnidad:\nResolución Nro.:\nSECRETARIA GENERAL\n2694/26\nII.19\nExpediente Nro.:\n2020-9055-98-000025\nMontevideo, 6 de julio de 2026\nVISTO: el Decreto Nº 39.357 sancionado por la Junta Departamental\nde Montevideo el 18 de junio de 2026 y recibido por este Ejecutivo el\n25 del mismo mes y año, por el cual de conformidad con la Resolución\nNº 4621/24, de 28 de octubre de 2024, se establece un régimen para\nla protección de la actividad cultural desarrollada en los espacios\nculturales independientes, posibilitando su funcionamiento y\ndesarrollo;\nEL INTENDENTE DE MONTEVIDEO\nRESUELVE:\n1.- Promúlgase el Decreto Nº 39.357 sancionado el 18 de junio de\n2026.\n105\nDocumentosNº 31.960 - julio 21 de 2026DiarioOficial |\nLa Ley en\ntu lenguaje\n2.- Publíquese y comuníquese a la Junta Departamental de\nMontevideo, a todos los Departamentos, a las Divisiones Asesoría\nJurídica, Asesoría de Desarrollo Municipal y Participación a sus efectos,\na Contaduría General, a los Servicios de Prensa y Comunicación,\nRelaciones Públicas, Contralor de la Edificación, Convivencia\nDepartamental, a los Equipos Técnicos de Actualización Normativa,\nde Información Jurídica, a la Biblioteca Jurídica y pase por su orden\nal Sector Despacho para su incorporación al Registro, a la División\nInformación y Comunicación para adjuntar el expediente y comunicar\na la Junta Departamental de Montevideo la constancia de publicación\ny al Departamento de Cultura para proseguir con los trámites\npertinentes.\nResolución comprendida en el Acuerdo Nro. 1.506/2026 Firmado\npor INTENDENTE DE MONTEVIDEO MARIO ESTEBAN\nBERGARA DUQUE.\nResolución comprendida en el Acuerdo Nro. 1.506/2026 Firmado\npor SECRETARIA GENERAL VIVIANA CECILIA REPETTO\nAQUINO.",
+      "label": "Artículo 31"
+    }
+  ],
+  "relations": [
+    {
+      "from": "decreto:4076:2026",
+      "relation": "INCORPORATES",
+      "to": "decreto:110:2026",
+      "status": "candidate",
+      "evidence_source": "https://www.impo.com.uy/diariooficial/2026/07/21/documentos.pdf"
+    },
+    {
+      "from": "decreto:4076:2026",
+      "relation": "REGULATES",
+      "to": "decreto:234:2018",
+      "status": "candidate",
+      "evidence_source": "https://www.impo.com.uy/diariooficial/2026/07/21/documentos.pdf"
+    }
+  ]
+}

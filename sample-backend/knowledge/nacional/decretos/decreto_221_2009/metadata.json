@@ -1,0 +1,23 @@
+{
+  "id": "decreto:221:2009",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "221",
+  "anio": "2009",
+  "title": "REGLAMENTACION LEY SOBRE ORDENAMIENTO TERRITORIAL Y DESARROLLO SOSTENIBLE. URBANIZACION",
+  "nombre": "REGLAMENTACION LEY SOBRE ORDENAMIENTO TERRITORIAL Y DESARROLLO SOSTENIBLE. URBANIZACION",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/221-2009",
+  "json_url": "https://www.impo.com.uy/bases/decretos/221-2009?json=true",
+  "local_source_path": "decretos/decreto_221_2009/source.impo.json",
+  "local_normalized_path": "decretos/decreto_221_2009/normalized.json",
+  "local_text_path": "decretos/decreto_221_2009/normalized.txt",
+  "active": true,
+  "checksum": "dcf8ae91e61309f35e29c19b7d927f30307b5247d003fe8cdaf31f1293082479",
+  "downloaded_at": "2026-08-14T13:34:12.474348+00:00",
+  "last_synced_at": "2026-08-14T13:34:12.474367+00:00",
+  "index_status": "downloaded",
+  "article_count": 19,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

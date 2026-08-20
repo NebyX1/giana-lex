@@ -1,40 +1,36 @@
-import { Button, Textarea } from '@fluentui/react-components'
-import { SendRegular } from '@fluentui/react-icons'
+import { Button, Spinner, Text, Textarea } from '@fluentui/react-components'
+import { ArrowRightRegular, DocumentTextRegular, SearchRegular, SendRegular, ShieldCheckmarkRegular, SparkleRegular } from '@fluentui/react-icons'
 
-export default function ChatPane({ messages, value, onChange, onSend, busy, children }) {
+const prompts = [
+  { icon: DocumentTextRegular, label: 'REDACCIÓN', text: 'Preparar una resolución administrativa a partir de antecedentes.' },
+  { icon: ShieldCheckmarkRegular, label: 'CONTROL', text: 'Revisar los riesgos jurídicos de un acto administrativo.' },
+  { icon: SearchRegular, label: 'INVESTIGACIÓN', text: 'Localizar normativa aplicable a una situación concreta.' },
+  { icon: SparkleRegular, label: 'SÍNTESIS', text: 'Resumir antecedentes para fundamentar una decisión.' },
+]
+
+export default function ChatPane({ messages, hasConversation, value, onChange, onSend, busy, children }) {
   return (
-    <section className="chat-pane" aria-label="Interaccion">
+    <section className="chat-pane" aria-label="Interacción">
       <div className="messages">
         {messages.length === 0 && (
-          <div className="empty-state">
-            <span className="eyebrow">LABORATORIO DE REDACCION</span>
-            <h2>¿Que resolucion necesitás preparar?</h2>
-            <p>Describí el objetivo. Giana buscará antecedentes y te pedirá únicamente la información necesaria.</p>
+          <div className="welcome">
+            <div className="welcome-icon"><SparkleRegular /></div>
+            <Text size={700} weight="semibold" block>¿Qué necesita resolver?</Text>
+            <Text className="welcome-summary" size={400}>Describa el objetivo jurídico. Giana buscará antecedentes y solicitará únicamente la información necesaria.</Text>
+            <div className="prompt-grid">{prompts.map(({ icon: Icon, label, text }) => <button className="prompt-card" type="button" key={label} onClick={() => onChange(text)}><span className="prompt-label">{label}</span><div><Text weight="semibold">{text}</Text><Icon /></div></button>)}</div>
           </div>
         )}
         {messages.map((message, index) => (
-          <div className={`message ${message.role}`} key={`${message.role}-${index}`}>
-            <span>{message.role === 'user' ? 'Vos' : 'Giana'}</span>
-            <p>{message.text}</p>
+          <div className={`message-row ${message.role}`} key={`${message.role}-${index}`}>
+            {message.role === 'assistant' && <div className="agent-avatar">GL</div>}
+            <div className="message-content"><span>{message.role === 'user' ? 'USTED' : 'GIANA-LEX'}</span><p className={`bubble ${message.role}`}>{message.text}</p></div>
           </div>
         ))}
-        {busy === 'create' && <p className="activity">Buscando antecedentes y generando formulario...</p>}
+        {busy === 'create' && <div className="activity"><Spinner size="tiny" /><span>Buscando antecedentes y preparando la información necesaria…</span></div>}
+        {children}
       </div>
-      {children}
-      {!messages.length && (
-        <div className="composer">
-          <Textarea
-            resize="vertical"
-            size="large"
-            value={value}
-            onChange={(_, data) => onChange(data.value)}
-            placeholder="Necesito que me ayudes a crear una resolución..."
-            aria-label="Solicitud"
-          />
-          <Button appearance="primary" icon={<SendRegular />} disabled={!value.trim() || busy === 'create'} onClick={onSend}>
-            {busy === 'create' ? 'Analizando...' : 'Enviar'}
-          </Button>
-        </div>
+      {!hasConversation && (
+        <div className="composer-wrap"><div className="composer"><Textarea resize="none" size="large" value={value} onChange={(_, data) => onChange(data.value)} onKeyDown={(event) => { if (event.key === 'Enter' && !event.shiftKey) { event.preventDefault(); onSend() } }} placeholder="Describa la consulta o el documento que necesita preparar…" aria-label="Solicitud" /><div className="composer-actions"><Text size={100} className="muted">Enter para enviar · Shift + Enter para nueva línea</Text><Button appearance="primary" icon={busy === 'create' ? undefined : <SendRegular />} disabled={!value.trim() || busy === 'create'} onClick={onSend}>{busy === 'create' ? <Spinner size="tiny" /> : <>Enviar consulta <ArrowRightRegular /></>}</Button></div></div></div>
       )}
     </section>
   )

@@ -1,0 +1,23 @@
+{
+  "id": "ley:19061:2013",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "19061",
+  "anio": "2013",
+  "title": "FIJACION DE DISPOSICIONES RELATIVAS AL TRANSITO Y SEGURIDAD VIAL",
+  "nombre": "FIJACION DE DISPOSICIONES RELATIVAS AL TRANSITO Y SEGURIDAD VIAL",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/19061-2013",
+  "json_url": "https://www.impo.com.uy/bases/leyes/19061-2013?json=true",
+  "local_source_path": "leyes/ley_19061_2013/source.impo.json",
+  "local_normalized_path": "leyes/ley_19061_2013/normalized.json",
+  "local_text_path": "leyes/ley_19061_2013/normalized.txt",
+  "active": true,
+  "checksum": "75042f38a49241b120f3e92d2588281743ac61c13b96bb0a99715ef9f6fc0555",
+  "downloaded_at": "2026-08-14T13:43:07.199493+00:00",
+  "last_synced_at": "2026-08-14T13:43:07.199516+00:00",
+  "index_status": "downloaded",
+  "article_count": 18,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

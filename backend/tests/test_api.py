@@ -113,6 +113,11 @@ def test_complete_api_flow_without_paid_calls(client):
     assert created.json["debug"]["tools_executed"] == ["search_examples", "load_mold"]
     conversation_id = created.json["conversation_id"]
 
+    listed = client.get("/api/conversations")
+    assert listed.status_code == 200
+    assert listed.json["conversations"][0]["conversation_id"] == conversation_id
+    assert listed.json["conversations"][0]["title"] == "Necesito una resolucion de contratacion de arrendamiento de obra."
+
     drafted = client.post(
         f"/api/conversations/{conversation_id}/form",
         json={"answers": {"decision": "Contratar la obra descrita por el solicitante"}},

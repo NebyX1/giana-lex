@@ -1,0 +1,23 @@
+{
+  "id": "ley:20129:2023",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "20129",
+  "anio": "2023",
+  "title": "REGULACION DEL DERECHO DE TODAS LAS  TRABAJADORAS Y TRABAJADORES A AUSENTARSE DEL TRABAJO PARA REALIZACION DE CONTROLES DE EMBARAZO",
+  "nombre": "REGULACION DEL DERECHO DE TODAS LAS  TRABAJADORAS Y TRABAJADORES A AUSENTARSE DEL TRABAJO PARA REALIZACION DE CONTROLES DE EMBARAZO",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/20129-2023",
+  "json_url": "https://www.impo.com.uy/bases/leyes/20129-2023?json=true",
+  "local_source_path": "leyes/ley_20129_2023/source.impo.json",
+  "local_normalized_path": "leyes/ley_20129_2023/normalized.json",
+  "local_text_path": "leyes/ley_20129_2023/normalized.txt",
+  "active": true,
+  "checksum": "2e62a1a3cf6f69069b8428a103b5c8e5876a6aaa62f584dea0ac2eebe804dcc9",
+  "downloaded_at": "2026-08-14T13:38:54.219461+00:00",
+  "last_synced_at": "2026-08-14T13:38:54.219492+00:00",
+  "index_status": "downloaded",
+  "article_count": 6,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

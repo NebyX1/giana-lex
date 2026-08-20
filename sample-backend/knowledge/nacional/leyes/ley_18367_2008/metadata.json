@@ -1,0 +1,23 @@
+{
+  "id": "ley:18367:2008",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "18367",
+  "anio": "2008",
+  "title": "ORDENAMIENTO TERRITORIAL. URBANIZACION. PROPIEDAD HORIZONTAL",
+  "nombre": "ORDENAMIENTO TERRITORIAL. URBANIZACION. PROPIEDAD HORIZONTAL",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/18367-2008",
+  "json_url": "https://www.impo.com.uy/bases/leyes/18367-2008?json=true",
+  "local_source_path": "leyes/ley_18367_2008/source.impo.json",
+  "local_normalized_path": "leyes/ley_18367_2008/normalized.json",
+  "local_text_path": "leyes/ley_18367_2008/normalized.txt",
+  "active": true,
+  "checksum": "b2779720387a474c35f3f807d82b7a3567b0455ae06ea88563ef4488f35e4100",
+  "downloaded_at": "2026-08-14T13:40:45.341902+00:00",
+  "last_synced_at": "2026-08-14T13:40:45.341924+00:00",
+  "index_status": "downloaded",
+  "article_count": 2,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

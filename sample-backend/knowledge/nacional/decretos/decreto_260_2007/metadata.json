@@ -1,0 +1,23 @@
+{
+  "id": "decreto:260:2007",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "260",
+  "anio": "2007",
+  "title": "REGLAMENTACION DE LA LEY 17.849 SOBRE RECICLAJE DE ENVASES",
+  "nombre": "REGLAMENTACION DE LA LEY 17.849 SOBRE RECICLAJE DE ENVASES",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/260-2007",
+  "json_url": "https://www.impo.com.uy/bases/decretos/260-2007?json=true",
+  "local_source_path": "decretos/decreto_260_2007/source.impo.json",
+  "local_normalized_path": "decretos/decreto_260_2007/normalized.json",
+  "local_text_path": "decretos/decreto_260_2007/normalized.txt",
+  "active": true,
+  "checksum": "b775b0456ec09b2f8b401fb7022551f1e10f228724bc2b4d1727b475fa93dd58",
+  "downloaded_at": "2026-08-14T13:40:19.485759+00:00",
+  "last_synced_at": "2026-08-14T13:40:19.485777+00:00",
+  "index_status": "downloaded",
+  "article_count": 21,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

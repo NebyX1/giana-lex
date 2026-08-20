@@ -1,0 +1,23 @@
+{
+  "id": "decreto:184:2007",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "184",
+  "anio": "2007",
+  "title": "SE APRUEBA EL \"PRIMER PLAN NACIONAL DE IGUALDAD DE OPORTUNIDADES Y DERECHOS. POLITICAS PUBLICAS HACIA LAS MUJERES 2007 - 2011\"",
+  "nombre": "SE APRUEBA EL \"PRIMER PLAN NACIONAL DE IGUALDAD DE OPORTUNIDADES Y DERECHOS. POLITICAS PUBLICAS HACIA LAS MUJERES 2007 - 2011\"",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/184-2007",
+  "json_url": "https://www.impo.com.uy/bases/decretos/184-2007?json=true",
+  "local_source_path": "decretos/decreto_184_2007/source.impo.json",
+  "local_normalized_path": "decretos/decreto_184_2007/normalized.json",
+  "local_text_path": "decretos/decreto_184_2007/normalized.txt",
+  "active": true,
+  "checksum": "63350897c9a6d729aa7b8356e0b49cdeeff08ffe3ca8ed04c2f89bf7abaf1adb",
+  "downloaded_at": "2026-08-14T13:39:27.713408+00:00",
+  "last_synced_at": "2026-08-14T13:39:27.713429+00:00",
+  "index_status": "downloaded",
+  "article_count": 2,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

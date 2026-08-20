@@ -1,0 +1,41 @@
+{
+  "tipo": "Ley",
+  "numero": "19044",
+  "anio": "2012",
+  "nombre": "MODIFICACION Y REGULACION RELATIVAS A DISPOSICIONES SOBRE CENTROS POBLADOS",
+  "leyenda": "Documento Actualizado",
+  "fechaPromulgacion": "28/12/2012",
+  "fechaPublicacion": "09/01/2013",
+  "vistos": "",
+  "referenciasNorma": "",
+  "indexacionNorma": "",
+  "articulos": [
+    {
+      "nroArticulo": "1",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 1",
+      "textoArticulo": "(*)",
+      "notasArticulo": "Este artículo dio nueva redacción a: Ley Nº 10.723 de 21/04/1946 artículos\n16 y 16 inciso 3º).",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/19044-2012/1"
+    },
+    {
+      "nroArticulo": "2",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 2",
+      "textoArticulo": "Decláranse válidos los planos de fraccionamiento aprobados por los\nGobiernos Departamentales con posterioridad a la entrada en vigencia de la\nLey N° 18.308, de 18 de junio de 2008, y con anterioridad a la\npromulgación de la presente ley, así como los actos y negocios jurídicos\ncelebrados en base a dichos planos, cuando estos o aquellos hayan sido\nrealizados en infracción a lo dispuesto por los artículos 2°, 15 y 16 de\nla Ley N° 10.723, de 21 de abril de 1946, y sus modificativas. En dichos\ncasos, no serán aplicables las sanciones previstas en la Ley N° 10.723.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/leyes/19044-2012/2"
+    }
+  ],
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/19044-2012",
+  "json_url": "https://www.impo.com.uy/bases/leyes/19044-2012?json=true",
+  "norma_id": "ley:19044:2012",
+  "category": "leyes",
+  "directory": "leyes",
+  "title": "MODIFICACION Y REGULACION RELATIVAS A DISPOSICIONES SOBRE CENTROS POBLADOS",
+  "article_count": 2
+}

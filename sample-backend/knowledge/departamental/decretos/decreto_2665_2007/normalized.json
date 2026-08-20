@@ -1,0 +1,41 @@
+{
+  "norm_id": "decreto:2665:2007",
+  "norm_type": "decreto",
+  "number": "2665",
+  "year": "2007",
+  "title": "Autorización de la línea Minas - Villa Rosario",
+  "directory": "decretos",
+  "family": "general",
+  "article_count": 4,
+  "articles": [
+    {
+      "number": "1",
+      "bis": "",
+      "title": "",
+      "text": "",
+      "label": "Artículo 1"
+    },
+    {
+      "number": "2",
+      "bis": "",
+      "title": "",
+      "text": "",
+      "label": "Artículo 2"
+    },
+    {
+      "number": "3",
+      "bis": "",
+      "title": "",
+      "text": "",
+      "label": "Artículo 3"
+    },
+    {
+      "number": "4",
+      "bis": "",
+      "title": "",
+      "text": "Sala de Sesiones, a cinco de\ndiciembre del año dos mil siete.\nHéctor Loza Airaudo\nPresidente\nRaúl Martirena Del Puerto\nSecretario",
+      "label": "Artículo 4"
+    }
+  ],
+  "relations": []
+}

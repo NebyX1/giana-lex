@@ -2,10 +2,8 @@ import { useEffect, useState } from 'react'
 import {
   Button,
   Checkbox,
-  Dropdown,
   Field,
   Input,
-  Option,
   Textarea,
 } from '@fluentui/react-components'
 
@@ -25,14 +23,14 @@ export default function DynamicForm({ form, onSubmit, busy, submitLabel = 'Conti
     }
     if (field.field_type === 'select') {
       return (
-        <Dropdown
-          placeholder={field.placeholder || 'Seleccioná una opción'}
+        <select
           value={values[field.id] || ''}
-          selectedOptions={values[field.id] ? [values[field.id]] : []}
-          onOptionSelect={(_, data) => setValue(field.id, data.optionValue)}
+          required={field.required}
+          onChange={(event) => setValue(field.id, event.target.value)}
         >
-          {field.options.map((option) => <Option key={option} value={option}>{option}</Option>)}
-        </Dropdown>
+          <option value="" disabled>{field.placeholder || 'Seleccioná una opción'}</option>
+          {(field.options || []).map((option) => <option key={option} value={option}>{option}</option>)}
+        </select>
       )
     }
     if (field.field_type === 'boolean') {

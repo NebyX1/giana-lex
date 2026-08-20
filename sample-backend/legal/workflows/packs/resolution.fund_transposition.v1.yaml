@@ -1,0 +1,15 @@
+id: resolution.fund_transposition
+version: 1
+status: active
+jurisdiction: lavalleja
+intent: {family: resolution_drafting, subtype: fund_transposition}
+precedent_types: [trasposicion_rubros]
+fields:
+  - {key: expediente, label: Expediente, field_type: text, required: true, origin: workflow, reason: Identifica las actuaciones., validation_rules: {}}
+  - {key: accounting_report, label: Informe de Hacienda o Contaduria, field_type: document_reference, required: true, origin: precedent, reason: Dato exigido por el antecedente de estructura., validation_rules: {}}
+  - {key: source_budget, label: Rubro de origen, field_type: text, required: true, origin: precedent, reason: Dato exigido por el antecedente de estructura., validation_rules: {}}
+  - {key: target_budget, label: Rubro de destino, field_type: text, required: true, origin: precedent, reason: Dato exigido por el antecedente de estructura., validation_rules: {}}
+  - {key: amount, label: Importe, field_type: currency, required: true, origin: precedent, reason: Dato exigido por el antecedente de estructura., validation_rules: {min: '0'}}
+legal_issues: [competence, budget_authority, availability, limits, control_route]
+required_sections: [vistos, considerandos, legal_basis, operative_articles, notifications]
+require_verified_competence: true

@@ -1,0 +1,23 @@
+{
+  "id": "decreto-ley:10329:1943",
+  "source": "IMPO",
+  "tipo": "Decreto Ley",
+  "numero": "10329",
+  "anio": "1943",
+  "title": "FUNCIONARIOS. PROCESOS JUDICIALES. REGULACION",
+  "nombre": "FUNCIONARIOS. PROCESOS JUDICIALES. REGULACION",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos-ley/10329-1943",
+  "json_url": "https://www.impo.com.uy/bases/decretos-ley/10329-1943?json=true",
+  "local_source_path": "leyes/decreto-ley_10329_1943/source.impo.json",
+  "local_normalized_path": "leyes/decreto-ley_10329_1943/normalized.json",
+  "local_text_path": "leyes/decreto-ley_10329_1943/normalized.txt",
+  "active": true,
+  "checksum": "87db7743058e0617527ceaa5207b624d3775cb609d48cedde24034a9ce0adda5",
+  "downloaded_at": "2026-08-14T13:38:46.545965+00:00",
+  "last_synced_at": "2026-08-14T13:38:46.545988+00:00",
+  "index_status": "downloaded",
+  "article_count": 4,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

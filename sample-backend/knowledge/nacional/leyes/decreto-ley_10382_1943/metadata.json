@@ -1,0 +1,23 @@
+{
+  "id": "decreto-ley:10382:1943",
+  "source": "IMPO",
+  "tipo": "Decreto Ley",
+  "numero": "10382",
+  "anio": "1943",
+  "title": "CALIFICACION DE LOS CAMINOS NACIONALES, DEPARTAMENTALES Y VECINALES. REGULACION DE EDIFICACIONES, TRANSITO Y FINANCIAMIENTO",
+  "nombre": "CALIFICACION DE LOS CAMINOS NACIONALES, DEPARTAMENTALES Y VECINALES. REGULACION DE EDIFICACIONES, TRANSITO Y FINANCIAMIENTO",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos-ley/10382-1943",
+  "json_url": "https://www.impo.com.uy/bases/decretos-ley/10382-1943?json=true",
+  "local_source_path": "leyes/decreto-ley_10382_1943/source.impo.json",
+  "local_normalized_path": "leyes/decreto-ley_10382_1943/normalized.json",
+  "local_text_path": "leyes/decreto-ley_10382_1943/normalized.txt",
+  "active": true,
+  "checksum": "f69258b388f0c78496fa7493f0ac1745c749b57ff50529a4de8fe456c3049056",
+  "downloaded_at": "2026-08-14T13:41:11.762547+00:00",
+  "last_synced_at": "2026-08-14T13:41:11.762569+00:00",
+  "index_status": "downloaded",
+  "article_count": 37,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

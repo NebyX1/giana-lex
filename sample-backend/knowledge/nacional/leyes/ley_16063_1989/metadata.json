@@ -1,0 +1,23 @@
+{
+  "id": "ley:16063:1989",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "16063",
+  "anio": "1989",
+  "title": "APROBACION DE ACUERDOS INTERNACIONALES - DERECHOS HUMANOS",
+  "nombre": "APROBACION DE ACUERDOS INTERNACIONALES - DERECHOS HUMANOS",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/16063-1989",
+  "json_url": "https://www.impo.com.uy/bases/leyes/16063-1989?json=true",
+  "local_source_path": "leyes/ley_16063_1989/source.impo.json",
+  "local_normalized_path": "leyes/ley_16063_1989/normalized.json",
+  "local_text_path": "leyes/ley_16063_1989/normalized.txt",
+  "active": true,
+  "checksum": "c34d56bc9fbf5b1a2051a1f7df5f4d8676158bc6e38089597275fe9553425ba4",
+  "downloaded_at": "2026-08-14T13:40:06.117895+00:00",
+  "last_synced_at": "2026-08-14T13:40:06.117922+00:00",
+  "index_status": "downloaded",
+  "article_count": 2,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

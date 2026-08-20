@@ -69,11 +69,12 @@ def validate_form_answers(form: DynamicForm, answers: dict[str, Any]) -> dict[st
 
 
 class Orchestrator:
-    def __init__(self, settings: Settings, storage: Storage, agents: Any):
+    def __init__(self, settings: Settings, storage: Storage, agents: Any, legal_knowledge=None):
         self.settings = settings
         self.storage = storage
         self.agents = agents
         self.skills = discover_skills()
+        self.legal_knowledge = legal_knowledge
         self._lock = Lock()
 
     def _get(self, conversation_id: str) -> ConversationState:
@@ -116,15 +117,44 @@ class Orchestrator:
             )},
         }
 
-    def create_conversation(self, message: str) -> ConversationState:
+    def create_conversation(self, message: str, owner_user_id: int | None = None) -> ConversationState:
         if not isinstance(message, str) or not message.strip():
             raise OperationError("validation_error", "El mensaje es obligatorio")
-        state = ConversationState(original_request=message.strip())
+        state = ConversationState(original_request=message.strip(), owner_user_id=owner_user_id)
         self.storage.save(state)
         before = state.stage
         state.transition(Stage.SEARCHING_EXAMPLES)
         self.storage.save(state)
         try:
+            taxonomy_candidates = []
+            if self.legal_knowledge is not None:
+                taxonomy_candidates = self._tool(
+                    state, "search_resolution_types", self.legal_knowledge.search_resolution_types,
+                    state.original_request, 5,
+                )
+                state.taxonomy_candidates = [item.model_dump() for item in taxonomy_candidates]
+                if taxonomy_candidates:
+                    selected_id = None
+                    if hasattr(self.agents, "classify_resolution"):
+                        classification_run = self.agents.classify_resolution({
+                            "solicitud": state.original_request,
+                            "candidatos": state.taxonomy_candidates,
+                        })
+                        self._record_llm(state, "resolution_classification", classification_run)
+                        classification = classification_run.output
+                        valid_ids = {item.taxonomy_node_id for item in taxonomy_candidates}
+                        if classification.taxonomy_node_id in valid_ids and not classification.needs_clarification:
+                            selected_id = classification.taxonomy_node_id
+                        state.resolution_classification = classification.model_dump()
+                    elif taxonomy_candidates[0].score >= 0.5:
+                        selected_id = taxonomy_candidates[0].taxonomy_node_id
+                    state.selected_taxonomy_id = selected_id
+                    if selected_id:
+                        references = self._tool(
+                            state, "search_resolution_examples", self.legal_knowledge.search_resolution_examples,
+                            selected_id, state.original_request, 5,
+                        )
+                        state.official_references = [item.model_dump() for item in references]
             candidates = self._tool(
                 state, "search_examples", search_examples, state.original_request, self.settings.examples_dir,
                 self.settings.examples_top_k,
@@ -134,6 +164,9 @@ class Orchestrator:
                 {
                     "solicitud": state.original_request,
                     "candidatos": [candidate.model_dump() for candidate in candidates],
+                    "tipologias_candidatas": state.taxonomy_candidates,
+                    "clasificacion_tipologica": state.resolution_classification,
+                    "antecedentes_oficiales": state.official_references,
                     "molde": mold,
                 }
             )
@@ -151,7 +184,11 @@ class Orchestrator:
             state.selected_examples = output.matched_examples
             state.current_form = output.form
             state.transition(Stage.COLLECTING_INFO)
-            self._set_debug(state, before, ["search_examples", "load_mold"])
+            tools = ["search_resolution_types"] if state.taxonomy_candidates else []
+            if state.selected_taxonomy_id:
+                tools.append("search_resolution_examples")
+            tools.extend(["search_examples", "load_mold"])
+            self._set_debug(state, before, tools)
             state.last_debug["message"] = output.assistant_message
             self.storage.save(state)
             return state
@@ -184,6 +221,8 @@ class Orchestrator:
                         "datos_formulario": merged_answers,
                         "molde": mold,
                         "ejemplos_relevantes": examples,
+                        "taxonomy_node_id": state.selected_taxonomy_id,
+                        "antecedentes_oficiales": state.official_references,
                     }
                 )
                 self._record_llm(state, "draft", run)

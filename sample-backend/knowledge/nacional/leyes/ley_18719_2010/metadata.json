@@ -1,0 +1,23 @@
+{
+  "id": "ley:18719:2010",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "18719",
+  "anio": "2010",
+  "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2010 - 2014",
+  "nombre": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2010 - 2014",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/18719-2010",
+  "json_url": "https://www.impo.com.uy/bases/leyes/18719-2010?json=true",
+  "local_source_path": "leyes/ley_18719_2010/source.impo.json",
+  "local_normalized_path": "leyes/ley_18719_2010/normalized.json",
+  "local_text_path": "leyes/ley_18719_2010/normalized.txt",
+  "active": true,
+  "checksum": "f7c93976d783c17240031f87f9be9f9044cf1fb7de7e7f6ad6d08b8edd24c8d8",
+  "downloaded_at": "2026-08-14T13:46:37.141147+00:00",
+  "last_synced_at": "2026-08-14T13:46:37.141172+00:00",
+  "index_status": "downloaded",
+  "article_count": 867,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

@@ -1,0 +1,60 @@
+version: intake-aliases-v1
+act_aliases:
+  resolution: [resolucion, resolución, proyecto de acto]
+resolution_subtypes:
+  - subtype: fund_transposition
+    workflow_id: resolution.fund_transposition
+    workflow_version: 2
+    aliases:
+      - trasposicion de rubros
+      - trasposición de rubros
+      - transposicion de rubros
+      - transposición de rubros
+      - trasposicion presupuestal
+      - transferencia de rubros
+      - transferencia presupuestal
+      - ajuste presupuestal
+      - trasposicion
+      - transposicion
+      - trasposición
+      - transposición
+      - transponer
+      - trasnspocision
+      - transpaso de rubros
+  - subtype: contract_renewal
+    workflow_id: resolution.contract_renewal
+    workflow_version: 1
+    aliases: [renovacion de contrato, renovación de contrato, renovar un contrato, renovar el contrato, renovar contrato, prorroga de contrato, prórroga de contrato, prorrogar contrato]
+  - subtype: donation
+    workflow_id: resolution.donation
+    workflow_version: 1
+    aliases: [donacion, donación, donar]
+  - subtype: hours_removal
+    workflow_id: resolution.generic
+    workflow_version: 1
+    aliases: [quita de horas, reduccion de horas, reducción de horas, supresion de horas, supresión de horas]
+  - subtype: new_contract
+    workflow_id: resolution.new_contract
+    workflow_version: 1
+    aliases: [nuevo contrato, nueva contratacion, nueva contratación, adjudicacion, adjudicación, licitacion, licitación]
+  - subtype: generic
+    workflow_id: resolution.generic
+    workflow_version: 1
+    aliases: []
+fact_labels:
+  expediente: [expediente, numero de expediente, número de expediente]
+  unit: [unidad, unidad ejecutora]
+  motivation: [motivacion, motivación, fundamento]
+  fiscal_year: [ejercicio fiscal, ejercicio]
+  financing: [financiacion, financiación, financiamiento]
+  contract_object: [objeto del contrato, objeto]
+  contractor: [contratista]
+  original_contract: [contrato original]
+  current_end_date: [vencimiento actual]
+  proposed_end_date: [vencimiento propuesto]
+  amount: [importe, monto]
+  source_budget: [rubro de origen, rubro origen, origen]
+  target_budget: [rubro de destino, rubro destino, destino]
+  informe_hacienda: [informe de hacienda, informe hacienda]
+  beneficiary: [beneficiario]
+  donation_object: [objeto de la donacion, objeto de la donación]

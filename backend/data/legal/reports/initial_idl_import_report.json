@@ -1,0 +1,2489 @@
+{
+  "seed_version": "idl-resolution-taxonomy-v1",
+  "seed_requested": 156,
+  "taxonomy_created": 247,
+  "urls_resolved": 156,
+  "downloaded": 156,
+  "validated": 137,
+  "duplicates": 5,
+  "failed": 0,
+  "review_required": 19,
+  "indexed": 132,
+  "items": [
+    {
+      "code": "FIN.presupuesto.trasposicion_rubros",
+      "resolution_number": "2.826/026",
+      "expected_title": "Trasposición de rubros presupuestales",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2826026",
+      "resolution_id": "7fd134fe-11ea-454e-95d9-27f1aa2a0b6a",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "rubros",
+          "trasposicion"
+        ]
+      }
+    },
+    {
+      "code": "FIN.presupuesto.reiteracion_gasto_observado",
+      "resolution_number": "2.789/026",
+      "expected_title": "Reiteración de gasto observado",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2789026",
+      "resolution_id": "9b767f37-6c91-4108-abae-d2113403e29d",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "observado"
+        ]
+      }
+    },
+    {
+      "code": "FIN.pagos.pago_proveedor",
+      "resolution_number": "3.036/025",
+      "expected_title": "Orden de pago ordinaria a proveedor",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3036025",
+      "resolution_id": "e006d17b-56c4-4ce4-8e27-8261c3487c7a",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "orden",
+          "pago"
+        ]
+      }
+    },
+    {
+      "code": "FIN.pagos.certificado_obra",
+      "resolution_number": "543/025",
+      "expected_title": "Pago de certificado de obra",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-543025",
+      "resolution_id": "aed34140-bf83-4dca-b25e-a771d55a65f8",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "certificado",
+          "obra",
+          "pago"
+        ]
+      }
+    },
+    {
+      "code": "FIN.pagos.reintegro_gastos",
+      "resolution_number": "4.729/025",
+      "expected_title": "Reintegro de gastos",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4729025",
+      "resolution_id": "1e6cd0e0-981c-4e7f-9c44-4afaf55404e4",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "gastos",
+          "reintegro"
+        ]
+      }
+    },
+    {
+      "code": "FIN.caja.caja_chica",
+      "resolution_number": "2.787/026",
+      "expected_title": "Constitución o modificación de caja chica",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2787026",
+      "resolution_id": "05cd487b-d7b7-4d3f-9d7c-b86f9ade5b64",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "caja",
+          "chica"
+        ]
+      }
+    },
+    {
+      "code": "FIN.compensaciones.tareas",
+      "resolution_number": "1.275/026",
+      "expected_title": "Compensación por tareas",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1275026",
+      "resolution_id": "1b847f8b-7d15-4447-9449-e8a6017104ba",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "compensacion",
+          "tareas"
+        ]
+      }
+    },
+    {
+      "code": "FIN.compensaciones.permanencia_orden",
+      "resolution_number": "1.821/026",
+      "expected_title": "Compensación por permanencia a la orden",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1821026",
+      "resolution_id": "5ad0c5f3-3f4a-41a2-923e-9640e75f9acd",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "compensacion",
+          "orden",
+          "permanencia"
+        ]
+      }
+    },
+    {
+      "code": "FIN.compensaciones.modificacion",
+      "resolution_number": "344/026",
+      "expected_title": "Modificación de compensación existente",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-344026",
+      "resolution_id": "1fe7c18b-a6ba-4d10-8248-522e18fb288f",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "compensacion"
+        ]
+      }
+    },
+    {
+      "code": "FIN.horas_extras.autorizacion_previa",
+      "resolution_number": "2.834/026",
+      "expected_title": "Autorización previa de horas extras",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2834026",
+      "resolution_id": "555d9754-0753-47fc-bf13-0eb6c2e8b95e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "autorizacion",
+          "extras",
+          "horas"
+        ]
+      }
+    },
+    {
+      "code": "FIN.horas_extras.pago_realizadas",
+      "resolution_number": "2.436/026",
+      "expected_title": "Pago de horas extras realizadas",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2436026",
+      "resolution_id": "95e14940-d58f-4ef6-bd7e-33988babed83",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "extras",
+          "horas",
+          "pago",
+          "realizadas"
+        ]
+      }
+    },
+    {
+      "code": "FIN.horas_extras.exceso_limite",
+      "resolution_number": "1.511/026",
+      "expected_title": "Pago de horas excedidas",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1511026",
+      "resolution_id": "195df7db-f69f-4196-a368-b1889df6f9c8",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "excedidas",
+          "horas",
+          "pago"
+        ]
+      }
+    },
+    {
+      "code": "FIN.liquidaciones.jornales_viaticos_omitidos",
+      "resolution_number": "2.779/026",
+      "expected_title": "Liquidación extraordinaria de jornales o viáticos omitidos",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2779026",
+      "resolution_id": "2eca2674-32c6-4ad2-ac2e-9afb361ddf6d",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "jornales"
+        ]
+      }
+    },
+    {
+      "code": "FIN.transferencias.municipio",
+      "resolution_number": "1.904/019",
+      "expected_title": "Transferencia de fondos a Municipio",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1904019",
+      "resolution_id": "de2d92e0-cb80-4c31-9247-484bba2623b9",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "municipio",
+          "transferencia"
+        ]
+      }
+    },
+    {
+      "code": "FIN.transferencias.junta_departamental",
+      "resolution_number": "903/026",
+      "expected_title": "Transferencia de duodécimo a Junta Departamental",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-903026",
+      "resolution_id": "4ddaf92e-b158-4568-a74c-1039fdb167f4",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "departamental",
+          "duodecimo",
+          "junta",
+          "transferencia"
+        ]
+      }
+    },
+    {
+      "code": "FIN.transferencias.cnd",
+      "resolution_number": "1.664/026",
+      "expected_title": "Transferencia de fondos a CND",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1664026",
+      "resolution_id": "af720cee-9a7c-4e61-abdd-16671e73122f",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "transferencia"
+        ]
+      }
+    },
+    {
+      "code": "FIN.apoyos.institucion_dinero",
+      "resolution_number": "3.365/025",
+      "expected_title": "Colaboración económica a institución",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3365025",
+      "resolution_id": "7badb948-bcd4-4fb2-b108-7fc70ebf3cdd",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "colaboracion"
+        ]
+      }
+    },
+    {
+      "code": "FIN.apoyos.persona_dinero",
+      "resolution_number": "909/026",
+      "expected_title": "Ayuda económica a persona física",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-909026",
+      "resolution_id": "c1c7213a-2ad1-420c-a75e-c60fbbe5f16e",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "FIN.apoyos.bienes_materiales",
+      "resolution_number": "819/024",
+      "expected_title": "Colaboración mediante bienes o materiales",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-819024",
+      "resolution_id": "84615a6b-b635-4c0e-861d-b43be0f41b40",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "colaboracion"
+        ]
+      }
+    },
+    {
+      "code": "FIN.apoyos.actividad_deportiva_social",
+      "resolution_number": "1.585/025",
+      "expected_title": "Ayuda económica para actividad deportiva/social",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1585025",
+      "resolution_id": "1021f65f-4238-4b33-9ae9-0aa62166d542",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "ayuda",
+          "economica"
+        ]
+      }
+    },
+    {
+      "code": "FIN.exoneraciones.precio_tarifa",
+      "resolution_number": "2.722/026",
+      "expected_title": "Exoneración directa de precio o tarifa municipal",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2722026",
+      "resolution_id": "c0a56bb1-a6ef-45c7-85ed-4853e6e5a62e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "exoneracion"
+        ]
+      }
+    },
+    {
+      "code": "FIN.exoneraciones.tributaria_junta",
+      "resolution_number": "2.289/026",
+      "expected_title": "Exoneración tributaria elevada a Junta Departamental",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2289026",
+      "resolution_id": "0376f92f-110c-4454-9280-4431b80aa552",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "departamental",
+          "exoneracion",
+          "junta"
+        ]
+      }
+    },
+    {
+      "code": "FIN.tributos.prescripcion",
+      "resolution_number": "532/026",
+      "expected_title": "Prescripción de deuda tributaria",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-532026",
+      "resolution_id": "8d40974d-4f01-4cd8-8b16-f887a079ae5b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "deuda",
+          "prescripcion"
+        ]
+      }
+    },
+    {
+      "code": "FIN.tributos.devolucion_pago_indebido",
+      "resolution_number": "486/026",
+      "expected_title": "Devolución de tributo pagado indebidamente",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-486026",
+      "resolution_id": "f2127f67-9d9b-4643-9440-c10229e7ceee",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "devolucion"
+        ]
+      }
+    },
+    {
+      "code": "FIN.garantias.devolucion_fiel_cumplimiento",
+      "resolution_number": "4.841/025",
+      "expected_title": "Devolución de garantía de fiel cumplimiento",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4841025",
+      "resolution_id": "8cab813d-096e-4dc7-9b67-16a215fa9f1e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "cumplimiento",
+          "devolucion",
+          "fiel",
+          "garantia"
+        ]
+      }
+    },
+    {
+      "code": "FIN.garantias.deposito_quebranto",
+      "resolution_number": "1.458/026",
+      "expected_title": "Devolución o cancelación de depósito por quebranto",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1458026",
+      "resolution_id": "b4ae11b3-ec7f-412d-86b6-2dc72f4f0038",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "cancelacion",
+          "deposito",
+          "devolucion"
+        ]
+      }
+    },
+    {
+      "code": "FIN.pagos.complementario_omitido",
+      "resolution_number": "3.986/025",
+      "expected_title": "Pago complementario de concepto omitido",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3986025",
+      "resolution_id": "d80de4bf-286e-45d3-a400-2e76bdc2d4a7",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "concepto",
+          "pago"
+        ]
+      }
+    },
+    {
+      "code": "FIN.retribuciones.reajuste_general",
+      "resolution_number": "219/023",
+      "expected_title": "Reajuste de viáticos, guardias, quebrantos y prestaciones",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-219023",
+      "resolution_id": "535603f3-726f-4386-b852-57068865e493",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "guardias",
+          "quebrantos",
+          "reajuste",
+          "viaticos"
+        ]
+      }
+    },
+    {
+      "code": "FIN.control.arqueo_extraordinario",
+      "resolution_number": "2.418/025",
+      "expected_title": "Arqueo extraordinario de valores",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2418025",
+      "resolution_id": "9226e188-6bcf-401b-9b02-da2d22ff7ebe",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "RRHH.movimientos.traslado",
+      "resolution_number": "3.354/025",
+      "expected_title": "Traslado de funcionario",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3354025",
+      "resolution_id": "ea1cd432-b338-4efd-a90a-cb7a17b16f6b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "traslado"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.movimientos.traslado_funciones_diferencia_salarial",
+      "resolution_number": "867/025",
+      "expected_title": "Traslado con asignación de funciones y diferencia salarial",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-867025",
+      "resolution_id": "8ebf5331-da8e-4c7c-a0ff-6151b00e0c7b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "diferencia",
+          "traslado"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.subrogaciones.temporal",
+      "resolution_number": "2.832/026",
+      "expected_title": "Subrogación temporal con diferencia salarial",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2832026",
+      "resolution_id": "164f078e-903b-457b-9cf8-fd1dc8186d4b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "diferencia",
+          "subrogacion"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.designaciones.interina",
+      "resolution_number": "1.750/025",
+      "expected_title": "Designación interina",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1750025",
+      "resolution_id": "0403f7c6-0cdc-4a0b-89e6-9de52f262299",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "designacion",
+          "interina"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.designaciones.jefatura",
+      "resolution_number": "1.395/025",
+      "expected_title": "Designación en cargo de conducción o jefatura",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1395025",
+      "resolution_id": "f2c45797-fb10-4d16-b7b7-ef9abfbf6de9",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "cargo"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.designaciones.comision",
+      "resolution_number": "1.402/025",
+      "expected_title": "Designación de integrante de comisión",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1402025",
+      "resolution_id": "b262f19a-86a3-48c0-b300-cd57052bb5b5",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "comision",
+          "integrante"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.comisiones.pase",
+      "resolution_number": "2.457/025",
+      "expected_title": "Pase en comisión",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2457025",
+      "resolution_id": "3b4c4c6a-f7c9-4132-9b5a-6bbbb7105411",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "comision",
+          "pase"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.comisiones.aceptacion_otro_organismo",
+      "resolution_number": "192/026",
+      "expected_title": "Aceptación de funcionario en comisión",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-192026",
+      "resolution_id": "66d5b08c-d360-49f6-87f2-1792a946c883",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "comision"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.comisiones.compensacion",
+      "resolution_number": "1.526/026",
+      "expected_title": "Compensación a funcionario en comisión",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1526026",
+      "resolution_id": "83bcb11c-1334-4445-9769-976f2030b883",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "comision",
+          "compensacion"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.renuncias.aceptacion",
+      "resolution_number": "2.572/025",
+      "expected_title": "Aceptación de renuncia",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2572025",
+      "resolution_id": "afd29076-585e-466e-b42c-473f3536f0f5",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "renuncia"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.docentes.contratacion",
+      "resolution_number": "2.294/026",
+      "expected_title": "Contratación docente",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2294026",
+      "resolution_id": "2ad7d1fd-4969-4762-8bc4-b56ca4acdc7d",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contratacion",
+          "docente"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.docentes.ampliacion_horas",
+      "resolution_number": "2.290/026",
+      "expected_title": "Ampliación de horas docentes",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2290026",
+      "resolution_id": "675e1681-7d74-43b8-94c3-eabffcfc2189",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "ampliacion",
+          "horas"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.docentes.modificacion_contrato",
+      "resolution_number": "1.831/026",
+      "expected_title": "Modificación de contratos docentes",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1831026",
+      "resolution_id": "439d4242-a8ae-4ad4-a4c5-434ea3d856e4",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "RRHH.contrataciones.eventual",
+      "resolution_number": "2.302/026",
+      "expected_title": "Contratación eventual",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2302026",
+      "resolution_id": "d8b55b94-22ca-49d8-bcb4-b415f0bdf6d0",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contratacion",
+          "eventual"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.contrataciones.zafral_sorteo",
+      "resolution_number": "1.348/026",
+      "expected_title": "Contratación de personal zafral mediante sorteo",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1348026",
+      "resolution_id": "7f39376b-6e84-4685-8449-70f3b2f25d10",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "personal",
+          "sorteo",
+          "zafral"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.contrataciones.orden_prelacion",
+      "resolution_number": "1.397/024",
+      "expected_title": "Contratación según orden de prelación",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1397024",
+      "resolution_id": "5a7839a8-8cb5-42c3-9699-9bd62a414555",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contratacion",
+          "orden",
+          "prelacion"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.llamados.abierto_oposicion_meritos",
+      "resolution_number": "2.025/023",
+      "expected_title": "Llamado abierto por oposición y méritos",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2025023",
+      "resolution_id": "45fd07f7-1aba-4004-b11c-f654f434153f",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "abierto",
+          "llamado",
+          "meritos",
+          "oposicion"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.llamados.interno_ascenso",
+      "resolution_number": "435/024",
+      "expected_title": "Llamado interno o ascenso",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-435024",
+      "resolution_id": "fc146bcd-a626-4275-8163-fd66cc6c3c65",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "ascenso",
+          "interno",
+          "llamado"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.seleccion.designacion_tribunal",
+      "resolution_number": "1.172/019",
+      "expected_title": "Designación de tribunal de evaluación",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1172019",
+      "resolution_id": "e2db8c82-f6f4-4530-a58a-c9e5dd732230",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "evaluacion",
+          "tribunal"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.seleccion.aprobacion_acta",
+      "resolution_number": "2.574/026",
+      "expected_title": "Aprobación de acta de comisión de selección",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2574026",
+      "resolution_id": "eef739ea-0739-4448-9034-bb3973c6b270",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "acta",
+          "comision"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.disciplina.investigacion_administrativa",
+      "resolution_number": "3.698/024",
+      "expected_title": "Instrucción de investigación administrativa",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3698024",
+      "resolution_id": "8ed189e6-ba64-4707-b2b8-e653db45b135",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "administrativa",
+          "instruccion",
+          "investigacion"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.protocolos.acoso",
+      "resolution_number": "513/025",
+      "expected_title": "Protocolo de acoso laboral/sexual",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-513025",
+      "resolution_id": "cb47ab85-0d6e-4af6-9263-c7738294cf20",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "acoso",
+          "laboral",
+          "protocolo",
+          "sexual"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.protocolos.fenomenos_adversos",
+      "resolution_number": "1.795/025",
+      "expected_title": "Protocolo de actuación ante fenómenos adversos",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1795025",
+      "resolution_id": "0eee04f8-e03e-4a02-81be-de09470301ea",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "actuacion",
+          "protocolo"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.protocolos.alcohol_drogas",
+      "resolution_number": "394/025",
+      "expected_title": "Protocolo preventivo de alcohol y drogas",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-394025",
+      "resolution_id": "3484ffc4-268e-4929-81fe-63aa42ea026a",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "alcohol",
+          "drogas",
+          "protocolo"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.licencias.jerarca",
+      "resolution_number": "1.119/025",
+      "expected_title": "Licencia reglamentaria de jerarca",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1119025",
+      "resolution_id": "49791862-bc8b-4287-9f1c-1ad9c22ff275",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "licencia",
+          "reglamentaria"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.licencias.medica_autoridad",
+      "resolution_number": "2.720/026",
+      "expected_title": "Regularización de licencia médica de autoridad",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2720026",
+      "resolution_id": "be182652-4acb-4330-becc-7bcc57fc9978",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "licencia",
+          "medica"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.horarios.modificacion_servicio",
+      "resolution_number": "714/024",
+      "expected_title": "Modificación de horario de oficina o servicio",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-714024",
+      "resolution_id": "1291265f-792c-47f6-80dc-34f34fd8635e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "horario"
+        ]
+      }
+    },
+    {
+      "code": "RRHH.retribuciones.regulacion_general",
+      "resolution_number": "3.342/018",
+      "expected_title": "Regulación general de retribuciones",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3342018",
+      "resolution_id": "856990b7-7c22-46da-8775-f4d38e5edc84",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "CONT.arrendamiento_obra.nuevo",
+      "resolution_number": "3.356/025",
+      "expected_title": "Contrato de arrendamiento de obra",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3356025",
+      "resolution_id": "bb72d6c0-92b9-4596-8884-df1e530dc0c8",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "arrendamiento",
+          "contrato",
+          "obra"
+        ]
+      }
+    },
+    {
+      "code": "CONT.arrendamiento_obra.renovacion",
+      "resolution_number": "3.101/025",
+      "expected_title": "Renovación de arrendamiento de obra",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3101025",
+      "resolution_id": "550ba634-1693-44e2-a673-dfc3c9ca47cf",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "arrendamiento",
+          "obra",
+          "renovacion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.arrendamiento_obra.llamado_interesados",
+      "resolution_number": "687/026",
+      "expected_title": "Arrendamiento de obra surgido de llamado",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-687026",
+      "resolution_id": "8fa75d4c-b260-48da-b34d-ab1d6a8559f6",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "arrendamiento",
+          "llamado",
+          "obra"
+        ]
+      }
+    },
+    {
+      "code": "CONT.arrendamiento_inmueble.nuevo",
+      "resolution_number": "707/026",
+      "expected_title": "Arrendamiento de inmueble",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-707026",
+      "resolution_id": "ffc92b44-a55c-4b2d-a7cd-e1f2d3f6db3a",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "CONT.arrendamiento_inmueble.renovacion_modificacion",
+      "resolution_number": "1.548/021",
+      "expected_title": "Renovación o modificación de arrendamiento de inmueble",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1548021",
+      "resolution_id": "3aa5c292-c7e8-4c6f-9a9e-4bf5b695f491",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "arrendamiento"
+        ]
+      }
+    },
+    {
+      "code": "CONT.arrendamiento_inmueble.finalizacion",
+      "resolution_number": "705/026",
+      "expected_title": "Finalización de arrendamiento",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-705026",
+      "resolution_id": "0d309807-0184-4aa5-b0c5-20922d0e6327",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "arrendamiento"
+        ]
+      }
+    },
+    {
+      "code": "CONT.servicios.contratacion",
+      "resolution_number": "3.363/025",
+      "expected_title": "Contratación de servicio empresarial",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3363025",
+      "resolution_id": "02503348-415b-4892-9f0b-b962ef7edfbd",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contratacion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.servicios.renovacion",
+      "resolution_number": "4.575/019",
+      "expected_title": "Renovación de contrato de servicios",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4575019",
+      "resolution_id": "b1c94eaa-d123-46a8-b9cc-86fb8b17d00f",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contrato",
+          "renovacion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.servicios.publicidad",
+      "resolution_number": "2.663/026",
+      "expected_title": "Contratación de publicidad o medio",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2663026",
+      "resolution_id": "4d9d2702-b20c-4227-93de-70578062643b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "publicidad"
+        ]
+      }
+    },
+    {
+      "code": "CONT.artistas.contratacion_directa",
+      "resolution_number": "2.427/026",
+      "expected_title": "Contratación directa de artista",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2427026",
+      "resolution_id": "3be12bd9-fc96-4fe4-bc09-ae75e9b17cdc",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "artista",
+          "contratacion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.licitaciones.convocatoria_abreviada",
+      "resolution_number": "2.825/026",
+      "expected_title": "Convocatoria a Licitación Abreviada y aprobación de pliego",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2825026",
+      "resolution_id": "ed651466-69f8-41d0-bbf0-86c09b6929b5",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "abreviada",
+          "licitacion",
+          "pliego"
+        ]
+      }
+    },
+    {
+      "code": "CONT.licitaciones.adjudicacion_abreviada",
+      "resolution_number": "644/025",
+      "expected_title": "Adjudicación de Licitación Abreviada",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-644025",
+      "resolution_id": "11a7f09b-3b38-42c9-994d-4e5d581acdb1",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "abreviada",
+          "licitacion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.licitaciones.adjudicacion_publica",
+      "resolution_number": "4.826/025",
+      "expected_title": "Adjudicación de Licitación Pública",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4826025",
+      "resolution_id": "2446e1a2-d79b-46e1-8c2d-a46181ceaba1",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "adjudicacion",
+          "licitacion",
+          "publica"
+        ]
+      }
+    },
+    {
+      "code": "CONT.licitaciones.adjudicacion_ad_referendum",
+      "resolution_number": "4.029/025",
+      "expected_title": "Adjudicación ad referéndum del Tribunal de Cuentas",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4029025",
+      "resolution_id": "09d81e49-f585-45ea-a97c-8f2d4dda1070",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "cuentas",
+          "referendum",
+          "tribunal"
+        ]
+      }
+    },
+    {
+      "code": "CONT.licitaciones.prorroga_apertura",
+      "resolution_number": "1.549/024",
+      "expected_title": "Prórroga de apertura de licitación",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1549024",
+      "resolution_id": "f279ec63-a4e3-4c60-9480-a1a0e28c3468",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "apertura",
+          "licitacion",
+          "prorroga"
+        ]
+      }
+    },
+    {
+      "code": "CONT.licitaciones.modificacion_procedimiento",
+      "resolution_number": "2.462/024",
+      "expected_title": "Modificación de etapa de procedimiento licitatorio",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2462024",
+      "resolution_id": "be423309-9ea5-477f-933a-787c103e71e5",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "CONT.licitaciones.desierta_contratacion_directa",
+      "resolution_number": "278/025",
+      "expected_title": "Licitación desierta con contratación directa posterior",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-278025",
+      "resolution_id": "325b3686-f446-4bd2-bbe2-3f12bfe94c3e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contratacion",
+          "directa",
+          "licitacion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.contratacion_directa.por_monto",
+      "resolution_number": "4.157/023",
+      "expected_title": "Contratación directa por monto",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4157023",
+      "resolution_id": "909fda55-0f89-4d6f-8773-988319531e5f",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contratacion",
+          "directa",
+          "monto"
+        ]
+      }
+    },
+    {
+      "code": "CONT.contratacion_directa.excepcion",
+      "resolution_number": "3.531/025",
+      "expected_title": "Contratación directa por excepción",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3531025",
+      "resolution_id": "3397739a-fd56-49a0-9a5f-4c7618520c03",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contratacion",
+          "directa",
+          "excepcion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.contrataciones.ampliacion",
+      "resolution_number": "1.747/024",
+      "expected_title": "Ampliación de contratación",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1747024",
+      "resolution_id": "7be77a35-606d-4f6f-bcf1-23cb20de37ba",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "ampliacion",
+          "contratacion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.obras.recepcion_provisoria",
+      "resolution_number": "425/026",
+      "expected_title": "Recepción provisoria de obra",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-425026",
+      "resolution_id": "94e40efa-f06b-447f-8aef-ae79ec29e392",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "obra",
+          "provisoria",
+          "recepcion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.obras.recepcion_definitiva",
+      "resolution_number": "2.718/022",
+      "expected_title": "Recepción definitiva de obra",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2718022",
+      "resolution_id": "ef29bc52-b11b-4930-b8ad-2181a0445c6e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "definitiva",
+          "recepcion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.llamados.interesados",
+      "resolution_number": "1.822/026",
+      "expected_title": "Llamado a interesados y aprobación de bases",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1822026",
+      "resolution_id": "182f33a4-6bd9-47ac-8dfd-5c0e39f0eff0",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "interesados",
+          "llamado"
+        ]
+      }
+    },
+    {
+      "code": "CONT.llamados.desierto",
+      "resolution_number": "1.277/026",
+      "expected_title": "Declaración de llamado desierto",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1277026",
+      "resolution_id": "55f52c46-0920-4c8f-a223-a96ae74ef270",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "desierto",
+          "llamado"
+        ]
+      }
+    },
+    {
+      "code": "CONT.patrocinios.llamado",
+      "resolution_number": "3.497/025",
+      "expected_title": "Llamado a patrocinadores",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3497025",
+      "resolution_id": "f5257b85-0014-4ce2-b313-24532687f706",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "llamado"
+        ]
+      }
+    },
+    {
+      "code": "CONT.patrocinios.aprobacion",
+      "resolution_number": "1.281/026",
+      "expected_title": "Aprobación de actuaciones de patrocinadores",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1281026",
+      "resolution_id": "1979d56a-1563-4d06-80ec-90b17fba0fee",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "CONT.compras.inicio_procedimiento",
+      "resolution_number": "537/026",
+      "expected_title": "Inicio de procedimiento de adquisición",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-537026",
+      "resolution_id": "a6511478-c44b-47d6-b1c0-821f5b9316dc",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "adquisicion"
+        ]
+      }
+    },
+    {
+      "code": "CONT.compras.directa_excepcion_pliego",
+      "resolution_number": "191/025",
+      "expected_title": "Compra directa por excepción con pliego",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-191025",
+      "resolution_id": "a8535177-91bf-42b6-8148-aa38f880461b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "compra",
+          "excepcion",
+          "pliego"
+        ]
+      }
+    },
+    {
+      "code": "CONT.consultoria.seleccion",
+      "resolution_number": "2.574/026",
+      "expected_title": "Aprobación de selección de consultor",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2574026",
+      "resolution_id": "eef739ea-0739-4448-9034-bb3973c6b270",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "consultor"
+        ]
+      }
+    },
+    {
+      "code": "CONT.servicios.entradas",
+      "resolution_number": "3.167/025",
+      "expected_title": "Contrato de comercialización o distribución de entradas",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3167025",
+      "resolution_id": "5e4a203a-3174-4d68-a074-47261b5fb9a8",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "contrato"
+        ]
+      }
+    },
+    {
+      "code": "JUR.convenios.proyecto",
+      "resolution_number": "716/026",
+      "expected_title": "Aprobación de proyecto de convenio",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-716026",
+      "resolution_id": "b268f1ab-f028-4c26-aa08-ff41cc57f546",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "convenio",
+          "proyecto"
+        ]
+      }
+    },
+    {
+      "code": "JUR.convenios.suscripcion",
+      "resolution_number": "1.294/021",
+      "expected_title": "Aprobación o suscripción de convenio",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1294021",
+      "resolution_id": "df9ec50f-84f7-4040-a1ae-0723657b873b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "convenio",
+          "suscripcion"
+        ]
+      }
+    },
+    {
+      "code": "JUR.convenios.prestaciones_reciprocas",
+      "resolution_number": "3.102/024",
+      "expected_title": "Convenio de prestaciones recíprocas",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3102024",
+      "resolution_id": "b8e5cd58-9b96-44a4-8406-94d3a5a41c7b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "convenio",
+          "prestaciones",
+          "reciprocas"
+        ]
+      }
+    },
+    {
+      "code": "JUR.comodatos.inmueble_junta",
+      "resolution_number": "2.466/025",
+      "expected_title": "Comodato de inmueble con intervención de Junta",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2466025",
+      "resolution_id": "8afb5def-17b7-4472-9ce2-499b99241738",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "comodato",
+          "junta"
+        ]
+      }
+    },
+    {
+      "code": "JUR.comodatos.modificacion",
+      "resolution_number": "740/026",
+      "expected_title": "Modificación de comodato",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-740026",
+      "resolution_id": "7f86c360-2cc8-4ac4-9d32-baf96691c61f",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "comodato"
+        ]
+      }
+    },
+    {
+      "code": "JUR.donaciones.aceptacion",
+      "resolution_number": "4.358/023",
+      "expected_title": "Aceptación de donación",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4358023",
+      "resolution_id": "58447635-36ad-4033-8e72-b0bdb9f59c8c",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "donacion"
+        ]
+      }
+    },
+    {
+      "code": "JUR.donaciones.incorporacion_patrimonial",
+      "resolution_number": "164/017",
+      "expected_title": "Aceptación e incorporación patrimonial de bienes donados",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-164017",
+      "resolution_id": "e173830a-6035-4b73-81e7-0e066254370c",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "JUR.junta.proyecto_decreto",
+      "resolution_number": "2.833/026",
+      "expected_title": "Remisión de proyecto de decreto a Junta",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2833026",
+      "resolution_id": "2105a433-0536-4c05-841d-4110f1d03e7a",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "decreto",
+          "junta",
+          "proyecto"
+        ]
+      }
+    },
+    {
+      "code": "JUR.junta.rendicion_cuentas",
+      "resolution_number": "2.626/026",
+      "expected_title": "Remisión de Rendición de Cuentas",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2626026",
+      "resolution_id": "f4068197-7cb5-4c17-b35a-6badfa709262",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "cuentas",
+          "rendicion"
+        ]
+      }
+    },
+    {
+      "code": "JUR.junta.informe_actuaciones",
+      "resolution_number": "2.292/026",
+      "expected_title": "Remisión de informe o actuaciones",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2292026",
+      "resolution_id": "9cb31013-6fbc-4720-a248-d903b4a9e6a4",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "informe"
+        ]
+      }
+    },
+    {
+      "code": "JUR.bienes.desafectacion_dominio_publico",
+      "resolution_number": "543/026",
+      "expected_title": "Desafectación de bien del dominio público",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-543026",
+      "resolution_id": "b1ce7176-2847-4388-a48d-4e57f823213e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "bien",
+          "desafectacion",
+          "dominio",
+          "publico"
+        ]
+      }
+    },
+    {
+      "code": "JUR.bienes.enajenacion_vehiculos",
+      "resolution_number": "1.512/026",
+      "expected_title": "Enajenación de vehículos municipales",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1512026",
+      "resolution_id": "a0186991-699a-4488-91f2-238de1100629",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "enajenacion",
+          "vehiculos"
+        ]
+      }
+    },
+    {
+      "code": "JUR.decretos.promulgacion",
+      "resolution_number": "1.418/025",
+      "expected_title": "Promulgación/publicación de decreto",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1418025",
+      "resolution_id": "9ac38f62-263e-4290-8fed-7e3b63d212f4",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "decreto"
+        ]
+      }
+    },
+    {
+      "code": "JUR.interes_departamental.declaracion",
+      "resolution_number": "88/026",
+      "expected_title": "Declaración de Interés Departamental",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-88026",
+      "resolution_id": "e065134a-720a-4ea2-8ba1-47ee365a7e59",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "departamental",
+          "interes"
+        ]
+      }
+    },
+    {
+      "code": "JUR.interes_departamental.iniciativa_junta",
+      "resolution_number": "1.003/026",
+      "expected_title": "Iniciativa ante Junta para Interés Departamental",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1003026",
+      "resolution_id": "a714c6a6-ef2e-43b8-be1a-851b6afa3202",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "departamental",
+          "iniciativa",
+          "interes",
+          "junta"
+        ]
+      }
+    },
+    {
+      "code": "JUR.interes_municipal.declaracion",
+      "resolution_number": "3.367/025",
+      "expected_title": "Declaración de Interés Municipal",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3367025",
+      "resolution_id": "641f83fd-a3e0-4695-900b-e4fab0bc7a47",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "interes",
+          "municipal"
+        ]
+      }
+    },
+    {
+      "code": "JUR.actos_previos.rectificacion",
+      "resolution_number": "4.511/025",
+      "expected_title": "Rectificación de resolución anterior",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4511025",
+      "resolution_id": "5d04dc44-1288-4882-880f-487853144f79",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "JUR.actos_previos.dejar_sin_efecto",
+      "resolution_number": "4.175/024",
+      "expected_title": "Dejar sin efecto resolución anterior",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4175024",
+      "resolution_id": "c61d4a9d-86a8-4472-96bd-154dca77414b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "efecto",
+          "sin"
+        ]
+      }
+    },
+    {
+      "code": "JUR.actos_previos.derogacion",
+      "resolution_number": "4.173/024",
+      "expected_title": "Derogación expresa",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4173024",
+      "resolution_id": "e953629b-d677-44e4-b450-0eb49b0faf7a",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "JUR.reglamentos.aprobacion",
+      "resolution_number": "3.836/024",
+      "expected_title": "Aprobación de reglamento o procedimiento",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3836024",
+      "resolution_id": "fe9bc340-e653-4156-be5c-bdb06fae9ce3",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "reglamento"
+        ]
+      }
+    },
+    {
+      "code": "JUR.delegaciones.atribuciones",
+      "resolution_number": "107/021",
+      "expected_title": "Delegación de atribuciones",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-107021",
+      "resolution_id": "ac7fa53c-ca54-46db-8375-2e2e791b0c04",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "atribuciones",
+          "delegacion"
+        ]
+      }
+    },
+    {
+      "code": "JUR.oficios.organismo_nacional",
+      "resolution_number": "676/026",
+      "expected_title": "Requerimiento a organismo nacional",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-676026",
+      "resolution_id": "974e459e-8b35-45dc-bbda-65ae7d7fe6e8",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "JUR.peticiones.denegatoria",
+      "resolution_number": "3.568/025",
+      "expected_title": "Denegatoria expresa de petición",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3568025",
+      "resolution_id": "71518eea-b163-4219-ac4a-8fc90d621e10",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "JUR.peticiones.parcial",
+      "resolution_number": "520/026",
+      "expected_title": "Petición parcialmente aceptada",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-520026",
+      "resolution_id": "43e7092a-761c-42be-9917-9a516f0a4551",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "JUR.medidas_extraordinarias.cierre_suspension",
+      "resolution_number": "5.895/020",
+      "expected_title": "Cierre o suspensión administrativa extraordinaria",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-5895020",
+      "resolution_id": "1f736f70-cdad-4b1c-aec6-51b4c91d829d",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "cierre"
+        ]
+      }
+    },
+    {
+      "code": "JUR.politicas.adopcion_recomendacion",
+      "resolution_number": "4.022/025",
+      "expected_title": "Adopción de recomendación o política institucional",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4022025",
+      "resolution_id": "e7325349-1aa5-49ab-b8a6-f67d57555a5e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "recomendacion"
+        ]
+      }
+    },
+    {
+      "code": "JUR.estatuto.modificacion_junta",
+      "resolution_number": "377/025",
+      "expected_title": "Proyecto de modificación normativa del estatuto de funcionarios",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-377025",
+      "resolution_id": "79212d02-3f72-4da7-90e1-94f0c467608b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "estatuto",
+          "funcionarios",
+          "modificacion",
+          "proyecto"
+        ]
+      }
+    },
+    {
+      "code": "PERM.vendedor_ambulante.otorgamiento",
+      "resolution_number": "2.827/026",
+      "expected_title": "Permiso de vendedor ambulante",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2827026",
+      "resolution_id": "e884df64-4d94-4ce3-832a-9b211471b42f",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "ambulante",
+          "permiso",
+          "vendedor"
+        ]
+      }
+    },
+    {
+      "code": "PERM.vendedor_ambulante.ampliacion_rubro",
+      "resolution_number": "631/026",
+      "expected_title": "Ampliación de rubro de vendedor ambulante",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-631026",
+      "resolution_id": "bdf1ec58-934e-43a7-9a5a-b17721a3c76b",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "ambulante",
+          "rubro",
+          "vendedor"
+        ]
+      }
+    },
+    {
+      "code": "PERM.vendedor_ambulante.baja",
+      "resolution_number": "2.042/026",
+      "expected_title": "Baja de vendedor o comercio",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2042026",
+      "resolution_id": "5729f1f4-474e-4ea4-a962-452db88a4063",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "baja",
+          "comercio",
+          "vendedor"
+        ]
+      }
+    },
+    {
+      "code": "PERM.ferias.autorizacion",
+      "resolution_number": "1.734/025",
+      "expected_title": "Autorización especial de feria",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1734025",
+      "resolution_id": "f757f3b8-72bd-47ff-8d06-1f246be87bec",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "autorizacion",
+          "especial",
+          "feria"
+        ]
+      }
+    },
+    {
+      "code": "PERM.eventos.carrera_hipica",
+      "resolution_number": "2.377/026",
+      "expected_title": "Permiso para carrera hípica",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2377026",
+      "resolution_id": "0c482742-61ab-4ad0-a79d-3643de625c25",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "carrera",
+          "permiso"
+        ]
+      }
+    },
+    {
+      "code": "PERM.eventos.baile",
+      "resolution_number": "2.291/026",
+      "expected_title": "Permiso para baile o evento",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2291026",
+      "resolution_id": "b0baa32c-b5cb-40be-ad90-3b46420f02b2",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "baile",
+          "permiso"
+        ]
+      }
+    },
+    {
+      "code": "PERM.teatro.espectaculo",
+      "resolution_number": "3.013/024",
+      "expected_title": "Autorización de espectáculo teatral",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3013024",
+      "resolution_id": "5ed506b3-463e-48e7-aafc-742b396d5a2a",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "autorizacion"
+        ]
+      }
+    },
+    {
+      "code": "PERM.teatro.uso_exoneracion",
+      "resolution_number": "1.423/025",
+      "expected_title": "Autorización de Teatro Lavalleja con exoneración",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1423025",
+      "resolution_id": "fbc42880-a719-4ffe-843e-66bfd3203cdb",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "autorizacion",
+          "exoneracion",
+          "lavalleja",
+          "teatro"
+        ]
+      }
+    },
+    {
+      "code": "PERM.eventos.exposicion",
+      "resolution_number": "3.660/023",
+      "expected_title": "Habilitación de exposición o actividad",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3660023",
+      "resolution_id": "4187c0e3-a6aa-4698-a5e7-b5dc9bd4cb55",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "actividad",
+          "exposicion",
+          "habilitacion"
+        ]
+      }
+    },
+    {
+      "code": "PERM.espacio_publico.uso",
+      "resolution_number": "3.082/025",
+      "expected_title": "Uso de espacio público",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3082025",
+      "resolution_id": "d678e627-7a3d-4ac8-95d6-1ecb0b9ed982",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "espacio",
+          "publico",
+          "uso"
+        ]
+      }
+    },
+    {
+      "code": "PERM.camping.uso",
+      "resolution_number": "1.391/025",
+      "expected_title": "Uso de instalaciones de camping municipal",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1391025",
+      "resolution_id": "0be952d3-25f4-4e67-bf34-0c2d41b46aca",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "camping",
+          "instalaciones",
+          "uso"
+        ]
+      }
+    },
+    {
+      "code": "PERM.camping.reglamentacion",
+      "resolution_number": "4.627/021",
+      "expected_title": "Reglamentación de camping municipal",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4627021",
+      "resolution_id": "1842572d-c7be-4e8e-8e4b-da17cd9f176d",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "PERM.colaboraciones.alojamiento_alimentacion",
+      "resolution_number": "3.655/025",
+      "expected_title": "Colaboración mediante alojamiento/alimentación",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3655025",
+      "resolution_id": "61fc2ff7-cdae-4356-8eec-13ad9e3b06f9",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "PERM.colaboraciones.maquinaria_servicios",
+      "resolution_number": "642/025",
+      "expected_title": "Colaboración mediante maquinaria o servicios",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-642025",
+      "resolution_id": "16bf5118-231c-4322-aee0-b6b8eba15994",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "PERM.colaboraciones.logistica",
+      "resolution_number": "3.294/024",
+      "expected_title": "Colaboración logística para evento",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3294024",
+      "resolution_id": "6b8f96a9-e6da-4ee1-9db2-651c913faedb",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "colaboracion"
+        ]
+      }
+    },
+    {
+      "code": "PERM.colaboraciones.premios",
+      "resolution_number": "4.747/025",
+      "expected_title": "Colaboración mediante trofeos, premios o bienes",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4747025",
+      "resolution_id": "777790ff-2848-43c4-9c45-236ea3ab8c25",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "colaboracion",
+          "trofeos"
+        ]
+      }
+    },
+    {
+      "code": "PERM.colaboraciones.inspectores_transito",
+      "resolution_number": "3.519/021",
+      "expected_title": "Afectación de inspectores de tránsito",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3519021",
+      "resolution_id": "75b1ff8f-2f93-46d3-8980-5728d0df9461",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "inspectores",
+          "transito"
+        ]
+      }
+    },
+    {
+      "code": "NEC.derechos.duplicado",
+      "resolution_number": "2.295/026",
+      "expected_title": "Duplicado de derecho sobre panteón",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2295026",
+      "resolution_id": "575e97a7-cdf4-4e93-a537-a1a335fe82b3",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "derecho",
+          "duplicado",
+          "panteon"
+        ]
+      }
+    },
+    {
+      "code": "NEC.derechos.renovacion",
+      "resolution_number": "1.654/026",
+      "expected_title": "Renovación de derecho o usufructo de panteón",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1654026",
+      "resolution_id": "06ca04e1-2002-4a35-bed4-d1c632b77fac",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "derecho",
+          "panteon",
+          "renovacion",
+          "usufructo"
+        ]
+      }
+    },
+    {
+      "code": "NEC.derechos.caducidad",
+      "resolution_number": "3.002/015",
+      "expected_title": "Caducidad de concesión de panteón",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3002015",
+      "resolution_id": "df44e703-1439-4dd8-acd2-9b6d7bb2bb99",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "caducidad",
+          "concesion"
+        ]
+      }
+    },
+    {
+      "code": "NEC.parcelas.llamado_adjudicacion",
+      "resolution_number": "6.394/017",
+      "expected_title": "Adjudicación de parcelas de cementerio",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-6394017",
+      "resolution_id": "8fcf7ac1-53e4-4a08-b553-131eb6d1c159",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "adjudicacion",
+          "cementerio",
+          "parcelas"
+        ]
+      }
+    },
+    {
+      "code": "NEC.restos.retiro_temporal",
+      "resolution_number": "2.639/026",
+      "expected_title": "Retiro temporal de restos óseos",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2639026",
+      "resolution_id": "b06803b7-0362-4dbf-bf93-1c262fcb24af",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "oseos",
+          "restos",
+          "retiro"
+        ]
+      }
+    },
+    {
+      "code": "NEC.nichos.vencidos",
+      "resolution_number": "758/026",
+      "expected_title": "Nichos vencidos y traslado a osario",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-758026",
+      "resolution_id": "94fd4cdc-016a-4773-a269-f48c607ca4bd",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "nichos",
+          "osario",
+          "vencidos"
+        ]
+      }
+    },
+    {
+      "code": "TRA.taxis.llamado_permisos",
+      "resolution_number": "3.797/016",
+      "expected_title": "Llamado para permisos de taxi/remise",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3797016",
+      "resolution_id": "11d10296-4d6a-4201-8eaf-ad0453bf9d62",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "llamado",
+          "remise",
+          "taxi"
+        ]
+      }
+    },
+    {
+      "code": "TRA.taxis.traslado_parada",
+      "resolution_number": "4.601/019",
+      "expected_title": "Traslado o modificación de parada",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4601019",
+      "resolution_id": "0c1d6e88-ba15-4fbd-95ae-8795aacb45b6",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "parada",
+          "traslado"
+        ]
+      }
+    },
+    {
+      "code": "TRA.matriculas.pdi",
+      "resolution_number": "2.437/026",
+      "expected_title": "Otorgamiento de matrícula PDI",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2437026",
+      "resolution_id": "ddaa8959-72de-499b-a6ea-2d16c018e127",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "pdi"
+        ]
+      }
+    },
+    {
+      "code": "TRA.exoneraciones.patente_pdi",
+      "resolution_number": "3.836/024",
+      "expected_title": "Procedimiento de exoneración de patente PDI",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3836024",
+      "resolution_id": "fe9bc340-e653-4156-be5c-bdb06fae9ce3",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "exoneracion",
+          "patente",
+          "pdi"
+        ]
+      }
+    },
+    {
+      "code": "TRA.multas.vehiculo_municipal",
+      "resolution_number": "648/026",
+      "expected_title": "Pago de multa aplicada a vehículo municipal",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-648026",
+      "resolution_id": "e8ac7f20-9ea9-453c-b1da-50b1887eec3a",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "multa",
+          "pago",
+          "vehiculo"
+        ]
+      }
+    },
+    {
+      "code": "TRA.estacionamiento.zona_azul",
+      "resolution_number": "2.833/026",
+      "expected_title": "Regulación de estacionamiento tarifado",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-2833026",
+      "resolution_id": "2105a433-0536-4c05-841d-4110f1d03e7a",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "estacionamiento",
+          "tarifado"
+        ]
+      }
+    },
+    {
+      "code": "URB.fraccionamientos.aprobacion",
+      "resolution_number": "5.069/020",
+      "expected_title": "Aprobación de fraccionamiento",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-5069020",
+      "resolution_id": "9cbe5979-8ec4-4501-8cdd-27a43567c1ea",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "aprobacion",
+          "fraccionamiento"
+        ]
+      }
+    },
+    {
+      "code": "URB.pavimento.corte",
+      "resolution_number": "3.001/025",
+      "expected_title": "Autorización de corte de pavimento",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3001025",
+      "resolution_id": "efbbf04b-8d78-4a2f-bec9-c5368dbe1a64",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "autorizacion",
+          "corte",
+          "pavimento"
+        ]
+      }
+    },
+    {
+      "code": "URB.permisos.rectificacion_tasa",
+      "resolution_number": "4.511/025",
+      "expected_title": "Rectificación de permiso por error de tasa",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4511025",
+      "resolution_id": "5d04dc44-1288-4882-880f-487853144f79",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "error",
+          "permiso"
+        ]
+      }
+    },
+    {
+      "code": "URB.viabilidad.consulta_previa",
+      "resolution_number": "3.530/023",
+      "expected_title": "Consulta previa de viabilidad territorial",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3530023",
+      "resolution_id": "ac34bf8d-5c4f-4842-99a6-546b14a9f65d",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "consulta",
+          "previa",
+          "territorial",
+          "viabilidad"
+        ]
+      }
+    },
+    {
+      "code": "URB.excepciones.via_excepcion_junta",
+      "resolution_number": "1.570/026",
+      "expected_title": "Vía de excepción urbanística",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1570026",
+      "resolution_id": "a6b94530-d7e6-4fcb-9acc-09bb64a83f8f",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "excepcion",
+          "via"
+        ]
+      }
+    },
+    {
+      "code": "URB.excepciones.denegacion_tolerancia",
+      "resolution_number": "1.311/022",
+      "expected_title": "Denegación de tolerancia urbanística",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1311022",
+      "resolution_id": "0889f6bf-bf71-4a34-95a9-f5954efc65c6",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "URB.tasas.exoneracion_cooperativa",
+      "resolution_number": "4.481/022",
+      "expected_title": "Exoneración de tasas de construcción",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-4481022",
+      "resolution_id": "20af3a14-79e6-4061-a82f-23d7bc7c81ce",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "construccion",
+          "exoneracion",
+          "tasas"
+        ]
+      }
+    },
+    {
+      "code": "URB.dominio_publico.desafectacion",
+      "resolution_number": "543/026",
+      "expected_title": "Desafectación del dominio público",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-543026",
+      "resolution_id": "b1ce7176-2847-4388-a48d-4e57f823213e",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "desafectacion",
+          "dominio",
+          "publico"
+        ]
+      }
+    },
+    {
+      "code": "URB.delegaciones.autorizaciones_menores",
+      "resolution_number": "5.200/025",
+      "expected_title": "Delegación de autorizaciones urbanísticas menores",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-5200025",
+      "resolution_id": "3abae379-dfd4-4cae-811c-bcade42bea4a",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "URB.salubridad.intimacion_limpieza",
+      "resolution_number": "3.098/023",
+      "expected_title": "Intimación de limpieza de terreno",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-3098023",
+      "resolution_id": "4b559a7d-a38c-4c51-b4eb-589a18925cd1",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "limpieza",
+          "terreno"
+        ]
+      }
+    },
+    {
+      "code": "ESP.programas.gobernanza",
+      "resolution_number": "224/025",
+      "expected_title": "Gobernanza de programa territorial especial",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-224025",
+      "resolution_id": "3f8096ba-b1b7-4068-a354-49ca0ee5f36a",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "territorial"
+        ]
+      }
+    },
+    {
+      "code": "ESP.emergencias.regimen_temporal",
+      "resolution_number": "1.284/020",
+      "expected_title": "Régimen extraordinario temporal",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1284020",
+      "resolution_id": "a03cefbf-25c5-4db7-a4e6-29363156c8f4",
+      "status": "import_review_required",
+      "validation": {
+        "status": "import_review_required",
+        "reason": "La ficha no comparte señales semánticas con la tipología esperada",
+        "matched_signals": []
+      }
+    },
+    {
+      "code": "ESP.emergencias.suspension_actividades",
+      "resolution_number": "1.359/020",
+      "expected_title": "Suspensión general de habilitaciones o actividades",
+      "source_url": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1359020",
+      "resolution_id": "bce9570e-e095-459c-b636-6a9889bf9932",
+      "status": "validated",
+      "validation": {
+        "status": "validated",
+        "reason": "Número y señales semánticas verificadas",
+        "matched_signals": [
+          "general",
+          "habilitaciones",
+          "suspension"
+        ]
+      }
+    }
+  ],
+  "indexed_associations": 136
+}

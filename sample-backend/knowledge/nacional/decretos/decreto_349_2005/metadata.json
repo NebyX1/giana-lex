@@ -1,0 +1,23 @@
+{
+  "id": "decreto:349:2005",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "349",
+  "anio": "2005",
+  "title": "REGLAMENTO DE EVALUACION DE IMPACTO AMBIENTAL Y AUTORIZACIONES AMBIENTALES",
+  "nombre": "REGLAMENTO DE EVALUACION DE IMPACTO AMBIENTAL Y AUTORIZACIONES AMBIENTALES",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/349-2005",
+  "json_url": "https://www.impo.com.uy/bases/decretos/349-2005?json=true",
+  "local_source_path": "decretos/decreto_349_2005/source.impo.json",
+  "local_normalized_path": "decretos/decreto_349_2005/normalized.json",
+  "local_text_path": "decretos/decreto_349_2005/normalized.txt",
+  "active": true,
+  "checksum": "926bfefc65de7bd605ec9e7e100a4d4925ef02288ade5874999d3100ef1f930b",
+  "downloaded_at": "2026-08-14T13:40:40.920301+00:00",
+  "last_synced_at": "2026-08-14T13:40:40.920335+00:00",
+  "index_status": "downloaded",
+  "article_count": 1,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

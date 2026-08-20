@@ -1,0 +1,15 @@
+id: resolution.new_contract
+version: 1
+status: active
+jurisdiction: lavalleja
+intent: {family: resolution_drafting, subtype: new_contract}
+precedent_types: [adjudicacion_licitacion, aprobacion_convenio]
+fields:
+  - {key: expediente, label: Expediente, field_type: text, required: true, origin: workflow, reason: Identifica las actuaciones., validation_rules: {}}
+  - {key: contract_object, label: Objeto, field_type: textarea, required: true, origin: workflow, reason: Delimita la contratacion., validation_rules: {}}
+  - {key: contractor, label: Contratista y RUT, field_type: text, required: true, origin: workflow, reason: Identifica a la contraparte., validation_rules: {}}
+  - {key: procurement_record, label: Procedimiento de contratacion, field_type: document_reference, required: true, origin: workflow, reason: Documenta el procedimiento informado., validation_rules: {}}
+  - {key: amount, label: Importe, field_type: currency, required: true, origin: workflow, reason: Permite controles deterministas., validation_rules: {min: '0'}}
+legal_issues: [competence, procurement_route, budget_credit, provider_compliance, formal_requirements]
+required_sections: [vistos, resultandos, considerandos, legal_basis, operative_articles, notifications]
+require_verified_competence: true

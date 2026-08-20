@@ -1,0 +1,23 @@
+{
+  "id": "ley:19580:2017",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "19580",
+  "anio": "2017",
+  "title": "LEY DE VIOLENCIA HACIA LAS MUJERES BASADA EN GENERO. MODIFICACION A DISPOSICIONES DEL CODIGO CIVIL Y CODIGO PENAL. DEROGACION DE LOS ARTS. 24 A 29 DE LA LEY 17.514",
+  "nombre": "LEY DE VIOLENCIA HACIA LAS MUJERES BASADA EN GENERO. MODIFICACION A DISPOSICIONES DEL CODIGO CIVIL Y CODIGO PENAL. DEROGACION DE LOS ARTS. 24 A 29 DE LA LEY 17.514",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+  "json_url": "https://www.impo.com.uy/bases/leyes/19580-2017?json=true",
+  "local_source_path": "leyes/ley_19580_2017/source.impo.json",
+  "local_normalized_path": "leyes/ley_19580_2017/normalized.json",
+  "local_text_path": "leyes/ley_19580_2017/normalized.txt",
+  "active": true,
+  "checksum": "b7a1442ced4c650a439a18ee547327cea52400a28987b4944f00a3ce30856d1d",
+  "downloaded_at": "2026-08-14T13:39:53.507903+00:00",
+  "last_synced_at": "2026-08-14T13:39:53.507940+00:00",
+  "index_status": "downloaded",
+  "article_count": 98,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

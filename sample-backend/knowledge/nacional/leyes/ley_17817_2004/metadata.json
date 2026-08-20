@@ -1,0 +1,23 @@
+{
+  "id": "ley:17817:2004",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "17817",
+  "anio": "2004",
+  "title": "DECLARACION DE INTERES NACIONAL. LUCHA CONTRA EL RACISMO LA XENOFOBIA Y TODA OTRA FORMA DE DISCRIMINACION",
+  "nombre": "DECLARACION DE INTERES NACIONAL. LUCHA CONTRA EL RACISMO LA XENOFOBIA Y TODA OTRA FORMA DE DISCRIMINACION",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/17817-2004",
+  "json_url": "https://www.impo.com.uy/bases/leyes/17817-2004?json=true",
+  "local_source_path": "leyes/ley_17817_2004/source.impo.json",
+  "local_normalized_path": "leyes/ley_17817_2004/normalized.json",
+  "local_text_path": "leyes/ley_17817_2004/normalized.txt",
+  "active": true,
+  "checksum": "37b5aa78626045ef91dad7691fb51b4ad184ab8aa0f2da73360fd9a5999a737a",
+  "downloaded_at": "2026-08-14T13:39:21.374898+00:00",
+  "last_synced_at": "2026-08-14T13:39:21.374920+00:00",
+  "index_status": "downloaded",
+  "article_count": 12,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

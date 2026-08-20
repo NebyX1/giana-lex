@@ -1,0 +1,23 @@
+{
+  "id": "ley:10723:1946",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "10723",
+  "anio": "1946",
+  "title": "LEY DE CENTROS POBLADOS",
+  "nombre": "LEY DE CENTROS POBLADOS",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/10723-1946",
+  "json_url": "https://www.impo.com.uy/bases/leyes/10723-1946?json=true",
+  "local_source_path": "leyes/ley_10723_1946/source.impo.json",
+  "local_normalized_path": "leyes/ley_10723_1946/normalized.json",
+  "local_text_path": "leyes/ley_10723_1946/normalized.txt",
+  "active": true,
+  "checksum": "03b79160e05fb72b9711a250b07b78347bb54bb738d970fb35848a9e825fd9d5",
+  "downloaded_at": "2026-08-14T13:40:47.864863+00:00",
+  "last_synced_at": "2026-08-14T13:40:47.864883+00:00",
+  "index_status": "downloaded",
+  "article_count": 21,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

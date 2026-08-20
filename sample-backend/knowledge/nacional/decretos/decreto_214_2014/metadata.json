@@ -1,0 +1,23 @@
+{
+  "id": "decreto:214:2014",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "214",
+  "anio": "2014",
+  "title": "REGLAMENTACION DEL ART. 25 DE LA LEY 18.651 RELATIVO A LA PROTECCION INTEGRAL DE PERSONAS CON DISCAPACIDAD",
+  "nombre": "REGLAMENTACION DEL ART. 25 DE LA LEY 18.651 RELATIVO A LA PROTECCION INTEGRAL DE PERSONAS CON DISCAPACIDAD",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/214-2014",
+  "json_url": "https://www.impo.com.uy/bases/decretos/214-2014?json=true",
+  "local_source_path": "decretos/decreto_214_2014/source.impo.json",
+  "local_normalized_path": "decretos/decreto_214_2014/normalized.json",
+  "local_text_path": "decretos/decreto_214_2014/normalized.txt",
+  "active": true,
+  "checksum": "adf3ebbd46dc4695a0941eee34ac50aa93a4982b759930ad8547c80574a384fd",
+  "downloaded_at": "2026-08-14T13:43:31.400475+00:00",
+  "last_synced_at": "2026-08-14T13:43:31.400496+00:00",
+  "index_status": "downloaded",
+  "article_count": 19,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

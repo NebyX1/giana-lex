@@ -37,10 +37,15 @@ class InvalidTransition(ValueError):
 
 class ConversationState(BaseModel):
     id: str = Field(default_factory=lambda: str(uuid4()))
+    owner_user_id: int | None = None
     stage: Stage = Stage.NEW
     original_request: str
     example_candidates: list[ExampleCandidate] = Field(default_factory=list)
     selected_examples: list[ExampleMatch] = Field(default_factory=list)
+    taxonomy_candidates: list[dict[str, Any]] = Field(default_factory=list)
+    selected_taxonomy_id: str | None = None
+    resolution_classification: dict[str, Any] | None = None
+    official_references: list[dict[str, Any]] = Field(default_factory=list)
     current_form: DynamicForm | None = None
     form_answers: dict[str, Any] = Field(default_factory=dict)
     draft: str | None = None

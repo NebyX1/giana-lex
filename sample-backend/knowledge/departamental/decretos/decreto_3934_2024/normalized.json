@@ -1,0 +1,42 @@
+{
+  "norm_id": "decreto:3934:2024",
+  "norm_type": "decreto",
+  "number": "3934",
+  "year": "2024",
+  "title": "Decreto Departamental N° 3.934 de fecha 13/11/2024 . | Intendencia Departamental de Lavalleja Pasar al contenido principal",
+  "directory": "decretos",
+  "family": "ordenamiento_territorial",
+  "article_count": 3,
+  "articles": [
+    {
+      "number": "1",
+      "bis": "",
+      "title": "",
+      "text": "",
+      "label": "Artículo 1"
+    },
+    {
+      "number": "2",
+      "bis": "",
+      "title": "",
+      "text": "",
+      "label": "Artículo 2"
+    },
+    {
+      "number": "3",
+      "bis": "",
+      "title": "",
+      "text": "Sala de sesiones, a trece de noviembre\ndel año dos mil veinticuatro.\nJoaquín Hernández\nPresidente\nGraciela Umpiérrez Bolis\nSecretario\nReportar errores o sugerir mejoras",
+      "label": "Artículo 3"
+    }
+  ],
+  "relations": [
+    {
+      "from": "decreto:3934:2024",
+      "relation": "MODIFIES",
+      "to": "decreto:3854:2023",
+      "status": "candidate",
+      "evidence_source": "https://www.gub.uy/intendencia-lavalleja/institucional/normativa/decreto-departamental-n-3934-fecha-13112024"
+    }
+  ]
+}

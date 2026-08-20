@@ -1,0 +1,23 @@
+{
+  "id": "decreto:500:1991",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "500",
+  "anio": "1991",
+  "title": "APROBACION DEL PROCEDIMIENTO ADMINISTRATIVO Y DISCIPLINARIO APLICABLE AL FUNCIONARIO PUBLICO DE LA ADMINISTRACION CENTRAL",
+  "nombre": "APROBACION DEL PROCEDIMIENTO ADMINISTRATIVO Y DISCIPLINARIO APLICABLE AL FUNCIONARIO PUBLICO DE LA ADMINISTRACION CENTRAL",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/500-1991",
+  "json_url": "https://www.impo.com.uy/bases/decretos/500-1991?json=true",
+  "local_source_path": "decretos/decreto_500_1991/source.impo.json",
+  "local_normalized_path": "decretos/decreto_500_1991/normalized.json",
+  "local_text_path": "decretos/decreto_500_1991/normalized.txt",
+  "active": true,
+  "checksum": "c39f07401bf72e457bbcab6d3ef13ed02f9c1a7c59cf2d63e17d85643fe7d241",
+  "downloaded_at": "2026-08-14T13:30:30.618975+00:00",
+  "last_synced_at": "2026-08-14T13:30:30.619000+00:00",
+  "index_status": "downloaded",
+  "article_count": 239,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

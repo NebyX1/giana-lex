@@ -1,0 +1,101 @@
+name: giana-lex-dev
+
+services:
+  mariadb:
+    image: mariadb:11.4
+    environment:
+      MARIADB_DATABASE: giana_lex
+      MARIADB_USER: giana
+      MARIADB_PASSWORD: local-development-only
+      MARIADB_ROOT_PASSWORD: local-root-development-only
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    ports:
+      - "127.0.0.1:3306:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+
+  redis:
+    image: redis:7.4-alpine
+    command: ["redis-server", "--appendonly", "yes"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+    ports:
+      - "127.0.0.1:6379:6379"
+    volumes:
+      - redis_data:/data
+
+  qdrant:
+    image: qdrant/qdrant:v1.15.4
+    ports:
+      - "127.0.0.1:6333:6333"
+      - "127.0.0.1:6334:6334"
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+  migrate:
+    build:
+      context: ./backend
+    profiles: ["tools"]
+    environment: &backend-environment
+      FLASK_CONFIG: development
+      RUN_MIGRATIONS_ON_START: "false"
+      SECRET_KEY: local-development-secret-change-before-sharing
+      DATABASE_URL: mariadb+mariadbconnector://giana:local-development-only@mariadb:3306/giana_lex
+      REDIS_URL: redis://redis:6379/0
+      RATELIMIT_STORAGE_URI: redis://redis:6379/1
+      LEGAL_DISPATCHER: redis
+      QDRANT_URL: http://qdrant:6333
+      CREDENTIAL_ENCRYPTION_KEYS: local-dev:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+      CREDENTIAL_ACTIVE_KEY_ID: local-dev
+      CORS_ORIGINS: http://127.0.0.1:5173,http://localhost:5173
+    command: ["flask", "--app", "wsgi:app", "db", "upgrade"]
+    depends_on:
+      mariadb:
+        condition: service_healthy
+
+  backend:
+    build:
+      context: ./backend
+    environment: *backend-environment
+    command: ["gunicorn", "--config", "gunicorn.conf.py", "wsgi:app"]
+    depends_on:
+      mariadb:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+    ports:
+      - "127.0.0.1:5000:5000"
+    volumes:
+      - backend_instance:/app/instance
+
+  worker:
+    build:
+      context: ./backend
+    environment:
+      <<: *backend-environment
+      LEGAL_REDIS_CONSUMER_NAME: legal-worker-compose-1
+    command: ["python", "-m", "workers.legal_workflow_worker"]
+    depends_on:
+      mariadb:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+    volumes:
+      - backend_instance:/app/instance
+
+volumes:
+  mariadb_data:
+  redis_data:
+  qdrant_data:
+  backend_instance:

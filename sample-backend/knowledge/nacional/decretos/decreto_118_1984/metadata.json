@@ -1,0 +1,23 @@
+{
+  "id": "decreto:118:1984",
+  "source": "IMPO",
+  "tipo": "Decreto",
+  "numero": "118",
+  "anio": "1984",
+  "title": "APROBACION DEL NUEVO TEXTO DEL REGLAMENTO NACIONAL DE CIRCULACION VIAL",
+  "nombre": "APROBACION DEL NUEVO TEXTO DEL REGLAMENTO NACIONAL DE CIRCULACION VIAL",
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/118-1984",
+  "json_url": "https://www.impo.com.uy/bases/decretos/118-1984?json=true",
+  "local_source_path": "decretos/decreto_118_1984/source.impo.json",
+  "local_normalized_path": "decretos/decreto_118_1984/normalized.json",
+  "local_text_path": "decretos/decreto_118_1984/normalized.txt",
+  "active": true,
+  "checksum": "5f0d737d2e4fc6bce304cb02d310b219fe882632ed1878a4529e8e7b08501389",
+  "downloaded_at": "2026-08-14T13:43:35.649855+00:00",
+  "last_synced_at": "2026-08-14T13:43:35.649878+00:00",
+  "index_status": "downloaded",
+  "article_count": 3,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "decretos"
+}

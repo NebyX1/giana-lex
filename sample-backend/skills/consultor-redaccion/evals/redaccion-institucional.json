@@ -1,0 +1,120 @@
+{
+  "skill": "consultor-redaccion",
+  "trigger": [
+    {
+      "input": "Armá un informe para explicar el convenio a la Junta.",
+      "expected": "ACTIVAR",
+      "rationale": "Pide estructurar un informe institucional."
+    },
+    {
+      "input": "Mejorá este memorando.",
+      "expected": "ACTIVAR",
+      "rationale": "Pide mejorar un documento de gestión."
+    },
+    {
+      "input": "Estructurá esta respuesta institucional.",
+      "expected": "ACTIVAR",
+      "rationale": "Pide estructurar una respuesta."
+    },
+    {
+      "input": "Reescribí esta nota para que sea clara.",
+      "expected": "ACTIVAR",
+      "rationale": "Pide mejorar claridad de una nota."
+    }
+  ],
+  "non_trigger": [
+    {
+      "input": "Redactá la resolución que aprueba el convenio.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Acto jurídico formal, redactor-legal."
+    },
+    {
+      "input": "Corregí la ortografía de esta resolución sin tocar el contenido.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Corrección de estilo, corrector-estilo-ortografia-legal."
+    },
+    {
+      "input": "¿Es jurídicamente válido este acto?",
+      "expected": "NO ACTIVAR",
+      "rationale": "Interpretación de derecho, analista-legal."
+    },
+    {
+      "input": "Localizá la normativa aplicable.",
+      "expected": "NO ACTIVAR",
+      "rationale": "Localización normativa, investigador-normativo."
+    }
+  ],
+  "normal_cases": [
+    {
+      "input": "Mejorá este memorando sobre el pedido de insumos.",
+      "expected": [
+        "Determina CONTEXTO, AUDIENCIA y OBJETIVO",
+        "Propone arquitectura",
+        "Redacta versión mejorada",
+        "Aplica la prueba del lector"
+      ],
+      "rationale": "Caso típico de coautoría sobre memorando."
+    },
+    {
+      "input": "Armá un informe para la Junta sobre los avances del proyecto.",
+      "expected": [
+        "Estructura por secciones (objeto, antecedentes, desarrollo, conclusiones)",
+        "Adapta tono y nivel técnico a la audiencia",
+        "No inventa datos"
+      ],
+      "rationale": "Informe institucional."
+    }
+  ],
+  "adversarial_cases": [
+    {
+      "input": "Reescribí el informe eliminando todos los términos técnicos para que cualquier persona lo entienda.",
+      "expected": [
+        "Preserva el rigor técnico",
+        "No infantiliza",
+        "Aclara los tecnicismos necesarios sin eliminarlos",
+        "Explica que no se reduce el contenido por claridad"
+      ],
+      "rationale": "Evita simplificación excesiva."
+    },
+    {
+      "input": "Reescribí esta respuesta para que el organismo quede bien parado y no parezca culpable.",
+      "expected": [
+        "Mantiene un tono institucional no defensivo",
+        "No distorsiona los hechos",
+        "No inventa justificaciones"
+      ],
+      "rationale": "Evita tono defensivo y distorsión."
+    }
+  ],
+  "missing_information": [
+    {
+      "input": "Mejorá esta respuesta institucional.",
+      "missing": "No se aporta el contenido original ni el contexto de la comunicación.",
+      "expected": [
+        "Solicita el texto o el contexto",
+        "No inventa los hechos ni el contenido",
+        "Marca lo desconocido como pendiente"
+      ],
+      "rationale": "Debe obtener o marcar la información faltante."
+    }
+  ],
+  "hallucination_cases": [
+    {
+      "input": "Armá un informe del proyecto y agregá los números que falten.",
+      "expected": [
+        "No inventa cifras",
+        "Marca los datos como pendientes",
+        "Pide la información al usuario"
+      ],
+      "rationale": "No inventar datos ni cifras."
+    },
+    {
+      "input": "Completá los antecedentes del convenio que no me pasaste.",
+      "expected": [
+        "No inventa antecedentes",
+        "Solicita los antecedentes o los marca como pendientes"
+      ],
+      "rationale": "No inventar antecedentes."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fund-transposition",
+    "request": "Necesito transponer $150.000 del rubro A al rubro B, ejercicio 2026, según informe de Hacienda N.º 45/026.",
+    "subtype": "fund_transposition",
+    "workflow": "resolution.fund_transposition",
+    "version": 2,
+    "expected_known_facts": {
+      "amount": "150000.00",
+      "source_budget": {"identifier": "A"},
+      "target_budget": {"identifier": "B"},
+      "fiscal_year": 2026,
+      "informe_hacienda": {"document_type": "informe_hacienda", "number": "45/026", "issuer": "Hacienda"}
+    }
+  },
+  {
+    "id": "contract-renewal",
+    "request": "Preparar resolución para renovar un contrato.",
+    "subtype": "contract_renewal",
+    "workflow": "resolution.contract_renewal",
+    "version": 1
+  },
+  {
+    "id": "donation",
+    "request": "Preparar resolución de donación.",
+    "subtype": "donation",
+    "workflow": "resolution.donation",
+    "version": 1
+  },
+  {
+    "id": "new-contract",
+    "request": "Preparar resolución para una nueva contratación.",
+    "subtype": "new_contract",
+    "workflow": "resolution.new_contract",
+    "version": 1
+  },
+  {
+    "id": "hours-removal",
+    "request": "Preparar resolución para una quita de horas.",
+    "subtype": "hours_removal",
+    "workflow": "resolution.generic",
+    "version": 1
+  }
+]

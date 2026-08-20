@@ -1,0 +1,112 @@
+id: resolution.fund_transposition
+version: 2
+status: active
+jurisdiction: lavalleja
+intent: {family: resolution_drafting, subtype: fund_transposition}
+precedent_types: [fund_transposition, trasposicion_rubros, transposicion_rubros]
+form_title: Datos para la trasposición presupuestal
+form_description: Complete los extremos fácticos y documentales disponibles. Las referencias jurídicas del antecedente quedan pendientes de verificación.
+sections:
+  - id: expediente_unidad
+    title: Expediente y unidad
+    description: Identificación de las actuaciones y de la unidad solicitante.
+    field_keys: [expediente, unit]
+  - id: documentos_origen
+    title: Documentos de origen
+    description: Hacienda y Contaduría se registran como documentos distintos.
+    field_keys: [informe_hacienda, oficio_contaduria]
+  - id: movimientos
+    title: Movimientos presupuestales
+    description: Cada fila representa un débito de origen y un crédito de destino por el mismo importe.
+    field_keys: [budget_transfers]
+  - id: motivacion
+    title: Motivación
+    field_keys: [motivation]
+  - id: ejercicio_financiacion
+    title: Ejercicio fiscal y financiación
+    field_keys: [fiscal_year, financing]
+  - id: anexos_ruta
+    title: Anexos y ruta administrativa
+    field_keys: [annexes, route_deviation]
+fields:
+  - key: expediente
+    label: Expediente
+    field_type: text
+    required: true
+    origin: workflow
+    reason: Identifica las actuaciones.
+    validation_rules: {min_length: 1}
+  - key: unit
+    label: Unidad solicitante o ejecutora
+    field_type: text
+    required: true
+    origin: workflow
+    reason: Identifica la unidad responsable de la solicitud.
+    validation_rules: {min_length: 1}
+  - key: informe_hacienda
+    label: Informe de la Dirección General de Hacienda
+    field_type: document_reference
+    required: true
+    origin: workflow
+    reason: Individualiza el informe emitido por Hacienda que respalda el movimiento presupuestal solicitado.
+    validation_rules:
+      document_type: informe_hacienda
+      issuer_contains: [Hacienda]
+      issuer_help: Indique Dirección General de Hacienda u otra denominación exacta que figure en el documento.
+  - key: oficio_contaduria
+    label: Oficio de Sección Contaduría
+    field_type: document_reference
+    required: true
+    origin: workflow
+    reason: Individualiza por separado el oficio mediante el cual Contaduría solicita o comunica la trasposición.
+    validation_rules:
+      document_type: oficio_contaduria
+      issuer_contains: [Contaduría, Contaduria]
+      issuer_help: Indique la sección u oficina de Contaduría exactamente como aparece en el oficio.
+  - key: budget_transfers
+    label: Trasposiciones presupuestales
+    field_type: budget_transfer_table
+    required: true
+    origin: workflow
+    reason: Registra una o más asignaciones de origen, destino e importe sin inferir componentes.
+    validation_rules:
+      min_rows: 1
+      allocation_components: [identifier, program, project, object, auxiliary, financing, unit]
+  - key: motivation
+    label: Necesidad o motivación del ajuste
+    field_type: textarea
+    required: true
+    origin: workflow
+    reason: Explicita la razón administrativa del movimiento.
+    validation_rules: {min_length: 3}
+  - key: fiscal_year
+    label: Ejercicio fiscal
+    field_type: number
+    required: true
+    origin: workflow
+    reason: Sitúa el movimiento en el presupuesto vigente informado.
+    validation_rules: {integer: true, min: 2000, max: 2200}
+  - key: financing
+    label: Fuente de financiación, cuando corresponda
+    field_type: text
+    required: false
+    origin: workflow
+    reason: Registra la fuente de financiación solo cuando corresponda y esté expresamente respaldada.
+    validation_rules: {min_length: 1}
+  - key: annexes
+    label: Anexos
+    field_type: document_reference
+    required: false
+    origin: workflow
+    reason: Registra anexos aportados sin presumir su existencia.
+    validation_rules: {multiple: true, document_type: anexo}
+  - key: route_deviation
+    label: Desvío de la ruta administrativa estándar
+    field_type: textarea
+    required: false
+    origin: workflow
+    reason: Documenta, si existe, una ruta distinta de Validación, Contador Delegado y archivo.
+    validation_rules: {}
+legal_issues: [competence, budget_authority, availability, limits, control_route]
+required_sections: [vistos, considerandos, legal_basis, operative_articles, notifications]
+require_verified_competence: true

@@ -1,0 +1,23 @@
+{
+  "id": "ley:15965:1988",
+  "source": "IMPO",
+  "tipo": "Ley",
+  "numero": "15965",
+  "anio": "1988",
+  "title": "APROBACION DE CONVENIOS INTERNACIONALES EN MATERIA DE SEGURIDAD, HIGIENE Y SALUD EN EL TRABAJO (148, 155 Y 161)",
+  "nombre": "APROBACION DE CONVENIOS INTERNACIONALES EN MATERIA DE SEGURIDAD, HIGIENE Y SALUD EN EL TRABAJO (148, 155 Y 161)",
+  "canonical_url": "https://www.impo.com.uy/bases/leyes/15965-1988",
+  "json_url": "https://www.impo.com.uy/bases/leyes/15965-1988?json=true",
+  "local_source_path": "leyes/ley_15965_1988/source.impo.json",
+  "local_normalized_path": "leyes/ley_15965_1988/normalized.json",
+  "local_text_path": "leyes/ley_15965_1988/normalized.txt",
+  "active": true,
+  "checksum": "c5f6773430f095ba21620e837179719f7564ce23bf792254722c2832ced10f7a",
+  "downloaded_at": "2026-08-14T13:39:03.546143+00:00",
+  "last_synced_at": "2026-08-14T13:39:03.546165+00:00",
+  "index_status": "downloaded",
+  "article_count": 2,
+  "chunk_count": 0,
+  "last_error": null,
+  "directory": "leyes"
+}

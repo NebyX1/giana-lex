@@ -1,0 +1,431 @@
+{
+  "tipo": "Decreto",
+  "numero": "414",
+  "anio": "2009",
+  "nombre": "REGLAMENTACION DE LA LEY 18.331, RELATIVO A LA PROTECCION DE DATOS PERSONALES",
+  "leyenda": "Documento Actualizado",
+  "fechaPromulgacion": "31/08/2009",
+  "fechaPublicacion": "15/09/2009",
+  "vistos": "VISTO: que con fecha 11 de agosto de 2008 se promulgó la Ley Nº 18.331 de\nProtección de Datos Personales y Acción de \"Habeas Data\".\n\nRESULTANDO: I) que razones de juridicidad y conveniencia imponen estatuir\naquellos aspectos básicos y primarios de la reglamentación, que ordenen y\nfavorezcan su puesta en práctica de acuerdo con el postulado\nconstitucional de que el derecho a la protección de datos personales es\ninherente a la personalidad humana y por lo tanto está comprendido en el\nart. 72 de la Constitución (art. 1 de la Ley).\n\nII) que las facultades legales del Organo de Control creado por los\nartículos 31 y siguientes de la Ley, incluyen la potestad regulatoria cuyo\nejercicio permitirá continuar ordenando y favoreciendo la puesta en\npráctica de las actividades correspondientes;\n\nCONSIDERANDO: I) que la consagración del nuevo régimen legal para la\nprotección de datos personales y acción de \"habeas data\", articula un\nconjunto de derechos y obligaciones vinculados a la recolección y\ntratamiento, automatizados o manuales, de los datos de las personas\nfísicas y jurídicas;\n\nII) que es conveniente la adecuación del ordenamiento jurídico nacional en\nla materia al régimen de derecho comparado de mayor recibo,\nfundamentalmente el consagrado por los países europeos a través de la\nDirectiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre\nde 1995, relativa a la protección de las personas físicas en lo que\nrespecta al tratamiento de datos personales y a la libre circulación de\néstos.\n\nIII) que asimismo corresponde reglamentar el funcionamiento de la Unidad\nReguladora y de Control de Datos Personales creada por la preindicada Ley,\nla que tendrá a su cargo los cometidos que por ella se le asignan.\n\nATENTO: a lo precedentemente expuesto y a lo preceptuado en las\ndisposiciones citadas y en el artículo 168 ordinal 4º de la Constitución.\n\nEL PRESIDENTE DE LA REPUBLICA\nActuando en Consejo de Ministros\n\nDECRETA:",
+  "referenciasNorma": "Reglamentario/a de: Ley Nº 18.331 de 11/08/2008.",
+  "indexacionNorma": "",
+  "articulos": [
+    {
+      "nroArticulo": "1",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 1",
+      "textoArticulo": "Ambito subjetivo. El derecho a la protección de los datos personales se\naplica a las personas físicas, directa o indirectamente, a través de\ncualquier información numérica, alfabética, gráfica, fotográfica, acústica\no de cualquier otro tipo que refiera a ellas.\n\nPor extensión se aplica a las personas jurídicas, las que gozarán del\nrégimen tuitivo en cuanto corresponda.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/1"
+    },
+    {
+      "nroArticulo": "2",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 2",
+      "textoArticulo": "Ambito objetivo. El régimen jurídico de la protección de datos personales\nse aplica a su recolección, registro y todo tipo de tratamiento,\nautomatizado o no, bajo cualquier soporte y modalidad de uso, tanto sea en\nel ámbito público como privado.\n\nEste régimen no será aplicable a las siguientes bases de datos:\n\nA) Las mantenidas por personas físicas en el ejercicio de actividades\nexclusivamente personales o domésticas, entendiéndose por éstas las que se\ndesarrollan en un ámbito estrictamente privado, entre otros, los archivos\nde correspondencia y agendas personales.\n\nB) Las que tengan por objeto la seguridad pública, la defensa, la\nseguridad del Estado y sus actividades en materia penal, investigación y\nrepresión del delito.\n\nC) Las creadas y reguladas por leyes especiales.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/2"
+    },
+    {
+      "nroArticulo": "3",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 3",
+      "textoArticulo": "Ambito territorial. Los tratamientos de datos personales están sometidos\na la Ley que se reglamenta cuando:\n\nA) Sean efectuados por un responsable de base de datos o tratamiento\nestablecido en territorio uruguayo, siendo éste el lugar donde ejerza\nsu actividad, cualquiera sea su forma jurídica.\n\nB) El responsable de la base de datos o tratamiento no esté establecido en\nterritorio uruguayo pero utilice en el tratamiento de datos medios\nsituados en el país.\n\nExceptúanse de la regla precedente, los casos en que los citados medios se\nutilicen exclusivamente con fines de tránsito, siempre que el responsable\nde la base de datos o tratamiento designe un representante, con domicilio\ny residencia permanente en territorio nacional, ante el Organo de Control,\na los efectos de cumplir con las obligaciones previstas por la Ley que se\nreglamenta y en esta reglamentación. Tal designación no impedirá las\nacciones legales que puedan ser promovidas contra el responsable de la\nbase de datos o tratamiento, ni disminuirá su responsabilidad en cuanto al\ncumplimiento de las obligaciones impuestas legal o reglamentariamente.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/3"
+    },
+    {
+      "nroArticulo": "4",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 4",
+      "textoArticulo": "Definiciones. A los efectos del presente reglamento, y sin perjuicio de\nlas definiciones contenidas en la Ley que se reglamenta, se entiende por:\n\nA) Bloqueo de datos: procedimiento mediante el cual se reservan datos con\nel fin de impedir su tratamiento, excepto para ser puestos a disposición\nde los Poderes del Estado, o instituciones que estén legalmente\nhabilitadas, a los efectos de atender las posibles responsabilidades\nsurgidas del tratamiento.\n\nB) Cancelación o Supresión de datos: procedimiento mediante el cual el\nresponsable cesa en el uso de los datos. La supresión o cancelación\nimplicará el bloqueo de dichos datos durante el plazo establecido en la\nnormativa vigente; vencido éste se deberá proceder a su eliminación\ndefinitiva.\n\nC) Cesión de datos: comunicación de acuerdo con lo establecido en el\nartículo 4º literal B) de la Ley que se reglamenta.\n\nD) Dato personal relacionado con la salud: las informaciones concernientes\na la salud pasada, presente y futura, física o mental, de una persona.\nEntre otros, se consideran datos relacionados con la salud de las personas\nlos referidos a su porcentaje de discapacidad o a su información genética.\n\nE) Exportador de datos personales: la persona física o jurídica, pública o\nprivada, situada en territorio uruguayo que realice, conforme a lo\ndispuesto en el presente reglamento, una transferencia de datos de\ncarácter personal a otro país.\n\nF) Importador de datos personales: persona física o jurídica, pública o\nprivada, receptora de los datos de otro país, en caso de transferencia\ninternacional de éstos, ya sea responsable del tratamiento, encargada del\ntratamiento o tercero.\n\nG) Interesado: titular del dato de acuerdo con lo establecido en el\nartículo 4º literal L) de la Ley que se reglamenta.\n\nH) Transferencia internacional de datos: tratamiento de datos que supone\nuna transmisión de éstos fuera del territorio nacional, constituyendo una\ncesión o comunicación, y teniendo por objeto la realización de un\ntratamiento por cuenta del responsable de la base de datos o tratamiento\nestablecido en territorio uruguayo.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/4"
+    },
+    {
+      "nroArticulo": "5",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 5",
+      "textoArticulo": "Consentimiento informado para recolección y tratamiento de datos. Cuando\nse solicite el consentimiento del titular para la recolección y\ntratamiento de sus datos, éste deberá ser informado de forma que conozca\ninequívocamente la finalidad a la que se destinarán los datos, y el tipo\nde actividad desarrollada por el responsable de la base de datos o\ntratamiento. En caso contrario, el consentimiento será nulo.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/5"
+    },
+    {
+      "nroArticulo": "6",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 6",
+      "textoArticulo": "Formas de recabar el consentimiento. Deberá facilitarse al titular un\nmedio sencillo, claro y gratuito para que manifieste su consentimiento o\nsu negativa al tratamiento de sus datos.\n\nSe entenderá cumplido tal deber cuando se permita al titular la elección\nentre dos opciones claramente identificadas, que no se encuentren\npremarcadas a favor o en contra.\n\nCorresponderá al responsable de la base de datos o el tratamiento recabar\ny guardar la prueba de la existencia del consentimiento o de la negativa a\ndarlo, por parte del titular, a través de cualquier medio conforme a\nderecho.\n\nEl responsable de la base de datos o el tratamiento podrá solicitar el\nconsentimiento del titular a través del procedimiento establecido en este\nartículo, sin perjuicio de otras formas o modalidades que le ofrezcan\nsimilares o superiores garantías.\n\nVencido el plazo de diez días hábiles desde que el titular de los datos\nreciba la solicitud de consentimiento sin que se manifieste, su silencio\nequivaldrá a una negativa.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/6"
+    },
+    {
+      "nroArticulo": "7",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 7",
+      "textoArticulo": "(*)",
+      "notasArticulo": "Derogado/s por: Decreto Nº 64/020 de 17/02/2020 artículo 17.\nTEXTO ORIGINAL: Decreto Nº 414/009 de 31/08/2009 artículo 7.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/7"
+    },
+    {
+      "nroArticulo": "8",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 8",
+      "textoArticulo": "(*)",
+      "notasArticulo": "Derogado/s por: Decreto Nº 64/020 de 17/02/2020 artículo 17.\nTEXTO ORIGINAL: Decreto Nº 414/009 de 31/08/2009 artículo 8.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/8"
+    },
+    {
+      "nroArticulo": "9",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 9",
+      "textoArticulo": "Derechos de los titulares de los datos. Los derechos de los titulares de\nlos datos previstos en la Ley que se reglamenta se ejercitarán:\n\nA) Por el titular o su representante, acreditando la identidad de ambos en\nsu caso; se aplicará por extensión a las personas jurídicas en cuanto\ncorresponda.\n\nB) En forma conjunta o independiente.\n\nC) Exento de formalidades y en forma gratuita.\n\nD) Mediante comunicación dirigida al responsable de la base de datos o\ntratamiento, que contendrá:\n\na. Identificación del titular.\n\nb. Motivo de la solicitud.\n\nc. Domicilio real y domicilio constituido a efecto de las\nnotificaciones.\n\nd. Fecha y firma del solicitante.\n\ne. Documentos acreditantes de la solicitud.\n\nEl responsable deberá contestar la solicitud en el plazo de cinco días\nhábiles desde su presentación.\n\nLa información que se proporcione, cualquiera sea el soporte en que fuere\nfacilitada, se dará en forma legible e inteligible, sin utilizar claves o\ncódigos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/9"
+    },
+    {
+      "nroArticulo": "10",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 10",
+      "textoArticulo": "Derecho de rectificación. El derecho de rectificación es el que tiene el\ntitular a que se modifiquen los datos que resulten ser inexactos o\nincompletos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/10"
+    },
+    {
+      "nroArticulo": "11",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 11",
+      "textoArticulo": "Derecho de actualización. El derecho de actualización es el que tiene el\ntitular a que se modifiquen los datos que resulten inexactos a la fecha de\nejercicio del derecho.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/11"
+    },
+    {
+      "nroArticulo": "12",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 12",
+      "textoArticulo": "Derecho de inclusión. El derecho de inclusión es el que tiene el titular\na ser incorporado con la información correspondiente en una base de datos\ncuando acredite un interés fundado.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/12"
+    },
+    {
+      "nroArticulo": "13",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 13",
+      "textoArticulo": "Derecho de supresión. El derecho de supresión es el que tiene el titular\na que se eliminen los datos cuya utilización por terceros resulte\nilegítima, o que resulten ser inadecuados o excesivos.\n\nLa supresión no procederá cuando los datos personales deban ser\nconservados en virtud de razones históricas, estadísticas o científicas y\nde acuerdo con la legislación aplicable o, en su caso, en las relaciones\ncontractuales entre el responsable y el titular, que justificaren el\ntratamiento de los datos.\n\nEl responsable deberá documentar ante el titular haber cumplido con lo\nsolicitado indicando las cesiones o transferencias de los datos suprimidos\ne identificando al cesionario.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/13"
+    },
+    {
+      "nroArticulo": "14",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 14",
+      "textoArticulo": "Derechos referentes a la comunicación o la cesión de datos. La\ncomunicación o la cesión de datos a terceros, solamente procede para el\ncumplimiento de los fines directamente relacionados con el interés\nlegítimo del emisor y destinatario de ésta, previo consentimiento del\ntitular de los datos a quien se le debe informar inequívocamente la\nfinalidad de dicha comunicación, identificando al destinatario y el tipo\nde actividad que desarrolla.\n\nNo se considera comunicación o cesión de datos el acceso por parte de un\nencargado de tratamiento, que resulte necesario para la prestación de un\nservicio al responsable, salvo que este acceso implique la existencia de\nun nuevo vínculo entre el encargado del tratamiento y el titular.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/14"
+    },
+    {
+      "nroArticulo": "15",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 15",
+      "textoArticulo": "Actos y documentos inscribibles. En el Registro de Bases de Datos\nPersonales de la URCDP, creado por el artículo 1º del Decreto Nº 664/008,\nde 22 de diciembre de 2008, deberán inscribirse:\n\nA) Las personas físicas que creen, modifiquen o supriman bases de\ndatos de carácter personal, que no sean para uso exclusivamente personal o\ndoméstico.\n\nB) Las personas jurídicas públicas, estatales o no, y las privadas,\nque creen, modifiquen o supriman bases de datos de carácter personal,\nsalvo las excepciones previstas en la Ley que se reglamenta. De acuerdo\ncon lo establecido en el art. 3 de la mencionada Ley no es de aplicación\nla excepción del ámbito personal o doméstico para las personas jurídicas.\n\nC) Los códigos de conducta de práctica profesional que establezcan\nnormas para el tratamiento de datos personales.\n\nD) Las autorizaciones de transferencias internacionales de datos\npersonales.\n\nEsta inscripción se llevará a cabo bajo los criterios reglamentarios\ncontenidos en la Ley, en el presente Decreto, en el Decreto Nº 664/008, de\n22 de diciembre de 2008, u otras disposiciones que dicte la URCDP, de\nconformidad a las facultades legales conferidas.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/15"
+    },
+    {
+      "nroArticulo": "16",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 16",
+      "textoArticulo": "Contenido y forma de inscripción. Los responsables de todas las bases de datos o tratamientos deberán inscribirlas en el Registro de la URCDP de acuerdo con el Artículo N° 4 del Decreto N° 664/008, de 22 de diciembre\nde 2008, proporcionando la siguiente información:\n\nA) Identificación de la base de datos y el responsable de la misma.\n\nB) Procedimientos de obtención y tratamiento de los datos.\n\nC) Medidas de seguridad y descripción técnica de la base de datos.\n\nD) Protección de datos personales y ejercicio de derechos.\n\nE) Destino de los datos y personas físicas o jurídicas a las que pueden\nser transmitidos.\n\nF) Tiempo de conservación de los datos.\n\nG) Forma y condiciones en que las personas pueden acceder a los datos\nreferidos a ellas y los procedimientos a realizar para la rectificación o\nactualización de los datos.\n\nH) Datos sometidos a tratamiento en dicha base de datos.\n\nI) Domicilio constituido a efectos de las comunicaciones y notificaciones\nque correspondan. (*)",
+      "notasArticulo": "Redacción dada por: Decreto Nº 308/014 de 22/10/2014 artículo 1.\nTEXTO ORIGINAL: Decreto Nº 414/009 de 31/08/2009 artículo 16.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/16"
+    },
+    {
+      "nroArticulo": "17",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 17",
+      "textoArticulo": "Plazo de inscripción. Las bases de datos de carácter personal existentes,\ndispondrán de un plazo máximo de 90 días contados a partir de la\npublicación del presente Decreto en el Diario Oficial, para adecuarse a\nlos requisitos y las condiciones de inscripción establecidos en la\npresente reglamentación y proceder a su registro. Las bases de datos que\nse crearen con posterioridad a la fecha de la aprobación del decreto,\ndeberán ser inscriptas dentro de un plazo máximo de 90 días a partir del\ninicio de sus actividades.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/17"
+    },
+    {
+      "nroArticulo": "18",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 18",
+      "textoArticulo": "(*)",
+      "notasArticulo": "Derogado/s por: Decreto Nº 308/014 de 22/10/2014 artículo 2.\nTEXTO ORIGINAL: Decreto Nº 414/009 de 31/08/2009 artículo 18.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/18"
+    },
+    {
+      "nroArticulo": "19",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 19",
+      "textoArticulo": "Fecha de la inscripción. Se computará como fecha de inscripción\ndefinitiva la correspondiente a la Resolución de la URCPD.\n\nLos responsables de bases de datos de carácter personal deberán exhibir en\nun lugar visible accesible a los usuarios el número y fecha de la citada\nresolución.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/19"
+    },
+    {
+      "nroArticulo": "20",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 20",
+      "textoArticulo": "Actualización al Registro. Los responsables de las bases de datos deberán\nmantener actualizados los datos inscriptos en el Registro de Base de Datos\nPersonales, comunicando trimestralmente las actualizaciones.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/20"
+    },
+    {
+      "nroArticulo": "21",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 21",
+      "textoArticulo": "Presidencia de la URCDP. La dirección técnica y administrativa de la\nURCDP será ejercida por un Consejo Ejecutivo de tres miembros, de acuerdo\ncon lo establecido en el artículo 31 de la Ley que se reglamenta.\n\nLa Presidencia de la URCDP será rotativa anualmente entre los integrantes\ndel Consejo Ejecutivo, a excepción del Director Ejecutivo de la Agencia\npara el Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la\nInformación y del Conocimiento (AGESIC). En ausencia temporal del\nPresidente de la URCDP, la Presidencia será ejercida en forma interina por\nel restante miembro nombrado por el Poder Ejecutivo.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/21"
+    },
+    {
+      "nroArticulo": "22",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 22",
+      "textoArticulo": "Cometidos del Presidente. Al Presidente del Consejo Ejecutivo o a quien\nlo sustituya corresponde:\n\nA) La representación de la URCDP en sus relaciones externas por sí o por\nmedio de apoderado en forma.\n\nB) Cumplir y hacer cumplir las normas constitucionales, legales y\nreglamentarias y ejecutar y hacer ejecutar las decisiones del Consejo\nEjecutivo.\n\nC) Presidir las sesiones del Consejo Ejecutivo y dirigir sus\ndeliberaciones.\n\nD) Adoptar las medidas que creyere conveniente en caso de urgencia, dando\ncuenta en la primera sesión del Consejo Ejecutivo y estando a lo que se\nresuelva.\n\nE) Estructurar el orden del día.\n\nF) Convocar las sesiones ordinarias y extraordinarias.\n\nG) Someter a la aprobación del Consejo Ejecutivo la planificación de la\nUnidad y el proyecto de memoria anual.\n\nH) Firmar las actas, las resoluciones del Consejo Ejecutivo y la\ncorrespondencia oficial.\n\nI) Firmar los contratos y documentos de cualquier naturaleza, debidamente\nautorizados por el Consejo Ejecutivo.\n\nJ) Fiscalizar la administración ejecutiva y el desempeño de los\nfuncionarios y demás personas que presten servicios en la URCDP, dando\ncuenta al Consejo Ejecutivo.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/22"
+    },
+    {
+      "nroArticulo": "23",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 23",
+      "textoArticulo": "Atribuciones del Consejo Ejecutivo. El Consejo Ejecutivo tendrá los\nsiguientes cometidos:\n\nA) Difundir los derechos que con este régimen se garantizan y\npropiciar su conocimiento.\n\nB) Concertar convenios con organismos internacionales, previa\nautorización del Poder Ejecutivo.\n\nC) Asegurar la regularidad y eficiencia de las actividades propias de\nla Unidad, ejerciendo las potestades que le asigna la Ley que se\nreglamenta y las de administración correspondientes a la Unidad.\n\nD) Designar al funcionario o funcionarios que representarán a la\nUnidad en todas aquellas gestiones en que no fuere posible la intervención\ndel Consejo Ejecutivo o de alguno de sus miembros.\n\nE) Dictar las normas y reglamentaciones que se deben cumplir en el\ndesarrollo de las actividades comprendidas por la Ley que se reglamenta;\nincluyendo las medidas de seguridad en el tratamiento y conservación de\nlos datos personales, que deberán observar los responsables, encargados y\nusuarios de bases de datos públicas y privadas.\n\nF) Resolver dentro de su competencia, todos los asuntos que propongan sus\nmiembros.\n\nG) Realizar todas aquellas actividades necesarias para el cumplimiento\nde sus cometidos.\n\nH) Asesorar al Poder Ejecutivo sobre la normativa y proyectos de ley, en\nsus diferentes etapas, que refieran total o parcialmente a la protección\nde datos personales.\n\nI) Solicitar informes circunstanciados a entidades públicas y privadas,\ngarantizando la seguridad y confidencialidad de los datos y elementos\nrecibidos.\n\nJ) Aplicar sanciones de acuerdo con lo establecido en el artículo 35\nde la Ley que se reglamenta.\n\nK) Mantener actualizado y disponible para la consulta el Registro de\nBases de Datos Personales.\n\nL) Expedir las autorizaciones previstas en la Ley que se reglamenta.\n\nM) Expedir certificados de inscripción y habilitación en caso de\ncorresponder.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/23"
+    },
+    {
+      "nroArticulo": "24",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 24",
+      "textoArticulo": "Funcionamiento del Consejo Ejecutivo. El Consejo Ejecutivo dictará su\nreglamento interno, con las siguientes bases:\n\nA) Las resoluciones se tomarán por mayoría. Si se produjera empate el\nasunto será tratado en la próxima sesión y si éste subsistiera, el\nvoto del Presidente se computará doble.\n\nB) Cuando el Consejo Ejecutivo lo resuelva podrá formar Comisiones\nEspeciales, ya sea con carácter permanente o extraordinario, con el\nobjeto de asesorar o realizar trabajos, estudios o investigaciones\nque se dispongan.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/24"
+    },
+    {
+      "nroArticulo": "25",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 25",
+      "textoArticulo": "Publicidad. La URCDP hará públicas las resoluciones que adopte, mediante\nla publicación en su sitio web, en forma posterior a la notificación. La\npublicación se realizará aplicando los criterios de disociación de los\ndatos de carácter personal que a tal efecto se establezcan.\n\nEn el caso de dictarse actos de carácter general se publicarán en el sitio\nweb antes indicado y en el Diario Oficial.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/25"
+    },
+    {
+      "nroArticulo": "26",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 26",
+      "textoArticulo": "Funcionamiento del Consejo Consultivo. El Consejo Consultivo será\nconvocado por el Consejo Ejecutivo, con una antelación mínima de cinco\ndías y sesionará con una mayoría simple de sus integrantes.\n\nHabiendo quórum para sesionar, el Presidente declarará abierta la sesión,\ndisponiendo leer el acta o actas anteriores correlativas si las hubiera.\n\nDe todo lo actuado por el Consejo Consultivo se dejará constancia en acta,\nla cual una vez aprobada será firmada por todos los asistentes.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/26"
+    },
+    {
+      "nroArticulo": "27",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 27",
+      "textoArticulo": "Votación. Las decisiones se tomarán por mayoría de sus miembros. El\nPresidente tiene voz pero no voto.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/27"
+    },
+    {
+      "nroArticulo": "28",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 28",
+      "textoArticulo": "Elección de representantes del Consejo Consultivo. El representante del\nárea académica en el Consejo Consultivo será designado por la Facultad de\nDerecho de la Universidad de la República a propuesta del Instituto de\nDerecho Informático.\n\nEl representante del sector privado en el Consejo Consultivo será\ndesignado por la Cámara Nacional de Comercio y de Servicios.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/28"
+    },
+    {
+      "nroArticulo": "29",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 29",
+      "textoArticulo": "Principios aplicables. La actuación administrativa de la URCDP se\ndesarrollará con arreglo a los principios de imparcialidad, celeridad,\neficacia, verdad material, informalismo, debido proceso, impulsión de\noficio, buena fe, motivación de las decisiones y simplicidad, los que\nservirán de criterio interpretativo para resolver las cuestiones que\npuedan suscitarse en la tramitación de cualquier asunto.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/29"
+    },
+    {
+      "nroArticulo": "30",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 30",
+      "textoArticulo": "Tramitación. Iniciado un asunto, de naturaleza interna o externa,\npromovido por un interesado o de oficio, su instrucción deberá completarse\nen el mínimo tiempo posible.\n\nEn todo lo no previsto expresamente en este Decreto, se aplicarán las\nnormas contenidas en el Decreto Nº 500/991, de 27 de setiembre de 1991 y\nsus modificativos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/30"
+    },
+    {
+      "nroArticulo": "31",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 31",
+      "textoArticulo": "Procedimiento relativo al ejercicio de la potestad sancionatoria. Ante\nuna posible infracción de la Ley Nº 18.331 y su reglamentación, la URCDP\npodrá:\n\nA) Realizar las inspecciones que el Consejo Ejecutivo entienda pertinente,\nlas que serán dispuestas por resolución fundada.\n\nB) Solicitar ante la justicia competente las medidas pertinentes, cuando\nexista riesgo de pérdida de la prueba. La solicitud de dichas medidas\nnecesitará resolución fundada del Consejo Ejecutivo.\n\nC) Comunicar las actuaciones al responsable de la base de datos o\ntratamiento a efectos de otorgarle vista, confiriéndole un plazo de diez\ndías, contados a partir del siguiente al de su notificación para\nevacuarla. Transcurrido el plazo establecido, se elevarán las actuaciones\npara resolución del Consejo Ejecutivo, el que tendrá un plazo de treinta\ndías para expedirse. La resolución que recaiga será impugnable de acuerdo\ncon las normas vigentes en la materia.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/31"
+    },
+    {
+      "nroArticulo": "32",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 32",
+      "textoArticulo": "Multas. El monto de las multas previstas en el numeral 2) del artículo 35\nde la Ley que se reglamenta, será recaudado por AGESIC y la totalidad de\nlo producido por su cobro se verterá a Rentas Generales.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/32"
+    },
+    {
+      "nroArticulo": "33",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 33",
+      "textoArticulo": "Suspensión. La AGESIC promoverá la suspensión de la base de datos de\nacuerdo con lo previsto en el art. 35 numeral 3º de la Ley 18.331, previo\npronunciamiento del Consejo Ejecutivo de la URCDP, en los casos que se\ncomprobare que se han infringido o transgredido la Ley y/o su\nreglamentación.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/33"
+    },
+    {
+      "nroArticulo": "34",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 34",
+      "textoArticulo": "Procedimiento de autorización de transferencias internacionales de datos. El procedimiento para la autorización de transferencia internacional de datos a terceros países, de conformidad con lo expresado en el artículo 23 de la Ley que se reglamenta, se iniciará siempre a solicitud del exportador que pretenda llevarla a cabo.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/34"
+    },
+    {
+      "nroArticulo": "35",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 35",
+      "textoArticulo": "Contenido de la solicitud de transferencia internacional de datos. Dicha\nsolicitud, además de los requisitos legalmente exigidos, deberá contener:\n\nA) La identificación de la base de datos y su código de inscripción en\nel Registro de Bases de Datos Personales.\n\nB) La descripción de la transferencia, respecto de la que se solicita\nla autorización, con indicación de la finalidad que la justifica,\nadjuntando la documentación acreditante.\n\nCuando la autorización se fundamente en la existencia de un contrato entre\nel importador y el exportador de los datos, deberá aportarse copia del\nmismo acreditándose la concurrencia de poder suficiente de sus otorgantes.\n\nPodrán realizarse transferencias internacionales de datos en empresas\nmultinacionales, únicamente entre la matriz y sus filiales y/o sucursales\ny entre éstas, cuando posean códigos de conducta debidamente inscriptos\nante la URCDP. Esto será de aplicación a los organismos internacionales.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/35"
+    },
+    {
+      "nroArticulo": "36",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 36",
+      "textoArticulo": "Procedimiento de inscripción de códigos de conducta. El procedimiento\npara inscripción en el Registro de Bases de Datos Personales de los\ncódigos de conducta se iniciará siempre a solicitud del responsable de la\nbase de datos.\n\nLa solicitud deberá acompañarse de los siguientes documentos:\n\nA) Identificación de la institución.\n\nB) Identificación del código de conducta y su responsable.\n\nC) Contenido del código de conducta.\n\nLa inscripción de los códigos de conducta se regirá por el mismo\nprocedimiento establecido para las bases de datos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/36"
+    },
+    {
+      "nroArticulo": "37",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 37",
+      "textoArticulo": "Procedimiento para la autorización de conservación de datos para fines\nhistóricos, estadísticos o científicos. El procedimiento para la\nautorización de conservación de datos personales con fines históricos,\nestadísticos o científicos se iniciará siempre a petición del responsable\nque pretenda obtener la declaración.\n\nEn el escrito de solicitud el responsable deberá:\n\nA) Identificar el tratamiento de datos al que pretende aplicarse la\nexcepción.\n\nB) Establecer las causas que justificarían la declaración.\n\nC) Presentar las medidas que el responsable de la base de datos se propone\nimplantar para garantizar el derecho a los ciudadanos.\n\nD) Acompañar los documentos necesarios para justificar su solicitud.\n\nPrevio a adoptar resolución, la URCDP podrá solicitar la opinión de\ninstituciones u organismos, públicos o privados, que tengan competencia o\nmérito para ser consultados en relación al caso.",
+      "notasArticulo": "Ver en esta norma, artículo: 38.",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/37"
+    },
+    {
+      "nroArticulo": "38",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 38",
+      "textoArticulo": "Tratamiento con fines históricos, estadísticos o científicos. La URCDP\npodrá, previa solicitud del responsable del tratamiento conforme al\nprocedimiento establecido en el artículo precedente, autorizar el\nmantenimiento íntegro o parcial de los datos, atendiendo a la finalidad de\nsus valores históricos, estadísticos o científicos.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/38"
+    },
+    {
+      "nroArticulo": "39",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 39",
+      "textoArticulo": "Suspensión de la eliminación de la base de datos. La presentación de la\nsolicitud suspende la obligación de eliminar la base de datos, hasta tanto\nse decida sobre la misma.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/39"
+    },
+    {
+      "nroArticulo": "40",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 40",
+      "textoArticulo": "Derogación. Deróganse el literal d) del artículo 5º y el artículo 6 del\nDecreto 664/2008 de 22 de diciembre de 2008.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/40"
+    },
+    {
+      "nroArticulo": "41",
+      "secArticulo": "",
+      "tituloArticulo": "Artículo 41",
+      "textoArticulo": "Comuníquese, publíquese, etc.",
+      "notasArticulo": "",
+      "referenciasAlArticulo": "",
+      "indexacionArticulo": "",
+      "urlArticulo": "https://www.impo.com.uy/bases/decretos/414-2009/41"
+    }
+  ],
+  "canonical_url": "https://www.impo.com.uy/bases/decretos/414-2009",
+  "json_url": "https://www.impo.com.uy/bases/decretos/414-2009?json=true",
+  "norma_id": "decreto:414:2009",
+  "category": "decretos",
+  "directory": "decretos",
+  "title": "REGLAMENTACION DE LA LEY 18.331, RELATIVO A LA PROTECCION DE DATOS PERSONALES",
+  "article_count": 41
+}

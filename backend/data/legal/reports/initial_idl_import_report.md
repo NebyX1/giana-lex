@@ -1,0 +1,170 @@
+# Importación inicial IDL
+
+- Seed: `idl-resolution-taxonomy-v1`
+- Solicitadas: 156
+- URLs resueltas: 156
+- Descargadas: 156
+- Validadas: 137
+- Duplicadas: 5
+- Fallidas: 0
+- Requieren revisión: 19
+- Indexadas: 132
+
+## Detalle
+
+- `2.826/026` · `FIN.presupuesto.trasposicion_rubros` · **validated** · Número y señales semánticas verificadas
+- `2.789/026` · `FIN.presupuesto.reiteracion_gasto_observado` · **validated** · Número y señales semánticas verificadas
+- `3.036/025` · `FIN.pagos.pago_proveedor` · **validated** · Número y señales semánticas verificadas
+- `543/025` · `FIN.pagos.certificado_obra` · **validated** · Número y señales semánticas verificadas
+- `4.729/025` · `FIN.pagos.reintegro_gastos` · **validated** · Número y señales semánticas verificadas
+- `2.787/026` · `FIN.caja.caja_chica` · **validated** · Número y señales semánticas verificadas
+- `1.275/026` · `FIN.compensaciones.tareas` · **validated** · Número y señales semánticas verificadas
+- `1.821/026` · `FIN.compensaciones.permanencia_orden` · **validated** · Número y señales semánticas verificadas
+- `344/026` · `FIN.compensaciones.modificacion` · **validated** · Número y señales semánticas verificadas
+- `2.834/026` · `FIN.horas_extras.autorizacion_previa` · **validated** · Número y señales semánticas verificadas
+- `2.436/026` · `FIN.horas_extras.pago_realizadas` · **validated** · Número y señales semánticas verificadas
+- `1.511/026` · `FIN.horas_extras.exceso_limite` · **validated** · Número y señales semánticas verificadas
+- `2.779/026` · `FIN.liquidaciones.jornales_viaticos_omitidos` · **validated** · Número y señales semánticas verificadas
+- `1.904/019` · `FIN.transferencias.municipio` · **validated** · Número y señales semánticas verificadas
+- `903/026` · `FIN.transferencias.junta_departamental` · **validated** · Número y señales semánticas verificadas
+- `1.664/026` · `FIN.transferencias.cnd` · **validated** · Número y señales semánticas verificadas
+- `3.365/025` · `FIN.apoyos.institucion_dinero` · **validated** · Número y señales semánticas verificadas
+- `909/026` · `FIN.apoyos.persona_dinero` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `819/024` · `FIN.apoyos.bienes_materiales` · **validated** · Número y señales semánticas verificadas
+- `1.585/025` · `FIN.apoyos.actividad_deportiva_social` · **validated** · Número y señales semánticas verificadas
+- `2.722/026` · `FIN.exoneraciones.precio_tarifa` · **validated** · Número y señales semánticas verificadas
+- `2.289/026` · `FIN.exoneraciones.tributaria_junta` · **validated** · Número y señales semánticas verificadas
+- `532/026` · `FIN.tributos.prescripcion` · **validated** · Número y señales semánticas verificadas
+- `486/026` · `FIN.tributos.devolucion_pago_indebido` · **validated** · Número y señales semánticas verificadas
+- `4.841/025` · `FIN.garantias.devolucion_fiel_cumplimiento` · **validated** · Número y señales semánticas verificadas
+- `1.458/026` · `FIN.garantias.deposito_quebranto` · **validated** · Número y señales semánticas verificadas
+- `3.986/025` · `FIN.pagos.complementario_omitido` · **validated** · Número y señales semánticas verificadas
+- `219/023` · `FIN.retribuciones.reajuste_general` · **validated** · Número y señales semánticas verificadas
+- `2.418/025` · `FIN.control.arqueo_extraordinario` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `3.354/025` · `RRHH.movimientos.traslado` · **validated** · Número y señales semánticas verificadas
+- `867/025` · `RRHH.movimientos.traslado_funciones_diferencia_salarial` · **validated** · Número y señales semánticas verificadas
+- `2.832/026` · `RRHH.subrogaciones.temporal` · **validated** · Número y señales semánticas verificadas
+- `1.750/025` · `RRHH.designaciones.interina` · **validated** · Número y señales semánticas verificadas
+- `1.395/025` · `RRHH.designaciones.jefatura` · **validated** · Número y señales semánticas verificadas
+- `1.402/025` · `RRHH.designaciones.comision` · **validated** · Número y señales semánticas verificadas
+- `2.457/025` · `RRHH.comisiones.pase` · **validated** · Número y señales semánticas verificadas
+- `192/026` · `RRHH.comisiones.aceptacion_otro_organismo` · **validated** · Número y señales semánticas verificadas
+- `1.526/026` · `RRHH.comisiones.compensacion` · **validated** · Número y señales semánticas verificadas
+- `2.572/025` · `RRHH.renuncias.aceptacion` · **validated** · Número y señales semánticas verificadas
+- `2.294/026` · `RRHH.docentes.contratacion` · **validated** · Número y señales semánticas verificadas
+- `2.290/026` · `RRHH.docentes.ampliacion_horas` · **validated** · Número y señales semánticas verificadas
+- `1.831/026` · `RRHH.docentes.modificacion_contrato` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `2.302/026` · `RRHH.contrataciones.eventual` · **validated** · Número y señales semánticas verificadas
+- `1.348/026` · `RRHH.contrataciones.zafral_sorteo` · **validated** · Número y señales semánticas verificadas
+- `1.397/024` · `RRHH.contrataciones.orden_prelacion` · **validated** · Número y señales semánticas verificadas
+- `2.025/023` · `RRHH.llamados.abierto_oposicion_meritos` · **validated** · Número y señales semánticas verificadas
+- `435/024` · `RRHH.llamados.interno_ascenso` · **validated** · Número y señales semánticas verificadas
+- `1.172/019` · `RRHH.seleccion.designacion_tribunal` · **validated** · Número y señales semánticas verificadas
+- `2.574/026` · `RRHH.seleccion.aprobacion_acta` · **validated** · Número y señales semánticas verificadas
+- `3.698/024` · `RRHH.disciplina.investigacion_administrativa` · **validated** · Número y señales semánticas verificadas
+- `513/025` · `RRHH.protocolos.acoso` · **validated** · Número y señales semánticas verificadas
+- `1.795/025` · `RRHH.protocolos.fenomenos_adversos` · **validated** · Número y señales semánticas verificadas
+- `394/025` · `RRHH.protocolos.alcohol_drogas` · **validated** · Número y señales semánticas verificadas
+- `1.119/025` · `RRHH.licencias.jerarca` · **validated** · Número y señales semánticas verificadas
+- `2.720/026` · `RRHH.licencias.medica_autoridad` · **validated** · Número y señales semánticas verificadas
+- `714/024` · `RRHH.horarios.modificacion_servicio` · **validated** · Número y señales semánticas verificadas
+- `3.342/018` · `RRHH.retribuciones.regulacion_general` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `3.356/025` · `CONT.arrendamiento_obra.nuevo` · **validated** · Número y señales semánticas verificadas
+- `3.101/025` · `CONT.arrendamiento_obra.renovacion` · **validated** · Número y señales semánticas verificadas
+- `687/026` · `CONT.arrendamiento_obra.llamado_interesados` · **validated** · Número y señales semánticas verificadas
+- `707/026` · `CONT.arrendamiento_inmueble.nuevo` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `1.548/021` · `CONT.arrendamiento_inmueble.renovacion_modificacion` · **validated** · Número y señales semánticas verificadas
+- `705/026` · `CONT.arrendamiento_inmueble.finalizacion` · **validated** · Número y señales semánticas verificadas
+- `3.363/025` · `CONT.servicios.contratacion` · **validated** · Número y señales semánticas verificadas
+- `4.575/019` · `CONT.servicios.renovacion` · **validated** · Número y señales semánticas verificadas
+- `2.663/026` · `CONT.servicios.publicidad` · **validated** · Número y señales semánticas verificadas
+- `2.427/026` · `CONT.artistas.contratacion_directa` · **validated** · Número y señales semánticas verificadas
+- `2.825/026` · `CONT.licitaciones.convocatoria_abreviada` · **validated** · Número y señales semánticas verificadas
+- `644/025` · `CONT.licitaciones.adjudicacion_abreviada` · **validated** · Número y señales semánticas verificadas
+- `4.826/025` · `CONT.licitaciones.adjudicacion_publica` · **validated** · Número y señales semánticas verificadas
+- `4.029/025` · `CONT.licitaciones.adjudicacion_ad_referendum` · **validated** · Número y señales semánticas verificadas
+- `1.549/024` · `CONT.licitaciones.prorroga_apertura` · **validated** · Número y señales semánticas verificadas
+- `2.462/024` · `CONT.licitaciones.modificacion_procedimiento` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `278/025` · `CONT.licitaciones.desierta_contratacion_directa` · **validated** · Número y señales semánticas verificadas
+- `4.157/023` · `CONT.contratacion_directa.por_monto` · **validated** · Número y señales semánticas verificadas
+- `3.531/025` · `CONT.contratacion_directa.excepcion` · **validated** · Número y señales semánticas verificadas
+- `1.747/024` · `CONT.contrataciones.ampliacion` · **validated** · Número y señales semánticas verificadas
+- `425/026` · `CONT.obras.recepcion_provisoria` · **validated** · Número y señales semánticas verificadas
+- `2.718/022` · `CONT.obras.recepcion_definitiva` · **validated** · Número y señales semánticas verificadas
+- `1.822/026` · `CONT.llamados.interesados` · **validated** · Número y señales semánticas verificadas
+- `1.277/026` · `CONT.llamados.desierto` · **validated** · Número y señales semánticas verificadas
+- `3.497/025` · `CONT.patrocinios.llamado` · **validated** · Número y señales semánticas verificadas
+- `1.281/026` · `CONT.patrocinios.aprobacion` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `537/026` · `CONT.compras.inicio_procedimiento` · **validated** · Número y señales semánticas verificadas
+- `191/025` · `CONT.compras.directa_excepcion_pliego` · **validated** · Número y señales semánticas verificadas
+- `2.574/026` · `CONT.consultoria.seleccion` · **validated** · Número y señales semánticas verificadas
+- `3.167/025` · `CONT.servicios.entradas` · **validated** · Número y señales semánticas verificadas
+- `716/026` · `JUR.convenios.proyecto` · **validated** · Número y señales semánticas verificadas
+- `1.294/021` · `JUR.convenios.suscripcion` · **validated** · Número y señales semánticas verificadas
+- `3.102/024` · `JUR.convenios.prestaciones_reciprocas` · **validated** · Número y señales semánticas verificadas
+- `2.466/025` · `JUR.comodatos.inmueble_junta` · **validated** · Número y señales semánticas verificadas
+- `740/026` · `JUR.comodatos.modificacion` · **validated** · Número y señales semánticas verificadas
+- `4.358/023` · `JUR.donaciones.aceptacion` · **validated** · Número y señales semánticas verificadas
+- `164/017` · `JUR.donaciones.incorporacion_patrimonial` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `2.833/026` · `JUR.junta.proyecto_decreto` · **validated** · Número y señales semánticas verificadas
+- `2.626/026` · `JUR.junta.rendicion_cuentas` · **validated** · Número y señales semánticas verificadas
+- `2.292/026` · `JUR.junta.informe_actuaciones` · **validated** · Número y señales semánticas verificadas
+- `543/026` · `JUR.bienes.desafectacion_dominio_publico` · **validated** · Número y señales semánticas verificadas
+- `1.512/026` · `JUR.bienes.enajenacion_vehiculos` · **validated** · Número y señales semánticas verificadas
+- `1.418/025` · `JUR.decretos.promulgacion` · **validated** · Número y señales semánticas verificadas
+- `88/026` · `JUR.interes_departamental.declaracion` · **validated** · Número y señales semánticas verificadas
+- `1.003/026` · `JUR.interes_departamental.iniciativa_junta` · **validated** · Número y señales semánticas verificadas
+- `3.367/025` · `JUR.interes_municipal.declaracion` · **validated** · Número y señales semánticas verificadas
+- `4.511/025` · `JUR.actos_previos.rectificacion` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `4.175/024` · `JUR.actos_previos.dejar_sin_efecto` · **validated** · Número y señales semánticas verificadas
+- `4.173/024` · `JUR.actos_previos.derogacion` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `3.836/024` · `JUR.reglamentos.aprobacion` · **validated** · Número y señales semánticas verificadas
+- `107/021` · `JUR.delegaciones.atribuciones` · **validated** · Número y señales semánticas verificadas
+- `676/026` · `JUR.oficios.organismo_nacional` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `3.568/025` · `JUR.peticiones.denegatoria` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `520/026` · `JUR.peticiones.parcial` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `5.895/020` · `JUR.medidas_extraordinarias.cierre_suspension` · **validated** · Número y señales semánticas verificadas
+- `4.022/025` · `JUR.politicas.adopcion_recomendacion` · **validated** · Número y señales semánticas verificadas
+- `377/025` · `JUR.estatuto.modificacion_junta` · **validated** · Número y señales semánticas verificadas
+- `2.827/026` · `PERM.vendedor_ambulante.otorgamiento` · **validated** · Número y señales semánticas verificadas
+- `631/026` · `PERM.vendedor_ambulante.ampliacion_rubro` · **validated** · Número y señales semánticas verificadas
+- `2.042/026` · `PERM.vendedor_ambulante.baja` · **validated** · Número y señales semánticas verificadas
+- `1.734/025` · `PERM.ferias.autorizacion` · **validated** · Número y señales semánticas verificadas
+- `2.377/026` · `PERM.eventos.carrera_hipica` · **validated** · Número y señales semánticas verificadas
+- `2.291/026` · `PERM.eventos.baile` · **validated** · Número y señales semánticas verificadas
+- `3.013/024` · `PERM.teatro.espectaculo` · **validated** · Número y señales semánticas verificadas
+- `1.423/025` · `PERM.teatro.uso_exoneracion` · **validated** · Número y señales semánticas verificadas
+- `3.660/023` · `PERM.eventos.exposicion` · **validated** · Número y señales semánticas verificadas
+- `3.082/025` · `PERM.espacio_publico.uso` · **validated** · Número y señales semánticas verificadas
+- `1.391/025` · `PERM.camping.uso` · **validated** · Número y señales semánticas verificadas
+- `4.627/021` · `PERM.camping.reglamentacion` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `3.655/025` · `PERM.colaboraciones.alojamiento_alimentacion` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `642/025` · `PERM.colaboraciones.maquinaria_servicios` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `3.294/024` · `PERM.colaboraciones.logistica` · **validated** · Número y señales semánticas verificadas
+- `4.747/025` · `PERM.colaboraciones.premios` · **validated** · Número y señales semánticas verificadas
+- `3.519/021` · `PERM.colaboraciones.inspectores_transito` · **validated** · Número y señales semánticas verificadas
+- `2.295/026` · `NEC.derechos.duplicado` · **validated** · Número y señales semánticas verificadas
+- `1.654/026` · `NEC.derechos.renovacion` · **validated** · Número y señales semánticas verificadas
+- `3.002/015` · `NEC.derechos.caducidad` · **validated** · Número y señales semánticas verificadas
+- `6.394/017` · `NEC.parcelas.llamado_adjudicacion` · **validated** · Número y señales semánticas verificadas
+- `2.639/026` · `NEC.restos.retiro_temporal` · **validated** · Número y señales semánticas verificadas
+- `758/026` · `NEC.nichos.vencidos` · **validated** · Número y señales semánticas verificadas
+- `3.797/016` · `TRA.taxis.llamado_permisos` · **validated** · Número y señales semánticas verificadas
+- `4.601/019` · `TRA.taxis.traslado_parada` · **validated** · Número y señales semánticas verificadas
+- `2.437/026` · `TRA.matriculas.pdi` · **validated** · Número y señales semánticas verificadas
+- `3.836/024` · `TRA.exoneraciones.patente_pdi` · **validated** · Número y señales semánticas verificadas
+- `648/026` · `TRA.multas.vehiculo_municipal` · **validated** · Número y señales semánticas verificadas
+- `2.833/026` · `TRA.estacionamiento.zona_azul` · **validated** · Número y señales semánticas verificadas
+- `5.069/020` · `URB.fraccionamientos.aprobacion` · **validated** · Número y señales semánticas verificadas
+- `3.001/025` · `URB.pavimento.corte` · **validated** · Número y señales semánticas verificadas
+- `4.511/025` · `URB.permisos.rectificacion_tasa` · **validated** · Número y señales semánticas verificadas
+- `3.530/023` · `URB.viabilidad.consulta_previa` · **validated** · Número y señales semánticas verificadas
+- `1.570/026` · `URB.excepciones.via_excepcion_junta` · **validated** · Número y señales semánticas verificadas
+- `1.311/022` · `URB.excepciones.denegacion_tolerancia` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `4.481/022` · `URB.tasas.exoneracion_cooperativa` · **validated** · Número y señales semánticas verificadas
+- `543/026` · `URB.dominio_publico.desafectacion` · **validated** · Número y señales semánticas verificadas
+- `5.200/025` · `URB.delegaciones.autorizaciones_menores` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `3.098/023` · `URB.salubridad.intimacion_limpieza` · **validated** · Número y señales semánticas verificadas
+- `224/025` · `ESP.programas.gobernanza` · **validated** · Número y señales semánticas verificadas
+- `1.284/020` · `ESP.emergencias.regimen_temporal` · **import_review_required** · La ficha no comparte señales semánticas con la tipología esperada
+- `1.359/020` · `ESP.emergencias.suspension_actividades` · **validated** · Número y señales semánticas verificadas
