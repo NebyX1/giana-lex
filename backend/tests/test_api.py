@@ -4,6 +4,7 @@ import pytest
 
 from app import create_app
 from config import settings
+from legal_knowledge.indexing import LegalQdrantIndex
 from schemas import (
     DraftOutput,
     DynamicForm,
@@ -15,6 +16,12 @@ from schemas import (
     RiskFinding,
     SkillOutput,
 )
+
+
+@pytest.fixture(autouse=True)
+def offline_index(monkeypatch):
+    monkeypatch.setattr(LegalQdrantIndex, "search_taxonomy", lambda *args: [])
+    monkeypatch.setattr(LegalQdrantIndex, "health", lambda *args: {"connected": False})
 
 
 class FakeAgents:
@@ -101,7 +108,7 @@ def client(tmp_path):
 def test_complete_api_flow_without_paid_calls(client):
     health = client.get("/api/health")
     assert health.status_code == 200
-    assert health.json["examples_count"] == 2
+    assert health.json["examples_count"] == len(list(settings.examples_dir.glob("*.md")))
 
     created = client.post(
         "/api/conversations",
@@ -109,8 +116,10 @@ def test_complete_api_flow_without_paid_calls(client):
     )
     assert created.status_code == 200
     assert created.json["stage"] == "collecting_info"
+    assert created.json["classification_warning"]
     assert created.json["form"]["fields"][0]["id"] == "decision"
-    assert created.json["debug"]["tools_executed"] == ["search_examples", "load_mold"]
+    assert created.json["example_search_status"] in {"direct", "analogies", "out_of_scope", "catalog_empty"}
+    assert created.json["debug"]["tools_executed"] == ["search_resolution_types", "load_mold"]
     conversation_id = created.json["conversation_id"]
 
     listed = client.get("/api/conversations")
@@ -124,6 +133,8 @@ def test_complete_api_flow_without_paid_calls(client):
     )
     assert drafted.json["stage"] == "draft_review"
     assert "RESOLUCION" in drafted.json["draft"]
+    assert drafted.json["form_history"][0]["answers"]["decision"] == "Contratar la obra descrita por el solicitante"
+    assert drafted.json["form_history"][0]["form"]["fields"][0]["id"] == "decision"
 
     revised = client.post(
         f"/api/conversations/{conversation_id}/revise",
@@ -132,6 +143,9 @@ def test_complete_api_flow_without_paid_calls(client):
     assert revised.json["revision_count"] == 1
     assert "Comuniquese" in revised.json["draft"]
 
+    checked = client.post(f"/api/conversations/{conversation_id}/check")
+    assert checked.status_code == 200
+    assert checked.json["verification"]["draft_hash"]
     approved = client.post(f"/api/conversations/{conversation_id}/approve")
     assert approved.json["stage"] == "approved"
     assert {skill["key"] for skill in approved.json["skills"]} == {"political_risk", "legal_risk"}
@@ -154,6 +168,73 @@ def test_cannot_skip_workflow_stages(client):
     assert client.get(f"/api/conversations/{conversation_id}/export").status_code == 409
 
 
+def test_greeting_can_continue_into_document_in_same_conversation(client):
+    greeting = client.post("/api/conversations", json={"message": "Hola, me puedes ayudar?"})
+    assert greeting.status_code == 200
+    assert greeting.json["stage"] == "new"
+    assert greeting.json["form"] is None
+    assert greeting.json["classification_warning"] is None
+    conversation_id = greeting.json["conversation_id"]
+    followup = client.post(f"/api/conversations/{conversation_id}/message", json={"message": "¿Qué puedes hacer?"})
+    assert followup.status_code == 200
+    assert followup.json["stage"] == "new"
+    assert len(followup.json["intro_messages"]) == 4
+
+    request = "Necesito una resolucion de contratacion de arrendamiento de obra."
+    started = client.post(f"/api/conversations/{conversation_id}/message", json={"message": request})
+    assert started.status_code == 200
+    assert started.json["conversation_id"] == conversation_id
+    assert started.json["stage"] == "collecting_info"
+    assert started.json["form"]["fields"][0]["id"] == "decision"
+    assert len(started.json["intro_messages"]) == 4
+    listed = client.get("/api/conversations").json["conversations"]
+    assert len(listed) == 1
+    assert listed[0]["conversation_id"] == conversation_id
+    assert listed[0]["title"] == request
+    assert client.post(f"/api/conversations/{conversation_id}/message", json={"message": "Hola"}).status_code == 409
+
+
+def test_old_untouched_greeting_is_corrected_on_reopen(client):
+    from intake_fallback import generic_intake
+    from state import ConversationState, Stage
+
+    state = ConversationState(original_request="Hola, me puedes ayudar?", stage=Stage.COLLECTING_INFO,
+                              current_form=generic_intake("Hola, me puedes ayudar?").form,
+                              classification_warning="No se encontró una tipología específica.")
+    client.application.config["ORCHESTRATOR"].storage.save(state)
+    restored = client.get(f"/api/conversations/{state.id}")
+    assert restored.status_code == 200
+    assert restored.json["stage"] == "new"
+    assert restored.json["form"] is None
+    assert restored.json["classification_warning"] is None
+    assert "Sí, puedo ayudarte" in restored.json["message"]
+    assert len(client.get(f"/api/conversations/{state.id}").json["intro_messages"]) == 2
+
+
+def test_greeting_works_even_without_configured_provider(client):
+    client.application.config["ORCHESTRATOR"].agents = None
+    assert client.post("/api/conversations", json={"message": "Hola"}).status_code == 200
+    response = client.post("/api/conversations", json={"message": "Preparar una resolución"})
+    assert response.status_code == 400
+    assert response.json["error"] == "llm_not_configured"
+
+
+def test_delete_conversation(client):
+    created = client.post(
+        "/api/conversations", json={"message": "Conversacion para eliminar"}
+    ).json
+    conversation_id = created["conversation_id"]
+
+    deleted = client.delete(f"/api/conversations/{conversation_id}")
+
+    assert deleted.status_code == 204
+    missing = client.get(f"/api/conversations/{conversation_id}")
+    assert missing.status_code == 404
+    assert client.get("/api/conversations").json["conversations"] == []
+    repeated = client.delete(f"/api/conversations/{conversation_id}")
+    assert repeated.status_code == 404
+
+
 def test_skill_finishes_after_one_question_round(tmp_path):
     test_settings = replace(settings, database_path=tmp_path / "questions.sqlite3")
     app = create_app(test_settings, agents=RepeatingQuestionAgents(), database_path=test_settings.database_path)
@@ -162,6 +243,7 @@ def test_skill_finishes_after_one_question_round(tmp_path):
     created = client.post("/api/conversations", json={"message": "Preparar resolucion"}).json
     conversation_id = created["conversation_id"]
     client.post(f"/api/conversations/{conversation_id}/form", json={"answers": {"decision": "Resolver"}})
+    client.post(f"/api/conversations/{conversation_id}/check")
     client.post(f"/api/conversations/{conversation_id}/approve")
 
     first = client.post(f"/api/conversations/{conversation_id}/skills/legal_risk")

@@ -40,14 +40,24 @@ class ConversationState(BaseModel):
     owner_user_id: int | None = None
     stage: Stage = Stage.NEW
     original_request: str
+    intro_messages: list[dict[str, str]] = Field(default_factory=list)
     example_candidates: list[ExampleCandidate] = Field(default_factory=list)
     selected_examples: list[ExampleMatch] = Field(default_factory=list)
+    example_references: list[dict[str, Any]] = Field(default_factory=list)
+    example_search_status: str = "not_started"
+    intake_pending: bool = False
+    example_corpus_version: str | None = None
+    verification: dict[str, Any] | None = None
+    verified_draft_hash: str | None = None
+    approved_draft_hash: str | None = None
     taxonomy_candidates: list[dict[str, Any]] = Field(default_factory=list)
     selected_taxonomy_id: str | None = None
     resolution_classification: dict[str, Any] | None = None
+    classification_warning: str | None = None
     official_references: list[dict[str, Any]] = Field(default_factory=list)
     current_form: DynamicForm | None = None
     form_answers: dict[str, Any] = Field(default_factory=dict)
+    form_history: list[dict[str, Any]] = Field(default_factory=list)
     draft: str | None = None
     revision_count: int = 0
     revision_notes: list[str] = Field(default_factory=list)

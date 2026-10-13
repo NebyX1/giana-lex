@@ -5,6 +5,7 @@ from sqlalchemy import engine_from_config, pool
 
 from config import settings
 from legal_knowledge.models import Base
+import example_catalog  # noqa: F401 - register editorial tables in shared metadata
 from identity.extensions import db
 import identity.models  # noqa: F401
 

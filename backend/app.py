@@ -9,8 +9,11 @@ from flask_login import current_user, login_required
 from flask_wtf.csrf import CSRFError
 from pydantic import ValidationError
 from sqlalchemy.engine import make_url
+from werkzeug.exceptions import HTTPException
 
 from agents import PydanticAgents
+from example_api import blueprint as example_blueprint, import_examples_cli, index_examples_cli
+from example_catalog import ExampleCatalog
 from config import Settings, settings as default_settings
 from llm import LLMNotConfigured
 from legal_knowledge import LegalKnowledgeService
@@ -107,14 +110,19 @@ def create_app(settings: Settings = default_settings, agents=None, database_path
     if database_path is not None:
         legal_database = LegalKnowledgeDatabase(f"sqlite:///{Path(database_path).as_posix()}")
     legal_knowledge = LegalKnowledgeService(settings, database=legal_database)
+    example_catalog = ExampleCatalog(legal_knowledge.database, settings.examples_dir, settings)
     if agents is None:
         agents = PydanticAgents(settings, legal_knowledge=legal_knowledge) if settings.llm_configured else None
-    orchestrator = Orchestrator(settings, storage, agents, legal_knowledge=legal_knowledge)
+    orchestrator = Orchestrator(settings, storage, agents, legal_knowledge=legal_knowledge, example_catalog=example_catalog)
     app.config["ORCHESTRATOR"] = orchestrator
     app.config["LEGAL_KNOWLEDGE"] = legal_knowledge
+    app.config["EXAMPLE_CATALOG"] = example_catalog
     app.config["SETTINGS"] = settings
     app.register_blueprint(legal_knowledge_blueprint)
+    app.register_blueprint(example_blueprint)
     app.cli.add_command(legal_cli)
+    app.cli.add_command(import_examples_cli)
+    app.cli.add_command(index_examples_cli)
 
     def authenticated(view):
         @wraps(view)
@@ -138,11 +146,19 @@ def create_app(settings: Settings = default_settings, agents=None, database_path
             "conversation_id": state.id,
             "stage": state.stage.value,
             "message": message or state.last_debug.get("message", ""),
+            "intro_messages": state.intro_messages,
             "examples": [match.model_dump() for match in state.selected_examples],
+            "example_references": state.example_references,
+            "example_search_status": state.example_search_status,
+            "intake_pending": state.intake_pending,
+            "example_corpus_version": state.example_corpus_version,
+            "verification": state.verification,
             "taxonomy_candidates": state.taxonomy_candidates,
             "selected_taxonomy_id": state.selected_taxonomy_id,
+            "classification_warning": state.classification_warning,
             "official_references": state.official_references,
             "form": state.current_form.model_dump() if state.current_form else None,
+            "form_history": state.form_history,
             "draft": state.draft,
             "approved": state.approved,
             "skills": orchestrator.skill_metadata() if state.approved else [],
@@ -167,6 +183,10 @@ def create_app(settings: Settings = default_settings, agents=None, database_path
     def not_found(error):
         return jsonify({"ok": False, "error": "not_found", "message": str(error), "retryable": False}), 404
 
+    @app.errorhandler(HTTPException)
+    def http_error(error):
+        return jsonify({"ok": False, "error": error.name, "message": error.description, "retryable": False}), error.code
+
     @app.errorhandler(Exception)
     def unexpected(error):
         app.logger.exception("Error no controlado")
@@ -189,11 +209,26 @@ def create_app(settings: Settings = default_settings, agents=None, database_path
     @app.post("/api/conversations")
     @authenticated
     def create_conversation():
-        if orchestrator.agents is None:
-            raise OperationError("llm_not_configured", "El proveedor LLM no esta configurado", False)
         data = request.get_json(silent=True) or {}
         owner_id = None if app.config["TESTING_AUTH_BYPASS"] else current_user.id
         return jsonify(response_for(orchestrator.create_conversation(data.get("message"), owner_id)))
+
+    @app.post("/api/conversations/<conversation_id>/message")
+    @authenticated
+    def continue_conversation(conversation_id):
+        state = authorize_conversation(conversation_id)
+        data = request.get_json(silent=True) or {}
+        return jsonify(response_for(orchestrator.create_conversation(
+            data.get("message"), state.owner_user_id, conversation_id,
+        )))
+
+    @app.post("/api/conversations/check-draft")
+    @authenticated
+    def check_existing_draft():
+        data = request.get_json(silent=True) or {}
+        owner_id = None if app.config["TESTING_AUTH_BYPASS"] else current_user.id
+        return jsonify(response_for(orchestrator.create_draft_check(data.get("draft"), data.get("context", ""),
+                                                                    data.get("facts") or {}, owner_id)))
 
     @app.get("/api/conversations")
     @authenticated
@@ -216,6 +251,13 @@ def create_app(settings: Settings = default_settings, agents=None, database_path
         authorize_conversation(conversation_id)
         return jsonify(response_for(orchestrator.get(conversation_id)))
 
+    @app.delete("/api/conversations/<conversation_id>")
+    @authenticated
+    def delete_conversation(conversation_id):
+        authorize_conversation(conversation_id)
+        storage.delete(conversation_id)
+        return "", 204
+
     @app.post("/api/conversations/<conversation_id>/form")
     @authenticated
     def submit_form(conversation_id):
@@ -236,6 +278,13 @@ def create_app(settings: Settings = default_settings, agents=None, database_path
         authorize_conversation(conversation_id)
         return jsonify(response_for(orchestrator.approve(conversation_id)))
 
+    @app.post("/api/conversations/<conversation_id>/check")
+    @authenticated
+    def check_draft(conversation_id):
+        authorize_conversation(conversation_id)
+        data = request.get_json(silent=True) or {}
+        return jsonify(response_for(orchestrator.check_draft(conversation_id, data.get("draft"), data.get("resolved"))))
+
     @app.get("/api/skills")
     @authenticated
     def skills():
@@ -252,7 +301,7 @@ def create_app(settings: Settings = default_settings, agents=None, database_path
     @authenticated
     def export(conversation_id):
         state = authorize_conversation(conversation_id)
-        if state.stage != Stage.APPROVED or not state.draft:
+        if state.stage != Stage.APPROVED or not state.draft or state.approved_draft_hash != __import__("hashlib").sha256(state.draft.encode("utf-8")).hexdigest():
             raise InvalidTransition("Solo se puede exportar un borrador aprobado")
         return send_file(
             export_markdown_docx(state.draft),

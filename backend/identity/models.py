@@ -1,10 +1,14 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timezone, timedelta
 
 from argon2 import PasswordHasher
 from argon2.exceptions import InvalidHashError, VerificationError, VerifyMismatchError
 from flask_login import UserMixin
 
 from .extensions import db
+
+
+def utc_now() -> datetime:
+    return datetime.now(timezone.utc).replace(tzinfo=None)
 
 
 password_hasher = PasswordHasher()
@@ -22,7 +26,7 @@ class User(UserMixin, db.Model):
     password_hash = db.Column(db.String(255), nullable=False)
     is_active = db.Column(db.Boolean, nullable=False, default=True)
     is_superuser = db.Column(db.Boolean, nullable=False, default=False)
-    created_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+    created_at = db.Column(db.DateTime, nullable=False, default=utc_now)
     last_login_at = db.Column(db.DateTime)
     otp_codes = db.relationship("EmailOtpCode", back_populates="user", cascade="all, delete-orphan", lazy="dynamic")
     roles = db.relationship(
@@ -69,7 +73,7 @@ class UserRole(db.Model):
     user_id = db.Column(db.Integer, db.ForeignKey("users.id", ondelete="CASCADE"), nullable=False, index=True)
     role_id = db.Column(db.Integer, db.ForeignKey("roles.id", ondelete="CASCADE"), nullable=False, index=True)
     granted_by_user_id = db.Column(db.Integer, db.ForeignKey("users.id", ondelete="SET NULL"), index=True)
-    granted_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+    granted_at = db.Column(db.DateTime, nullable=False, default=utc_now)
 
 
 class EmailOtpCode(db.Model):
@@ -80,15 +84,15 @@ class EmailOtpCode(db.Model):
     expires_at = db.Column(db.DateTime, nullable=False)
     attempts = db.Column(db.Integer, nullable=False, default=0)
     consumed_at = db.Column(db.DateTime)
-    created_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+    created_at = db.Column(db.DateTime, nullable=False, default=utc_now)
     user = db.relationship("User", back_populates="otp_codes")
 
     @classmethod
     def create(cls, user_id: int, code: str, ttl_minutes: int):
-        return cls(user_id=user_id, code_hash=password_hasher.hash(code), expires_at=datetime.utcnow() + timedelta(minutes=ttl_minutes))
+        return cls(user_id=user_id, code_hash=password_hasher.hash(code), expires_at=utc_now() + timedelta(minutes=ttl_minutes))
 
     def verify(self, code: str, max_attempts: int) -> bool:
-        if self.consumed_at or datetime.utcnow() >= self.expires_at or self.attempts >= max_attempts:
+        if self.consumed_at or utc_now() >= self.expires_at or self.attempts >= max_attempts:
             return False
         self.attempts += 1
         try:
@@ -96,7 +100,7 @@ class EmailOtpCode(db.Model):
         except (VerifyMismatchError, VerificationError, InvalidHashError):
             valid = False
         if valid:
-            self.consumed_at = datetime.utcnow()
+            self.consumed_at = utc_now()
         return valid
 
 
@@ -111,4 +115,4 @@ class AuditEvent(db.Model):
     details = db.Column(db.Text)
     request_id = db.Column(db.String(36))
     ip_address = db.Column(db.String(64))
-    created_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow, index=True)
+    created_at = db.Column(db.DateTime, nullable=False, default=utc_now, index=True)

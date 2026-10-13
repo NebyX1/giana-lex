@@ -1,5 +1,6 @@
 import { Button, Spinner, Text, Textarea } from '@fluentui/react-components'
 import { ArrowRightRegular, DocumentTextRegular, SearchRegular, SendRegular, ShieldCheckmarkRegular, SparkleRegular } from '@fluentui/react-icons'
+import DynamicForm from './DynamicForm.jsx'
 
 const prompts = [
   { icon: DocumentTextRegular, label: 'REDACCIÓN', text: 'Preparar una resolución administrativa a partir de antecedentes.' },
@@ -20,13 +21,15 @@ export default function ChatPane({ messages, hasConversation, value, onChange, o
             <div className="prompt-grid">{prompts.map(({ icon: Icon, label, text }) => <button className="prompt-card" type="button" key={label} onClick={() => onChange(text)}><span className="prompt-label">{label}</span><div><Text weight="semibold">{text}</Text><Icon /></div></button>)}</div>
           </div>
         )}
-        {messages.map((message, index) => (
+        {messages.map((message, index) => message.role === 'form' ? (
+          <DynamicForm key={message.id || `form-${index}`} form={message.form} initialValues={message.answers} disabled onSubmit={() => {}} />
+        ) : (
           <div className={`message-row ${message.role}`} key={`${message.role}-${index}`}>
             {message.role === 'assistant' && <div className="agent-avatar">GL</div>}
             <div className="message-content"><span>{message.role === 'user' ? 'USTED' : 'GIANA-LEX'}</span><p className={`bubble ${message.role}`}>{message.text}</p></div>
           </div>
         ))}
-        {busy === 'create' && <div className="activity"><Spinner size="tiny" /><span>Buscando antecedentes y preparando la información necesaria…</span></div>}
+        {busy === 'create' && <div className="activity"><Spinner size="tiny" /><span>Preparando la respuesta…</span></div>}
         {children}
       </div>
       {!hasConversation && (

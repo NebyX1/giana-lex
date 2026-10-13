@@ -1,5 +1,5 @@
 import secrets
-from datetime import datetime
+from smtplib import SMTPAuthenticationError
 
 from flask import Blueprint, current_app, jsonify, request, session
 from flask_login import current_user, login_required, login_user, logout_user
@@ -8,7 +8,7 @@ from flask_wtf.csrf import generate_csrf
 from .audit import record_event
 from .extensions import db, limiter
 from .mail_service import send_login_code
-from .models import EmailOtpCode, User
+from .models import EmailOtpCode, User, utc_now
 
 
 auth_bp = Blueprint("auth", __name__, url_prefix="/api/auth")
@@ -69,7 +69,7 @@ def login():
         record_event("auth.password", "denied", user.id if user else None)
         db.session.commit()
         return jsonify(error="invalid_credentials", message="Credenciales inválidas."), 401
-    EmailOtpCode.query.filter_by(user_id=user.id, consumed_at=None).update({EmailOtpCode.consumed_at: datetime.utcnow()})
+    EmailOtpCode.query.filter_by(user_id=user.id, consumed_at=None).update({EmailOtpCode.consumed_at: utc_now()})
     code = f"{secrets.randbelow(1_000_000):06d}"
     otp = EmailOtpCode.create(user.id, code, current_app.config["OTP_TTL_MINUTES"])
     db.session.add(otp)
@@ -77,12 +77,15 @@ def login():
     db.session.commit()
     try:
         send_login_code(user.email, user.display_name, code)
-    except Exception:
+    except Exception as error:
         current_app.logger.exception("Could not deliver login code for user %s", user.id)
-        otp.consumed_at = datetime.utcnow()
+        otp.consumed_at = utc_now()
         record_event("auth.otp_delivery", "failed", user.id)
         db.session.commit()
-        return jsonify(error="otp_delivery_failed", message="No se pudo enviar el codigo de acceso."), 503
+        message = "No se pudo enviar el código de acceso. Inténtelo nuevamente en unos minutos."
+        if isinstance(error, SMTPAuthenticationError):
+            message = "El servicio de correo necesita actualizar sus credenciales. Contacte al administrador para poder recibir el código de acceso."
+        return jsonify(error="otp_delivery_failed", message=message), 503
     _clear_session_preserving_csrf()
     session["pending_otp_user_id"] = user.id
     session["pending_otp_id"] = otp.id
@@ -107,7 +110,7 @@ def verify():
         record_event("auth.email_otp", "denied", user.id)
         db.session.commit()
         return jsonify(error="invalid_verification", message="Codigo incorrecto o vencido."), 401
-    user.last_login_at = datetime.utcnow()
+    user.last_login_at = utc_now()
     record_event("auth.email_otp", "accepted", user.id)
     db.session.commit()
     _clear_session_preserving_csrf()

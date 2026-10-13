@@ -2,6 +2,7 @@ import { Button, Card, Select, Text, Title1, Title3 } from '@fluentui/react-comp
 import { ArrowLeftRegular, BookRegular, BotRegular, BuildingRegular, ChevronRightRegular, HistoryRegular, PeopleRegular, SettingsRegular, ShieldLockRegular } from '@fluentui/react-icons'
 
 const tiles = [
+  { view: 'examples', icon: BookRegular, title: 'Resoluciones de ejemplo', description: 'Buscar, comparar, editar e importar referencias editoriales que utiliza Gianna.', action: 'Abrir catálogo' },
   { view: 'knowledge', icon: BookRegular, title: 'Conocimiento jurídico', description: 'Tipologías, resoluciones oficiales y estado del índice semántico.', action: 'Abrir biblioteca' },
   { view: 'national', icon: BookRegular, title: 'Normativa nacional', description: 'Fuentes oficiales, indexación y actualización desde IMPO.', action: 'Administrar' },
   { view: 'departmental', icon: BuildingRegular, title: 'Normativa departamental', description: 'Digesto de Lavalleja, textos utilizables y materias.', action: 'Administrar' },
@@ -23,7 +24,7 @@ export default function SettingsCenter({ hasConversation, skills, onNavigate, on
       <label><span>Modelo</span><Select disabled={hasConversation} defaultValue="default"><option value="default">Modelo predeterminado</option></Select><small>Se conserva para asegurar continuidad del workflow.</small></label>
       <label><span>Especialidad</span><Select defaultValue="automatic"><option value="automatic">Enrutamiento automático</option>{skills.map((skill) => <option key={skill.key} value={skill.key}>{skill.name}</option>)}</Select><small>Las capacidades disponibles son informadas por el backend.</small></label>
     </Card></section>
-    <section className="settings-section"><div className="settings-section-header"><div><Title3>Biblioteca jurídica</Title3><Text className="muted" size={200}>Administre el conocimiento persistente utilizado por el agente.</Text></div></div><div className="settings-grid">{tiles.slice(0, 3).map((tile) => <SettingsTile key={tile.view} tile={tile} onNavigate={onNavigate} />)}</div></section>
-    <section className="settings-section"><div className="settings-section-header"><div><Title3>Administración</Title3><Text className="muted" size={200}>Conexiones externas y controles de acceso del sistema.</Text></div></div><div className="settings-grid">{tiles.slice(3).map((tile) => <SettingsTile key={tile.view} tile={tile} onNavigate={onNavigate} />)}</div></section>
+    <section className="settings-section"><div className="settings-section-header"><div><Title3>Biblioteca jurídica</Title3><Text className="muted" size={200}>Administre el conocimiento persistente utilizado por el agente.</Text></div></div><div className="settings-grid">{tiles.slice(0, 4).map((tile) => <SettingsTile key={tile.view} tile={tile} onNavigate={onNavigate} />)}</div></section>
+    <section className="settings-section"><div className="settings-section-header"><div><Title3>Administración</Title3><Text className="muted" size={200}>Conexiones externas y controles de acceso del sistema.</Text></div></div><div className="settings-grid">{tiles.slice(4).map((tile) => <SettingsTile key={tile.view} tile={tile} onNavigate={onNavigate} />)}</div></section>
   </main>
 }

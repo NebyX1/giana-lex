@@ -44,6 +44,12 @@ class Storage:
             ).fetchone()
         return ConversationState.model_validate_json(row["state_json"]) if row else None
 
+    def delete(self, conversation_id: str) -> None:
+        with self._connect() as connection:
+            connection.execute(
+                "DELETE FROM conversations WHERE id = ?", (conversation_id,)
+            )
+
     def list_for_owner(self, owner_user_id: int | None) -> list[ConversationState]:
         query = "SELECT state_json FROM conversations"
         parameters = ()

@@ -46,6 +46,7 @@ class Settings:
     llm_api_key: str = _llm_api_key()
     llm_model: str = (os.getenv("LLM_MODEL", "").strip() or os.getenv("OLLAMA_MODEL", "").strip())
     llm_timeout_seconds: float = float(os.getenv("LLM_TIMEOUT_SECONDS", "60"))
+    intake_timeout_seconds: float = float(os.getenv("INTAKE_TIMEOUT_SECONDS", "8"))
     llm_max_output_tokens: int = int(os.getenv("LLM_MAX_OUTPUT_TOKENS", "4000"))
     llm_temperature: float | None = _optional_float("LLM_TEMPERATURE")
     examples_top_k: int = int(os.getenv("EXAMPLES_TOP_K", "3"))

@@ -5,7 +5,6 @@ from pathlib import Path
 from threading import Lock
 from uuid import NAMESPACE_URL, uuid5
 
-from fastembed import TextEmbedding
 from qdrant_client import QdrantClient, models
 
 
@@ -56,6 +55,8 @@ class EmbeddingService:
         if self._model is None:
             with self._lock:
                 if self._model is None:
+                    from fastembed import TextEmbedding
+
                     self.cache_dir.mkdir(parents=True, exist_ok=True)
                     self._model = TextEmbedding(model_name=self.model_name, cache_dir=str(self.cache_dir))
         return self._model
@@ -75,7 +76,12 @@ class LegalQdrantIndex:
             settings.legal_embedding_dimension,
             settings.legal_embedding_cache_dir,
         )
-        self.client = client or QdrantClient(url=settings.qdrant_url, api_key=settings.qdrant_api_key or None, timeout=15)
+        self.client = client or QdrantClient(
+            url=settings.qdrant_url,
+            api_key=settings.qdrant_api_key or None,
+            timeout=15,
+            check_compatibility=False,
+        )
         self._collections_ensured = False
         self._ensure_lock = Lock()
 

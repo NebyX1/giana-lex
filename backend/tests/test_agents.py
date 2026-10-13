@@ -19,7 +19,9 @@ def test_prompted_output_pipeline_with_pydantic_ai_test_model():
     }
     agents = PydanticAgents(settings, model=TestModel(custom_output_text=json.dumps(payload)))
 
-    run = agents.intake({"solicitud": "Preparar una resolucion", "candidatos": [], "molde": "RESUELVE"})
+    run = agents.intake({"solicitud": "compensacion mensual", "candidatos": [{
+        "filename": "modelo.md", "title": "Compensacion mensual", "excerpt": "Compensacion mensual", "score": 1,
+    }], "molde": "RESUELVE"})
 
     assert isinstance(run.output, IntakeOutput)
     assert run.output.match_status == "none"

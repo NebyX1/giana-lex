@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
-import { Avatar, Button, FluentProvider, MessageBar, MessageBarBody, Spinner, Text, webDarkTheme, webLightTheme } from '@fluentui/react-components'
-import { AddRegular, ChatRegular, DocumentRegular, NavigationRegular, PanelRightRegular, SettingsRegular, SignOutRegular, WeatherMoonRegular, WeatherSunnyRegular } from '@fluentui/react-icons'
+import { Avatar, Button, Dialog, DialogActions, DialogBody, DialogContent, DialogSurface, DialogTitle, FluentProvider, MessageBar, MessageBarBody, Spinner, Text, webDarkTheme, webLightTheme } from '@fluentui/react-components'
+import { AddRegular, ChatRegular, DeleteRegular, DocumentRegular, NavigationRegular, PanelRightRegular, SettingsRegular, SignOutRegular, WeatherMoonRegular, WeatherSunnyRegular } from '@fluentui/react-icons'
 import { api, authApi } from './api.js'
 import AuthScreen from './components/AuthScreen.jsx'
 import CasesView from './components/CasesView.jsx'
@@ -11,6 +11,8 @@ import { AuditManager, NormsManager, ProviderManager, UsersManager } from './com
 import RightPanel from './components/RightPanel.jsx'
 import SettingsCenter from './components/SettingsCenter.jsx'
 import KnowledgeCenter from './components/knowledge/KnowledgeCenter.jsx'
+import ExampleManager from './components/ExampleManager.jsx'
+import CheckExistingDraft from './components/CheckExistingDraft.jsx'
 import SkillPicker from './components/SkillPicker.jsx'
 import SkillResult from './components/SkillResult.jsx'
 
@@ -24,6 +26,8 @@ export default function App() {
   const [recentConversations, setRecentConversations] = useState([])
   const [recentLoading, setRecentLoading] = useState(false)
   const [recentError, setRecentError] = useState('')
+  const [pendingDeletion, setPendingDeletion] = useState(null)
+  const [deletingConversationId, setDeletingConversationId] = useState(null)
   const [messages, setMessages] = useState([])
   const [busy, setBusy] = useState(null)
   const [error, setError] = useState('')
@@ -62,13 +66,23 @@ export default function App() {
     void loadRecentConversations()
   }, [user, view])
 
+  useEffect(() => {
+    if (!conversation?.intake_pending || !conversation?.conversation_id) return undefined
+    const id = setInterval(() => {
+      api.get(conversation.conversation_id).then((fresh) => {
+        setConversation((current) => current?.conversation_id === fresh.conversation_id ? fresh : current)
+      }).catch(() => {})
+    }, 2000)
+    return () => clearInterval(id)
+  }, [conversation?.intake_pending, conversation?.conversation_id])
+
   const authenticate = (nextUser) => setUser(nextUser)
   const logout = async () => {
     try { await authApi.logout() } finally {
       setUser(null); setView('chat'); setConversation(null); setMessages([]); setRecentConversations([]); setRecentError(''); setQuery(''); setError('')
     }
   }
-  const navigate = (nextView) => { setView(nextView); setSidebarOpen(false) }
+  const navigate = (nextView) => { setView(nextView); setSidebarOpen(false); setError('') }
   const resetConversation = () => { setConversation(null); setMessages([]); setQuery(''); setError(''); setView('chat'); setSidebarOpen(false); setRightOpen(true) }
 
   const perform = async (key, action, userText) => {
@@ -78,6 +92,7 @@ export default function App() {
     try {
       const data = await action()
       setConversation(data)
+      setError('')
       void loadRecentConversations()
       if (data.message) setMessages((current) => [...current, { role: 'assistant', text: data.message }])
       if (data.draft) setRightOpen(true)
@@ -95,11 +110,28 @@ export default function App() {
     const message = query.trim()
     if (!message) return
     setQuery('')
-    try { await perform('create', () => api.create(message), message) } catch { setQuery(message) }
+    const action = conversation?.stage === 'new'
+      ? () => api.message(conversation.conversation_id, message)
+      : () => api.create(message)
+    try { await perform('create', action, message) } catch { setQuery(message) }
   }
-  const submitForm = (answers) => perform('form', () => api.form(conversation.conversation_id, answers)).catch(() => null)
+  const submitForm = async (answers) => {
+    const entry = { id: `form-${Date.now()}`, role: 'form', form: conversation.form, answers }
+    setMessages((current) => [...current, entry])
+    try {
+      return await perform('form', () => api.form(conversation.conversation_id, answers))
+    } catch {
+      setMessages((current) => current.filter((message) => message.id !== entry.id))
+      return null
+    }
+  }
   const revise = (instructions) => perform('revise', () => api.revise(conversation.conversation_id, instructions), instructions)
   const approve = () => perform('approve', () => api.approve(conversation.conversation_id)).catch(() => null)
+  const checkDraft = (draft) => perform('check', () => api.check(conversation.conversation_id, draft)).catch(() => null)
+  const checkExisting = async (draft, context) => {
+    const result = await perform('check', () => api.checkExisting(draft, context), context || 'Comprobar borrador').catch(() => null)
+    if (result) { setView('chat'); setRightOpen(true) }
+  }
   const runSkill = (key, answers) => perform(`skill-${key}`, () => api.skill(conversation.conversation_id, key, answers)).catch(() => null)
   const openConversation = async (conversationId) => {
     setBusy('load-conversation')
@@ -107,8 +139,10 @@ export default function App() {
     try {
       const data = await api.get(conversationId)
       setConversation(data)
-      const restoredMessages = [{ role: 'user', text: recentConversations.find((item) => item.conversation_id === conversationId)?.title || 'Consulta jurídica' }]
-      if (data.message) restoredMessages.push({ role: 'assistant', text: data.message })
+      const restoredMessages = [...(data.intro_messages || [])]
+      if (data.stage !== 'new' || !restoredMessages.length) restoredMessages.push({ role: 'user', text: recentConversations.find((item) => item.conversation_id === conversationId)?.title || 'Consulta jurídica' })
+      for (const [index, item] of (data.form_history || []).entries()) restoredMessages.push({ id: `restored-form-${index}`, role: 'form', form: item.form, answers: item.answers })
+      if (data.message && (data.stage !== 'new' || !(data.intro_messages || []).length)) restoredMessages.push({ role: 'assistant', text: data.message })
       setMessages(restoredMessages)
       setView('chat')
       setSidebarOpen(false)
@@ -120,6 +154,25 @@ export default function App() {
     }
   }
 
+  const deleteConversation = async () => {
+    if (!pendingDeletion) return
+    const conversationId = pendingDeletion.conversation_id
+    setDeletingConversationId(conversationId)
+    setRecentError('')
+    setError('')
+    try {
+      await api.deleteConversation(conversationId)
+      setRecentConversations((current) => current.filter((item) => item.conversation_id !== conversationId))
+      if (conversation?.conversation_id === conversationId) resetConversation()
+      setPendingDeletion(null)
+    } catch (exception) {
+      setPendingDeletion(null)
+      setError(exception.message)
+    } finally {
+      setDeletingConversationId(null)
+    }
+  }
+
   const theme = darkMode ? webDarkTheme : webLightTheme
   if (authLoading) return <FluentProvider theme={theme}><main className="auth-page"><Spinner label="Conectando con Giana-Lex" /></main></FluentProvider>
   if (!user) return <FluentProvider theme={theme}><AuthScreen darkMode={darkMode} onToggleTheme={() => setDarkMode((value) => !value)} onAuthenticated={authenticate} /></FluentProvider>
@@ -127,6 +180,8 @@ export default function App() {
   let content
   if (view === 'settings') content = <SettingsCenter hasConversation={Boolean(conversation)} skills={conversation?.skills || []} onNavigate={navigate} onClose={() => navigate('chat')} />
   if (view === 'knowledge') content = <KnowledgeCenter onClose={() => navigate('settings')} />
+  if (view === 'examples') content = <ExampleManager user={user} onClose={() => navigate('settings')} />
+  if (view === 'check-draft') content = <CheckExistingDraft onClose={() => navigate('chat')} onSubmit={checkExisting} busy={busy} />
   if (view === 'national') content = <NormsManager kind="national" onClose={() => navigate('settings')} />
   if (view === 'departmental') content = <NormsManager kind="departmental" onClose={() => navigate('settings')} />
   if (view === 'providers') content = <ProviderManager onClose={() => navigate('settings')} />
@@ -139,20 +194,22 @@ export default function App() {
       {sidebarOpen && <button className="sidebar-scrim" aria-label="Cerrar navegación" onClick={() => setSidebarOpen(false)} />}
       <aside className="sidebar">
         <div className="sidebar-header"><div className="sidebar-brand">GL</div><div><Text weight="semibold" block>Giana-Lex</Text><Text size={100} className="muted">Inteligencia jurídica</Text></div></div>
-        <div className="sidebar-actions"><Button className="new-conversation" appearance="primary" icon={<AddRegular />} onClick={resetConversation}>Nueva consulta</Button><span className="nav-label">ESPACIO DE TRABAJO</span><Button appearance="subtle" icon={<ChatRegular />} data-active={view === 'chat'} onClick={() => { navigate('chat'); void loadRecentConversations() }}>Conversación general</Button><Button appearance="subtle" icon={<DocumentRegular />} onClick={() => navigate('cases')}>Expedientes</Button></div>
-        <div className="session-list"><span className="nav-label">CONVERSACIONES RECIENTES</span>{recentConversations.length ? recentConversations.map((item) => <button key={item.conversation_id} className="session-row" data-active={conversation?.conversation_id === item.conversation_id} onClick={() => void openConversation(item.conversation_id)}><ChatRegular /><span>{item.title || 'Consulta jurídica'}</span></button>) : <Text className="empty-sessions" size={200}>{recentLoading ? 'Cargando conversaciones...' : recentError || 'Las consultas activas aparecerán aquí.'}</Text>}</div>
+        <div className="sidebar-actions"><Button className="new-conversation" appearance="primary" icon={<AddRegular />} onClick={resetConversation}>Nueva consulta</Button><span className="nav-label">ESPACIO DE TRABAJO</span><Button appearance="subtle" icon={<ChatRegular />} data-active={view === 'chat'} onClick={() => { navigate('chat'); void loadRecentConversations() }}>Conversación general</Button><Button appearance="subtle" icon={<DocumentRegular />} onClick={() => navigate('check-draft')}>Comprobar borrador</Button><Button appearance="subtle" icon={<DocumentRegular />} onClick={() => navigate('cases')}>Expedientes</Button></div>
+        <div className="session-list"><span className="nav-label">CONVERSACIONES RECIENTES</span>{recentConversations.length ? recentConversations.map((item) => <div key={item.conversation_id} className="session-entry"><button className="session-row" data-active={conversation?.conversation_id === item.conversation_id} onClick={() => void openConversation(item.conversation_id)}><ChatRegular /><span>{item.title || 'Consulta jurídica'}</span></button><Button className="session-delete" appearance="subtle" size="small" icon={<DeleteRegular />} aria-label={`Eliminar ${item.title || 'consulta jurídica'}`} title="Eliminar conversación" disabled={deletingConversationId === item.conversation_id} onClick={() => setPendingDeletion(item)} /></div>) : <Text className="empty-sessions" size={200}>{recentLoading ? 'Cargando conversaciones...' : recentError || 'Las consultas activas aparecerán aquí.'}</Text>}</div>
         <div className="sidebar-footer"><div className="sidebar-utilities"><Button appearance="subtle" icon={<SettingsRegular />} onClick={() => navigate('settings')}>Configurar</Button><Button appearance="subtle" icon={darkMode ? <WeatherSunnyRegular /> : <WeatherMoonRegular />} onClick={() => setDarkMode((value) => !value)}>{darkMode ? 'Modo claro' : 'Nocturno'}</Button></div><div className="user-row"><Avatar name={user.display_name} color="colorful" /><div><Text weight="semibold" size={200} block>{user.display_name}</Text><Text className="muted" size={100} block>{user.email}</Text></div><Button appearance="subtle" icon={<SignOutRegular />} aria-label="Cerrar sesión" onClick={() => void logout()} /></div></div>
       </aside>
+      <Dialog open={Boolean(pendingDeletion)} onOpenChange={(_, data) => { if (!deletingConversationId && !data.open) setPendingDeletion(null) }}><DialogSurface><DialogBody><DialogTitle>Eliminar conversación</DialogTitle><DialogContent>Esta acción eliminará permanentemente “{pendingDeletion?.title || 'Consulta jurídica'}”.</DialogContent><DialogActions><Button appearance="secondary" disabled={Boolean(deletingConversationId)} onClick={() => setPendingDeletion(null)}>Cancelar</Button><Button appearance="primary" icon={<DeleteRegular />} disabled={Boolean(deletingConversationId)} onClick={() => void deleteConversation()}>{deletingConversationId ? 'Eliminando...' : 'Eliminar'}</Button></DialogActions></DialogBody></DialogSurface></Dialog>
       <main className="chat-workspace">
         <header className="topbar"><Button className="mobile-menu" appearance="subtle" icon={<NavigationRegular />} aria-label="Abrir navegación" onClick={() => setSidebarOpen(true)} /><div className="topbar-title"><Text weight="semibold" size={400} block>{conversation ? `EXP. ${conversation.conversation_id.slice(0, 8).toUpperCase()}` : 'Nueva consulta jurídica'}</Text><div className="workspace-status"><span data-busy={Boolean(busy)} />{busy ? 'Procesando solicitud' : conversation ? 'Workflow sincronizado' : 'Listo para comenzar'}</div></div><Button appearance="subtle" icon={<PanelRightRegular />} onClick={() => setRightOpen((value) => !value)}>{rightOpen ? 'Ocultar panel' : 'Panel de trabajo'}</Button></header>
         {error && <MessageBar className="global-error" intent="error"><MessageBarBody>{error}</MessageBarBody></MessageBar>}
-        <ChatPane messages={messages} hasConversation={Boolean(conversation)} value={query} onChange={setQuery} onSend={send} busy={busy}>
+        {!error && conversation?.classification_warning && <MessageBar className="global-error" intent="warning"><MessageBarBody>{conversation.classification_warning}{conversation.intake_pending ? ' Comparación en curso.' : ''}</MessageBarBody></MessageBar>}
+        <ChatPane messages={messages} hasConversation={Boolean(conversation) && conversation.stage !== 'new'} value={query} onChange={setQuery} onSend={send} busy={busy}>
           {conversation?.form && conversation.stage === 'collecting_info' && <DynamicForm form={conversation.form} onSubmit={submitForm} busy={busy === 'form'} />}
           {conversation?.approved && <><SkillPicker skills={conversation.skills} onRun={(key) => runSkill(key)} onExport={() => { window.location.href = api.exportUrl(conversation.conversation_id) }} busy={busy} />{Object.entries(conversation.skill_results).map(([key, result]) => <SkillResult key={key} skill={conversation.skills.find((skill) => skill.key === key)} result={result} onSubmit={(answers) => runSkill(key, answers)} busy={busy === `skill-${key}`} />)}</>}
           <DebugPanel debug={conversation?.debug} />
         </ChatPane>
       </main>
-      {rightOpen && <RightPanel conversation={conversation} busy={busy} onRevise={revise} onApprove={approve} onClose={() => setRightOpen(false)} />}
+      {rightOpen && <RightPanel conversation={conversation} busy={busy} onRevise={revise} onApprove={approve} onCheck={checkDraft} onClose={() => setRightOpen(false)} />}
     </div>}
   </FluentProvider>
 }

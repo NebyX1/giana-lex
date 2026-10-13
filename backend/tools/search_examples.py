@@ -8,6 +8,9 @@ from schemas import ExampleCandidate
 
 
 GENERIC_TERMS = {
+    "a", "al", "ante", "con", "de", "del", "el", "en", "es", "la", "las", "lo", "los",
+    "o", "para", "por", "que", "se", "su", "un", "una", "y", "me", "quiero", "ayudes",
+    "ayuda", "ayudame", "crear", "preparar", "redactar", "giana",
     "administrativo", "administrativa", "acto", "autorizar", "departamental", "documento",
     "intendencia", "necesito", "resolucion", "solicitud", "solicita", "solicitada",
 }

@@ -49,16 +49,30 @@ export async function request(path, options = {}) {
 
 export const api = {
   create: (message) => request('/api/conversations', { method: 'POST', body: JSON.stringify({ message }) }),
+  message: (id, message) => request(`/api/conversations/${id}/message`, { method: 'POST', body: JSON.stringify({ message }) }),
   list: () => request('/api/conversations'),
   get: (id) => request(`/api/conversations/${id}`),
+  deleteConversation: (id) => request(`/api/conversations/${id}`, { method: 'DELETE' }),
   form: (id, answers) => request(`/api/conversations/${id}/form`, { method: 'POST', body: JSON.stringify({ answers }) }),
   revise: (id, instructions) => request(`/api/conversations/${id}/revise`, { method: 'POST', body: JSON.stringify({ instructions }) }),
   approve: (id) => request(`/api/conversations/${id}/approve`, { method: 'POST' }),
+  check: (id, draft, resolved) => request(`/api/conversations/${id}/check`, { method: 'POST', body: JSON.stringify({ draft, resolved }) }),
+  checkExisting: (draft, context, facts = {}) => request('/api/conversations/check-draft', { method: 'POST', body: JSON.stringify({ draft, context, facts }) }),
   skill: (id, key, answers) => request(`/api/conversations/${id}/skills/${key}`, {
     method: 'POST',
     body: JSON.stringify(answers ? { answers } : {}),
   }),
   exportUrl: (id) => `/api/conversations/${id}/export`,
+}
+
+export const examplesApi = {
+  list: (params = {}) => request(`/api/settings/examples?${queryString(params)}`),
+  get: (id) => request(`/api/settings/examples/${id}`),
+  create: (data) => request('/api/settings/examples', { method: 'POST', body: JSON.stringify(data) }),
+  update: (id, data) => request(`/api/settings/examples/${id}`, { method: 'PATCH', body: JSON.stringify(data) }),
+  restore: (id, revisionId, data) => request(`/api/settings/examples/${id}/restore/${revisionId}`, { method: 'POST', body: JSON.stringify(data) }),
+  search: (q) => request(`/api/settings/examples/search-preview?${queryString({ q })}`),
+  importFile: (file, preview = false) => { const body = new FormData(); body.append('file', file); body.append('preview', String(preview)); return request('/api/settings/examples/import', { method: 'POST', body }) },
 }
 
 export const authApi = {

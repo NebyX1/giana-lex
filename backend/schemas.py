@@ -11,6 +11,13 @@ class ExampleCandidate(BaseModel):
     title: str
     score: float
     excerpt: str
+    example_id: str | None = None
+    revision_id: str | None = None
+    match_class: str | None = None
+    scope: str | None = None
+    reasons: list[str] = Field(default_factory=list)
+    differences: list[str] = Field(default_factory=list)
+    defects: list[str] = Field(default_factory=list)
 
 
 class ExampleMatch(BaseModel):
@@ -55,7 +62,7 @@ class DynamicForm(BaseModel):
 class IntakeOutput(BaseModel):
     match_status: Literal["similar", "partial", "none"]
     assistant_message: str
-    matched_examples: list[ExampleMatch] = Field(default_factory=list, max_length=2)
+    matched_examples: list[ExampleMatch] = Field(default_factory=list, max_length=5)
     form: DynamicForm
 
 
@@ -118,3 +125,18 @@ class ResolutionClassification(BaseModel):
     alternatives: list[ClassificationAlternative] = Field(default_factory=list)
     rationale: str
     needs_clarification: bool = False
+
+
+class ContextFinding(BaseModel):
+    category: Literal["objeto", "competencia", "antecedentes", "motivacion", "procedimiento", "audiencia", "presupuesto", "efecto", "plazo", "notificacion", "congruencia"]
+    severity: Literal["info", "warning", "critical"]
+    draft_excerpt: str
+    explanation: str
+    action: str
+    needs_document: bool = False
+
+
+class ContextCheckOutput(BaseModel):
+    summary: str
+    findings: list[ContextFinding] = Field(default_factory=list, max_length=20)
+    missing_facts: list[str] = Field(default_factory=list, max_length=20)
