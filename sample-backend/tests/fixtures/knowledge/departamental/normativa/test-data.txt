@@ -1,5 +1,0 @@
-TEST DATA - NO ES NORMATIVA REAL
-
-TITULO PRUEBA TECNICA
-CAPITULO INDEXACION
-ARTICULO 1. El identificador tecnico alfa-departamental se utiliza exclusivamente para verificar la separacion del corpus en tests.

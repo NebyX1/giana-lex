@@ -1,8 +1,0 @@
-TEST DATA - NO ES NORMATIVA REAL
-RESOLUCION N 1/TEST
-VISTO: El expediente tecnico.
-RESULTANDO: Que se adjunto informacion de prueba.
-CONSIDERANDO: Que corresponde revision humana.
-ATENTO: A las fuentes que eventualmente se verifiquen.
-RESUELVE:
-ARTICULO 1: Someter este texto de prueba a revision.

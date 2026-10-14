@@ -1,1 +1,0 @@
-{"id":"new_contract_v1","request":"Preparar resolucion para una contratacion nueva.","workflow":"resolution.new_contract","expected_precedent":"adjudicacion_licitacion","institutional_validation":"pending","blocking_condition":"missing_verified_authority"}
